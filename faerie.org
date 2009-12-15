@@ -1,0 +1,52 @@
+Card worth it:
+
+
+| 3 | Bitterblossom             | 1B    | Ench                | faerie      | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield                                             |
+| 3 | Faerie Tauntings          | 2B    | Ench                | faerie      | When cast spell opp turn: u may have each opp loose 1 life                                                                      |
+| 4 | Faerie Trickery           | 1BB   | Inst                | faerie      | Counter non faerie spell, exile it instead of putting into its owner graveyard                                                  |
+|   |                           |       |                     |             |                                                                                                                                 |
+| 3 | Dreamspoiler Witches      | 3B    | 2/2 fly             | faerie wiz  | WHen cast spell opp turn: u may have tgt creat gets -1/-1                                                                       |
+| 3 | Faerie Harbringer         | 3U    | 2/2 flash fly       | faerie wiz  | When enter battlefield, search faerie, put on top of library                                                                    |
+|   |                           |       |                     |             |                                                                                                                                 |
+|   | Glen Elendra Archmage     | 3U    | 2/2 fly pers        | faerie wiz  | U, sacr it: counter non-creat spell                                                                                             |
+|   | Glen Elendra Liege        | 1bbb  | 2/3 fly             | faerie kng  | other blue creat and other blk creat gets +1/+1                                                                                 |
+|   | Glen Elendra Pranksters   | 3U    | 1/3 fly             | faerie wiz  | When cast spell opp turn: u may return target creat u control to its owners's hand                                              |
+|   | Inspired Sprite           | 3U    | 2/2 flash fly       | faerie wiz  | When cast a wiz spell: may untap it; t: draw a card then disc a card                                                            |
+|   | Mistbind Clique           | 3U    | 4/4 flash fly champ | faerie wiz  | When a faerie is champ by it, tap all lands tgt play controls                                                                   |
+|   | Nectar Faerie             | 1B    | 1/1 fly             | faerie wiz  | B, t: tgt faerie or elf gains lifelink until eot                                                                                |
+|   | Nightshade Schemers       | 4B    | 3/2 fly kinship     | faerie wiz  | Beg upk: look top lib card, if shares types, each opp looses 2 lifes                                                            |
+|   | Nightshade Stinger        | B     | 1/1 fly             | faerie rog  | cant block                                                                                                                      |
+|   | Oona, queen of the faerie | 3bbb  | 5/5 leg fly         | faerie wiz  | Xb: chose a color, tgt opp exiles top X cards, put a 1/1 faerie rog w/ fly for each card of choosen color                       |
+|   | Oona's Blackguard         | 1B    | 1/1 fly             | faerie rog  | each rog comes into play with a +1/+1 counter, when creat with counter deals damage to player, that player discard a card       |
+|   | Oona's Gatewarden         | b     | 2/1 def fly wither  | faerie sol  |                                                                                                                                 |
+|   | Oona's prowler            | 1B    | 3/1 fly             | faerie rog  | disc a card: gets -2/-0 until eot, any player may activate this ability                                                         |
+|   | Peppersmoke               | B     | Inst                | faerie      | tgt creat gets -1/-1 until eot; if u control a faerie draw a card.                                                              |
+|   | Pestermite                | 2U    | 2/1 flash fly       | faerie rog  | when enter battlefield, tap or untap tgt permanent                                                                              |
+|   | Puppeteer Clique          | 3BB   | 3/2 fly pers        | faerie wiz  | When enter battlefield, put tgt creat in an opp grav under ur ctrl, it gains haste, exile it at eot                             |
+|   | Ringskipper               | 1U    | 1/1 fly             | faerie wiz  | When put into graveyard, clash if win, return it to owner's hand                                                                |
+|   | Scion of Oona             | 2U    | 1/1 flash fly       | faerie sol  | Other faerie u control gets +1/+1 and have shroud                                                                               |
+|   | Silkbind Faerie           | 2(wb) | 1/3 fly             | faerie rog  | 1(wb)u: tap tgt creat                                                                                                           |
+|   | Sower of Temptation       | 2UU   | 2/2 fly             | faerie wiz  | When enter battlefield, gain ctrl of tgt creat as long as it remains on battlefield                                             |
+|   | Spellstutter Sprite       | 1U    | 1/1 flash fly       | faerie wiz  | When enter battlefield, ctr spell with conv mana cost X or less where X is num of faeries u control                             |
+|   | Vendilion Clique          | 1UU   | 3/1 flash fly       | faerie wiz  | When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
+|   |                           |       |                     |             |                                                                                                                                 |
+|   | Inkfathom Witch           | 1b    | 1/1 fear            | merfolk wiz | 2BU: Each unblocked creat becomes 4/1 until eot                                                                                 |
+|   | Sage of Fable             | 2U    | 2/2                 | merfolk wiz | Other wiz comes into play with +1/+1 counter, 2: remove a +1c, draw a card                                                      |
+|   | Sage's Dousing            | 2U    | Inst                | wiz         | Counter tgt spell unless its control pays 3. If u control a wiz, draw a card                                                    |
+|   | Sigil Tracer              | 1UU   | 2/2                 | merfolk wiz | 1U: tap two untap wiz u control: copy tgt inst or sorcery, u may choose a new tgts for the copy                                 |
+|   | Silvergil Douser          | 1U    | 1/1                 | merfolk wiz | t: tgt creat gets -X/-0 where X is number of faeries and/or merfolks u control                                                  |
+|   | Stonybrook Banneret       | 1U    | 1/1                 | merfolk wiz | merfolk and wiz spells cost 1 less to cast                                                                                      |
+|   | Steam of Unconsciousness  | U     | Inst                | wiz         | tgt creat gets -4/-0 until eot. If u control a wiz draw a card                                                                  |
+|   | Surgesspanner             | 2UU   | 2/2                 | merfolk wiz | When it becomes tap, u may pay 1U, if u do: returns tgt perm to its owners hand                                                 |
+|   |                           |       |                     |             |                                                                                                                                 |
+|   | Ego Erasure               | 2U    | Inst                | shapeshift  | Creates tgt players controls gets -2/-0 and lose all creat types until eot                                                      |
+|   | Nameless Inversion        | 1B    | Inst                | shapeshift  | Tgt creat gets +3/-3 until eot                                                                                                  |
+|   | Shapesharer               | 1U    | 1/1 changeling      | shapeshift  | 2U: Tgt shap becomes copy of tgt creat until ur nxt turn                                                                        |
+|   | Wings of Velis Vel        | 1U    | Inst                | shapeshift  | Tgt creat becomes 4/4, flying, all creat types until eot                                                                        |
+|   |                           |       |                     |             |                                                                                                                                 |
+|   | Morsel Theft              | 2BB   | Sorcery             | rogue       | prowl: 1B; tgt player loses 3 lifes, u gain 3 lifes. If prowled: draw a card                                                    |
+|   | Nogging Whack             | 2BB   | Sorcery             | rogue       | prowl: 1B; tgt player reveals 3 cards, choose 2 and discards them                                                               |
+|   | Notorious Thong           | 3U    | Sorcery             | rogue       | prowl: 5U; put X 1/1 faerie rogue w/ fly into play, if prowled: get an extra turn after this one                                |
+|   | Stinkdrinker Bandit       | 3B    | 2/1                 | goblin rog  | prowl: 1B; when a attacking rog isn't blocked, it gets +2/+1 until eot                                                          |
+|   | Thieve's Fortune          | 2U    | Inst                | rogue       | prowl: U; look at top 4 cards, put one in hand, rest on bottom of library                                                       |
+|   |                           |       |                     |             |                                                                                                                                 |

@@ -1,0 +1,56 @@
+Card worth it:
+plan: 20 lands / 30 creats / 10 others?
+
+
+10 others
+30 creats
+| 3 | Bitterblossom             | 1B   | Ench        | faerie      | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield                                       |
+| 3 | Morsel Theft              | 2BB  | Sorcery     | rogue       | prowl: 1B; tgt player loses 3 lifes, u gain 3 lifes. If prowled: draw a card                                              |
+| 2 | Nogging Whack             | 2BB  | Sorcery     | rogue       | prowl: 1B; tgt player reveals 3 cards, choose 2 and discards them                                                         |
+| 2 | Cloak and Dagger          | 2    | Artefact    | rogue       | equip(2) gets +2/+0 and have shroud, u may attach to a rogue coming in play                                               |
+|   |                           |      |             |             |                                                                                                                           |
+| 4 | Frogtosser Banneret       | 1B   | 1/1 haste   | goblin rog  | gobling and rogue spells cost 1 less to cast                                                                              |
+| 4 | Stinkdrinker Bandit       | 3B   | 2/1         | goblin rog  | prowl: 1B; when attacking rog isn't blocked, it gets +2/+1 until eot                                                      |
+| 4 | Oona's Blackguard         | 1B   | 1/1 fly     | faerie rog  | each rog comes into play with a +1/+1 counter, when creat with counter deals damage to player, that player discard a card |
+| 3 | Auntie's Snitch           | 2B   | 3/1         | goblin rog  | prowl: 1B; when a gob or rog deals damage to a player, u may return it from graveyard to hand                             |
+| 3 | Inkfathom Infiltrator     | bb   | 2/1         | merfolk rog | can't be block and is unblockable                                                                                         |
+| 3 | Earwig Squad              | 3BB  | 5/3         | goblin rog  | prowl: 2B; when enter battlefield prowled, search tgt opp for 3 cards, and exile them                                     |
+| 3 | Oona's prowler            | 1B   | 3/1 fly     | faerie rog  | disc a card: gets -2/-0 until eot, any player may activate this ability                                                   |
+| 2 | Sygg, River Cuttthroat    | bb   | 1/3 leg     | merfolk rog | at beg of end step if opp lost 3 or more life u may draw a card                                                           |
+| 2 | Oona, queen of the faerie | 3bbb | 5/5 leg fly | faerie wiz  | Xb: chose a color, tgt opp exiles top X cards, put a 1/1 faerie rog w/ fly for each card of choosen color                 |
+| 2 | Corrosive Mentor          | 2B   | 1/3         | element rog | Black creat u control have wither                                                                                         |
+
+
+
+Side board:
+
+| # | Wound reflection   | 5B   | Enchantment    |             | beg of each end step; opp looses life equal to life lost this turn                                                   |
+| * | Cold Eyed Selkie   | 1UU  | 1/1 islandwalk | merfolk rog | Whenever deals damage to a player, u may draw that many cards                                                        |
+| * | Aquitect's Will    | U    | Sorcery        | merfolk     | Put a flood counter on tgt land. That land is an island in addition to its other type. Control merfolk = draw a card |
+| 3 | Thieve's Fortune   | 2U   | Inst           | rogue       | prowl: U; look at top 4 cards, put one in hand, rest on bottom of library                                            |
+| 2 | Notorious Thong    | 3U   | Sorcery        | rogue       | prowl: 5U; put X 1/1 faerie rogue w/ fly into play, if prowled: get an extra turn after this one                     |
+| 3 | Prickly Boggart    | B    | 1/1 fear       | goblin rog  |                                                                                                                      |
+| 2 | Glen Elendra Liege | 1bbb | 2/3 fly        | faerie kng  | other blue creat and other blk creat gets +1/+1                                                                      |
+| 3 | Wings of Velis Vel | 1U   | Inst           | shapeshift  | Tgt creat becomes 4/4, flying, all creat types until eot                                                             |
+| 3 | Nameless Inversion | 1B   | Inst           | shapeshift  | Tgt creat gets +3/-3 until eot                                                                                       |
+| 1 | Dolmen Gate        | 2    | Artefact       |             | pervent all damage to attacking creatures u control                                                                  |
+| 4 | Boggart Birth Rite | B    | Sorcery        | goblin      | Return tgt goblin card from ur graveyard to ur hand                                                                  |
+| # | Dire Undercurrents | 3bb  | Enchantement   |             | whenever a blue creat enter: draw, whenever a black creat ent: player discard                                        |
+
+|   |                           |      |                |             |                                                                                                                           |
+|   | Pestermite                | 2U   | 2/1 flash fly  | faerie rog  | when enter battlefield, tap or untap tgt permanent                                                                        |
+|   | Nightshade Stinger        | B    | 1/1 fly        | faerie rog  | cant block                                                                                                                |
+|   | Silkbind Faerie           | 2U   | 1/3 fly        | faerie rog  | 1Uu: tap tgt creat                                                                                                        |
+|   | Deeptread Merrow          | 1U   | 2/1            | merfolk rog | U: it gains islandwalk until eot                                                                                          |
+|   | Paperfin Rascal           | 2U   | 2/2            | merfolk rog | clash: put a +1/+1 counter on it                                                                                          |
+|   | Merrow Bonegnawer         | B    | 1/1            | merfolk rog | t: tgt player exiles card from graveyard; black spell played: u may untap it                                              |
+|   |                           |      |                |             |                                                                                                                           |
+|   | Faerie Trickery           | 1BB  | Inst           | faerie      | Counter non faerie spell, exile it instead of putting into its owner graveyard                                            |
+|   | Ego Erasure               | 2U   | Inst           | shapeshift  | Creates tgt players controls gets -2/-0 and lose all creat types until eot                                                |
+|   | Cairn Wanderer            | 4B   | 4/4 chaneling  | shapeshif   | As long as creat in graveyard has fly, fear, first strik, dbl strike, deathtou... it gains it!                            |
+|   | Boggard loggers           | 2B   | 2/1 forestwalk | goblin rog  | 2B, sacr it: destroy tgt treefolk or forest                                                                               |
+|   | Knowledge exploitation    | 5UU  | Sorcery        | rogue       | prowl: 3U; search opp library for sorc or inst, play it without paying mana cost                                          |
+|   | Deepchannel Mentor        | 5U   | 2/2            | merfolk rog | Blue creat u control are unblockable                                                                                      |
+|   | Knacksaw Clique           | 3U   | 1/4 fly        | faerie rog  | 1Uu: tgt opp exiles the top card of his lib. Until eot u may play it                                                      |
+|   |                           |      |                |             |                                                                                                                           |
+|   | Boggart Mob               | 3B   | 5/5 champ      | goblin war  | Whenever a goblin deals damage to a player u may put a 1/1 gobl rogue into play                                           |
