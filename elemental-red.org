@@ -1,0 +1,60 @@
+
+
+Creatures:
+
+| Count | Card Name              | Cost  | Type     | Evoke | Abilities  | Descript                                                                                                            |
+|       | Ashling the Pilgrim    | 1R    | 1/1  leg |       |            | 1R: put a +1c on it, if its the 3rd time; remove call counter and deal N damage to players and creats               |
+|       | Flamekin Harbinger     | R     | 1/1      |       |            | Enter battlefield: search for a elt card and put it on top of the library                                           |
+|       | Heartlash Cinder       | 1R    | 1/1      |       | Haste      | Chroma: enter play, gets +X/+0 where X number of red mana symbols of permanent u control                            |
+|       | Brighthearth Banneret  | 1R    | 1/1      |       |            | elmt & warrior spells and cost 1 less to cast - reinforce 1R                                                        |
+|       | Hateflayer             | 5RR   | 5/5      |       | wither     | 2Ru: Hateflayer deals damage equal to its power to tgt creat or player                                              |
+|       | Incandescent Soulstoke | 2R    | 2/2      |       |            | othr elt get +1 - 1Rt: put a elt from ur hand to play, gain haste, sacr at end of turn                              |
+|       | Hostility              | 3RRR  | 6/6      |       | haste      | if a spell u control deal damage to an opp; prevent that; put 3/1 red elt shaman w/ haste for each damage prevented |
+|       | Inner-Flame Acolyte    | 1RR   | 2/2      | R     |            | When enter plays, tgt creat gets +2/+0 and haste                                                                    |
+|       | Pyroclast Consul       | 3RR   | 3/3      |       | kinship    | if kinship: deals 2 damage to each creatures                                                                        |
+|       | Smokebraider           | 1R    | 1/1      |       |            | t: add two mana                                                                                                     |
+|       | Sootstoke Kindler      | 1{rb} | 1/1      |       | haste      | t: tgt blk or red creat gain haste                                                                                  |
+|       | Inner-Flame Igniter    | 2R    | 2/2      |       |            | 2R: creatures get +1/+0, if third times: creatures get first strike                                                 |
+|       | Nova Chaser            | 3R    | 10/2     |       | trmp champ |                                                                                                                     |
+|       | Seething Pathblazer    | 2R    | 2/2      |       |            | Sacr an elt: gets +2/+0 and first strike                                                                            |
+|       | Spitebellows           | 5R    | 6/1      | 1RR   |            | When leaves it deals 6 damage to creat                                                                              |
+|       |                        |       |          |       |            |                                                                                                                     |
+|       | Cinder Pyromancer      | 2R    | 0/1      |       |            | t: deals 1 damage to tgt creat or player - whenever u cast a red spell untap cinder                                 |
+|       | Crimson Wisps          | R     | Inst     |       |            | tgt creat becomes red and gains haste until eot - draw a card                                                       |
+|       | Elemental mastery      | 3R    | Ench     |       |            | t: put X 1/1 red elt w/ haste; X is creat power, remove them at eot                                                 |
+
+28
+36?
+
+Land:
+
+| Count | Card Name                  | Cost | Descript                                                         |
+
+Mana cost:
+
+| Mana Cost | Num cards of that cost |
+|         1 | 5                      |
+|         2 | 10                     |
+|         3 | 13                     |
+|         4 | 6                      |
+|         5 | 5                      |
+|         6 | 1                      |
+
+Spell color count:
+
+|       | Creat | Other |
+| Green |     9 |     7 |
+| Blue  |     2 |     0 |
+| Gr/Bl |    16 |     6 |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Side deck: 15 cards
+
+| Count | Card Name             | Cost | Descript                                                        |
+
+
+================================================================================================================================================================
+
+Other cards:
+| Count | Card Name             | Cost | Descript                                                                                                                     |

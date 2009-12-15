@@ -1,0 +1,89 @@
+
+
+Creatures:
+
+| Count | Card Name                 | Cost  | Type     | Evoke | Abilities     | Descript                                                                                                            |
+|       | Ashenmoor Liege           | 1rbr  | 4/1      |       |               | other black creat +1, other red creat +1 - if targeted by oponent -> opp loses 4 life                               |
+| #     | Ashling the Pilgrim       | 1R    | 1/1  leg |       |               | 1R: put a +1c on it, if its the 3rd time; remove call counter and deal N damage to players and creats               |
+| *     | Ashling, the Extinguisher | 2BB   | 4/4  leg |       |               | when it deals comb damage to player, choose tgt creat, that player sacr that creat                                  |
+|       | Briarhorn                 | 3G    | 3/3      | 1G    |               | when enter play: tgt creature gets +3/+3                                                                            |
+|       | Corrosive Mentor          | 2B    | 1/3      |       |               | black creat u control have wither                                                                                   |
+|       | Crackleburr               | 1ur   | 2/2      |       |               | uut: tap two red creat, deals 3 damage tgt creat or player - rru: untap two blue creat, ret tgt perm to hand        |
+|       | Drawnfluke                | 3W    | 0/3      | W     |               | enter battlefield: prevent 3 damage                                                                                 |
+|       | Faultgrinder              | 6R    | 4/4      | 4R    |               | When faultgrinder enters battlefield, destroy land                                                                  |
+|       | Festercreep               | 1B    | 0/0      |       |               | comes with 2c - 1B: remove 1c, all creat gets -1/-1                                                                 |
+|       | Fertilid                  | 1G    | 0/0      |       |               | comes with 2c - 1G: remove 1c, search basic land put it on the battlefield tapped                                   |
+|       | Flamekin Harbinger        | R     | 1/1      |       |               | Enter battlefield: search for a elt card and put it on top of the library                                           |
+|       | Flamekin Bladewhirl       | R     | 2/1      |       |               | Show an elemental or pay 3                                                                                          |
+|       | Flamekin Brawler          | R     | 0/2      |       |               | R: gets +1/0                                                                                                        |
+| #     | Flickerwisp               | 1WW   | 3/1      |       |               | exile a perm until end of turn                                                                                      |
+|       | Fulminator Mage           | 1rb   | 2/2      |       |               | sacr: destroy target non basic land                                                                                 |
+|       | Glarewielder              | 4R    | 3/1      | 1R    |               | when enters, up to 2 tgt creatures can't block                                                                      |
+|       | Heartlash Cinder          | 1R    | 1/1      |       | Haste         | Chroma: enter play, gets +X/+0 where X number of red mana symbols of permanent u control                            |
+| #     | Brighthearth Banneret     | 1R    | 1/1      |       |               | elmt & warrior spells and cost 1 less to cast - reinforce 1R                                                        |
+| #     | Hateflayer                | 5RR   | 5/5      |       | wither        | 2Ru: Hateflayer deals damage equal to its power to tgt creat or player                                              |
+| #     | Horde of Notions          | WUBRG | 5/5 leg  |       | vig trmp hste | WUBRG: play elm card from ur graveyard                                                                              |
+|       | Hostility                 | 3RRR  | 6/6      |       | haste         | if a spell u control deal damage to an opp; prevent that; put 3/1 red elt shaman w/ haste for each damage prevented |
+| #     | Incandescent Soulstoke    | 2R    | 2/2      |       |               | othr elt get +1 - 1Rt: put a elt from ur hand to play, gain haste, sacr at end of turn                              |
+|       | Inner-Flame Acolyte       | 1RR   | 2/2      | R     |               | When enter plays, tgt creat gets +2/+0 and haste                                                                    |
+|       | Inner-Flame Igniter       | 2R    | 2/2      |       |               | 2R: creatures get +1/+0, if third times: creatures get first strike                                                 |
+|       | Kulrath Knight            | 3rb   | 3/3      |       | fly wither    | Creats ur opp control w/ -1c can't attack or bock                                                                   |
+|       | Meadowboon                | 2WW   | 3/3      | 3W    |               | When leaves play: put a +1c on each creat tgt player control                                                        |
+|       | Morselhoarder             | 4rg   | 6/4      |       |               | Comes with 2 -1c, remove 1 -1c: add a mana to ur mana pool                                                          |
+|       | Mournwhelk                | 6B    | 3/3      | 3B    |               | When enters play: tgt player discard 2 cards                                                                        |
+|       | Mulldrifter               | 4U    | 2/2      | 2U    | fly           | When enters play: draw 2 cards                                                                                      |
+|       | Necroskitter              | 1BB   | 1/4      |       | with          | When opp creat with -1c is put to graveyard: return it to play under ur control                                     |
+|       | Nevermaker                | 3U    | 2/3      | 3U    | fly           | When leaves play: put tgt nonland permanent on top of its owner's library                                           |
+|       | Nova Chaser               | 3R    | 10/2     |       | trmp champ    |                                                                                                                     |
+|       | Offalsnout                | 2B    | 2/2      | B     |               | When leaves play: exile tgt card from graveyard                                                                     |
+|       | Pyroclast Consul          | 3RR   | 3/3      |       | kinship       | if kinship: deals 2 damage to each creatures                                                                        |
+|       | Reveillark                | 4W    | 4/3      | 5W    | fly           | When leaves play: return up to 2 tgt creatures cards with power 2 or less to play                                   |
+|       | Seething Pathblazer       | 2R    | 2/2      |       |               | Sacr an elt: gets +2/+0 and first strike                                                                            |
+|       | Shriekmaw                 | 4B    | 3/2      | 1B    | Fear          | When enters play: destroy tgt non artifact non black creature                                                       |
+|       | Sickle Ripper             | 1B    | 2/1      |       | wither        |                                                                                                                     |
+|       | Silthermuse               | 2UU   | 3/3      | 3U    |               | When leaves play: choose opp, if he has more cards than u; draw cards                                               |
+| #     | Smokebraider              | 1R    | 1/1      |       |               | t: add two mana                                                                                                     |
+|       | Smolder Initiate          | B     | 1/1      |       |               | When a player plays a black spell: u may pay 1 to deal 1 damage to tgt player                                       |
+|       | Sootstoke Kindler         | 1{rb} | 1/1      |       | haste         | t: tgt blk or red creat gain haste                                                                                  |
+|       | Spitebellows              | 5R    | 6/1      | 1RR   |               | When leaves it deals 6 damage to creat                                                                              |
+|       | Vigor                     | 3GGG  | 6/6      |       | trample       | If damage is dealts to other creatures, prevent it and put +1c instead.                                             |
+|       |                           |       |          |       |               |                                                                                                                     |
+|       | Supreme Exemplar          | 6U    | 10/10    |       | flying champ  |                                                                                                                     |
+|       | Cinder Pyromancer         | 2R    | 0/1      |       |               | t: deals 1 damage to tgt creat or player - whenever u cast a red spell untap cinder                                 |
+|       |                           |       |          |       |               |                                                                                                                     |
+
+28
+36?
+
+Land:
+
+| Count | Card Name                  | Cost | Descript                                                         |
+
+Mana cost:
+
+| Mana Cost | Num cards of that cost |
+|         1 | 5                      |
+|         2 | 10                     |
+|         3 | 13                     |
+|         4 | 6                      |
+|         5 | 5                      |
+|         6 | 1                      |
+
+Spell color count:
+
+|       | Creat | Other |
+| Green |     9 |     7 |
+| Blue  |     2 |     0 |
+| Gr/Bl |    16 |     6 |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Side deck: 15 cards
+
+| Count | Card Name             | Cost | Descript                                                        |
+
+
+================================================================================================================================================================
+
+Other cards:
+| Count | Card Name             | Cost | Descript                                                                                                                     |
