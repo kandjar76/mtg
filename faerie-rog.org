@@ -1,3 +1,4 @@
+
 Card worth it:
 plan: 20 lands / 30 creats / 10 others?
 
@@ -8,6 +9,7 @@ plan: 20 lands / 30 creats / 10 others?
 | 3 | Morsel Theft              | 2BB  | Sorcery     | rogue       | prowl: 1B; tgt player loses 3 lifes, u gain 3 lifes. If prowled: draw a card                                              |
 | 2 | Nogging Whack             | 2BB  | Sorcery     | rogue       | prowl: 1B; tgt player reveals 3 cards, choose 2 and discards them                                                         |
 | 2 | Cloak and Dagger          | 2    | Artefact    | rogue       | equip(2) gets +2/+0 and have shroud, u may attach to a rogue coming in play                                               |
+|   | Syphon Life               | 1BB  | Sorc        |             | Tgt player looses 2 life, u gain 2; retrace                                                                               |
 |   |                           |      |             |             |                                                                                                                           |
 | 4 | Frogtosser Banneret       | 1B   | 1/1 haste   | goblin rog  | gobling and rogue spells cost 1 less to cast                                                                              |
 | 4 | Stinkdrinker Bandit       | 3B   | 2/1         | goblin rog  | prowl: 1B; when attacking rog isn't blocked, it gets +2/+1 until eot                                                      |
