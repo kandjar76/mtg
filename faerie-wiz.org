@@ -4,31 +4,33 @@ To buy:
  - 3 Nectar Faerie
  - 3 Oona's Blackguard
 
-24 creature spells
-14 other spells
+23 creature spells
+15 other spells
 22 lands
 
 Creatures:
 
-| 4 | Mistbind Clique (r)         | 3U  | 4/4 flash fly champ | faerie wiz | When a faerie is champ by it, tap all lands tgt play controls                                                                   |
-| 4 | Scion of Oona (r)           | 2U  | 1/1 flash fly       | faerie sol | Other faerie u control gets +1/+1 and have shroud                                                                               |
-| 4 | Sower of Temptation  (r)    | 2UU | 2/2 fly             | faerie wiz | When enter battlefield, gain ctrl of tgt creat as long as it remains on battlefield                                             |
-| 4 | Spellstutter Sprite (c)     | 1U  | 1/1 flash fly       | faerie wiz | When enter battlefield, ctr spell with conv mana cost X or less where X is num of faeries u control                             |
-| 4 | Vendilion Clique            | 1UU | 3/1 flash fly       | faerie wiz | When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
-| 4 | Faerie Harbringer           | 3U  | 2/2 flash fly       | faerie wiz | When enter battlefield, search faerie, put on top of library                                                                    |
+| 4 | Mistbind Clique           | 3U   | 4/4 flash fly champ | faerie wiz | When a faerie is champ by it, tap all lands tgt play controls                                                                   |
+| 4 | Scion of Oona             | 2U   | 1/1 flash fly       | faerie sol | Other faerie u control gets +1/+1 and have shroud                                                                               |
+| 4 | Sower of Temptation       | 2UU  | 2/2 fly             | faerie wiz | When enter battlefield, gain ctrl of tgt creat as long as it remains on battlefield                                             |
+| 4 | Spellstutter Sprite       | 1U   | 1/1 flash fly       | faerie wiz | When enter battlefield, ctr spell with conv mana cost X or less where X is num of faeries u control                             |
+| 2 | Vendilion Clique          | 1UU  | 3/1 leg flash fly   | faerie wiz | When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
+| 4 | Faerie Harbinger          | 3U   | 2/2 flash fly       | faerie wiz | When enter battlefield, search faerie, put on top of library                                                                    |
+| 1 | Oona, queen of the faerie | 3bbb | 5/5 leg fly         | faerie wiz | Xb: chose a color, tgt opp exiles top X cards, put a 1/1 faerie rog w/ fly for each card of choosen color                       |
+
 
 Other spells:
 
-| 3 | Bitterblossom (r)      | 1B  | Ench | faerie | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield |
-| 3 | Faerie Trickery (c)    | 1UU | Inst | faerie | Counter non faerie spell, exile it instead of putting into its owner graveyard      |
-| 2 | Dire Undercurrents (r) | 3bb | Ench |        | whenever a blue creat enter: draw, whenever a black creat ent: player discard       |
-| 3 | Syphon Life            | 1BB | Sorc |        | Tgt player looses 2 life, u gain 2; retrace                                         |
-| 3 | Familiar's Ruse        | UU  | Inst |        | Add cost: return creat u control to ur hand -- counter tgt spell                    |
+| 4 | Bitterblossom      | 1B  | Ench | faerie | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield |
+| 3 | Faerie Trickery    | 1UU | Inst | faerie | Counter non faerie spell, exile it instead of putting into its owner graveyard      |
+| 2 | Dire Undercurrents | 3bb | Ench |        | whenever a blue creat enter: draw, whenever a black creat ent: player discard       |
+| 3 | Syphon Life        | 1BB | Sorc |        | Tgt player looses 2 life, u gain 2; retrace                                         |
+| 3 | Familiar's Ruse    | UU  | Inst |        | Add cost: return creat u control to ur hand -- counter tgt spell                    |
 
 Side decks:
 
 | 3 | Nectar Faerie     | 1B | 1/1 fly | faerie wiz  | B, t: tgt faerie or elf gains lifelink until eot                                                                          |
-| 3 | Silvergil Douser  | 1U | 1/1     | merfolk wiz | t: tgt creat gets -X/-0 where X is number of faeries and/or merfolks u control                                            |
+| 3 | Silvergill Douser | 1U | 1/1     | merfolk wiz | t: tgt creat gets -X/-0 where X is number of faeries and/or merfolks u control                                            |
 | 3 | Ego Erasure       | 2U | Inst    | shapeshift  | Creates tgt players controls gets -2/-0 and lose all creat types until eot                                                |
 | 3 | Oona's Blackguard | 1B | 1/1 fly | faerie rog  | each rog comes into play with a +1/+1 counter, when creat with counter deals damage to player, that player discard a card |
 | 3 | Pack's Disdain    | 1B | Inst    |             | choose creat type, tgt creats gets -1/-1 for each perm of the choosen type u control                                      |
