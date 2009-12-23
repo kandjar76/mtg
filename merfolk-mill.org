@@ -4,13 +4,13 @@ Deck:
 
 
 | 4 | Grimoire Thief          | UU  | 2/2  | merfolk rogue   | When tapped: remove 3 cards from player's lib - U, sacr: counter any spell he removed from games |
+| 4 | Merrow Reejerey         | 2U  | 2/2  | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent               |
+| 4 | Drowner of Secrets      | 2U  | 1/3  | merfolk wizard  | Tap untapped merf: tgt player put top card of lib to graveyard                                   |
+| 4 | Stonnybrook Banneret    | 1U  | 1/1  | merfolk wizard  | island walk -- merf and wiz spells cost 1 less                                                   |
 | 2 | Stonybrook Schoolmaster | 1W  | 1/2  | merfolk wizard  | When tapped: put a 1/1 merf wiz into play                                                        |
 | 4 | Judge of Currents       | 1W  | 1/1  | merfolk wizard  | When merf becomes tapped: gain 1 life                                                            |
-| 4 | Drowner of Secrets      | 2U  | 1/3  | merfolk wizard  | Tap untapped merf: tgt player put top card of lib to graveyard                                   |
 | 4 | Mothdust Changeling     | U   | 1/1  | changeling      | Tap untapped creat: gains flying until eot                                                       |
 | 3 | Fallowsage              | 3U  | 2/2  | merfolk wizard  | When tapped: may draw a card                                                                     |
-| 4 | Merrow Reejerey         | 2U  | 2/2  | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent               |
-| 4 | Stonnybrook Banneret    | 1U  | 1/1  | merfolk wizard  | island walk -- merf and wiz spells cost 1 less                                                   |
 | 4 | Surgespanner            | 2UU | 2/2  | merfolk wizard  | When tapped: u may pay 1U and return tgt perm to its controller hand                             |
 |---+-------------------------+-----+------+-----------------+--------------------------------------------------------------------------------------------------|
 | 4 | Merrow Commerce         | 1U  | enc  | merfolk         | At eot: untap all merfolk u control                                                              |
