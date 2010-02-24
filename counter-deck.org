@@ -1,29 +1,32 @@
 20 creats + 18 - 33! -> 5 more?
 18 rares.
 
-| 4 | Cytoplast Rootkin        | 0/0     | 2GG       | graft 4 -- when comes into play add a +1c to each creats w/ -- 2: move a +1c from tgt creat to him                        |
-| 4 | Birds of paradise        | 0/1 fly | G         | t: add 1 mana of any color                                                                                                |
-| 4 | Protean Hydra            | 0/0     | xG        | comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
-| 4 | Gilder Bairn             | 1/3     | 1{gb}{gb} | 2{gu}u: for each counter on tgt perm, put another one on it                                                               |
-| 4 | Sage of Fables           | 2/2     | 2U        | 2, rem +1c: draw a card                                                                                                   |
-|   |                          |         |           |                                                                                                                           |
-| 1 | Garruk Wildspeaker       | pw      | 2GG       |                                                                                                                           |
-| 1 | Jace, the mind schulptor | pw      | 2UU       |                                                                                                                           |
-| 1 | Helix Pinnacle           | ench    | G         | shroud - X: put X counter on it, beg of upk, if u have 100 counters on it, u win the game                                 |
-| 3 | Shielding Plax           | ench    | 2{gu}     | draw + creats gets                                                                                                        |
-| 3 | Infiltrator's Magemark   | ench    | 2U        | creat u control that's ench gets +1/+1 and can't be blocked except by walls                                               |
-| 3 | Banishing knack          | inst    | U         | until eot, tgt creats has: t: return tgt non land perm to owner's hand                                                    |
-| 3 | Raking Canopy            | ench    | 1G        | deal 4 damage to each creat w/ flying attacking u                                                                         |
-| 3 | Doubling Season          | ench    | 4G        | double tokens and counters                                                                                                |
+| 4 | Cytoplast Rootkin        | 0/0       | 2GG       | graft 4 -- when comes into play add a +1c to each creats w/ -- 2: move a +1c from tgt creat to him                        |
+| 4 | Birds of paradise        | 0/1 fly   | G         | t: add 1 mana of any color                                                                                                |
+| 4 | Protean Hydra            | 0/0       | xG        | comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
+| 4 | Gilder Bairn             | 1/3       | 1{gb}{gb} | 2{gu}u: for each counter on tgt perm, put another one on it                                                               |
+| 4 | Sage of Fables           | 2/2       | 2U        | 2, rem +1c: draw a card                                                                                                   |
+|   |                          |           |           |                                                                                                                           |
+| 1 | Garruk Wildspeaker       | pw        | 2GG       |                                                                                                                           |
+| 1 | Jace, the mind schulptor | pw        | 2UU       |                                                                                                                           |
+| 3 | Fist of Ironwood         | ench      | 1G        | ench creat gains trample, comes into play: put two 1/1 strap token                                                        |
+| 2 | Shielding Plax           | ench      | 2{gu}     | draw + creats gets                                                                                                        |
+| 3 | Infiltrator's Magemark   | ench      | 2U        | creat u control that's ench gets +1/+1 and can't be blocked except by walls                                               |
+| 3 | Occular Halo             | ench      | 3U        | ench creats gets: t: draw, W: gain vigilance until eot                                                                    |
+| 2 | Doubling Season          | ench      | 4G        | double tokens and counters                                                                                                |
+| 3 | Utopia Sprawl            | ench land | G         | choose a color, enchan land is tapped for mana, add that color to ur mana pool                                            |
 
+| 3 | Raking Canopy    | ench | 1G | deal 4 damage to each creat w/ flying attacking u                                          |
 | 4 | Scarscale Ritual | inst | 1U | add cost: put a -1c on creat u control -> draw 2 cards                                     |
 | 4 | Merror Levitator | 2/3  | 3U | t: tgt creat gain flying                                                                   |
 | 4 | Canopy Cover     | ench | 1G | tgt creat can only be block by reach or flying creats -- and can't be target of opp spells |
 
+Weaknesses: flying! - Idea: go through b4 getting damage by them :P
+   -- need a way to destroy ench or art.
+
 To keep in mind:
   Forgotten Ancient
   Strength of the Tajuru (GGx + multikicker 1 -> put X +1 counter on Y creats)
-  Occular Halo (t: draw, W: gain vigilance)
   Brawn (as long as in the graveyard, creats u control have trample)
   Invert the sky
   Primal Rage (creats u control have trample!!!)
