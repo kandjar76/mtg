@@ -9,13 +9,13 @@ Creatures:
 | 4     | Incandescent Soulstoke    | 2R    | 2/2      |       |            | othr elt get +1 - 1Rt: put a elt from ur hand to play, gain haste, sacr at end of turn                               |
 | 4     | Kulrath Knight            | 3rb   | 3/3      |       | fly wither | Creats ur opp control w/ -1c can't attack or bock                                                                    |
 | 4     | Necroskitter              | 1BB   | 1/4      |       | with       | When opp creat with -1c is put to graveyard: return it to play under ur control                                      |
+| 4     | Sootstoke Kindler         | 1{rb} | 1/1      |       | haste      | t: tgt blk or red creat gain haste                                                                                   |
+| 4     | Flamekin Harbinger        | R     | 1/1      |       |            | Enter battlefield: search for a elt card and put it on top of the library                                            |
+| 4     | Spitebellows              | 5R    | 6/1      | 1RR   |            | When leaves it deals 6 damage to creat                                                                               |
+|       |                           |       |          |       |            |                                                                                                                      |
 | #     | Ashenmoor Liege           | 1rbr  | 4/1      |       |            | other black creat +1, other red creat +1 - if targeted by oponent -> opp loses 4 life                                |
 | #     | Ashling, the Extinguisher | 2BB   | 4/4  leg |       |            | when it deals comb damage to player, choose tgt creat, that player sacr that creat                                   |
 |       | Ashling the Pilgrim       | 1R    | 1/1  leg |       |            | 1R: put a +1c on it, if its the 3rd time; remove call counter and deal N damage to players and creats                |
-| *     | Corrosive Mentor          | 2B    | 1/3      |       |            | black creat u control have wither                                                                                    |
-| *     | Flamekin Harbinger        | R     | 1/1      |       |            | Enter battlefield: search for a elt card and put it on top of the library                                            |
-|       | Flamekin Bladewhirl       | R     | 2/1      |       |            | Show an elemental or pay 3                                                                                           |
-|       | Flamekin Brawler          | R     | 0/2      |       |            | R: gets +1/0                                                                                                         |
 | *     | Fulminator Mage           | 1rb   | 2/2      |       |            | sacr: destroy target non basic land                                                                                  |
 |       | Heartlash Cinder          | 1R    | 1/1      |       | Haste      | Chroma: enter play, gets +X/+0 where X number of red mana symbols of permanent u control                             |
 |       | Inner-Flame Acolyte       | 1RR   | 2/2      | R     |            | When enter plays, tgt creat gets +2/+0 and haste                                                                     |
@@ -26,8 +26,6 @@ Creatures:
 |       | Shriekmaw                 | 4B    | 3/2      | 1B    | Fear       | When enters play: destroy tgt non artifact non black creature                                                        |
 |       | Sickle Ripper             | 1B    | 2/1      |       | wither     |                                                                                                                      |
 | *     | Smolder Initiate          | B     | 1/1      |       |            | When a player plays a black spell: u may pay 1 to deal 1 damage to tgt player                                        |
-|       | Sootstoke Kindler         | 1{rb} | 1/1      |       | haste      | t: tgt blk or red creat gain haste                                                                                   |
-| *     | Spitebellows              | 5R    | 6/1      | 1RR   |            | When leaves it deals 6 damage to creat                                                                               |
 |       | Cinder Pyromancer         | 2R    | 0/1      |       |            | t: deals 1 damage to tgt creat or player - whenever u cast a red spell untap cinder                                  |
 |       |                           |       |          |       |            |                                                                                                                      |
 |       | Footbottom Feast          | 2B    | Inst     |       |            | Put any number of creat card from ur graveyard on top of library; then draw a card                                   |
