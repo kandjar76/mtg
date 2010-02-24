@@ -1,88 +1,86 @@
-20 lands?  -> bop + enchant + coiling
-28  + 12 = 40  :-)
+22 lands + 4 bobs
+23  + 15 = 38  :-)
 
 To buy:
 2  Birds of Paradise
 4  Vigean Graftmage
-4  Followed Footsteps
+1  Simic Sky Swallower
 
 Creatures:
 
 | Count | Card Name             | Cost  | Descript                                                                                    |
 |     4 | Cytoplast Root-Kin    | 2GG   | graft 4 - put a +1c on each creature w/ +1 - 2: move a +1 on him                            |
-|     3 | Cytoplast Manipulator | 2UU   | graft 2 - Ut: gain control of creature w/ +1 as long as in play                             |
-|     2 | Birds of Paradise     | G     | flying 0/1 - t: add one mana of any color                                                   |
-|     3 | Plaxcaster Frogling   | 1GU   | graft 3 - 2: target creature w/ +1 get shroud                                               |
+|     4 | Cytoplast Manipulator | 2UU   | graft 2 - Ut: gain control of creature w/ +1 as long as in play                             |
+|     4 | Birds of Paradise     | G     | flying 0/1 - t: add one mana of any color                                                   |
 |     3 | Simic Guildmage       | bb    | 2/2 - 1G: move a +1 - 1U: move a enchantment                                                |
 |     2 | Experiment Kraj       | 2GGUU | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat                                 |
-|     4 | Coiling Oracle        | GU    | 1/1 - reveal top card: land in play otherwise in hand                                       |
-|     2 | Aquastrand Spider     | 1G    | graft 2 - G: target creat w/ +1 can block flying                                            |
-|     3 | Trygon Predator       | 1GU   | flying 2/3 - deals combat damage to player: may destroy tgt art or ench that player control |
-|     3 | Plaxmanta             | 1U    | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid   |
+|     4 | Trygon Predator       | 1GU   | flying 2/3 - deals combat damage to player: may destroy tgt art or ench that player control |
+|     2 | Plaxmanta             | 1U    | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid   |
 |-------+-----------------------+-------+---------------------------------------------------------------------------------------------|
-|    29 |                       |       |                                                                                             |
-#+TBLFM: @12$1=vsum(@2..@11)
+|    23 |                       |       |                                                                                             |
 
 
 Enchantment / Sorcery / Instant cards:
 
-| Count | Card Name           | Cost | Descript                                                  |
-|     3 | Doubling Season     | 4G   | enc - double counter and tokens                           |
-|     4 | Cytoshape           | 1GU  | choose a non leg create: tgt creature becomes that creat! |
-|     4 | Voidslime           | GUU  | inst - counter tgt spell, act or triggered ability        |
+| Count | Card Name          | Cost | Descript                                                  |
+|     2 | Doubling Season    | 4G   | enc - double counter and tokens                           |
+|     2 | Followed Footsteps | 3UU  | beg upk: put a token which is a copy of enchanted creat   |
+|     4 | Cytoshape          | 1GU  | choose a non leg create: tgt creature becomes that creat! |
+|     4 | Voidslime          | GUU  | inst - counter tgt spell, act or triggered ability        |
+|     3 | Shielding Plax     | 2b   | enc cre - draw a card + shroud opp only                   |
+|-------+--------------------+------+-----------------------------------------------------------|
+|    15 |                    |      |                                                           |
 
 Land:
 
 | Count | Card Name                  | Produce | Descript                                                         |
 |    10 | Forest                     | G       |                                                                  |
-|     8 | Island                     | U       |                                                                  |
+|    10 | Island                     | U       |                                                                  |
 |     2 | Simir Growth Chamber       | GU      | Comes into play tapped, return a land u control to ur hand       |
+|     2 | Simic Signet               | Art     | 1: add GU to ur mana pool                                        |
 |       |                            |         |                                                                  |
 |     4 | Breeding Pool              | {gu}    | Add a G/U - comes into play tapped unless pay 2 life             |
 |     1 | Novijen, Heart of Progress | 1       | Add 1 - GUt: put a +1 on creatures that came into play this turn |
 
 Distribution:
-| Rares    | 22 |
+| Rares    | 26 |
 | Uncommon |  9 |
-| Common   |  9 |
+| Common   |  3 |
 
 Mana cost:
 
 | Mana Cost | Num cards of that cost |
 |         1 | 4                      |
-|         2 | 9                      |
-|         3 | 14                     |
-|         4 | 7                      |
+|         2 | 5                      |
+|         3 | 15                     |
+|         4 | 8                      |
 |         5 | 4                      |
 |         6 | 2                      |
 
 Spell color count:
 
 |       | Creat | Other |
-| Green |     8 |     5 |
-| Blue  |     3 |     0 |
-| Gr/Bl |    16 |     8 |
+| Green |     8 |     2 |
+| Blue  |     6 |     2 |
+| Gr/Bl |     9 |    11 |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Side deck: 15 cards
 
-| Count | Card Name             | Cost  | Descript                                                                                  |
-|     1 | Cytoplast Manipulator | 2UU   | graft 2 - Ut: gain control of creature w/ +1 as long as in play                           |
-|     4 | Peel from Reality     | 1U    | inst - return creat u control and creat u dont control in hands                           |
-|     2 | Aquastrand Spider     | 1G    | graft 2 - G: target creat w/ +1 can block flying                                          |
-|     2 | Elemental Resonance   | 2GG   | enc per - beg of main 1: add mana = ench perm mana cost                                   |
-|     3 | Shielding Plax        | 2b    | enc cre - draw a card + shroud opp only                                                   |
-|     2 | Experiment Kraj       | 2GGUU | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat                               |
-|       | Followed Footsteps    | 3UU   | beg upk: put a token which is a copy of enchanted creat                                   |
-|       | Plaxmanta             | 1U    | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid |
-|     1 | Utopia Sprawl         | G     | enc for - choose color - tapped that color                                                |
-
+| Count | Card Name           | Cost | Descript                                                                                  |
+|     4 | Peel from Reality   | 1U   | inst - return creat u control and creat u dont control in hands                           |
+|     4 | Aquastrand Spider   | 1G   | graft 2 - G: target creat w/ +1 can block flying                                          |
+|     2 | Elemental Resonance | 2GG  | enc per - beg of main 1: add mana = ench perm mana cost                                   |
+|     2 | Plaxmanta           | 1U   | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid |
+|     3 | ???                 |      |                                                                                           |
 
 ================================================================================================================================================================
 
 Other cards:
 | Count | Card Name                  | Cost | Descript                                                                                                                     |
+|       | Utopia Sprawl              | G    | enc for - choose color - tapped that color                                                                                   |
+|       | Simic Sky Swallower        | 5GU  | 6/6 fly, trample, shroud                                                                                                     |
 |       | Bound determine            | splt | GU inst - other spell u control can't be count + draw - 3BG inst: sacr a creat ret X cards grav to hand where X is num color |
 |       | Vigean Graftmage           | 2U   | graft 2 - 1U: untap target creature with a +1                                                                                |
 |       | Flash Foliage              | 2G   | inst - put token blocking attacking creat - draw 1 card                                                                      |
