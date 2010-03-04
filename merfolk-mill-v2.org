@@ -1,7 +1,7 @@
 Deck:
 28 creatures, 11 other spells
 19 lands, 2 art to give mana
-
+6 rares
 
 | 4 | Grimoire Thief          | UU   | 2/2  | merfolk rogue   | When tapped: remove 3 cards from player's lib - U, sacr: counter any spell he removed from games |
 | 4 | Merrow Reejerey         | 2U   | 2/2  | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent               |
