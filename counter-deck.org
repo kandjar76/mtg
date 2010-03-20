@@ -35,3 +35,7 @@ To keep in mind:
 To Modify:
   Add ways to destroy ench and art! 
   Raking Canopy - sideboard?
+
+--
+
+|   | Lorescale Coatl | 2/2 | 1GB | When u draw, put a +1/+1 on him |
