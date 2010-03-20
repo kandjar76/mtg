@@ -1,0 +1,13 @@
+| 4 | Glimpse the Unthinkable | UB       | Sorc    | Tgt player puts top 10 cards of library to graveyard                                                                            |
+| 4 | Shadow of Doubt         | {ub}{ub} | Inst    | Players can't search libraries this turn, draw a card                                                                           |
+| 4 | Psychic Drain           | xUB      | Sorc    | Tgt player puts top X cards of lib to graveyard, you gain X life                                                                |
+| 4 | Perplex                 | 1UB      | Inst    | Counter spell unless its controller discards his hand                                                                           |
+| 4 | Archive Trap            | 3UU      | Inst    | If opp search his lib, u may pay 0 -- put top 13 cards of his library into his or her graveyard                                 |
+| 4 | Maralen of the Mornsong | 1BB      | 2/3 leg | Players can't draw cards. Beginning draw step: play looses 3 life and search a card to put in his hand                          |
+| 4 | Brain Freeze            | 1U       | Inst    | storm -- tgt put top 3 cards from lib to graveyard;                                                                             |
+| 4 | Memory Sluice           | {bu}     | Sorc    | conspire -- Put top 4 cards to graveyard                                                                                        |
+|   | Darkness                | B        | Inst    | prevent all combat damage that would be dealt to u this turn                                                                    |
+| 4 | Shadowfeed              | B        | Inst    | Exile tgt card from a graveyard; u gain 3 life                                                                                  |
+| 4 | Blackmail               | B        | Sorc    | Tgt player reveals 3 cards from his hand; discard one                                                                           |
+| 4 | Duress                  | B        | Sorc    | Choose a non creat / non land card from it, discard it!                                                                         |
+|   | Liliana Vess            | 3UU      | Planes  | +1: tgt player disc a card -- -2: search ur lib for a card and put it on top -- -8: put all creat in all grave under ur control |
