@@ -1,0 +1,91 @@
+22 lands + 4 bobs
+23  + 15 = 38  :-)
+
+To buy:
+1  Simic Sky Swallower
+
+Creatures:
+
+| Count | Card Name                  | Cost | Descript                                                                                                          |
+|     4 | Birds of Paradise          | G    | 0/1 fly - t: add one mana of any color to your mana pool                                                          |
+|     4 | Cytoplast Root-Kin         | 2GG  | graft 4 - put a +1c on each creature w/ +1 - 2: move a +1 on him                                                  |
+|     3 | Simic Guildmage            | bb   | 2/2 - 1G: move a +1 - 1U: move a enchantment                                                                      |
+|     2 | Momir Vig, Simic Visionary | 3GU  | Leg / when green spell: search lib for a crea and put on top - when blue spell: reveal top if creature -> in hand |
+|     3 | *Snake*                    | GU   | 1/1 - when comes into play: reveal top card, if land put in play, if not put in hand                              |
+|     4 | Trygon Predator            | 1GU  | flying 2/3 - deals combat damage to player: may destroy tgt art or ench that player control                       |
+|     2 | Plaxmanta                  | 1U   | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid                         |
+|-------+----------------------------+------+-------------------------------------------------------------------------------------------------------------------|
+|    23 |                            |      |                                                                                                                   |
+
+
+Enchantment / Sorcery / Instant cards:
+
+| Count | Card Name           | Cost | Descript                                                  |
+|     3 | Doubling Season     | 4G   | enc - double counter and tokens                           |
+|     2 | Followed Footsteps  | 3UU  | beg upk: put a token which is a copy of enchanted creat   |
+|     2 | Elemental Resonance | 2GG  | enc per - beg of main 1: add mana = ench perm mana cost   |
+|     4 | *blue landmark*     | 2U   | choose a non leg create: tgt creature becomes that creat! |
+|     4 | Shielding Plax      | 2b   | enc cre - draw a card + shroud opp only                   |
+|       |                     |      |                                                           |
+|     4 | Voidslime           | GUU  | inst - counter tgt spell, act or triggered ability        |
+|-------+---------------------+------+-----------------------------------------------------------|
+|    15 |                     |      |                                                           |
+
+Land:
+
+| Count | Card Name                  | Produce | Descript                                                         |
+|    10 | Forest                     | G       |                                                                  |
+|    10 | Island                     | U       |                                                                  |
+|     2 | Simir Growth Chamber       | GU      | Comes into play tapped, return a land u control to ur hand       |
+|     2 | Simic Signet               | Art     | 1: add GU to ur mana pool                                        |
+|       |                            |         |                                                                  |
+|     4 | Breeding Pool              | {gu}    | Add a G/U - comes into play tapped unless pay 2 life             |
+|     1 | Novijen, Heart of Progress | 1       | Add 1 - GUt: put a +1 on creatures that came into play this turn |
+
+Distribution:
+| Rares    | 26 |
+| Uncommon |  9 |
+| Common   |  3 |
+
+Mana cost:
+
+| Mana Cost | Num cards of that cost |
+|         1 | 4                      |
+|         2 | 5                      |
+|         3 | 15                     |
+|         4 | 8                      |
+|         5 | 4                      |
+|         6 | 2                      |
+
+Spell color count:
+
+|       | Creat | Other |
+| Green |     8 |     2 |
+| Blue  |     6 |     2 |
+| Gr/Bl |     9 |    11 |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Side deck: 15 cards
+
+| Count | Card Name           | Cost | Descript                                                                                  |
+|     4 | Peel from Reality   | 1U   | inst - return creat u control and creat u dont control in hands                           |
+|     4 | Aquastrand Spider   | 1G   | graft 2 - G: target creat w/ +1 can block flying                                          |
+|     2 | Elemental Resonance | 2GG  | enc per - beg of main 1: add mana = ench perm mana cost                                   |
+|     2 | Plaxmanta           | 1U   | flash - comes into play: creats u control gets shroud eot; sacrifice it unless G was paid |
+|     3 | ???                 |      |                                                                                           |
+
+================================================================================================================================================================
+
+Other cards:
+| Count | Card Name                  | Cost | Descript                                                                                                                     |
+|       | Utopia Sprawl              | G    | enc for - choose color - tapped that color                                                                                   |
+|       | Simic Sky Swallower        | 5GU  | 6/6 fly, trample, shroud                                                                                                     |
+|       | Bound determine            | splt | GU inst - other spell u control can't be count + draw - 3BG inst: sacr a creat ret X cards grav to hand where X is num color |
+|       | Vigean Graftmage           | 2U   | graft 2 - 1U: untap target creature with a +1                                                                                |
+|       | Flash Foliage              | 2G   | inst - put token blocking attacking creat - draw 1 card                                                                      |
+|       | Might of the Nephilim      | 1G   | inst - tgt creat gets +2eot for each of its color                                                                            |
+|       | Momir Vig, Simic Visionary | 3GU  | Leg / when green spell: search lib for a crea and put on top - when blue spell: reveal top if creature -> in hand            |
+
+
+
