@@ -1,0 +1,42 @@
+Skeet shooting
+
+| * | Greatbow Doyen           | 4G  | 2/4    | elf archer           | other archer: +1/+1 -- when archer deals damage to creat -> it deals damage to its controller too                        |
+| * | Femeref Archers          | 2G  | 2/2    | human archer         | t: deals 4 damage to tgt creat w/ flying                                                                                 |
+| * | Scattershot Archer       | G   | 1/2    | elf archer           | t: deals 1 damage to each creat w/ flying                                                                                |
+| * | Matsu-Tribe Sniper       | 1G  | 1/1    | snake warrior archer | t: deals 1 damage to tgt creat w/ flying -- whenever it deals damage to a creat, tap it, and stays tap for an extra turn |
+|   |                          |     |        |                      |                                                                                                                          |
+|   |                          |     |        |                      |                                                                                                                          |
+|   | Trophy Hunter            | 2G  | 2/3    | human archer         | 1G: deals 1 dmaage to tgt creat w/ flying; if that creat dies, it gets a +1c                                             |
+| * | Brigid Hero of Kinsbaile | 2WW | 2/3 fs | kithkin archer       | t: deals 2 damage to each attacking or blocking creat tgt player controls                                                |
+| * | Mirror Entity            | 2W  | 1/1    | changeling           | X: creats u control become X/X and gain all creat types until eot                                                        |
+|   | Raking Canopy            | 1GG | ench   |                      | When creat w/ flying attacks u, it deals 4 damage to it                                                                  |
+|   |                          |     |        |                      |                                                                                                                          |
+|   | Ana Disciple             | G   | 1/1    | human wizard         | U, t: tgt creat gains flying                                                                                             |
+|   | Bant Battlemage          | 2W  | 2/2    | human wizard         | G, t: tgt creat gains trample -- U, t: tgt creat gains flying                                                            |
+|   | Caller of Gales          | U   | 1/1    | merfolk wizard       | 1U, t: tgt creat gains flying                                                                                            |
+|   | Disciple of Kangee       | 2W  | 2/2    | human wizard         | U, t: tgt creat gains flying and becomes blue                                                                            |
+| 2 | Elspeth Knight Errant    | 2WW | 4      | planeswalker         | +1: put a 1/1 soldier -- +1: tgt creat get +3/+3 and flying -- -8: for rest of the game, perm u control are indestruct   |
+|   | Flying Carpet            | 4   |        | artifact             | 2, t: tgt creat gains flying                                                                                             |
+| 4 | Merror Levitator         | 3U  | 2/3    | merfolk wizard       | t: tgt creat gains flying -- when u play a blue spell, untap it                                                          |
+|   | Power Matrix             | 4   |        | artifact             | t: tgt creat gains flying, first strike, and trample until eot                                                           |
+|   |                          |     |        |                      |                                                                                                                          |
+
+
+
+
+| 4 | Mirror Entity             | 2W   | Shapeshifter    | 1/1                 | X: Creatures u control become X/X and gain all creat type until eot                                          |
+| 3 | Brigid, Hero of Kinsbaile | 2WW  | Kithkin Archer  | 2/3 leg, first-strk | t: Deals 2 damage to each attacking or blocking creatures tgt player controls                                |
+| 4 | Greatbow Doyen            | 4G   | Elf Archer      | 2/4                 | other archers get +1/+1 -- when an archer deals damage to creat, it deals that much damage to its controller |
+| 4 | Jagged-Scar Archers       | 1GG  | Elf Archer      | */*                 | pow/tough = # elf u control -- t: deals damage equal to its pow to tgt creat w/ flying                       |
+| 4 | Elvish Harbinger          | 2G   | Elf Druid       | 1/2                 | when enters: search elf card and put on top of lib -- t: add 1 mana to pool                                  |
+| 4 | Elvish Hexhunter          | {wg} | Elf Druid       | 1/1                 | {gw}, t, sacr: destroy tgt enchantment                                                                       |
+| 1 | Gaddock Teeg              | GW   | Kithkin Advisor | 2/2 leg             | Non creat spell which has X or cost > 4 can't be casted                                                      |
+|   |                           |      |                 |                     |                                                                                                              |
+| 4 | Crib Swap                 | 2W   | Shapeshifter    | inst                | Exile tgt creat, it's controller gets a 1/1 shapeshifter                                                     |
+| 4 | Shield of Velis Vel       | W    | Shapeshifter    | inst                | Creats tgt play control gets 0/+1 and gain all creat types until eot                                         |
+| 4 | Oblivion Ring             | 2W   |                 | ench                | Remove tgt perm from the game, bring back when this card leave                                               |
+| 4 | Surge of Thoughtweft      | 1W   | Kithkin         | inst                | Creat u control gets +1/+1, if u control a kithkin, draw a card                                              |
+|   |                           |      |                 |                     |                                                                                                              |
+|   | Lys Alana Blowmaster      | 2G   | Elf Archer      | 2/2 reach           | When an elf comes into plau, 2 damage to tgt creat w/ flying                                                 |
+|   | Chameleon Colossus        | 2GG  | Shapeshifter    | 4/4 prot-blk        | 2GG: it gets X/X where X is it's power                                                                       |
+|   | Kinsbaile Balloonist      | 3W   | Kithkin Soldier | 2/2 fly             | When it attacks u may have tgt creat gain flying                                                             |
