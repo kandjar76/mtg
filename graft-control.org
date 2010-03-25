@@ -1,0 +1,28 @@
+19 Creatures
+17 Spells
+24 Lands
+
+Creatures:
+
+| 4 | Trygon Predator       | 1GU | 2/3 fly   | When it deals damage to player: u may destr tgt art or enchant that player control                |
+| 4 | Coiling Oracle        | GU  | 1/1       | When comes into play: reveal top card of lib, if land: put it into play, if not: put it into hand |
+| 4 | Vigean Graftmage      | 2U  | 0/0       | Graft 2 - 1U: Untap tgt creat w/ a +1/+1 counter on it                                            |
+| 2 | Plaxmanta             | 1U  | 2/2 flash | When comes into play: creats u control gets shroud until eot - Sacr it if u didn't pay G for it   |
+| 4 | Cytoplast Manipulator | 2UU | 0/0       | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                          |
+| 1 | Novijen Sages         | 4UU | 0/0       | Graft 4 - 1, removes 2 +1/+1 counters from creats u control: draw a card                          |
+
+Spells:
+
+| 4 | Shielding Plax    | 2{gu} | ench aura | When comes into play: draw a card -- Enchant creats can't be tgt spell or ab ur opp control       |
+| 4 | Cytoshape         | 1GU   | inst      | choose a non leg creat - tgt creat becomes the copy of the non leg creats                         |
+| 3 | Thrive            | xG    | sorc      | Put a +1/+1 counter on each of X tgt creatures                                                    |
+| 4 | Peel from Reality | 1U    | inst      | Return tgt creat u control and tgt creat u don't control to their owner's hand                    |
+| 2 | Utopia Sprawl     | G     | ench aura | When comes into play: choose a color -- When ench land becomes tapped add that color to mana pool |
+
+Lands:
+
+|  9 | Island                     |                                                                                               |
+| 11 | Forest                     |                                                                                               |
+|  2 | Novijen, Heart of Progress | t: add 1 to mana pool -- GUt: put a +1/+1 counter on each creat that came into play this turn |
+|  2 | Simic Growth Chamber       | Comes into play tapped + Ret a land to hand -- t: add GU to mana pool                         |
+
