@@ -1,0 +1,25 @@
+
+| 1 | Boros Guildmage       | {rw}{rw} | 2/2     | 1R: tgt creat gains haste -- 1W: tgt creat gains first strike                                                                            |
+| 1 | Loxodon Gatekeeper    | 2WW      | 2/3     | Art, creat, land your opp controls come into play tapped                                                                                 |
+| 1 | Spelltithe Enforcer   | 3WW      | 3/3     | When opp plays a spell, he must pay 1 or sacr a permanent                                                                                |
+| 4 | Boros Recruit         | {rw}     | 1/1     | first strike                                                                                                                             |
+| 4 | Boros Swiftblade      | RW       | 1/2     | double strike                                                                                                                            |
+| 1 | Brightflame           | xRRW     | Sorc    | Radiance -- deals X damage to tgt creat and creat sharing color, you gain life equal to damage dealt                                     |
+| 2 | Demonfire             | xR       | Sorc    | Deals X damage to tgt creat or player -- if creat died: exile it -- hellbent: if no card in hand -> can't be counter or prevented        |
+| 1 | Char                  | 2R       | Inst    | Deals 4 damage to tgt creat or player and 2 to you                                                                                       |
+| 4 | Seal of Fire          | R        | Ench    | Sacr ench: deals 2 damage to tgt creat or player                                                                                         |
+| 4 | Rally the Righteous   | 1RW      | Inst    | Radiance -- Untap creat and ones sharing color, they gain +2/+0 until eot                                                                |
+| 3 | Flame-Kin Zealot      | 1RRW     | 2/2     | When comes into play: creat u control gains haste and +1/+1                                                                              |
+| 2 | Firemane Angel        | 3RWW     | 4/3 fly | First strike -- at beg of upk if in graveyard: gain 1 life -- 6RRWW: return it from graveyard to play (only during upk)                  |
+| 2 | Sunforger             | 3        | Art-equ | Equip 3: creat gets +4/+0 -- RW unattach: search for a red/white inst with conv mana cost 4 or less and play it without paying mana cost |
+| 4 | Skyknight Legionnaire | 1RW      | 2/2 fly | Haste                                                                                                                                    |
+| 4 | Lightning Helix       | RW       | Inst    | Deals 3 damage to tgt creat and u gain 3 life                                                                                            |
+
+
+
+| 1 | Sunhome, Fortress of the Legion | Land       | t: add 1 to mana pool -- 2RWt: tgt creats gets dble strike until eot           |
+| 9 | Plains                          | Basic land |                                                                                |
+| 8 | Mountain                        | Basic land |                                                                                |
+| 2 | Boros Garrison                  | Land       | Comes into play tapped, when comes into play: return land to hand -- t: add WR |
+| 2 | Boros Signet                    | Artefact   | 1t: Add WR to mana pool                                                        |
+
