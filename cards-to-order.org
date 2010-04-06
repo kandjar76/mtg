@@ -1,6 +1,7 @@
-| Decks      | Price | Count | Name            | From              |
-|------------+-------+-------+-----------------+-------------------|
-| Faerie     | $5    |     3 | Sunken Ruins    | Lorwin/Shadowmoor |
-| Merfolk SB | $2    |     4 | Mirror Entity   | Lorwin/Shadowmoor |
-| Hydra      | $.45  |     4 | Lorescale Coatl | Shard of Alara    |
-|            |       |       |                 |                   |
+| Decks          | Price | Count | Name                | From              |
+|----------------+-------+-------+---------------------+-------------------|
+| Faerie         | $5    |     3 | Sunken Ruins        | Lorwin/Shadowmoor |
+| Merfolk SB     | $2    |     4 | Mirror Entity       | Lorwin/Shadowmoor |
+| Hydra          | $.45  |     4 | Lorescale Coatl     | Shard of Alara    |
+| Wee Dragonauts | $.15  |     1 | Goblin Flectomancer | Ravnica           |
+|                |       |       |                     |                   |
