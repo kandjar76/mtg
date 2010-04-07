@@ -4,4 +4,8 @@
 | Merfolk SB     | $2    |     4 | Mirror Entity       | Lorwin/Shadowmoor |
 | Hydra          | $.45  |     4 | Lorescale Coatl     | Shard of Alara    |
 | Wee Dragonauts | $.15  |     1 | Goblin Flectomancer | Ravnica           |
+| Merfolk        | $.10  |     4 | Sage's dousing      | Lorwyn/Shadowmoor |
+|                | $1.2  |     4 | Paradise Mangle     | Fifth Dawn        |
+| Graft Control  | $1.7  |     3 | Remand              | Ravnica           |
+| Merfolk        | $3.5  |     4 | Mystic Gate         | Lorwyn/Shadowmoor |
 |                |       |       |                     |                   |
