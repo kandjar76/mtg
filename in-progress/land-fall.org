@@ -1,19 +1,30 @@
-| 3x $4.5 | 4 | Admonition Angel        | 3WWW | 6/6 fly        | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
-| 4x $.10 | 4 | Turntimber Basilik      | 1GG  | 2/1 deathtouch | Landfall: force tgt creature to block if able                                                                      |
-| 2x $.10 | 4 | Steppe Lynx             | W    | 0/1            | Landfall: get +2/+2 until eot                                                                                      |
-| 3x $.5  | 4 | Grazing Gladehart       | 2G   | 2/2            | Landfall: gain 2 life                                                                                              |
-| 4x $1.0 | 4 | Oracle of Mul Daya      | 3G   | 2/2            | You may play an add land -- play w/ tio card revealed -- u may play the top card of your library                   |
-| 2x $.10 | 4 | Ruin Ghost              | 1W   | 1/1            | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
-|         |   |                         |      |                |                                                                                                                    |
-| 4x $.10 | 4 | Khalni Heart Expedition | 1G   | ench           | Landfall: put a counter - remove 3 counter, sacr it: put up to two basic lands onto battlefield                    |
-| 0x $.10 | 4 | Explore                 | 1G   | sorc           | You mayp play an add land this turn -- draw a card                                                                 |
-| 4x $.05 | 2 | Explorer's Scope        | 1    | artifact       | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped           |
-| 2x $.25 | 1 | Seer's Sundial          | 4    | artifact       | Landfall: pay 2, draw a card                                                                                       |
-| 0x $1.0 | 1 | Amulet of Vigor         | 1    | artifact       | Whenever perm enters battlefield tapped, untap it                                                                  |
-|         |   |                         |      |                |                                                                                                                    |
-| 0x $.10 | 4 | Sejuri Steppe           | land |                | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
-| 4x $.25 | 4 | Graypelt Refuge         | land |                | Enter tapped, gain 1 life -- t: add W or G                                                                         |
-| 0x $.10 | 4 | Khalni Garden           | land |                | Enter tapped, put a 0/1 plant into play -- t: add G                                                                |
-| 4x $3.5 | 4 | Stirring Wildwood       | land |                | Enter tapped -- t: add G or W  -- 1GW: it becomes a 3/4 green white elt w/ reach                                   |
-|         |   |                         |      |                |                                                                                                                    |
-|         | 4 | Savage Silhouette       | 2G   | ench aura      | creat gets: +2/+2 and 1G: regenerate                                                                               |
+| 4 | Admonition Angel        | 3WWW | 6/6 fly        | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
+| 4 | Turntimber Basilik      | 1GG  | 2/1 deathtouch | Landfall: force tgt creature to block if able                                                                      |
+| 4 | Steppe Lynx             | W    | 0/1            | Landfall: get +2/+2 until eot                                                                                      |
+| 4 | Grazing Gladehart       | 2G   | 2/2            | Landfall: gain 2 life                                                                                              |
+| 4 | Oracle of Mul Daya      | 3G   | 2/2            | You may play an add land -- play w/ tio card revealed -- u may play the top card of your library                   |
+| 4 | Ruin Ghost              | 1W   | 1/1            | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
+|   |                         |      |                |                                                                                                                    |
+| 4 | Khalni Heart Expedition | 1G   | ench           | Landfall: put a counter - remove 3 counter, sacr it: put up to two basic lands onto battlefield                    |
+| 4 | Explore                 | 1G   | sorc           | You mayp play an add land this turn -- draw a card                                                                 |
+| 2 | Explorer's Scope        | 1    | artifact       | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped           |
+| 2 | Rampant Growth          | 1G   | sorc           | Search for a basic land and put it into play tapped                                                                |
+|   |                         |      |                |                                                                                                                    |
+| 4 | Sejuri Steppe           | land |                | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
+| 4 | Terraformic Expanse     | land |                | t, sacr it: Search basic land, put it in play tapped                                                               |
+| 1 | Sunpetal Grove          | land |                | Enter tapped unless u control Plain or Forest (t: add W or G)                                                      |
+| 1 | Marsh Flats             | land |                | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
+| 7 | Forest                  | land |                |                                                                                                                    |
+| 7 | Plain                   | land |                |                                                                                                                    |
+
+|---------+---+-------------------+------+-----------+----------------------------------------------------------------------------------|
+|         | 1 | Seer's Sundial    | 4    | artifact  | Landfall: pay 2, draw a card                                                     |
+|         | 1 | Amulet of Vigor   | 1    | artifact  | Whenever perm enters battlefield tapped, untap it                                |
+|---------+---+-------------------+------+-----------+----------------------------------------------------------------------------------|
+| 3x $5.5 | 4 | Sunpetal Grove    | land |           | Enter tapped unless u control Plain or Forest (t: add W or G)                    |
+| 4x $.25 | 4 | Graypelt Refuge   | land |           | Enter tapped, gain 1 life -- t: add W or G                                       |
+|         | 2 | Khalni Garden     | land |           | Enter tapped, put a 0/1 plant into play -- t: add G                              |
+| 4x $3.5 | 4 | Stirring Wildwood | land |           | Enter tapped -- t: add G or W  -- 1GW: it becomes a 3/4 green white elt w/ reach |
+|         | 4 | Savage Silhouette | 2G   | ench aura | creat gets: +2/+2 and 1G: regenerate                                             |
+|---------+---+-------------------+------+-----------+----------------------------------------------------------------------------------|
+
