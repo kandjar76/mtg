@@ -2,27 +2,41 @@
 28 spells
 20 island
 
-| $.10 | 4 | Puresight Merror    | {bu}{bu} | 2/2  | Uq: look top card of ur library, you may exile it                                                        |
-| $2.0 | 4 | Grimoire Thief      | UU       | 2/2  | when tap, remove top 3 card from lib from the game -- u, sacr: counter spell remove from game by himself |
-| $.10 | 4 | Mothdust Changeling | U        | 1/1  | Tap untapped creat: gains flying until eot                                                               |
-|      |   |                     |          |      |                                                                                                          |
-| $1.5 | 4 | Paradise Mangle     | 0        | art  | equip 1 -- creat gets: t: add one mana to mana pool                                                      |
-| $.20 | 4 | Freed from the Real | 2U       | aura | u: tap ench creat -- u: untap ench creat                                                                 |
-| $2.0 | 4 | Remand              | 1U       | inst | counter tgt spell, return to owner, draw a card                                                          |
-| $.25 | 4 | Ponder              | U        | inst | draw 3 cards, put one on top lib, on under                                                               |
-| $.40 | 4 | Muddle the Mixture  | UU       | inst | counter tgt instant or sorcery spell -- 1UU transmute                                                    |
-| $.25 | 4 | Negate              | 1U       | inst | counter tgt non creat spell                                                                              |
-| $.80 | 4 | Pemmin's Aura       | 1UU      | aura | u: untap -- u: gain fly -- u: gain shroud -- 1: gain +1/-1 or -1/+1                                      |
-|      |   |                     |          |      |                                                                                                          |
-| $.20 |   | Disrupt             | U        | inst | counter tgt inst or sorc spell unless control pay 1 -- draw a card                                       |
-| $.10 |   | Dispell             | U        | inst | counter tgt inst                                                                                         |
-| $4.0 |   | Spell snare         | U        | inst | counter tgt spell w/ cont 2                                                                              |
-| $.10 |   | Spell pierce        | U        | inst | counter non creat spell unless control pay 2                                                             |
-
-|   | Patron wizard | UUU | 2/2 leg | tap an untap wiz: counter tgt spell unless its controller pay 1 |
-|   | Sigil Tracer  | 1UU | 2/2?    | 1U: tap two untap wiz u control; copy tgt spell                 |
-|    |               |     |         |                                                                 |
+| 0 x $.10 | 4 | Puresight Merror    | {bu}{bu} | 2/2     | Uq: look top card of ur library, you may exile it                                                        |
+| 4 x $2.0 | 4 | Grimoire Thief      | UU       | 2/2     | when tap, remove top 3 card from lib from the game -- u, sacr: counter spell remove from game by himself |
+| 0 x $.80 | 2 | Cursecatcher        | U        | 1/1     | Sacr it: counter tgt spell unless its controller pay 1                                                   |
+| 0 x $.05 | 2 | Tideshaper Mystic   | U        | 1/1     | t: tgt land becomes basic land type of ur choice -- only during ur turn                                  |
+|          |   |                     |          |         |                                                                                                          |
+| 4 x $1.5 | 4 | Paradise Mangle     | 0        | art     | equip 1 -- creat gets: t: add one mana to mana pool                                                      |
+| 4 x $.20 | 4 | Freed from the Real | 2U       | aura    | u: tap ench creat -- u: untap ench creat                                                                 |
+| 0 x $.25 | 4 | Ponder              | U        | inst    | draw 3 cards, put one on top lib, on under                                                               |
+| 0 x $.40 | 3 | Muddle the Mixture  | UU       | inst    | counter tgt instant or sorcery spell -- 1UU transmute                                                    |
+| 1 x $.25 | 3 | Negate              | 1U       | inst    | counter tgt non creat spell                                                                              |
+| 4 x $.80 | 4 | Pemmin's Aura       | 1UU      | aura    | u: untap -- u: gain fly -- u: gain shroud -- 1: gain +1/-1 or -1/+1                                      |
+| 0 x $.25 | 3 | Dream Fracture      | 1UU      | inst    | counter tgt spell, contr draws, u draw                                                                   |
+| 4 x $.05 | 3 | Telepathy           | U        | ench    | opps plays w/ hand revealed                                                                              |
+|----------+---+---------------------+----------+---------+----------------------------------------------------------------------------------------------------------|
+|          |   |                     |          |         |                                                                                                          |
+| $.20     |   | Disrupt             | U        | inst    | counter tgt inst or sorc spell unless control pay 1 -- draw a card                                       |
+| $.10     |   | Dispell             | U        | inst    | counter tgt inst                                                                                         |
+| $4.0     |   | Spell snare         | U        | inst    | counter tgt spell w/ cont 2                                                                              |
+| $.10     |   | Spell pierce        | U        | inst    | counter non creat spell unless control pay 2                                                             |
+|----------+---+---------------------+----------+---------+----------------------------------------------------------------------------------------------------------|
+|          |   |                     |          |         |                                                                                                          |
+| 3 x $2.0 | 4 | Remand              | 1U       | inst    | counter tgt spell, return to owner, draw a card                                                          |
+|          |   |                     |          |         |                                                                                                          |
+|          |   | Patron wizard       | UUU      | 2/2 leg | tap an untap wiz: counter tgt spell unless its controller pay 1                                          |
+|          |   | Sigil Tracer        | 1UU      | 2/2?    | 1U: tap two untap wiz u control; copy tgt spell                                                          |
+|          |   |                     |          |         |                                                                                                          |
 
 Turn 1: moth dust changeling + paradise mangle
 Turn 2: grimoire thief + attach paradise to moth
 Turn 3: Freed - attach paradise
+
+=>
+| 4 Grimoire Thief      | $2   |
+| 4 Paradise Mantle     | $1.5 |
+| 4 Freed from the Real | $.20 |
+| 1 Negate              | $.25 |
+| 4 Permin's Aura       | $.80 |
+| 4 Telepathy           | $.05 |
