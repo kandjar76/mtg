@@ -16,4 +16,5 @@
 | Everlasting Torment | $2    |     4 |                | Lorwyn/Shadowmoor |
 | Demigod of Revenge  | $6    |     3 |                | Lorwyn/Shadowmoor |
 | Amulet of Vigor     |       |     3 |                | Zendikar          |
+| Azorius Herald      |       |     3 |                | Ravnica           |
 |                     |       |       |                |                   |
