@@ -29,9 +29,9 @@ Lands:
 
 Side board:
 
-| 4 | Voidslime         | GUU   | inst      | Coutner target spell or ability                                                                 |
-| 3 | Sundering Vitae   | 2G    | inst      | Convoke -- Destroy tgt art or ench                                                              |
-| 2 | Recollect         | 2G    | sorc      | Return tgt card from graveyard to your hand                                                     |
-| 3 | Aquastrand Spider | 1G    | 0/0       | Graft 2 -- G: tgt creat w/ +1c gains reach                                                      |
-| 1 | Plaxmanta         | 1U    | 2/2 flash | When comes into play: creats u control gets shroud until eot - Sacr it if u didn't pay G for it |
-| 2 | Experiment Kraj   | 2GGUU | 4/6       | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat                                     |
+| 4 | Voidslime         | GUU   | inst | Coutner target spell or ability                                      |
+| 3 | Sundering Vitae   | 2G    | inst | Convoke -- Destroy tgt art or ench                                   |
+| 2 | Recollect         | 2G    | sorc | Return tgt card from graveyard to your hand                          |
+| 3 | Aquastrand Spider | 1G    | 0/0  | Graft 2 -- G: tgt creat w/ +1c gains reach                           |
+| 1 | Remand            | 1U    | inst | Counter tgt spell, if u do, return it to owner's hand -- draw a card |
+| 2 | Experiment Kraj   | 2GGUU | 4/6  | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat          |
