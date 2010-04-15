@@ -10,19 +10,22 @@
 22 lands
 
 
-|         | 3 | Hag Hedge-Mage           | 2{bg} | 2/2    | When enter play: if u control 2 swamps -> tgt player discard a card                                                        |
 |         | 4 | Cunning Lethemancer      | 2B    | 2/2    | At the beg of ur upk, each player discards a card                                                                          |
-|         | 4 | Big Game Hunter          | 1BB   | 1/1    | Madness B - When enter battlefield, destroy tgt creat w/ pow 4 or greater.                                                 |
-|         | 3 | Nightshade Assassin      | 2BB   | 2/1    | Madness 1B - fisrt strk - When enter: reveal X black cards, tgt creat gets -X/-X until eot                                 |
+|         | 4 | Nightshade Assassin      | 2BB   | 2/1    | Madness 1B - fisrt strk - When enter: reveal X black cards, tgt creat gets -X/-X until eot                                 |
+|         | 3 | Hag Hedge-Mage           | 2{bg} | 2/2    | When enter play: if u control 2 swamps -> tgt player discard a card                                                        |
+|         | 3 | Big Game Hunter          | 1BB   | 1/1    | Madness B - When enter battlefield, destroy tgt creat w/ pow 4 or greater.                                                 |
 |         |   |                          |       |        |                                                                                                                            |
-|         | 4 | Delirium Skeins          | 2B    | sorc   | each player discards 3 cards                                                                                               |
+|         | 3 | Delirium Skeins          | 2B    | sorc   | each player discards 3 cards                                                                                               |
 |         | 4 | Quest of the nihil stone | B     | ench   | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
 |         | 4 | Strongarm Tactics        | 1B    | sorc   | each player discard 1 card, each player who didnt discard a creatures this way is dealt 4 damage                           |
 |         | 2 | Megrim                   | 2B    | ench   | when an opp discard a card, deal 2 damage to him                                                                           |
 |         | 3 | Call to the netherworld  | B     | sorc   | madness 0 - return tgt black creat from ur graveyard to ur hand                                                            |
 |         | 3 | Dark withering           | 4BB   | inst   | mandess B - destroy tgt non black creat                                                                                    |
-| 3x $1   | 4 | Mutilate                 | 2BB   | sorc   | all creats gets -1/-1 for each swamp u control                                                                             |
+|         | 3 | Mutilate                 | 2BB   | sorc   | all creats gets -1/-1 for each swamp u control                                                                             |
+|         | 2 | Pulling Teeth            | 1B    | sorc   | clash w/ opp, if win tgt player disc 2 cards, otherwise, tgt player disc a card                                            |
 |         |   |                          |       |        |                                                                                                                            |
+|         | 4 | Bojuka Bog               |       | land   | Comes into play tapped, exile tgt player graveyard - t: add B                                                              |
+|         |   | Swamp x 16               |       |        |                                                                                                                            |
 |---------+---+--------------------------+-------+--------+----------------------------------------------------------------------------------------------------------------------------|
 |         | 2 | Liliana Vess             | 3BB   | pwlk 5 | +1: tgt player discard; -2: search card; -8: put all creats in all graveyard in play                                       |
 | $.20    | 2 | Dream Salvage            | B     | inst   | draw cards equal to the number of card tgt opp discarded this turn                                                         |
@@ -38,6 +41,12 @@
 | 1x $.10 | 4 | Hag Hedge-Mage           | 2{bg} | 2/2    | When enter play: if u control 2 swamps -> tgt player discard a card                                                        |
 
 Note:
+ Big Game Hunder requires big creature, it's better to have 4 Nightshade Assassin and 3 Big Game Hunder than 3 and 4
+ In term of land, remove 4 swamp and add 4 Bojuka Bog (in case the opp is playing w/ his graveyard...)
+ Remove of 1 mutilate and 1 Delirium skeins to add 2 pulling teeths, clash is nice, let me swithc the next card to draw if necessary
+
+ ---
+
  Bloodhusk Ritualist -- useless!
  Cunning Lethemancer - GOOD!!!
  Dream Salvage - good early, useless after => 2 is good enough!!
@@ -49,3 +58,4 @@ Note:
 
  Finally: 20 lands seems a bit short!!!
  I will got for 22. 
+
