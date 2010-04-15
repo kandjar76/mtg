@@ -1,20 +1,17 @@
-| Name                | Price | Count | Decks          | From              |
-|---------------------+-------+-------+----------------+-------------------|
-| Sunken Ruins        | $5    |     3 | Faerie         | Lorwin/Shadowmoor |
-| Lorescale Coatl     | $.45  |     4 | Hydra          | Shard of Alara    |
-| Murkfiend Liege     | $3    |     4 | Hydra          | Lorwyn/Shadowmoor |
-| Goblin Flectomancer | $.15  |     1 | Wee Dragonauts | Ravnica           |
-| Paradise Mangle     | $1.2  |     4 | Mill Grimoire  | Fifth Dawn        |
-| Remand              | $1.7  |     3 | Graft Control  | Ravnica           |
-| Mirror Entity       | $2    |     4 | Merfolk SB     | Lorwin/Shadowmoor |
-| Sage's dousing      | $.10  |     4 | Merfolk        | Lorwyn/Shadowmoor |
-| Mystic Gate         | $3.5  |     4 | Merfolk        | Lorwyn/Shadowmoor |
-| Jace Belleren       | $7    |     2 | Merfolk        | Lorwyn/Shadowmoor |
-| Graypelt Refuge     | $.25  |     4 | Landfall       | Zendikar          |
-| Harrow              | $.10  |     3 | Landfall       | Zendikar          |
-|                     |       |       |                |                   |
-| Everlasting Torment | $2    |     4 |                | Lorwyn/Shadowmoor |
-| Demigod of Revenge  | $6    |     3 |                | Lorwyn/Shadowmoor |
-| Amulet of Vigor     |       |     3 |                | Zendikar          |
-| Azorius Herald      |       |     3 |                | Ravnica           |
-|                     |       |       |                |                   |
+| Name                | Price | Count | Decks         | From              |
+|---------------------+-------+-------+---------------+-------------------|
+| Sunken Ruins        | $5    |     3 | Faerie        | Lorwin/Shadowmoor |
+| Murkfiend Liege     | $3    |     4 | Hydra         | Lorwyn/Shadowmoor |
+| Paradise Mangle     | $1.2  |     4 | Mill Grimoire | Fifth Dawn        |
+| Remand              | $1.7  |     3 | Graft Control | Ravnica           |
+| Mirror Entity       | $2    |     4 | Merfolk SB    | Lorwin/Shadowmoor |
+| Sage's dousing      | $.10  |     4 | Merfolk       | Lorwyn/Shadowmoor |
+| Mystic Gate         | $3.5  |     4 | Merfolk       | Lorwyn/Shadowmoor |
+| Jace Belleren       | $7    |     2 | Merfolk       | Lorwyn/Shadowmoor |
+| Graypelt Refuge     | $.25  |     4 | Landfall      | Zendikar          |
+|                     |       |       |               |                   |
+| Everlasting Torment | $2    |     4 |               | Lorwyn/Shadowmoor |
+| Demigod of Revenge  | $6    |     3 |               | Lorwyn/Shadowmoor |
+| Azorius Herald      |       |     3 |               | Ravnica           |
+| Llanowar Reborn     | $.40  |     3 | Hydra         | Future Sight      |
+|                     |       |       |               |                   |
