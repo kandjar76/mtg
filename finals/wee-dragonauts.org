@@ -1,0 +1,20 @@
+|  4 | Wee dragonauts      | 1UR | 1/3 fly | When play an inst or sorc, it gets +2/+0                                             |
+|  4 | Gelectrode          | 1UR | 0/1     | t: deals 1 damage to tgt creat/player -- when play an inst or sorc: you may untap it |
+|  4 | Goblin Flectomancer | URR | 2/2     | sacr it: you may change tgt of tgt inst or spell                                     |
+|    |                     |     |         |                                                                                      |
+|  2 | Stitch in Time      | 1UR | sorc    | Flip a coin, if you win, take an extra turn                                          |
+|  2 | Cerebral Vortex     | 1UR | inst    | Tgt player draws 2 cards, then takes damage eq to numb of cards he drew this turn    |
+|  4 | Schismotivate       | 1UR | inst    | Tgt creat gets +4/0, another tgt creat gets -4/0                                     |
+|  4 | Remand              | 1U  | inst    | Counter tgt spell, return the spell to its owner's hand; draw a card                 |
+|  4 | Electrolyze         | 1UR | inst    | Deals 2 damage divided as will; draw a card                                          |
+|  1 | Telling Time        | 1U  | inst    | Look at top 3 cards, put one in hand, one on top, one on bottom                      |
+|  4 | Surge of Zeal       | R   | inst    | Radiance -- tgt creat + sharing color gain haste                                     |
+|  4 | Psychotic Fury      | 1R  | isnt    | Tgt multicolor creats gain dbl strike -- draw a card                                 |
+|  1 | Izzet Signet        | 2   | art     | 1t: add UR                                                                           |
+|    |                     |     |         |                                                                                      |
+| 12 | island              |     |         |                                                                                      |
+|  8 | mountain            |     |         |                                                                                      |
+|  1 | Izzet Boilerworks   |     |         | comes into play tapped: return land to hand; t: add UR                               |
+|  1 | Steam Vents         |     |         | comes tapped unless pay 2 life; t: add U or R                                        |
+
+Need a sideboard?
