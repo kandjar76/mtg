@@ -17,7 +17,7 @@
 |   |                          |           |            |                                                                                                                           |
 | 2 | Utopia Sprawl            | G         | ench land  | choose a color, enchan land is tapped for mana, add that color to ur mana pool                                            |
 | 2 | Halimar Depths           |           | land       | comes tapped; reorder top 3 cards of lib; t: add U                                                                        |
-| 1 | Llanowar Rebord          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
+| 1 | Llanowar Reborn          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
 | 2 | Simic Growth Chamber     |           | land       | comes tapped; comes into play return land to hand; t: add GU                                                              |
 | 8 | Island                   |           | basic land |                                                                                                                           |
 | 9 | Forest                   |           | basic land |                                                                                                                           |
@@ -37,9 +37,6 @@
 
 
 
-Weaknesses: flying! - Idea: go through b4 getting damage by them :P
-   -- need a way to destroy ench or art.
-
 To keep in mind:
   Forgotten Ancient
   Strength of the Tajuru (GGx + multikicker 1 -> put X +1 counter on Y creats)
@@ -47,10 +44,4 @@ To keep in mind:
   Invert the sky
   Primal Rage (creats u control have trample!!!)
 
-To Modify:
-  Add ways to destroy ench and art! 
-  Raking Canopy - sideboard?
-
---
-
-|   | 
+Need a sideboard...
