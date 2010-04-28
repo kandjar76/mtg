@@ -6,8 +6,7 @@ Creatures:
 
 | 4 | Trygon Predator       | 1GU | 2/3 fly   | When it deals damage to player: u may destr tgt art or enchant that player control                |
 | 4 | Coiling Oracle        | GU  | 1/1       | When comes into play: reveal top card of lib, if land: put it into play, if not: put it into hand |
-| 4 | Vigean Graftmage      | 2U  | 0/0       | Graft 2 - 1U: Untap tgt creat w/ a +1/+1 counter on it                                            |
-| 3 | Plaxmanta             | 1U  | 2/2 flash | When comes into play: creats u control gets shroud until eot - Sacr it if u didn't pay G for it   |
+| 3 | Vigean Graftmage      | 2U  | 0/0       | Graft 2 - 1U: Untap tgt creat w/ a +1/+1 counter on it                                            |
 | 4 | Cytoplast Manipulator | 2UU | 0/0       | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                          |
 | 1 | Novijen Sages         | 4UU | 0/0       | Graft 4 - 1, removes 2 +1/+1 counters from creats u control: draw a card                          |
 | 2 | Vigean Hydropon       | 1GU | 0/0       | Graft 5 - It can't attack or block                                                                |
@@ -18,6 +17,7 @@ Spells:
 | 4 | Cytoshape         | 1GU   | inst      | choose a non leg creat - tgt creat becomes the copy of the non leg creats                         |
 | 4 | Peel from Reality | 1U    | inst      | Return tgt creat u control and tgt creat u don't control to their owner's hand                    |
 | 2 | Utopia Sprawl     | G     | ench aura | When comes into play: choose a color -- When ench land becomes tapped add that color to mana pool |
+| 4 | Voidslime         | GUU   | inst      | Coutner target spell or ability                                                                   |
 
 Lands:
 
@@ -29,9 +29,10 @@ Lands:
 
 Side board:
 
-| 4 | Voidslime         | GUU   | inst | Coutner target spell or ability                                      |
-| 3 | Sundering Vitae   | 2G    | inst | Convoke -- Destroy tgt art or ench                                   |
-| 2 | Recollect         | 2G    | sorc | Return tgt card from graveyard to your hand                          |
-| 3 | Aquastrand Spider | 1G    | 0/0  | Graft 2 -- G: tgt creat w/ +1c gains reach                           |
-| 1 | Remand            | 1U    | inst | Counter tgt spell, if u do, return it to owner's hand -- draw a card |
-| 2 | Experiment Kraj   | 2GGUU | 4/6  | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat          |
+| 1 | Vigean Graftmage  | 2U    | 0/0       | Graft 2 - 1U: Untap tgt creat w/ a +1/+1 counter on it                                          |
+| 3 | Plaxmanta         | 1U    | 2/2 flash | When comes into play: creats u control gets shroud until eot - Sacr it if u didn't pay G for it |
+| 3 | Sundering Vitae   | 2G    | inst      | Convoke -- Destroy tgt art or ench                                                              |
+| 2 | Recollect         | 2G    | sorc      | Return tgt card from graveyard to your hand                                                     |
+| 3 | Aquastrand Spider | 1G    | 0/0       | Graft 2 -- G: tgt creat w/ +1c gains reach                                                      |
+| 1 | Remand            | 1U    | inst      | Counter tgt spell, if u do, return it to owner's hand -- draw a card                            |
+| 2 | Experiment Kraj   | 2GGUU | 4/6       | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat                                     |
