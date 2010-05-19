@@ -1,22 +1,3 @@
-Mindslicer
-Stronghold Rats
-Unnerve
-Word of Waste
-
-16 Creats
-22 land
-
-18 spells
-24 land   -> 50?
-
-14 creats
-24 spells
-
-22 lands
-
-14 creats?
-26 other spells
-
 Main Deck: Multiplater oriented
 
 |---+---------------------------+-----+------------+---------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,6 +16,10 @@ Main Deck: Multiplater oriented
 | 2 | Dream Salvage             | B   | inst       | draw cards equal to the number of card tgt opp discarded this turn                                                                    |
 |   |                           |     |            |                                                                                                                                       |
 |---+---------------------------+-----+------------+---------------------------------------------------------------------------------------------------------------------------------------|
+|   | Words of Waste            | 2B  | ench       | 1: next time u would draw this turn, each opp disc a card instead                                                                     |
+|   | Mindslicer                | 2BB | 4/3        | When it goes to graveyard, each player discard their hand.                                                                            |
+|   | Unnerve                   | 2BB | sorc       | Each opp discards 2 cards                                                                                                             |
+|   | Stronghold Rats           | 2B  | 2/1        | Shadow - When it deals damage to a player, each plauer discard a card                                                                 |
 | ? | Chalice of the Void       | 1B  |            |                                                                                                                                       |
 |   | Leyline of the Void       | 2BB | ench       | Oppening hand -> in play -- When a card is put into an opp graveyard; exile it                                                        |
 |   | Planar of the void        | B   | enhc       | When a card is put into graveyard, exile it instead                                                                                   |
