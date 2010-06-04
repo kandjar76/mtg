@@ -17,10 +17,10 @@
 |   |                          |           |            |                                                                                                                           |
 | 2 | Utopia Sprawl            | G         | ench land  | choose a color, enchan land is tapped for mana, add that color to ur mana pool                                            |
 | 2 | Halimar Depths           |           | land       | comes tapped; reorder top 3 cards of lib; t: add U                                                                        |
-| 1 | Llanowar Reborn          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
+| 3 | Llanowar Reborn          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
 | 2 | Simic Growth Chamber     |           | land       | comes tapped; comes into play return land to hand; t: add GU                                                              |
 | 8 | Island                   |           | basic land |                                                                                                                           |
-| 9 | Forest                   |           | basic land |                                                                                                                           |
+| 6 | Forest                   |           | basic land |                                                                                                                           |
 |---+--------------------------+-----------+------------+---------------------------------------------------------------------------------------------------------------------------|
 |   |                          |           |            |                                                                                                                           |
 | 3 | Fist of Ironwood         | 1G        | ench       | ench creat gains trample, comes into play: put two 1/1 strap token                                                        |
