@@ -12,35 +12,50 @@ Idea:
  Idea: need to be able to discard as an instant!
 
 So far: added madness cards, and cards to trigger it.
-Missing: winning factor!
+Very strong card: Arrogant Wurm!
 
-|   | Cunning Lethermancer    | 2B  | 2/2           | Beg upk: each player discard                                                                             |
-|   | Nightshade Assassin     | 2BB | 2/1           | Madness 1B -- First strike, when it comes into play, you may reveal X black cards, tgt creats gets -X/-X |
-|   | Big Game Hunter         | 1BB | 1/1           | Madness B -- When comes into play, destroy tgt creat with pow 4 or greater.                              |
-|   | Grave Scrabbler         | 3B  | 2/2           | Madness BB -- When comes into play using madness, return tgt creat from a graveyard to owner's hand      |
-|   | Gorgon Recluse          | 3BB | 2/4           | Madness BB -- When block or becomes block by non black creats, destroy that creat at eot                 |
-|   |                         |     |               |                                                                                                          |
-|   | Strongarm Tactics       | 1B  | sorc          | Each player discards a card, if a player didn't discard a creatures he loses 4 life                      |
-|   | Call to the Netherworld | B   | sorc          | Madness 0 -- Return tgt black creats from graveyard to hand                                              |
-|   | Dark withering          | 4BB | inst          | Madness B -- Destroy tgt non black creats                                                                |
-|   | Strength of Lunacy      | 1B  | aura          | Madness B -- Ench creat gets +2/+1 and prot from white                                                   |
+So far: three color decks: BUG!
+
+24 creats!
+15 spells
+21 land
+
 |---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
+| 4 | Arrogant Wurm           | 3GG | 4/4 trample   | Madness 2G                                                                                               |
+| 4 | Basking Rootwalla       | G   | 1/1           | Madness 0 -- 1G: it gets +2/+2 until eot *only once per turn*                                            |
+| 3 | Gorgon Recluse          | 3BB | 2/4           | Madness BB -- When block or becomes block by non black creats, destroy that creat at eot                 |
+| 4 | Bonded Fetch            | 2U  | 0/2 def haste | t: draw a card, then discard a card                                                                      |
+| 3 | Grave Scrabbler         | 3B  | 2/2           | Madness BB -- When comes into play using madness, return tgt creat from a graveyard to owner's hand      |
+| 3 | Hapless Researcher      | U   | 1/1           | Sacr it: draw, then discard                                                                              |
+| 3 | Nightshade Assassin     | 2BB | 2/1           | Madness 1B -- First strike, when it comes into play, you may reveal X black cards, tgt creats gets -X/-X |
+|   |                         |     |               |                                                                                                          |
+| 4 | Strongarm Tactics       | 1B  | sorc          | Each player discards a card, if a player didn't discard a creatures he loses 4 life                      |
+| 3 | Frantic Search          | 2U  | inst          | Draw two cards, then discard two cards. Untap 3 lands                                                    |
+| 3 | Strength of Lunacy      | 1B  | aura          | Madness B -- Ench creat gets +2/+1 and prot from white                                                   |
+| 3 | Dark withering          | 4BB | inst          | Madness B -- Destroy tgt non black creats                                                                |
+| 2 | Spectral Shift          | 1U  | inst          | choose one -- replace all instance of a land type OR color by another one on tgt spell or permanent      |
+|   |                         |     |               |                                                                                                          |
+| 9 | Swamp                   |     | basic land    |                                                                                                          |
+| 5 | Island                  |     | basic land    |                                                                                                          |
+| 4 | Forest                  |     | basic land    |                                                                                                          |
+| 4 | Terramorphic expanse    |     | land          | sacr it: search for a basic land, and put it into play                                                   |
+|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
+| 4 | Big Game Hunter         | 1BB | 1/1           | Madness B -- When comes into play, destroy tgt creat with pow 4 or greater.                              |
+| 4 | Vines of Vastwood       | G   | inst          | Kicker G -- Tgt creats can't be tgt of spell ur opp control, if kicked: gets +4/+4                       |
+| 4 | Last Gasp               | 1B  | inst          | Tgt creats gets -3/-3                                                                                    |
+| 3 | Cunning Lethemancer     | 2B  | 2/2           | Beg upk: each player discard                                                                             |
+|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
+|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
+|   | Call to the Netherworld | B   | sorc          | Madness 0 -- Return tgt black creats from graveyard to hand                                              |
+|   |                         |     |               |                                                                                                          |
+|   | Mind Bomb               | U   | sorc          | Each play may disc up to 3 cards, get damage to 3 - # cards discarded this way                           |
+|   | Catalog                 | 2U  | inst          | Draw two cards, then discard one                                                                         |
 |   | Obsessive Search        | U   | inst          | Madness U -- Draw a card                                                                                 |
 |   | Circular Logic          | 2U  | inst          | Madness U -- Coutner tgt spell unless its controller pay 1 for each cards in your graveyard              |
-|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
-|   | Basking Rootwalla       | G   | 1/1           | Madness 0 -- 1G: it gets +2/+2 until eot *only once per turn*                                            |
-|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
 |   | Strength of Isolation   | 1W  | aura          | Madness W -- Ench creat gets +1/+2 and prot from black                                                   |
 |   | Frantic Purification    | 2W  | inst          | Madness W -- Destroy target ench                                                                         |
 |   |                         |     |               |                                                                                                          |
-|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
-|---+-------------------------+-----+---------------+----------------------------------------------------------------------------------------------------------|
-|   | Mind Bomb               | U   | sorc          | Each play may disc up to 3 cards, get damage to 3 - # cards discarded this way                           |
-|   | Bonded Fetch            | 2U  | 0/2 def haste | t: draw a card, then discard a card                                                                      |
 |   | Careful Study           | U   | sorc          | Draw two cards, then discard two                                                                         |
-|   | Catalog                 | 2U  | inst          | Draw two cards, then discard one                                                                         |
-|   | Frantic Search          | 2U  | inst          | Draw two cards, then discard two cards. Untap 3 lands                                                    |
-|   | Hapless Researcher      | U   | 1/1           | Sacr it: draw, then discard                                                                              |
 |   | Inspired Sprite         | 3U  | 2/2 fly flash | t: draw then discard -- when playing a wiz spell, untap it                                               |
 |   |                         |     |               |                                                                                                          |
 
