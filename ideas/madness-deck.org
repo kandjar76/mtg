@@ -26,7 +26,7 @@ So far: three color decks: BUG!
 | 3 | Gorgon Recluse          | 3BB | 2/4           | Madness BB -- When block or becomes block by non black creats, destroy that creat at eot                 |
 | 4 | Bonded Fetch            | 2U  | 0/2 def haste | t: draw a card, then discard a card                                                                      |
 | 3 | Grave Scrabbler         | 3B  | 2/2           | Madness BB -- When comes into play using madness, return tgt creat from a graveyard to owner's hand      |
-| 3 | Hapless Researcher      | U   | 1/1           | Sacr it: draw, then discard                                                                              |
+| 3 | Wild Mongrel            | 1G  | 2/2           | Discard a card: it gains +1/+1 and becomes color of choice until eot                                     |
 | 3 | Nightshade Assassin     | 2BB | 2/1           | Madness 1B -- First strike, when it comes into play, you may reveal X black cards, tgt creats gets -X/-X |
 |   |                         |     |               |                                                                                                          |
 | 4 | Strongarm Tactics       | 1B  | sorc          | Each player discards a card, if a player didn't discard a creatures he loses 4 life                      |
