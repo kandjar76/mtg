@@ -1,0 +1,77 @@
+Deck:
+28 creatures, 11 other spells
+19 lands, 2 art to give mana
+6 rares
+
+| 4 | Grimoire Thief       | UU   | 2/2     | merfolk rogue   | When tapped: remove 3 cards from player's lib - U, sacr: counter any spell he removed from games |
+| 4 | Merrow Reejerey      | 2U   | 2/2     | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent               |
+| 4 | Drowner of Secrets   | 2U   | 1/3     | merfolk wizard  | Tap untapped merf: tgt player put top card of lib to graveyard                                   |
+| 4 | Stonnybrook Banneret | 1U   | 1/1     | merfolk wizard  | island walk -- merf and wiz spells cost 1 less                                                   |
+| 3 | Judge of Currents    | 1W   | 1/1     | merfolk wizard  | When merf becomes tapped: gain 1 life                                                            |
+| 3 | Mothdust Changeling  | U    | 1/1     | changeling      | Tap untapped creat: gains flying until eot                                                       |
+| 3 | Sygg, River Guide    | UW   | 2/2 leg | merfolk wizard  | island walk -- 1W: tgt merf gains protec from the color of ur choice until eot                   |
+| 2 | Fallowsage           | 3U   | 2/2     | merfolk wizard  | When tapped: may draw a card                                                                     |
+|---+----------------------+------+---------+-----------------+--------------------------------------------------------------------------------------------------|
+| 4 | Merrow Commerce      | 1U   | enc     | merfolk         | At eot: untap all merfolk u control                                                              |
+| 3 | Memory Sluice        | {ub} | ins     |                 | Conspire -- Tgt player put top 4 cards of library to graveyard                                   |
+| 2 | Savor the moment     | 1UU  | sorc    |                 | Take an extra turn after this one; skip untap step                                               |
+| 3 | Sage's Dousing       | 2U   | inst    | wizard          | Counter tgt spell unless controller pays 3 -- if you control a wizard, draw a card               |
+|---+----------------------+------+---------+-----------------+--------------------------------------------------------------------------------------------------|
+| 9 | Island               |      | land    | island          | Basic land                                                                                       |
+| 6 | Plain                |      | land    | plain           | Basic land                                                                                       |
+| 4 | Wanderwine Hub       |      | land    |                 | Add U or W -- comes tapped unless u show a merfolk                                               |
+| 2 | Springleaf Drum      | 2    | art     |                 | t: tap untapped creat to add 1 mana to pool                                                      |
+
+
+-1 Springleaf Drum
++2 Savor the moment
++1 Banishing Knack
+
+Currently:
++1 Stonybrook Schoolmaster
++3 Memory Sluice
++2 Banishing Knack
+(+2 Cryptic Commands)
+
+-1 Judge of Currents
+-2 Mothdust Changeling
+-1 Fallowsage
+-2 Surgespaner
+-2 Summon the School
+
+Side deck:
+| 3 | Banishing Knack         | U    | inst    |                | Until eot: tgt creat has: t: return tgt non land perm to owner's hand                                                               |
+| 3 | Stonybrook Schoolmaster | 1W   | 1/2     | merfolk wizard | When tapped: put a 1/1 merf wiz into play                                                                                           |
+| 4 | Cryptic Command         | 1UUU | inst    |                | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                              |
+| 2 | Summon the School       | 3W   | sorc    | merfolk        | put 2 1/1 merf wiz into play -- tap 4 untapped merf: return it from grav to ur hand                                                 |
+| 1 | Sygg, River Guide       | UW   | 2/2 leg | merfolk wizard | island walk -- 1W: tgt merf gains protec from the color of ur choice until eot                                                      |
+| 4 | Door of Destinies       | 4    | art     |                | Comes into play: choose a type; when u play a spell of that type put a counter on it; creats u control gets +1/+1 for each counters |
+| 1 | Oblivion Ring           | 2W   | enc     |                | When comes into play: remove tgt non land permanent from play; put it back when leaves play                                         |
+| 2 | Surgespanner            | 2UU  | 2/2     | merfolk wizard | When tapped: u may pay 1U and return tgt perm to its controller hand                                                                |
+
+
+
+
+
+
+Card to consider:
+
+| 1 | Sage's Dousing            | 2U   | ins     | wizard         | Counter tgt spell unless controller pays 3, if u control a wizard draw a card                                                                 |
+|   | Sanity Grinding           | UUU  | sorc    |                | Chroma: reveal top 10 cards, for each blue mana symb, tgt player put top cards of his lib to graveyard; put card on bottom of library         |
+| 4 | Silvergill Adept          | 1U   | 2/1     | merfolk wizard | Add cost: show a merfolk or pay 3 -- when comes into play draw a card                                                                         |
+| 2 | Aquitect's Will           | U    | sorc    | merfolk        | Put a flood counter on land; this land becomes also an island; if u control a merfolk: draw a card                                            |
+| 2 | Ponder                    | U    | sorc    |                | Look top 3 card library: put back in any order and draw one                                                                                   |
+| 2 | Merrow Harbinger          | 4U   | 2/3     | merfolk wizard | island walk -- when comes into play: search merf and put on top of library                                                                    |
+| 2 | Stonybrook Schoolmaster   | 1W   | 1/2     | merfolk wizard | When tapped: put a 1/1 merf wiz into play                                                                                                     |
+|   | Shelldock isle            |      | land    |                | Produce U -- hideway: U, t: play the card if a library has 20 or less card in it                                                              |
+|   | Drowner Initiate          | U    | 1/1     | merfolk wizard | When a blue spell is played: if u pay 1, tgt player put top 2 cards ot lib to graveyard                                                       |
+|   | Ink Dissolver             | 1U   | 2/1     | merfolk wizard | Kinship: each opp put top 3 cards from lib to graveyard                                                                                       |
+|   | Spell syphon              | 1U   | ins     |                | Counter tgt spell unless its controller pay 1 for each blue perm u control                                                                    |
+|   | Broken ambitions          | xU   | ins     |                | Counter tgt spell unless its controller pay x; then clash: if u win, control put top 4 cards of its lib to graveyard                          |
+|   | Forfend                   | 1W   | inst    |                | Prevent all damage that would be dealt to creat this turn                                                                                     |
+|   | Runed Halo                | WW   | enc     |                | When comes into play, name a card: u gain protection against the name card                                                                    |
+|   | Oona, Queen of the Faerie | 3ubu | 5/5 fly | faerie wizard  | xU: Choose a color, tgt opp remove top X cards from his lib from the game; for each card of choose color: put a 1/1 faerie rog w/ fly in play |
+|   | Force Fruition            | 4UU  | enc     |                | When an opp plays a spell: he draws 7 cards                                                                                                   |
+|   |                           |      |         |                |                                                                                                                                               |
+|   | Jace Beleren              | 1UU  | planew  |                | starts at 3 -- +2: each players draw -- -1: you draw -- -10 tgt player put top 20 cards to his graveyard                                      |
+   
