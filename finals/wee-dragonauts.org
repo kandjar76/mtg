@@ -16,5 +16,16 @@
 |  8 | mountain            |     |         |                                                                                      |
 |  1 | Izzet Boilerworks   |     |         | comes into play tapped: return land to hand; t: add UR                               |
 |  1 | Steam Vents         |     |         | comes tapped unless pay 2 life; t: add U or R                                        |
-
-Need a sideboard?
+|----+---------------------+-----+---------+--------------------------------------------------------------------------------------|
+|  3 | Invite Hysteria     | 2R  | sorc    | Radiance - Tgt creat and creat that share color can't block this turn                |
+|  4 | Quickchange         | 1U  | inst    | Tgt creat becomes the colors of ur choice until eot -- draw a card                   |
+|  4 | Reroute             | 1R  | inst    | Change tgt of act ab with a single tgt -- Draw a card                                |
+|  4 | Smash               | 2R  | inst    | Destroy tgt artifact -- Draw a card                                                  |
+|    |                     |     |         |                                                                                      |
+|    |                     |     |         |                                                                                      |
+|----+---------------------+-----+---------+--------------------------------------------------------------------------------------|
+|    | Wojek Embermage     | 3R  | 1/2     | Radiance - t: deals 1 damage to tgt creats and all creats that share a color with it |
+|    | Telling Time        | 1U  | inst    | Look at top 3 cards, put one in hand, one on top, one on bottom                      |
+|    | Compulsive Research | 2U  | sorc    | Tgt player draws 3 cards; then discard 2 unless he or she discards a land card       |
+|    | Char                | 2R  | inst    | 4 damage to tgt creat/player and 2 damage to u                                       |
+|    |                     |     |         |                                                                                      |
