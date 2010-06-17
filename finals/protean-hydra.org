@@ -1,26 +1,29 @@
-17 creats + 18 - 33! -> 5 more?
-18 rares.
+21 creatures
+17 spells
+22 lands
+
+8 rares.
 
 | 4 | Protean Hydra            | xG        | 0/0        | comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
 | 3 | Gilder Bairn             | 1{gb}{gb} | 1/3        | 2{gu}u: for each counter on tgt perm, put another one on it                                                               |
 | 4 | Sage of Fables           | 2U        | 2/2        | 2, rem +1c: draw a card                                                                                                   |
 | 4 | Lorescale Coatl          | 1GB       | 2/2        | When u draw, put a +1/+1 on him                                                                                           |
 | 3 | Aquastrand Spider        | 1G        | 0/0        | Graft 2 -- G: tgt creats with +1c gain reach                                                                              |
+| 3 | Cytoplast Root-Kin       | 2GG       | 0/0        | Graft 4 -- When comes into play: put +1c on each creat with some on them -- 2: move 1 counter to him                      |
 |   |                          |           |            |                                                                                                                           |
 | 1 | Jace, the mind schulptor | 2UU       | pw         |                                                                                                                           |
-| 2 | Canopy Cover             | 1G        | ench       | tgt creat can only be block by reach or flying creats -- and can't be target of opp spells                                |
-| 2 | Shielding Plax           | 2{gu}     | ench       | draw + creats gets                                                                                                        |
-| 3 | Infiltrator's Magemark   | 2U        | ench       | creat u control that's ench gets +1/+1 and can't be blocked except by walls                                               |
-| 4 | Favor of the Overbeing   | 1{gu}     | ench       | tgt creat gain: +1/+1 and vig if green, +1/+1 and fly if blue                                                             |
-| 3 | Gleeful Sabotage         | 1G        | sorc       | conspire -- Dest tgt art or ench                                                                                          |
-| 3 | Snakeform                | 2{gu}     | inst       | tgt creats becomes a 1/1 and loose all ab -- draw a card                                                                  |
+| 3 | Infiltrator's Magemark   | 2U        | aura       | creat u control that's ench gets +1/+1 and can't be blocked except by walls                                               |
+| 3 | Favor of the Overbeing   | 1{gu}     | aura       | tgt creat gain: +1/+1 and vig if green, +1/+1 and fly if blue                                                             |
+| 4 | Snakeform                | 2{gu}     | inst       | tgt creats becomes a 1/1 and loose all ab -- draw a card                                                                  |
+| 2 | Eel Umbra                | 1U        | aura       | flash -- Totem armor -- ench creats gets +1/+1                                                                            |
+| 2 | Vines of Vastwood        | G         | inst       | kicker G -- tgt creat can't be tgt by spell ur opp control -- if kicked, it gets +4/+4                                    |
+| 2 | Paradise Mantle          | 0         | equip      | Equip 1 -- eqp creat gets: t: add one mana of any color to mana pool                                                      |
 |   |                          |           |            |                                                                                                                           |
-| 2 | Utopia Sprawl            | G         | ench land  | choose a color, enchan land is tapped for mana, add that color to ur mana pool                                            |
 | 2 | Halimar Depths           |           | land       | comes tapped; reorder top 3 cards of lib; t: add U                                                                        |
-| 3 | Llanowar Reborn          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
+| 4 | Llanowar Reborn          |           | land       | comes tapped; graft 1; t: add G                                                                                           |
 | 2 | Simic Growth Chamber     |           | land       | comes tapped; comes into play return land to hand; t: add GU                                                              |
-| 8 | Island                   |           | basic land |                                                                                                                           |
-| 6 | Forest                   |           | basic land |                                                                                                                           |
+| 7 | Island                   |           | basic land |                                                                                                                           |
+| 7 | Forest                   |           | basic land |                                                                                                                           |
 |---+--------------------------+-----------+------------+---------------------------------------------------------------------------------------------------------------------------|
 |   |                          |           |            |                                                                                                                           |
 | 3 | Fist of Ironwood         | 1G        | ench       | ench creat gains trample, comes into play: put two 1/1 strap token                                                        |
