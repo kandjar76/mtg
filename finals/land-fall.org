@@ -1,14 +1,14 @@
 | 4 | Admonition Angel        | 3WWW | 6/6 fly        | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
-| 3 | Emeria Angel            | 2WW  | 3/3 fly        | Landfall: put a 1/1 white bird w/ fly                                                                              |
+| 4 | Emeria Angel            | 2WW  | 3/3 fly        | Landfall: put a 1/1 white bird w/ fly                                                                              |
 | 4 | Turntimber Basilik      | 1GG  | 2/1 deathtouch | Landfall: force tgt creature to block if able                                                                      |
 | 4 | Steppe Lynx             | W    | 0/1            | Landfall: get +2/+2 until eot                                                                                      |
 | 3 | Grazing Gladehart       | 2G   | 2/2            | Landfall: gain 2 life                                                                                              |
 | 4 | Ruin Ghost              | 1W   | 1/1            | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
 | 2 | Kor Skyfisher           | 1W   | 2/3            | When comes into play, return perm u control to owner's hand                                                        |
 |   |                         |      |                |                                                                                                                    |
-| 2 | Quest for Renewal       | 1G   | ench           | When creat becomes tapped, put a counter -- if counter > 4: untap all creats during each other untap phase         |
-| 3 | Explore                 | 1G   | sorc           | You mayp play an add land this turn -- draw a card                                                                 |
-| 4 | Harrow                  | 2G   | inst           | Add cost: sacr a land -- search and put two basic land into play                                                   |
+| 2 | Adventuring Gear        | 1    | art equip      | Equip 1 -- Landfall: equip creats gets +2/+2                                                                       |
+| 2 | Explore                 | 1G   | sorc           | You mayp play an add land this turn -- draw a card                                                                 |
+| 3 | Harrow                  | 2G   | inst           | Add cost: sacr a land -- search and put two basic land into play                                                   |
 | 3 | Vines of Vastwood       | G    | inst           | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
 | 2 | Expedition Map          | 1    | art            | 2, t: sacr it, search for a land, and put it into hand                                                             |
 |   |                         |      |                |                                                                                                                    |
@@ -17,9 +17,9 @@
 | 1 | Sunpetal Grove          | land |                | Enter tapped unless u control Plain or Forest (t: add W or G)                                                      |
 | 1 | Marsh Flats             | land |                | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
 | 6 | Forest                  | land |                |                                                                                                                    |
-| 6 | Plain                   | land |                |                                                                                                                    |
+| 7 | Plain                   | land |                |                                                                                                                    |
 |---+-------------------------+------+----------------+--------------------------------------------------------------------------------------------------------------------|
-| 2 | Adventuring Gear        | 1    | art equip      | Equip 1 -- Landfall: equip creats gets +2/+2                                                                       |
+| 2 | Quest for Renewal       | 1G   | ench           | When creat becomes tapped, put a counter -- if counter > 4: untap all creats during each other untap phase         |
 | 4 | Oracle of Mul Daya      | 3G   | 2/2            | You may play an add land -- play w/ tio card revealed -- u may play the top card of your library                   |
 | 4 | Khalni Heart Expedition | 1G   | ench           | Landfall: put a counter - remove 3 counter, sacr it: put up to two basic lands onto battlefield                    |
 | 2 | Explorer's Scope        | 1    | artifact       | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped           |
