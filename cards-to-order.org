@@ -1,17 +1,44 @@
-| Name                | Price | Count | Decks         | From              |
-|---------------------+-------+-------+---------------+-------------------|
-| Sunken Ruins        | $5    |     3 | Faerie        | Lorwin/Shadowmoor |
-| Murkfiend Liege     | $3    |     4 | Hydra         | Lorwyn/Shadowmoor |
-| Paradise Mangle     | $1.2  |     4 | Mill Grimoire | Fifth Dawn        |
-| Remand              | $1.7  |     3 | Graft Control | Ravnica           |
-| Mirror Entity       | $2    |     4 | Merfolk SB    | Lorwin/Shadowmoor |
-| Sage's dousing      | $.10  |     4 | Merfolk       | Lorwyn/Shadowmoor |
-| Mystic Gate         | $3.5  |     4 | Merfolk       | Lorwyn/Shadowmoor |
-| Jace Belleren       | $7    |     2 | Merfolk       | Lorwyn/Shadowmoor |
-| Graypelt Refuge     | $.25  |     4 | Landfall      | Zendikar          |
-|                     |       |       |               |                   |
-| Everlasting Torment | $2    |     4 |               | Lorwyn/Shadowmoor |
-| Demigod of Revenge  | $6    |     3 |               | Lorwyn/Shadowmoor |
-| Azorius Herald      |       |     3 |               | Ravnica           |
-| Llanowar Reborn     | $.40  |     3 | Hydra         | Future Sight      |
-|                     |       |       |               |                   |
+52.27
+
+| Name                    | Price | Count | Decks      | From              |
+|-------------------------+-------+-------+------------+-------------------|
+| Clear the land          |       |       |            |                   |
+| Ubord, Tomb of Yawgmoth | $7?   | 1     | Land       |                   |
+|                         |       |       |            |                   |
+| Words of Waste          |       | 0/4   | Discard    |                   |
+| Persecute               |       | 0/4   | Discard    |                   |
+| Mind Twist              |       | 0/4   | Discard    |                   |
+| Syphon Mind             |       | ?/4   | Discard    |                   |
+|                         |       |       |            |                   |
+| Planar Void             |       | 0/4   | Madness    |                   |
+|                         |       |       |            |                   |
+| High Tide               |       | 0/4   |            | Master Edition    |
+|                         |       |       |            |                   |
+| Sunken Ruins            | $5    | 3     | Faerie     | Lorwin/Shadowmoor |
+| Murkfiend Liege         | $3    | 4     | Hydra      | Lorwyn/Shadowmoor |
+| Mirror Entity           | $2    | 4     | Merfolk SB | Lorwin/Shadowmoor |
+| Mystic Gate             | $3.5  | 4     | Merfolk    | Lorwyn/Shadowmoor |
+| Jace Belleren           | $7    | 2     | Merfolk    | Lorwyn/Shadowmoor |
+| Graypelt Refuge         | $.25  | 4     | Landfall   | Zendikar          |
+|                         |       |       |            |                   |
+| Everlasting Torment     | $2    | 4     |            | Lorwyn/Shadowmoor |
+| Demigod of Revenge      | $6    | 3     |            | Lorwyn/Shadowmoor |
+| Azorius Herald          |       | 3     |            | Ravnica           |
+|                         |       |       |            |                   |
+|                         |       |       |            |                   |
+| Enlightened Tutor       | $8    | 4     | Untap      | Sixth Edition     |
+| Trinket Mage            | $.40  | ?     | Untap      | Fifth Dawn        |
+| Fabricate               | $.75  | ?     | Untap      | M10               |
+| Idylic Tutor            | ?     | ?     | Untap/Ench | Morningtide       |
+| Steelshaper's Gift      |       | 4?    | Untap      | Fifth Dawn        |
+|                         |       |       |            |                   |
+| Cruel Tutor             |       | ?     | Discard    |                   |
+| Temporal Extension      |       | 4     | ???        |                   |
+| Grim Tutor              |       |       | Discard    | Master Edition    |
+| Head Games              |       |       | ???        |                   |
+| Infernal Tutor          |       | 3     | Discard    |                   |
+| Maralen of the Mornsong |       |       |            |                   |
+| Shimian Specter         |       | ?     | Discard    | Future Sight      |
+| Vampiric Tutor          |       | 4     | Discard    |                   |
+|                         |       |       |            |                   |
+| Web of inertia          |       |       |            |                   |
