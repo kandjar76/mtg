@@ -8,7 +8,15 @@
 | 4 | Ulamog's Crusher     |     8 | 8/8   | annihilator 2 -- attach each turn if able                                                                                                           |
 | 4 | It that betrays      |    12 | 11/11 | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
 | 4 | Hand of Emrakul      |     9 | 7/7   | annihilator 1 -- you may sacr 4 eld pawn rather than paying its mana cost                                                                           |
+|   |                      |       |       |                                                                                                                                                     |
+| 4 | Mossword Bridge      |       | land  | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
+| 4 | Evolving Wilds       |       | land  | sacr: search for a basic land put into play tapped                                                                                                  |
+| 4 | Terramorphic Expanse |       | land  | sacr: search for a basic land put into play tapped                                                                                                  |
+| 5 | Forest               |       | land  |                                                                                                                                                     |
+| 7 | Mountain             |       | land  |                                                                                                                                                     |
 |---+----------------------+-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Recurring Nightmare  |    2B | ench  | Sacr a creat, return him to hand: return creat from graveyard to play                                                                               |
+|   |                      |       |       |                                                                                                                                                     |
 | ? | Wordly Tutor         |     G |       |                                                                                                                                                     |
 | ? | Lantern of Insight   |     1 | art   | Player plays w/ top card of library revealed -- t: sacr, tgt player shuff his library                                                               |
 | 4 | Idyllic Tutor        |    2W | sorc  | Search for an ench and put it in your hand                                                                                                          |
