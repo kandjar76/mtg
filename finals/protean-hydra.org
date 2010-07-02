@@ -31,10 +31,9 @@
 | 3 | Raking Canopy            | 1G        | ench       | deal 4 damage to each creat w/ flying attacking u                                                                         |
 | 4 | Scarscale Ritual         | 1U        | inst       | add cost: put a -1c on creat u control -> draw 2 cards                                                                    |
 | 4 | Merror Levitator         | 3U        | 2/3        | t: tgt creat gain flying                                                                                                  |
-| 2 | Sundering Vitae          | inst      | 2g         | convoke -- destroy tgt ench or artifact                                                                                   |
+| 2 | Sundering Vitae          | sorc      | 2g         | convoke -- destroy tgt ench or artifact                                                                                   |
 | 2 | Retrace                  | sorc      | 2G         | Return tgt card from your graveyard to your hand                                                                          |
 | 1 | Garruk Wildspeaker       | 2GG       | pw         |                                                                                                                           |
-| 3 | Cytoplast Rootkin        | 2GG       | 0/0        | graft 4 -- when comes into play add a +1c to each creats w/ -- 2: move a +1c from tgt creat to him                        |
 | 4 | Birds of paradise        | G         | 0/1 fly    | t: add 1 mana of any color                                                                                                |
 
 
