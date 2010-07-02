@@ -9,7 +9,7 @@ Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 |  4 | Hypnotic Specter          | 1BB | 2/2 fly    | When deals damage to opp, that player disc a card at random!!!                                                             |
 |  3 | Nezumi Shortfang          | 1B  | 1/1 -- 3/3 | 1Bt: tgt player disc a card, when no card, flip // beg opp upk, looses 1 life for each card fewer than 3                   |
-|  4 | Rotting Rats              | 1B  | 1/1        | when enter: each players discards -- unearth 1B                                                                            |
+|  3 | Rotting Rats              | 1B  | 1/1        | when enter: each players discards -- unearth 1B                                                                            |
 |    |                           |     |            |                                                                                                                            |
 |  4 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
 |  4 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
@@ -17,8 +17,8 @@ Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
 |  4 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
 |  3 | Pox                       | BBB | sorc       | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                                               |
 |  2 | Honden of Night's Reach   | 3B  | ench leg   | Beg upk, tgt opp discards a card                                                                                           |
-|  2 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
-|  2 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|  2 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
+|  3 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
 |    |                           |     |            |                                                                                                                            |
 |  4 | Bojuka Bog                |     | land       | Comes into play tapped, exile tgt player graveyard - t: add B                                                              |
 | 20 | Swamp                     |     | basic land |                                                                                                                            |
@@ -29,7 +29,7 @@ Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
 |  3 | Guul Draz Specter         | 2BB | 2/2 fly    | It gets +3/+3 as long as an opp has no card in hands; when deals combat damage to an player, he discards a card            |
 |  4 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
-|    | Innocent Blood            | B   | sorc       | each player sacr a creats                                                                                                             |
+|    | Innocent Blood            | B   | sorc       | each player sacr a creats                                                                                                  |
 
 So far I think unnerve is too much of a casting cost; same with Honden.
 4 mana, i wanna spend on something else.
