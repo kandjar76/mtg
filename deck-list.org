@@ -1,0 +1,36 @@
+| Name          | Genre               | Stength | Category       |
+|---------------+---------------------+---------+----------------|
+| Merfolk       | Combo/Mill          | AAA     | Lorwyn Block   |
+| Faery         | Control             | AAA     | Lorwyn Block   |
+| Land-Fall     | Combo/Control       | A+      | Zendikar Block |
+| Discard       | Control             | A+      | Legacy         |
+| Wee-Dragonaut | Aggro/Combo         | A       | Ravnica Block  |
+| Graft Control | Control             | B+      | Ravnica Block  |
+| Protean Hydra | Combo               | B+      | Extended 2010  |
+| Madness       | Combo               | B       | Legacy         |
+| Eldrazi       | Combo               | B-      | Legacy         |
+
+Name:     Nickname for the deck
+Category: Tournament Category for the Deck
+Genre:    Game style for the deck
+Strength: How good the deck is (C->AAA)
+
+Strength Description:
+ AAA  Tournament Level / Very refine deck
+      Few weaknesses
+      Rarely loose against a level decks
+      Can take on multiple lower level decks simultaneously (meaning: 2 vs 1 or 3 vs 1...)
+ A    Refined/Tuned Deck
+      Have limited known weaknesses
+      Can be brutal if the combo works.
+ B    Usually deck made w/o buying many singles
+      Major weaknesses, very slow deck....
+      Never overpowered.
+ C    Deck made with a very limited card pool -- draft style deck
+      
+Genre Description:
+ Combo   Deck relying on combos to win
+ Mill    Main goal of the deck is to empty the opponen'ts 
+ Aggro   Deck relying on dealing direct damage to win, usually fast deck
+ Control Deck using disrupting the opponent to win
+ 
