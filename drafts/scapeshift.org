@@ -1,0 +1,7 @@
+| 4 | Baloth Woodcrasher      | 4GG | 4/4  | Landfall: gain +4/+4 and tranple until eot                                                             |
+| 4 | Rampaging Baloth        | 4GG | 6/6  | Landfall: put a 4/4 beast to play                                                                      |
+|   |                         |     |      |                                                                                                        |
+|   |                         |     |      |                                                                                                        |
+| 4 | Scapeshift              | 2GG | sorc | Sacr any number of land, search your library for that many land  put into play tapped                  |
+| 4 | Khalni Heart Expedition | 1G  | ench | Landfall: put a counter -- remove 3 counter and sacr it: search for 2 basic land, put into play tapped |
+| 4 | Harrow                  | 2G  | inst | Sacr a land, search lib for up to two basic land, and put into play                                    |

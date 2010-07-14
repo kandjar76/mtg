@@ -1,0 +1,10 @@
+| $.5 | 4 | Bronze Bombshell      | 4  | 4/1      | If another player control it, sacr it, it deals 7 damage to that player                                                            |
+| $.3 | 4 | Spawnbroker           | 2U | 1/1      | When comes into play: You may exchange creat u control and creat u dont control w/ pow less                                        |
+| $.2 | 4 | Bazaar Trader         | 1R | 1/1      | t: Tgt player gain control of art, creat, land u control                                                                           |
+| $3  | 4 | Donate                | 2U | sorc     | Tgt player gains control of tgt pern u control                                                                                     |
+|     |   |                       |    |          |                                                                                                                                    |
+| $.3 | 2 | Jinxed Choker         | 3  | Artifact | Eot: give it to an opp and put charge counter on it. Beg upk: it deals <num counter> damage to u -- 3: remove a counter or add one |
+| $.5 | 4 | Jinxed Idol           | 2  | Artifact | Beg  upk: deals 2 damage to you -- sacr a creat: tgt opp gain control of it                                                        |
+| $.2 | 4 | Act of Treason        | 2R | sorc     | Gain control of tgt creat until eot.                                                                                               |
+| $.2 | 4 | Puca's Mischief       | 3U | ench     | Beg upk, u may exchange control of 2 tgt non land perm with the opp costing less                                                   |
+| $3  | 4 | Illusions of Grandeur | 3U | ench     | Cumul upk 2 -- comes into play: gain 20 lifes leave play loose 20 life                                                             |

@@ -1,0 +1,15 @@
+| 4 | Breaking point     | 1RR  | sorc | Any player may takes 6 damage if not: destroy all creats, they can't be regen                     |
+| 4 | Browbeat           | 2R   | sorc | Any player may takes 5 damage if not: tgt player draws 3 cards                                    |
+| 4 | Aether Rift        | 1RG  | ench | Beg upk: disc card at random, if u discard a creat, put it to play unless any player pays 5 life  |
+|   | Shivan Wumpus      | 3R   | 6/6  | trample -- When enter plays, any player may sacr a land, if so, put him on top of lib.            |
+
+|   |                    |      |      |                                                                                                                                                |
+|   |                    |      |      |                                                                                                                                                |
+|   |                    |      |      |                                                                                                                                                |
+|   | Curse of the Cabal | 9B   | sorc | Susp 2 (2BB) - Tgt player sacr half of the perm rounded down -- beg each player's upk, he may sacr a perm, if he does put 2 time counter on it |
+|   | Rhystic Tutor      | 2B   | sorc | Unless any player pays 2, search for ur lib for a card, and put into ur hand.                                                                  |
+|   | Dash Hopes         | BB   | inst | counter tgt spell unless any player pay 5 life                                                                                                 |
+|   | Lethel Vapor       | 3B   | ench | Whenever a creat enter battlefield, destroy it; 0: skip your next turn and destroy this ench.                                                  |
+|   | Worms of the Earth | 2BBB | ench | Players can't play lands -- beg each upk: any player may sacr 2 lands or pay 5 life to destroy it                                              |
+|   | Temporal Extortion | BBBB | sorc | Any player can pay half of his life to counter it -- take an extra turn after this one                                                         |
+|   |                    |      |      |                                                                                                                                                |

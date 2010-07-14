@@ -1,0 +1,10 @@
+| 2 | Niv Mizzet            | 2RRUU    | 4/4 fly leg | When draw card, deals 1 damage -- t: draw                                                                                    |
+| 4 | Wee dragonauts        | 1UR      | 1/3 fly     | When play an inst or sorc, it gets +2/+0                                                                                     |
+| 3 | Dominus of Fealty     | {ru} x 5 | 4/4         | fly -- beg upk, gain control of tgt perm                                                                                     |
+|   |                       |          |             |                                                                                                                              |
+| 2 | Pyromancer Ascension  | 1R       | ench        | When cast spell w/ same name in the graveyard, put counter on it -- when 2 more counter -> replicate any instant/sorc u play |
+| 4 | Clout of the Dominous | {ru}     | ench aura   | red: +1/+1 haste, blue: +1/+1 shroud                                                                                         |
+| 4 | Ponder                | U        | sorc        | Look top 3 card, put back in any order, you may shuffle -- draw                                                              |
+| 3 | Remand                | 1U       | inst        | Counter tgt spell, return to owner's hand -- draw a card                                                                     |
+| 4 | Fossil Find           | {rg}     | sorc        | Return a card at random from ur graveyard to your hand                                                                       |
+|   |                       |          |             |                                                                                                                              |

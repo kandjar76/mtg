@@ -1,0 +1,13 @@
+Problem: that's a lot of card for the combo..
+3 cards to get the combo out! and Bloodchief needs 3 counters!!
+
+|   |                         |     |      |                                                                                                                                             |
+| 4 | Liliana's Specter       | 1BB | 2/1  | When comes into play: each opp discard a card                                                                                               |
+|   |                         |     |      |                                                                                                                                             |
+| 4 | Liliana's Caress        | 1B  | ench | When opp disc, he looses 2 life                                                                                                             |
+| 4 | Dark ritual             | B   | inst | Add BBB to mana pool                                                                                                                        |
+| 4 | Bloodchief Ascension    | B   | ench | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard |
+| 4 | Glimpse the Unthinkable | BU  | inst | Tgt player put top 10 cards from lib to graveyard                                                                                           |
+| 4 | Consult the Necrosage   | 1BU | sorc | Choose one: tgt player discards or draws two cards                                                                                          |
+| 4 | Megrim                  | B   | sorc | Tgt player reveal his hand, choose a non creature, non land card, he discards it                                                            |
+|   |                         |     |      |                                                                                                                                             |

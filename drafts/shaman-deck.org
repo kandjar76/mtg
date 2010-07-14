@@ -1,0 +1,5 @@
+|   | Vampire Nighthawk | 1BB | Vampire Shaman   | 2/3 fly | deathtouch, lifelink                                                                       |
+|   | Lightning Crafter | 2R  | Goblin Shaman    | 3/3     | champion a goblin -- t: deals 3 damage to tgt creat or player                              |
+|   | Stigma Lasher     | RR  | Elemental Shaman | 2/2     | Whenever it deals damage to a player, that player can't gain life for the rest of the game |
+|   | Vampire Hexmage   | BB  | Vampire Shaman   | 2/1     | First strike -- Sacr it, remove all counters from tgt perm                                 |
+|   |                   |     |                  |         |                                                                                            |

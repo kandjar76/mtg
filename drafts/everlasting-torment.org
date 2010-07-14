@@ -1,0 +1,13 @@
+| 4 | Demigod of Revenge  | 5x{br} | 5/4 fly | Haste -- When put in play, return all cards name demigod of revenge from graveyard to play |
+| 4 | Midnight Banshee    | 3BBB   | 5/5     | wither -- beg upk: put a -1/-1 on each non black creats                                    |
+|   |                     |        |         |                                                                                            |
+|   |                     |        |         |                                                                                            |
+| 4 | Dark Ritual         | B      | inst    | Add BBB to mana pool                                                                       |
+| 4 | Earthquake          |        |         |                                                                                            |
+| 4 | Everlasting torment | 2{br}  | ench    | Players can't gain life, damage can't be prevented, all damage dealt as source as wither   |
+|   |                     |        |         |                                                                                            |
+|   | Blood Vassal        | 2B     | 2/2     | sacr it: add BB to mana pool                                                               |
+|   | Bog Witch           | 2B     | 1/1     | B, t, discard: add BBB to mana pool                                                        |
+|   | Cabal Ritual        | 1B     | inst    | add BBB -- threshold: add BBBBB                                                            |
+|   | Nirkana Revenant    | 4BB    | 4/4     | Whenever ur tap a swamp, add B to mana pool -- B: get +1/+1 until eot                      |
+|   |                     |        |         |                                                                                            |
