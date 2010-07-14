@@ -27,6 +27,15 @@ ravnica?
 Maralen + Mindlock Orb -- fun dead lock
 Flame Fusillade !!!! <- Investigation required!!!
 
+- untap deck: using the mantle paradise, and the blue card from eldrazi to reduce the cost
+- niz mizzet deck using the enchant to deal damage on draw (and the instant to move aura?)
+- "level up" blue/other color deck
+- 5 color deck!
+- update the graft-control deck into a wizard-control deck?
+  white/blue? 
+  (protection, put counter from white)
+  (blue: gain control / counter spell; and other fun stuff)
+
 
 cross block idea:
  - wolf deck
@@ -35,6 +44,11 @@ cross block idea:
    (skeet shooting)
  - draw to death!
    penalize the player from drawing and force him to draw many cards!
+
+ - Update the sacrifice deck
+ - Merfolk invasion deck! with the artifact which tap for mana and the guy which untap to exile to card of my lib.
+   Couple with the guy which becomes tapped give you a draw!
+   Cool combo to do...
 
 so basically:
   black/blue  - could be fun but expensive
