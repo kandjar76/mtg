@@ -1,0 +1,73 @@
+
+
+Creatures:
+
+| Count | Card Name                 | Cost  | Type     | Evoke | Abilities  | Descript                                                                                                             |
+|     4 | Kulrath Knight            | 3rb   | 3/3      |       | fly wither | Creats ur opp control w/ -1c can't attack or bock                                                                    |
+|     4 | Necroskitter              | 1BB   | 1/4      |       | with       | When opp creat with -1c is put to graveyard: return it to play under ur control                                      |
+|     4 | Sootstoke Kindler         | 1{rb} | 1/1      |       | haste      | t: tgt blk or red creat gain haste                                                                                   |
+|     2 | Midnight Banshee          | 3BBB  | 5/5      |       | with       | Beg upk, put a -1c on each non black creatures                                                                       |
+|     4 | Ashenmoor Liege           | 1rbr  | 4/1      |       |            | other black creat +1, other red creat +1 - if targeted by oponent -> opp loses 4 life                                |
+|       |                           |       |          |       |            |                                                                                                                      |
+|     4 | Brighthearth Banneret     | 1R    | 1/1      |       |            | elmt & warrior spells and cost 1 less to cast - reinforce 1R                                                         |
+|     4 | Smokebraider              | 1R    | 1/1      |       |            | t: add two mana                                                                                                      |
+|     4 | Hateflayer                | 5RR   | 5/5      |       | wither     | 2Ru: Hateflayer deals damage equal to its power to tgt creat or player                                               |
+|     4 | Incandescent Soulstoke    | 2R    | 2/2      |       |            | othr elt get +1 - 1Rt: put a elt from ur hand to play, gain haste, sacr at end of turn                               |
+|     4 | Flamekin Harbinger        | R     | 1/1      |       |            | Enter battlefield: search for a elt card and put it on top of the library                                            |
+|     4 | Spitebellows              | 5R    | 6/1      | 1RR   |            | When leaves it deals 6 damage to creat                                                                               |
+|       |                           |       |          |       |            |                                                                                                                      |
+|     # | Ashling, the Extinguisher | 2BB   | 4/4  leg |       |            | when it deals comb damage to player, choose tgt creat, that player sacr that creat                                   |
+|       | Ashling the Pilgrim       | 1R    | 1/1  leg |       |            | 1R: put a +1c on it, if its the 3rd time; remove call counter and deal N damage to players and creats                |
+|     * | Fulminator Mage           | 1rb   | 2/2      |       |            | sacr: destroy target non basic land                                                                                  |
+|       | Heartlash Cinder          | 1R    | 1/1      |       | Haste      | Chroma: enter play, gets +X/+0 where X number of red mana symbols of permanent u control                             |
+|       | Inner-Flame Acolyte       | 1RR   | 2/2      | R     |            | When enter plays, tgt creat gets +2/+0 and haste                                                                     |
+|       | Inner-Flame Igniter       | 2R    | 2/2      |       |            | 2R: creatures get +1/+0, if third times: creatures get first strike                                                  |
+|       | Offalsnout                | 2B    | 2/2      | B     |            | When leaves play: exile tgt card from graveyard                                                                      |
+|     s | Pyroclast Consul          | 3RR   | 3/3      |       | kinship    | if kinship: deals 2 damage to each creatures                                                                         |
+|       | Seething Pathblazer       | 2R    | 2/2      |       |            | Sacr an elt: gets +2/+0 and first strike                                                                             |
+|       | Shriekmaw                 | 4B    | 3/2      | 1B    | Fear       | When enters play: destroy tgt non artifact non black creature                                                        |
+|       | Sickle Ripper             | 1B    | 2/1      |       | wither     |                                                                                                                      |
+|     * | Smolder Initiate          | B     | 1/1      |       |            | When a player plays a black spell: u may pay 1 to deal 1 damage to tgt player                                        |
+|       | Cinder Pyromancer         | 2R    | 0/1      |       |            | t: deals 1 damage to tgt creat or player - whenever u cast a red spell untap cinder                                  |
+|       |                           |       |          |       |            |                                                                                                                      |
+|       | Footbottom Feast          | 2B    | Inst     |       |            | Put any number of creat card from ur graveyard on top of library; then draw a card                                   |
+|       | Fossil Find               | {rg}  | Sorc     |       |            | Return a card at random from graveyard to ur hand                                                                    |
+|       | Profane Command           | xBB   | Sorc     |       |            | Choose 2: tgt player looses X life; ret tgt creat mana X to play; tgt creat gets -X/-X; up to X tgt creats gain fear |
+|       | Crumbling Ashes           | 1B    | Ench     |       |            | Beg upk, destroy tgt creatures with a -1c on it                                                                      |
+|       |                           |       |          |       |            |                                                                                                                      |
+
+28
+36?
+
+Land:
+
+| Count | Card Name                  | Cost | Descript                                                         |
+
+Mana cost:
+
+| Mana Cost | Num cards of that cost |
+|         1 | 5                      |
+|         2 | 10                     |
+|         3 | 13                     |
+|         4 | 6                      |
+|         5 | 5                      |
+|         6 | 1                      |
+
+Spell color count:
+
+|       | Creat | Other |
+| Green |     9 |     7 |
+| Blue  |     2 |     0 |
+| Gr/Bl |    16 |     6 |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Side deck: 15 cards
+
+| Count | Card Name             | Cost | Descript                                                        |
+
+
+================================================================================================================================================================
+
+Other cards:
+| Count | Card Name             | Cost | Descript                                                                                                                     |
