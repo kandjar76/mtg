@@ -9,33 +9,52 @@ Idea: everyone's drawing a lot -- but get penalize for it!!!
 cost:
 59 ($68? w/ tax and ship) 
 
-| 4 |   7 | Niv-Mizzet, the firemind  | 2UURR     | 4/4 leg fly | Whenever u draw, it deals 1 damage to tgt player -- t: draw a card                                    |
-| 4 | .75 | Kami of the Crescent Moon | UU        | 1/3 leg     | Beg each play draw step, draw an add cards                                                            |
-| 4 |  .5 | Kederekt Parasite         | B         | 1/1         | When opp draws a card, if u control a red permanent u may deal 1 damage to him                        |
-| 4 | .05 | Walking Atlas             | 2         | art 1/1     | t: you may put a land from your hand into play                                                        |
-|   |     |                           |           |             |                                                                                                       |
-| 4 | 2.5 | Howling Mine              | 2         | art         | Beg each play draw step, if untapped, play draws an additional card                                   |
-| 4 |   2 | Underworld Dreams         | BBB       | ench        | When opp draws, it deals 1 damage to him                                                              |
-| 4 |  .5 | Spiteful Visions          | 2{br}{br} | ench        | Beg draw step, draw another card -- whenever a player's draw it deals 1 damage to him                 |
-| 2 |  .7 | Forced Fruition           | 4UU       | ench        | whenever an opp cast a spell, he draws 7 cards                                                        |
-| 4 |  .4 | Cerebral Vortex           | 1RU       | inst        | tgt player draws 2 card, the get damage for the number of cards he draws that turn                    |
-|   |     |                           |           |             |                                                                                                       |
-|   |     |                           |           |             |                                                                                                       |
-|   |     | Swans of Bryn Argol       | 2{wu}{wu} | 4/3 fly     | Prevent damage dealt to it, damage source controller draws card instead                               |
-|   | 1.8 | Mind's Eye                | 5         | art         | Whenever an opp draw, pay 1 to draw too                                                               |
-|   |  .4 | Phyrexian Tyranny         | UBR       | ench        | When a player draws, he looses 2 unless he pays 2                                                     |
-|   |     |                           |           |             |                                                                                                       |
-|   |   4 | Hoofprints of the Stag    | 1W        | ench - elt  | Whenever u draw, put a counter on it; 2W, remove 4: put a 4/4 fly creat into play                     |
-|   |   5 | Font of Mythos            | 4         | Art         | Beg each play draw step, draws 2 add cards                                                            |
-|   |     | Rites of Flourishing      | 2G        | ench        | beg each play draw step, draw an add card -- and may play 2 land this turn                            |
-|   |  .5 | Teferi's Puzzle Box       | 4         | Art         | beg each play draw step, that player puts the cards in hand at the bottom of lib then draws that many |
-|   |     |                           |           |             |                                                                                                       |
-|   |  .1 | Burning Inquiry           | R         | sorc        | each player draws 3 cards, then discard 3 at random                                                   |
-|   |     | sign of blood             | BB        | sorc        | tgt player draws 2 cards and looses 2 life                                                            |
-|   |     | reckless scholar          | 2U        | 2/1         | t: tgt player draw then discard                                                                       |
-|   |     |                           |           |             |                                                                                                       |
-|   |   3 | Anvil of Bogardan         | 2         | art         | players no max hand size, beg draw step, draw then discard                                            |
-|   | .3  | Reliquary Tower           | 0         | land        | you have no max hand size                                                                             |
-|   | .1  | spellbook                 | 0         | art         | you have no max hand size                                                                             |
-|   | .5  | library of leng           | 1         | art         | you have no max hand size, if a spell cause discard, put it on top of lib instead                     |
-|   |     |                           |           |             |                                                                                                       |
+| 4 |   7 | Niv-Mizzet, the firemind  | 2UURR     | dragon wizard  | 4/4 leg fly   | Whenever u draw, it deals 1 damage to tgt player -- t: draw a card                                    |
+| 4 |     | Venser, Shaper Savant     | 2UU       | Human wizard   | 2/2 leg flash | When comes into play, return tgt spell or perm to its owner's hand                                    |
+| 4 |     | Fallowsage                | 3U        | Merfolk Wizard | 2/2           | When becomes tapped, u may draw                                                                       |
+| 4 |     | Stonybrook Banneret       | 1U        | Merfolk Wizard | 1/1           | Merf/Wiz cost 1 less                                                                                  |
+|   |     |                           |           |                |               |                                                                                                       |
+| 4 |     | Electrolyze               | 1UR       |                | inst          | deals 2 damages to up to two tgt, draw a card                                                         |
+| 4 |     | Cerebral Vortex           | 1UR       |                | inst          | tgt players draws 2 cards, then cerebral deals damage to number of card he draw this turn             |
+| 4 |     | Ponder                    | U         |                | sorc          | look at top 3 cards, put back, u may shuffle, then draw                                               |
+| 4 |     | Remand                    | 1U        |                | inst          | counter tgt spell, the spell goes back to its owner's hand, draw a card                               |
+| 4 |     | Paradise Mantle           | 0         |                | artifact      | equip 1; creat gets: "t: add on mana"                                                                 |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+| 2 |     | Spectral Shift            | 1U        |                | inst          | change a color, or basic land type on a spell/permanent u opp control                                 |
+| 1 |     | Jace the Mindsculpter     | 2UU       | planeswalker   |               |                                                                                                       |
+| 1 |     | Doubling Cube             | 2         |                | artifact      | 3, double the mana                                                                                    |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+| 3 |     | Quickchange               | 1U        |                | inst          | change the color of tgt creatures                                                                     |
+| ? |     | Ancestral vision          | -         |                | sorc          | U, susp 4: when resolves, tgt player draws 3 cards                                                    |
+|   |     |                           |           |                |               |                                                                                                       |
+| 4 | .75 | Kami of the Crescent Moon | UU        |                | 1/3 leg       | Beg each play draw step, draw an add cards                                                            |
+| 4 |  .5 | Kederekt Parasite         | B         |                | 1/1           | When opp draws a card, if u control a red permanent u may deal 1 damage to him                        |
+| 4 | .05 | Walking Atlas             | 2         |                | art 1/1       | t: you may put a land from your hand into play                                                        |
+|   |     |                           |           |                |               |                                                                                                       |
+| 4 | 2.5 | Howling Mine              | 2         |                | art           | Beg each play draw step, if untapped, play draws an additional card                                   |
+| 4 |   2 | Underworld Dreams         | BBB       |                | ench          | When opp draws, it deals 1 damage to him                                                              |
+| 4 |  .5 | Spiteful Visions          | 2{br}{br} |                | ench          | Beg draw step, draw another card -- whenever a player's draw it deals 1 damage to him                 |
+| 2 |  .7 | Forced Fruition           | 4UU       |                | ench          | whenever an opp cast a spell, he draws 7 cards                                                        |
+| 4 |  .4 | Cerebral Vortex           | 1RU       |                | inst          | tgt player draws 2 card, the get damage for the number of cards he draws that turn                    |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |     | Swans of Bryn Argol       | 2{wu}{wu} |                | 4/3 fly       | Prevent damage dealt to it, damage source controller draws card instead                               |
+|   | 1.8 | Mind's Eye                | 5         |                | art           | Whenever an opp draw, pay 1 to draw too                                                               |
+|   |  .4 | Phyrexian Tyranny         | UBR       |                | ench          | When a player draws, he looses 2 unless he pays 2                                                     |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |   4 | Hoofprints of the Stag    | 1W        |                | ench - elt    | Whenever u draw, put a counter on it; 2W, remove 4: put a 4/4 fly creat into play                     |
+|   |   5 | Font of Mythos            | 4         |                | Art           | Beg each play draw step, draws 2 add cards                                                            |
+|   |     | Rites of Flourishing      | 2G        |                | ench          | beg each play draw step, draw an add card -- and may play 2 land this turn                            |
+|   |  .5 | Teferi's Puzzle Box       | 4         |                | Art           | beg each play draw step, that player puts the cards in hand at the bottom of lib then draws that many |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |  .1 | Burning Inquiry           | R         |                | sorc          | each player draws 3 cards, then discard 3 at random                                                   |
+|   |     | sign of blood             | BB        |                | sorc          | tgt player draws 2 cards and looses 2 life                                                            |
+|   |     | reckless scholar          | 2U        |                | 2/1           | t: tgt player draw then discard                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |   3 | Anvil of Bogardan         | 2         |                | art           | players no max hand size, beg draw step, draw then discard                                            |
+|   |  .3 | Reliquary Tower           | 0         |                | land          | you have no max hand size                                                                             |
+|   |  .1 | spellbook                 | 0         |                | art           | you have no max hand size                                                                             |
+|   |  .5 | library of leng           | 1         |                | art           | you have no max hand size, if a spell cause discard, put it on top of lib instead                     |
+|   |     |                           |           |                |               |                                                                                                       |
