@@ -1,0 +1,10 @@
+|-------------+--------------------------------------------------------------|
+| Folder name | Description                                                  |
+|-------------+--------------------------------------------------------------|
+| draft       | Files containing list of card put together to build a deck   |
+| ideas       | Initial deck                                                 |
+| to-build    | "Approved" decks requiring card to be purchases              |
+| in-progress | Running deck requiring refinements.                          |
+| finals      | Final version of decks (may be subject to small refinements) |
+| to-keep     | Non working/boring decks, kept as reference                  |
+|-------------+--------------------------------------------------------------|
