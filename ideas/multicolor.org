@@ -1,0 +1,10 @@
+| 4 | Knight of New Alara      | 2GW   | 2/2       | Each other multicolor creat gets +1/+1 for each of its colors |
+| 4 | Transguild Courier       | 4     | 3/3       | He's all colors                                               |
+| 4 | Scrapbasket              | 4     | 3/2       | 1: Becomes all colors until eot                               |
+| 4 | Bant Sureblade           | {gu}W | 2/1       | If control another multicolor: it gains +1/+1 and first strk  |
+| 4 | Child of Alara           | WUBRG | 6/6       | trample -- when put to graveyard, destroy all non land perm   |
+|   |                          |       |           |                                                               |
+| 4 | Might of the Nephilim    | 1G    | inst      | Tgt creat gets +2/+2 for each of its colors                   |
+| 4 | Blessing of the Nephilim | W     | ench aura | Ench creats gets +1/+1 for each of its colors                 |
+| 4 | Bathe in Light           | 1W    | inst      | Radiance - Protection from a choosen color                    |
+| 4 | Prismatic Lace           | U     | inst      | Tgt perm becomes colors of ur choice (indef)                  |

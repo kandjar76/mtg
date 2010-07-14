@@ -1,0 +1,23 @@
+| 4 | Stonnybrook Banneret     | 1U   | 1/1     | merfolk wizard  | island walk -- merf and wiz spells cost 1 less                                                    |
+| 4 | Merrow Reejerey          | 2U   | 2/2     | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent                |
+| 4 | Wake Trasher             | 2U   | 1/1     | merfolk soldier | Gets +1/+1 for each perm you untap                                                                |
+| 4 | Merfolk Sovereign        | 1UU  | 2/2     | merfolk         | other merf gets +1/+1 -- t: tgt merfolk is unblockable                                            |
+| 4 | Lord of Atlantis         | UU   | 2/2     | merfolk         | other merf gets +1/+1 and islandwalk                                                              |
+| 4 | Wanderwine Prophets      | 4UU  | 4/4     | merfolk         | champ merf; when deals combat damage to a player, sacr a merf, take an extra turn                 |
+| 4 | Merrow Commerce          | 1U   | enc     | merfolk         | At eot: untap all merfolk u control                                                               |
+| 4 | Stonnybrook Schoolmaster | 1W   | 1/2     | merfolk wizard  | When tapped, put a 1/1 blue merf into play                                                        |
+| 4 | Lullmage Mentor          | 1UU  | 2/2     | merfolk wizard  | When spell or ab you control counter, put a 1/1 merf into play -- tap 7 untap merf, counter spell |
+|   |                          |      |         |                 |                                                                                                   |
+| 4 | Grimoire Thief           | UU   | 2/2     | merfolk rogue   | When tapped: remove 3 cards from player's lib - U, sacr: counter any spell he removed from games  |
+| 4 | Drowner of Secrets       | 2U   | 1/3     | merfolk wizard  | Tap untapped merf: tgt player put top card of lib to graveyard                                    |
+| 3 | Judge of Currents        | 1W   | 1/1     | merfolk wizard  | When merf becomes tapped: gain 1 life                                                             |
+| 4 | Mothdust Changeling      | U    | 1/1     | changeling      | Tap untapped creat: gains flying until eot                                                        |
+| 3 | Sygg, River Guide        | UW   | 2/2 leg | merfolk wizard  | island walk -- 1W: tgt merf gains protec from the color of ur choice until eot                    |
+| 2 | Fallowsage               | 3U   | 2/2     | merfolk wizard  | When tapped: may draw a card                                                                      |
+|---+--------------------------+------+---------+-----------------+---------------------------------------------------------------------------------------------------|
+| ? | Seahunter                | 2UU  | 2/2     | Mercenary       | 3t: search for a merf card in your library, put it in play!!                                      |
+| 3 | Memory Sluice            | {ub} | ins     |                 | Conspire -- Tgt player put top 4 cards of library to graveyard                                    |
+| 2 | Savor the moment         | 1UU  | sorc    |                 | Take an extra turn after this one; skip untap step                                                |
+| 2 | Banishing Knack          | U    | inst    |                 | Until eot: tgt creat has: t: return tgt non land perm to owner's hand                             |
+
+

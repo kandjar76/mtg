@@ -1,0 +1,11 @@
+| 4 | Kor Spiritdancer    | 1W  | 0/2 wiz      | Gets +2/+2 for each aura attached to it -- when u card an aura you may draw     |
+| 4 | Rootwater Matriarch | 2UU | 2/3 merf     | t: Gain control of tgt creats as long as its enchanted                          |
+| 4 | Stonybrook Banneret | 1U  | 1/1 wiz merf | Wizard and merfolk spell cost 1 less to play                                    |
+|   |                     |     |              |                                                                                 |
+| 4 | El Umbra            | 1U  | aura flash   | Totem armor -- ench creat gets +1/+1                                            |
+| 4 | Flickering Ward     | W   | aura         | Choose a color, ench creat gets prot against choosen color -- W: return to hand |
+| 4 | Conviction          | 1W  | aura         | Ench creat gets +1/+3 -- W: return to hand                                      |
+| 4 | Wind Zendikon       | U   | aura(land)   | Ench land is a 2/2; whenever put to graveyard return the land to owner's hand   |
+| 4 | Launch              | 1U  | aura         | Ench creat gain flying, when put to graveyard return it to owner's hand         |
+| 4 | Brilliant Halo      | 1W  | aura         | Ench creat gets +1/+2, when put to graveyard return it to owener's hand         |
+

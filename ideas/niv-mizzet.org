@@ -1,0 +1,12 @@
+| 4 | Niv Mizzet            | 2RRUU     | 4/4 fly leg | When draw card, deals 1 damage -- t: draw                                                                       |
+| 3 | Stonybrook Banneret   | 1U        | 1/1         | Wiz cost 1 less                                                                                                 |
+| 4 | Crackleburr           | 1{ru}{ru} | 2/2         | ..t: tap 2 red creat, deals 3 damage tgt creat or player, ..u: untap 2 creats, return tgt creat to owner's hand |
+| 3 | Dominus of Fealty     | {ru} x 5  | 4/4         | fly -- beg upk, gain control of tgt perm                                                                        |
+| 3 | Sage's dousing        | 3U        | 2/2         | when tapped u may draw                                                                                          |
+|   |                       |           |             |                                                                                                                 |
+| 4 | Clout of the Dominous | {ru}      | ench aura   | red: +1/+1 haste, blue: +1/+1 shroud                                                                            |
+| 4 | Electrolyze           | 1RU       | inst        | deals 2 damage splitted; draw a card                                                                            |
+| 4 | Remand                | 1U        | inst        | counter tgt spell, the spell goes back to its owner's hand, draw a card                                         |
+| 4 | Desperate Ritual      | 1U        | inst        | Add RRR to manapool -- splice on arcane                                                                         |
+| 4 | Paradise Mantle       | 0         | artifact    | equip 1; creat gets: "t: add on mana"                                                                           |
+|   |                       |           |             |                                                                                                                 |

@@ -1,0 +1,14 @@
+| 4 | Wilt-Leaf Cavaliers   | {gw}{gw}{gw}  | 3/4 vig      | elf knight     |                                                                  |
+| 4 | Wilt-Leaf Liege       | 1{gw}{gw}{gw} | 4/4          | elf knight     | Other white and green +1/+1                                      |
+|   |                       |               |              |                |                                                                  |
+| 4 | Knight of Meadowgrain | WW            | 2/2 fs life  | kithkin knight |                                                                  |
+| 4 | Stillmoon Cavalier    | 1{wb}{wb}     | 2/1          | zombie knight  | prot from white/red -- {wb}: gain flying or first strike or +1/0 |
+| 4 | Knight Exemplar       | 1WW           | 2/2 fs       | human knight   | other knight get +1/+1 and are indestructible                    |
+| 4 | Mirror Entiry         | 2W            | 1/1          | shapeshifter   | x: creat u control becomes X/X and have all creats types         |
+| 4 | Kinsbaile Cavalier    | 3W            | 2/2          | kithkin knight | knights u control have double strike                             |
+| 4 | Student of Warfare    | W             | 1/1          | human knight   | Level up W -- L3: 3/3 first strike ; L7: 4/4 Dble strike         |
+|   |                       |               |              |                |                                                                  |
+| 4 | Brave the Elements    | W             | inst         |                | White creats u control gain protect from choosen color until eot |
+| 4 | Ajani Goldmane        | 2WW           | planeswalker | Ajani          |                                                                  |
+| 4 | Swords to Plowshares  | W             | inst         |                | Exile tgt creat, its controller gain life equal to its power     |
+
