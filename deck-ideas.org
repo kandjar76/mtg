@@ -1,3 +1,16 @@
+Next deck to build:
+ - RB Wither oriented deck!
+ - GW Skeet shooting deck
+ - ?? Land heavy deck!
+ - GW Enchantment deck (turn things to enchant and have many ways to kill them :))
+ - B  Discard / Graveyard play.
+ - B  Sacrifice Deck!
+ - RB Graveyard damage deck (when a card is put to graveyard, opp takes 2 damges, u gain two life enchant + Discard hand, redraw + Direct damage)
+ - G? Landfall cross block using the lorwyn spell: Scapeshift + Rampaging Baloths + Life from the loam
+ - W? Magus of the Disk deck?
+ - ?? Painter's servant base deck (lorwyn artifact) 
+ - R? War's Toll based deck
+
 ravnica?
 
   | red/white   | radiance    | ravnica    | not that fun                             |
@@ -10,6 +23,9 @@ ravnica?
   | red/black   | hellbent    | dissension | mmm... maybe...                          |
   | white/blue  | forecast    | dissension | nah.. missing good cards                 |
   | green/blue  | graft       | dissension | done                                     |
+
+Maralen + Mindlock Orb -- fun dead lock
+Flame Fusillade !!!! <- Investigation required!!!
 
 
 cross block idea:
