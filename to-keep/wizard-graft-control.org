@@ -1,0 +1,14 @@
+| 4 | Cytoplast Manipulator | 2UU      | 0/0  | human wizard   | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                                  |
+| 4 | Stonnybrook Banneret  | 1U       | 1/1  | merfolk wizard | island walk -- merf and wiz spells cost 1 less                                                            |
+| 4 | Forgotten Ancient     | 3G       | 0/3  | treefolk       | Whenever player play a spell, u may put a +1c on him; beg next turn: u may move as many counter as u wish |
+|   |                       |          |      |                |                                                                                                           |
+|   | Sheltering Ancient    | 1G       | 5/5  | elemental      | cum upk: put a +1c on creat ur opp control.                                                               |
+|   | Memory Lapse          | 1U       | inst |                | counter tgt spell, put it on top of it's owner's library                                                  |
+| 4 | Evolution Vat         | 3        | art  |                | 3, t: tap tgt creat, put a +1c on it.                                                                     |
+|   | Immaculate Magistrate | 3G       | 2/2  | elf shaman     | t: put a +1c on tgt creat for each elf u control                                                          |
+|   | Golgari Gildmage      | {bg}{bg} | 2/2  | elf shaman     | 4B, sacr a creat: return a creat from graveyard to ur hand, 4G: put a +1c on creature u control           |
+|   | Thrive                | xG       | sorc |                | put a +1c on X tgt creats.                                                                                |
+|   | Dragon Blood          | 3        | art  |                | t: put a +1c on tgt creature                                                                              |
+|   | Strength of Tajury    | xGG      | inst |                | multikick Y; put X counter on Y creats.                                                                   |
+|   | Battlegrowth          | G        | inst |                | put a +1c on tgt creat                                                                                    |
+|   |                       |          |      |                |                                                                                                           |
