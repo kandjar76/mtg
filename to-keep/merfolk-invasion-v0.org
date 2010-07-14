@@ -1,0 +1,16 @@
+| 4 | Aquitect's Will   | U  | sorc | merfolk | put a flood counter on land; that land is also an island                            |
+| 2 | Summon the School | 3W | sorc | merfolk | put 2 1/1 merf wiz into play -- tap 4 untapped merf: return it from grav to ur hand |
+
+| 4 | Cold-Eyed Selkie     | 1{gu}{gu} | 1/1     | merfolk rogue   | island walk - when deals damage to player, you draw that many card                 |
+| 3 | Judge of Current     | 1W        | 1/1     | merfolk wizard  | when a merf gets tapped, you gain 1 life                                           |
+| 4 | Stonnybrook Banneret | 1U        | 1/1     | merfolk wizard  | island walk -- merf and wiz spells cost 1 less                                     |
+| 4 | Merrow Reejerey      | 2U        | 2/2     | merfolk soldier | Other merf gets +1/+1 -- when u play a merf spell u may tap or untap tgt permanent |
+| 4 | Streambed Aquitects  | 1UU       | 2/3     | merfolk scout   | t: merf gets +1/+1 and island walk - t: tgt land becomes an island                 |
+| 2 | Sygg, River Guide    | UW        | 2/2 leg | merfolk wizard  | island walk -- 1W: tgt merf gains protec from the color of ur choice until eot     |
+| 4 | Wake Thrasher        | 2U        | 1/1     | merfolk soldier | Whenever a perm becomes untap, it gets +1/+1 until eot                             |
+| 4 | Mirror Entity        | 2W        | 1/1     | shapeshifter    | X: creats u control becomes X/X and gains all creats types                         |
+| 3 | Harpoon Sniper       | 2W        | 2/2     | merfolk archer  | W, t: deals X damge to tgt attacking or blocking creat (X = merfolk count)         |
+|   |                      |           |         |                 |                                                                                    |
+
+32 creat , 6 spells = 38.
+22 lands

@@ -1,0 +1,40 @@
+-- variation of the graft control, this time: going cross block! --
+ 
+19 Creatures
+14 Spells
+24 Lands
+
+Creatures:
+
+| 4 | Trygon Predator       | 1GU | 2/3 fly | When it deals damage to player: u may destr tgt art or enchant that player control                          |
+| 3 | Vigean Graftmage      | 2U  | 0/0     | Graft 2 - 1U: Untap tgt creat w/ a +1/+1 counter on it                                                      |
+| 4 | Cytoplast Manipulator | 2UU | 0/0     | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                                    |
+| 4 | Forgotten Angient     | 3G  | 0/3     | When a player plays a spell it gets +1/+1 counter -- beg upk: you may move as many counter on any creatures |
+| 4 | Birds of Paradise     | G   | 0/1     | t: Add one mana of any color to your mana pool                                                              |
+
+Spells:
+
+| 4 | Shielding Plax    | 2{gu} | ench aura | When comes into play: draw a card -- Enchant creats can't be tgt spell or ab ur opp control       |
+| 4 | Cytoshape         | 1GU   | inst      | choose a non leg creat - tgt creat becomes the copy of the non leg creats                         |
+| 4 | Peel from Reality | 1U    | inst      | Return tgt creat u control and tgt creat u don't control to their owner's hand                    |
+| 2 | Utopia Sprawl     | G     | ench aura | When comes into play: choose a color -- When ench land becomes tapped add that color to mana pool |
+| 4 | Voidslime         | GUU   | inst      | Coutner target spell or ability                                                                   |
+
+Lands:
+
+| 13 | Island                     |                                                                                               |
+|  7 | Forest                     |                                                                                               |
+|  2 | Novijen, Heart of Progress | t: add 1 to mana pool -- GUt: put a +1/+1 counter on each creat that came into play this turn |
+|  2 | Simic Growth Chamber       | Comes into play tapped + Ret a land to hand -- t: add GU to mana pool                         |
+
+
+Side board:
+
+| 4 | Writ of Passage   | U     | aura      | Forecast 1U (tgt creat w/ pow less than 2 is unblockable this turn) -- When ench creat attack, if pow is <= 2, it's unblockable. |
+| 1 | Vigean Graftmage  | 2U    | 0/0       | Graft 2 - 1U: Untap  tgt creat w/ a +1/+1 counter on it                                                                          |
+| 3 | Plaxmanta         | 1U    | 2/2 flash | When comes into play: creats u control gets shroud until eot - Sacr it if u didn't pay G for it                                  |
+| 3 | Sundering Vitae   | 2G    | inst      | Convoke -- Destroy tgt art or ench                                                                                               |
+| 2 | Recollect         | 2G    | sorc      | Return tgt card from graveyard to your hand                                                                                      |
+| 3 | Aquastrand Spider | 1G    | 0/0       | Graft 2 -- G: tgt creat w/ +1c gains reach                                                                                       |
+| 1 | Remand            | 1U    | inst      | Counter tgt spell, if u do, return it to owner's hand -- draw a card                                                             |
+| 2 | Experiment Kraj   | 2GGUU | 4/6       | Leg / get ab of each creat w/ +1 - t: put a +1 on tgt creat                                                                      |
