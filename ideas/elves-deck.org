@@ -1,8 +1,0 @@
-| 4 | Heritage Druid        | G   | elf druid   | tap 3 untapped elves: add GGG to ur mana pool                                                                            |
-|   | Gilt-leaf Archdruid   | 3GG | elf druid   | when u play an elf spell, draw -- tap 7 druid: gain control of land tgt player control                                   |
-|   | Nath of the Gilt-leaf | 3BG | elf warrior | leg - beg upk: u may have tgt player disc a card at random -- whenever an opp disc: put a green 1/1 elf warior into play |
-| 4 | Elvish Pioneer        | G   | elf druid   | when enter play, u may put a basic land from ur hand to the battle field tapped                                          |
-| 4 | Elvish Harbinger      | 2G  | elf druid   | when enter play, search elf -- t: add a mana of any color to ur mana pool                                                |
-|   | Elvish Archdruid      | 1GG | elf druid   | other elf gets +1/+1 -- t: add G for each elf u control                                                                  |
-| 4 | Silhana Ledgewalker   | 1G  | elf rogue   | can't be blocked except by flying -- can't be tgt of spell or ab your opp control                                        |
-| 4 | Immaculate Magistrate | 3G  | elf shaman  | t: put +1/+1 on tgt creat for each elf u control                                                                         |
