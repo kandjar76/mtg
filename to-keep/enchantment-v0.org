@@ -1,0 +1,18 @@
+Idea: Turning everything into enchantment and destroy them all :)
+
+
+| 4 | Birds of Paradise | G         | 1/1 Fly   | t: add mana of any color to mana pool                                                                                |
+| 4 | Nullmage Shepherd | 3G        | 2/4       | Tap 4 untap creats: destroy tgt artifact or enchantment                                                              |
+| 4 | Wispmare          | 2W        | 1/3 Fly   | Enter: destroy tgt enchant, evoke W                                                                                  |
+| 4 | Academy Rector    | 3W        | 1/2       | When put into graveyard from play, exile it, if you do: search ench and put that card into play                      |
+|   |                   |           |           |                                                                                                                      |
+| 4 | Primeval Light    | 3G        | sorc      | Destroy all enchantment tgt player control                                                                           |
+| 4 | Utopia Sprawl     | G         | ench land | Enter: Choose color -- When land is tapped for mana: add the choosen color to mana pool                              |
+| 4 | Enchanted Evening | 3{WU}{WU} | ench      | All permanents are enchantment                                                                                       |
+| 3 | Echoing Calm      | 1W        | inst      | destroy all enchant and all other enchant w/ same name as that enchantment                                           |
+| 3 | Leave no Trace    | 1W        | inst      | radiance -- destroy tgt ench and all other ench that shares a color with it                                          |
+| 4 | Spring Cleaning   | 1G        | inst      | destroy tgt enchant -- clash: if win, destroy all enchant ur opps control                                            |
+|   |                   |           |           |                                                                                                                      |
+|   | Sterling Grove    | WG        | ench      | other ench have shroud -- 1, sacr it: search for an ench, reveal it, put that card on top of library                 |
+|   | Patrician's scorn | 3W        | inst      | if you've cast another white spell this turn, you may cast it without paying its mana cost, destroy all enchantments |
+|   |                   |           |           |                                                                                                                      |

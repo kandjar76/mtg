@@ -1,18 +1,50 @@
-Idea: Turning everything into enchantment and destroy them all :)
+so far: 38 spells!
+12 + 6 + 12 + 8
+
+Search for the ench:
+| $7  | 3 | Academy Rector       | 3W        | 1/2     | When put to graveyard, search enchant and put that card on the battlefield                                 |
+| $2  | 4 | Idyllic Tutor        | 2W        | inst    | Search ur library for an ench and put it in your hand                                                      |
+| $.2 | 3 | Lost Auramancers     | 2WW       | 3/3     | Vanishing 3 --- When put to graveyard, if no counter on it: search ench and put into play                  |
+
+Important enchant:
+| $.5 | 2 | Enchanted Evening    | 3{WU}{WU} | ench    | All permantents are enchantment in addition to their other types                                           |
+| $6  | 1 | Humility             | 2WW       | ench    | Each creats is a 1/1 and loose all its ability                                                             |
+| $5  | 2 | Sterling Grove       | GW        | ench    | Other ench have shroud -- 1, sacr: search for an ench put it on top of the library                         |
+| $1  | 1 | Aura Shards          | 1GW       | ench    | When a creat comes into play under ur control, destroy tgt ench or artfact                                 |
+
+Key factor:
+| $.2 | 3 | Yavimaya Enchantress | 2G        | 2/2     | gets +1/+1 for each enchn on the battlefield                                                               |
+| $.3 | 2 | Ancestral Mask       | 2G        | aura    | Enchanted creat gets +2/+2 for each other ench on the battlefield                                          |
+| $.3 | 3 | Soltari Visionary    | 1WW       | 2/2     | shadow -- when deals damage to a player, destr tgt ench that player control                                |
+| $2  | 3 | Trygon Predator      | 1GU       | 2/3 fly | When deals combat damage, destroy tgt ench or art that player control                                      |
+
+Massive Ench Destruction:
+| $.2 | 4 | Scour                | 2WW       | inst    | Remove tgt enchant from the game, search graveyard, lib, remove all enchantment w/ same name from the game |
+| $.1 | 3 | Spring Cleaning      | 1G        | inst    | Destroy enchantment tgt player control -- clash: if win, destroy all enchantment opp controls              |
+| $.1 | 3 | Cleansing Meditation | 3G        | sorc    | Destroy all enchantments -- Threshold return yours to play.                                                |
+
+Helper:
+| $.5 | 2 | Yavimaya Elder       | 1GG       | 2/1     | When put into graveyard, you may search for 2 basic land and put them in hand; 2, sacr: draw a card        |
+
+Land:
+3 Terramorphic Expanse
+2 Island
+10 Plain
+5 Forest
+3 Temple Garden
 
 
-| 4 | Birds of Paradise | G         | 1/1 Fly   | t: add mana of any color to mana pool                                                                                |
-| 4 | Nullmage Shepherd | 3G        | 2/4       | Tap 4 untap creats: destroy tgt artifact or enchantment                                                              |
-| 4 | Wispmare          | 2W        | 1/3 Fly   | Enter: destroy tgt enchant, evoke W                                                                                  |
-| 4 | Academy Rector    | 3W        | 1/2       | When put into graveyard from play, exile it, if you do: search ench and put that card into play                      |
-|   |                   |           |           |                                                                                                                      |
-| 4 | Primeval Light    | 3G        | sorc      | Destroy all enchantment tgt player control                                                                           |
-| 4 | Utopia Sprawl     | G         | ench land | Enter: Choose color -- When land is tapped for mana: add the choosen color to mana pool                              |
-| 4 | Enchanted Evening | 3{WU}{WU} | ench      | All permanents are enchantment                                                                                       |
-| 3 | Echoing Calm      | 1W        | inst      | destroy all enchant and all other enchant w/ same name as that enchantment                                           |
-| 3 | Leave no Trace    | 1W        | inst      | radiance -- destroy tgt ench and all other ench that shares a color with it                                          |
-| 4 | Spring Cleaning   | 1G        | inst      | destroy tgt enchant -- clash: if win, destroy all enchant ur opps control                                            |
-|   |                   |           |           |                                                                                                                      |
-|   | Sterling Grove    | WG        | ench      | other ench have shroud -- 1, sacr it: search for an ench, reveal it, put that card on top of library                 |
-|   | Patrician's scorn | 3W        | inst      | if you've cast another white spell this turn, you may cast it without paying its mana cost, destroy all enchantments |
-|   |                   |           |           |                                                                                                                      |
+|---+-------------------+----+---------+------------------------------------------------------------------------------------------------------------|
+|   | Tragic Poet       | W  | 1/1     | t, sacr: return tgt ench to hand                                                                           |
+| 4 | Qasali Pridemage  | GW | 2/2     | exalted -- 1, sacr it: destr tgt art/ench                                                                  |
+| 4 | Primeval Light    | 3G | sorc    | Destroy all enchantment tgt player control                                                                 |
+| 2 | Aura Thief        | 3U | 2/2 fly | When put into a graveyard, gain control of all ench                                                        |
+| 2 | Isochron Scepter  | 2  | art     | imprint inst  w/ CMC < 2 -- 2t: play the imprint spell                                                     |
+| 4 | Calming Verse     | 3G | sorc    | Destroy all enchantment you don't control then destroy the one you control unless all your land are tapped |
+| 4 | Nullmage Shepherd | 3G | 2/4     | tap 4 creat: destr tgt art/ench                                                                            |
+|   |                   |    |         |                                                                                                            |
+| 4 | Aura Mutation     | GW | inst    | destroy tgt ench, put X 1/1 green saprolin in play                                                         |
+| 4 | Auramancer        | 2W | 2/2     | When enter play, return tgt ench from graveyard to hand                                                    |
+| 4 | Replenish         | 3W | sorc    | Return all ench cards from graveyard to battlefield                                                        |
+| 4 | Rancor            | G  | aura    | Ench creat gets +2/+0, and trample                                                                         |
+|   |                   |    |         |                                                                                                            |
