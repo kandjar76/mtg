@@ -5,6 +5,16 @@
 | Clear the land          |       |       |            |                   |
 | Ubord, Tomb of Yawgmoth | $7?   | 1     | Land       |                   |
 |                         |       |       |            |                   |
+| Darkness                | $1.5  | 4/4   | Discard?   | Timeshifted       |
+| Extirpate               | $7    | 2/4   | Discard?   | Planar Chaos      |
+| Reconnaissance          | $.15  | 4/4   | Archer?    | Exodus            |
+| Stillmoon Cavalier      | $4    | 4/4   | ???        | Lorwyn/Shadowmoor |
+|                         |       |       |            |                   |
+| Culling the Weak        |       | 4/4   | Sacrifice  |                   |
+| Burnt Offering          |       | 4/4   | Sacrifice  |                   |
+|                         |       |       |            |                   |
+| Instill Energy          | $.15  | 4/4   | Kraj       | Fifth Edition     |
+|                         |       |       |            |                   |
 | Words of Waste          |       | 0/4   | Discard    |                   |
 | Persecute               |       | 0/4   | Discard    |                   |
 | Mind Twist              |       | 0/4   | Discard    |                   |
