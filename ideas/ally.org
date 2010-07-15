@@ -1,11 +1,14 @@
-| 4 | Turntimber Ranger   | 3GG  | 2/2 ally | When ally enter: put a 2/2 wolf and a counter on him              |
-| 4 | Hada Freeblade      | W    | 0/1 ally | When ally enter: put counter on him                               |
-| 4 | Kazandu Blademaster | WW   | 1/1 ally | First strike, vig -- when ally: put counter on him                |
-| 4 | Harabaz Druid       | 1G   | 0/1 ally | t: add X mana of one color (X = num ally)                         |
-| 4 | Talus Paladin       | 3G   | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                  |
-| 4 | Kabira Evangel      | 2W   | 2/3 ally | When ally enter: ally gain protec against choose color            |
-|   |                     |      |          |                                                                   |
-| 4 | Join the Ranks      | 3W   | inst     | Put two 1/1 white soldier ally to play                            |
-| 3 | Doubling Season     | 4G   | ench     | Double token and counters                                         |
-| 3 | Chant of Vitu-Ghazi | 6WW  | inst     | Convoke -- prevent all damage done by creat, u  gain life instead |
-| 2 | Overrun             | 2GGG | sorc     | Creatures u control +3/+3 until eot and trample                   |
+| 4 | Hada Freeblade      | W   | 0/1 ally | When ally enter: put counter on him                                   |
+| 4 | Kazandu Blademaster | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                    |
+| 4 | Harabaz Druid       | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                             |
+| 4 | Talus Paladin       | 3G  | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                      |
+| 4 | Kabira Evangel      | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                |
+| 4 | Hagra Diabolist     | 4B  | 3/2 ally | When ally enter: tgt player looses life equal to # ally u control     |
+|   |                     |     |          |                                                                       |
+| 4 | Join the Ranks      | 3W  | inst     | Put two 1/1 white soldier ally to play                                |
+| 3 | Crip Swap           | 2W  | inst     | Exile tgt creat, put a 1/1 creat w/ all creats type into play instead |
+| 3 | Ghost way           | 2W  | inst     | Exile all your creats, they comes to play at the end of turn          |
+| 2 | Harrow              | 2G  | inst     | Add cost: sacr a land -- search up to two basic land, put into play   |
+|   |                     |     |          |                                                                       |
+|---+---------------------+-----+----------+-----------------------------------------------------------------------|
+| 4 | Turntimber Ranger   | 3GG | 2/2 ally | When ally enter: put a 2/2 wolf and a counter on him                  |
