@@ -1,27 +1,44 @@
-| 4 | Aether Rift          |   1RG | ench  | Beg upk: disc card at random, if u discard a creat, put it to play unless any player pays 5 life                                                    |
-| 4 | Call of the wild     |   2GG | ench  | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
-| 4 | Impromptu Raid       | 3{gr} | ench  | 2{gr}: reveal top card, if creat, put into play w/ haste, sacr it at eot                                                                            |
-| 4 | Crown of convergence |     2 | art   | player w/ top library revealed -- gw: you may put that card at the bottom of library                                                                |
-|   |                      |       |       |                                                                                                                                                     |
-| 4 | Pathrazer of Ulamog  |    11 | 9/9   | annihilator 3 -- can't be block by less than 3 creatures                                                                                            |
-| 4 | Artisan of Kozilek   |     9 | 10/9  | annihilator 2 -- when you cast: you may return tgt creat from graveyard to play                                                                     |
-| 4 | Ulamog's Crusher     |     8 | 8/8   | annihilator 2 -- attach each turn if able                                                                                                           |
-| 4 | It that betrays      |    12 | 11/11 | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
-| 4 | Hand of Emrakul      |     9 | 7/7   | annihilator 1 -- you may sacr 4 eld pawn rather than paying its mana cost                                                                           |
-|   |                      |       |       |                                                                                                                                                     |
-| 4 | Mossword Bridge      |       | land  | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
-| 4 | Evolving Wilds       |       | land  | sacr: search for a basic land put into play tapped                                                                                                  |
-| 4 | Terramorphic Expanse |       | land  | sacr: search for a basic land put into play tapped                                                                                                  |
-| 5 | Forest               |       | land  |                                                                                                                                                     |
-| 7 | Mountain             |       | land  |                                                                                                                                                     |
-|---+----------------------+-------+-------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | Recurring Nightmare  |    2B | ench  | Sacr a creat, return him to hand: return creat from graveyard to play                                                                               |
-|   |                      |       |       |                                                                                                                                                     |
-| ? | Wordly Tutor         |     G |       |                                                                                                                                                     |
-| ? | Lantern of Insight   |     1 | art   | Player plays w/ top card of library revealed -- t: sacr, tgt player shuff his library                                                               |
-| 4 | Idyllic Tutor        |    2W | sorc  | Search for an ench and put it in your hand                                                                                                          |
-| 4 | Lurkin Predator      |   4GG | ench  | whenever a player cast a spell, reveal top lib, if creat put into play                                                                              |
-| 4 | Hypergenesis         |     0 | sorc  | Suspend 3 (1GG) -- starting with you, each player may put art, creat or ench or land into play -- repeat until no one put a card on the battlefield |
-|   | Mosswort Bridge      |       | land  | Hideway - g, t: play exiled card w/o paying its mana cost if creat u control have a total pow of 10 or greater                                      |
-|   | Temporal Aperture    |     2 | art   | 5t: shuff ur lib, reveal top card, as long as it stays unchanges; you pay play it w/o paying its mana cost                                          |
-|   |                      |       |       |                                                                                                                                                     |
+Also to consider:
+ 4 CMC creat which tap to put a creat to play
+ creature you put into play if you get attacked
+ trap card?
+
+ considering blue:
+ - to return mossword to hand after using its ability
+ - to use: Retraced Image (U sorc -> reveal card from ur hand put it into play if has same name as another card in play)
+ - white hideway also to consider.
+
+|  2 | Aether Rift               |   1RG | ench      | Beg upk: disc card at random, if u discard a creat, put it to play unless any player pays 5 life                                                    |
+|  4 | Call of the wild          |   2GG | ench      | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
+|  2 | Crown of convergence      |     2 | art       | player w/ top library revealed -- gw: you may put that card at the bottom of library                                                                |
+|  4 | Congregation at Dawn      |   GGW | inst      | search up to 3 creats, put them on top of lib                                                                                                       |
+| 4* | Defense of the Heart      |    3G | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
+|    |                           |       |           |                                                                                                                                                     |
+|  4 | Pathrazer of Ulamog       |    11 | 9/9       | annihilator 3 -- can't be block by less than 3 creatures                                                                                            |
+| 4* | Ulamog, the Infinite Gyre |    11 | 10/10     | annihilator 4 -- indestructible                                                                                                                     |
+|  4 | It that betrays           |    12 | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
+| 4* | Emrakul, the Aeons Torn   |    15 | 15/15 fly | Annihilator 6 -- Prot from colored spells -- when put to graveyard, shuf to lib                                                                     |
+| 4* | Kozilek, Butcher of Truth |    10 | 12/12     | Annihilator 4 -- when put to graveyard shuffle it back to lib                                                                                       |
+|    |                           |       |           |                                                                                                                                                     |
+|  4 | Mossword Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
+|  4 | Evolving Wilds            |       | land      | sacr: search for a basic land put into play tapped                                                                                                  |
+|  4 | Terramorphic Expanse      |       | land      | sacr: search for a basic land put into play tapped                                                                                                  |
+|  5 | Forest                    |       | land      |                                                                                                                                                     |
+|  7 | Mountain                  |       | land      |                                                                                                                                                     |
+|----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |                           |       |           |                                                                                                                                                     |
+|  4 | Impromptu Raid            | 3{gr} | ench      | 2{gr}: reveal top card, if creat, put into play w/ haste, sacr it at eot                                                                            |
+|  4 | Summoner's Egg            |     4 | 0/4       | imprint: exile creat from ur hand -- when put to graveyard, put the exile creature into play                                                        |
+|  4 | Artisan of Kozilek        |     9 | 10/9      | annihilator 2 -- when you cast: you may return tgt creat from graveyard to play                                                                     |
+|  4 | Ulamog's Crusher          |     8 | 8/8       | annihilator 2 -- attach each turn if able                                                                                                           |
+|  4 | Hand of Emrakul           |     9 | 7/7       | annihilator 1 -- you may sacr 4 eld pawn rather than paying its mana cost                                                                           |
+|    | Recurring Nightmare       |    2B | ench      | Sacr a creat, return him to hand: return creat from graveyard to play                                                                               |
+|    |                           |       |           |                                                                                                                                                     |
+|  ? | Wordly Tutor              |     G |           |                                                                                                                                                     |
+|  ? | Lantern of Insight        |     1 | art       | Player plays w/ top card of library revealed -- t: sacr, tgt player shuff his library                                                               |
+|  4 | Idyllic Tutor             |    2W | sorc      | Search for an ench and put it in your hand                                                                                                          |
+|  4 | Lurkin Predator           |   4GG | ench      | whenever a player cast a spell, reveal top lib, if creat put into play                                                                              |
+|  4 | Hypergenesis              |     0 | sorc      | Suspend 3 (1GG) -- starting with you, each player may put art, creat or ench or land into play -- repeat until no one put a card on the battlefield |
+|    | Mosswort Bridge           |       | land      | Hideway - g, t: play exiled card w/o paying its mana cost if creat u control have a total pow of 10 or greater                                      |
+|    | Temporal Aperture         |     2 | art       | 5t: shuff ur lib, reveal top card, as long as it stays unchanges; you pay play it w/o paying its mana cost                                          |
+|    |                           |       |           |                                                                                                                                                     |
