@@ -1,32 +1,34 @@
-| 4 | Admonition Angel           | 3WWW | 6/6 fly        | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
-| 4 | Emeria Angel               | 2WW  | 3/3 fly        | Landfall: put a 1/1 white bird w/ fly                                                                              |
-| 3 | Turntimber Basilik         | 1GG  | 2/1 deathtouch | Landfall: force tgt creature to block if able                                                                      |
-| 4 | Steppe Lynx                | W    | 0/1            | Landfall: get +2/+2 until eot                                                                                      |
-| 3 | Grazing Gladehart          | 2G   | 2/2            | Landfall: gain 2 life                                                                                              |
-| 4 | Ruin Ghost                 | 1W   | 1/1            | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
-| 1 | Kor Skyfisher              | 1W   | 2/3            | When comes into play, return perm u control to owner's hand                                                        |
-| 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg    | Activated of creatures your opp control can't be activated                                                         |
-|   |                            |      |                |                                                                                                                    |
-| 2 | Adventuring Gear           | 1    | art equip      | Equip 1 -- Landfall: equip creats gets +2/+2                                                                       |
-| 2 | Explore                    | 1G   | sorc           | You mayp play an add land this turn -- draw a card                                                                 |
-| 3 | Harrow                     | 2G   | inst           | Add cost: sacr a land -- search and put two basic land into play                                                   |
-| 3 | Vines of Vastwood          | G    | inst           | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
-| 2 | Seer's Sundial             | 4    | artifact       | Landfall: pay 2, draw a card                                                                                       |
-|   |                            |      |                |                                                                                                                    |
-| 4 | Sejuri Steppe              | land |                | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
-| 2 | Terraformic Expanse        | land |                | t, sacr it: Search basic land, put it in play tapped                                                               |
-| 1 | Arid Mesa                  | land |                | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
-| 3 | Marsh Flats                | land |                | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
-| 1 | Misty Rainforest           | land |                | pay 1 life, sacr it: search for forest or idland and put it into play                                              |
-| 7 | Forest                     | land |                |                                                                                                                    |
-| 6 | Plain                      | land |                |                                                                                                                    |
-|---+----------------------------+------+----------------+--------------------------------------------------------------------------------------------------------------------|
-| 3 | Brave the Element          | W    | inst           | White creat you control gain protection against the choosen color                                                  |
-| 3 | Journey to Nowhere         | 1W   | ench           | When enter, exile tgt creature -- when leave: put it back                                                          |
-| 3 | Naturalize                 | 1G   | inst           | Destroy tgt artifact or enchantment                                                                                |
-| 1 | Vines of Vastwood          | G    | inst           | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
-| 2 | Expedition Map             | 1    | art            | 2, t: sacr it, search for a land, and put it into hand                                                             |
-| 2 | Undead Slayer              | 2W   | 2/2            | W, t: exile target squeleton, vampire or zombie                                                                    |
+| 4 | Admonition Angel           | 3WWW | 6/6 fly     | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
+| 4 | Emeria Angel               | 2WW  | 3/3 fly     | Landfall: put a 1/1 white bird w/ fly                                                                              |
+| 4 | Lotus Cobra                | 1G   | 2/1         | Landfall: whenever land comes into play, add one color to mana pool                                                |
+| 4 | Steppe Lynx                | W    | 0/1         | Landfall: get +2/+2 until eot                                                                                      |
+| 3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
+| 4 | Ruin Ghost                 | 1W   | 1/1         | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
+| 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
+|   |                            |      |             |                                                                                                                    |
+| 2 | Adventuring Gear           | 1    | art equip   | Equip 1 -- Landfall: equip creats gets +2/+2                                                                       |
+| 2 | Explore                    | 1G   | sorc        | You mayp play an add land this turn -- draw a card                                                                 |
+| 3 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
+| 3 | Vines of Vastwood          | G    | inst        | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
+| 2 | Seer's Sundial             | 4    | artifact    | Landfall: pay 2, draw a card                                                                                       |
+|   |                            |      |             |                                                                                                                    |
+| 4 | Sejuri Steppe              | land |             | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
+| 2 | Terraformic Expanse        | land |             | t, sacr it: Search basic land, put it in play tapped                                                               |
+| 1 | Arid Mesa                  | land |             | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
+| 3 | Marsh Flats                | land |             | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
+| 1 | Misty Rainforest           | land |             | pay 1 life, sacr it: search for forest or idland and put it into play                                              |
+| 7 | Forest                     | land |             |                                                                                                                    |
+| 6 | Plain                      | land |             |                                                                                                                    |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+| 3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
+| 4 | Journey to Nowhere         | 1W   | ench        | When enter, exile tgt creature -- when leave: put it back                                                          |
+| 3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
+| 1 | Vines of Vastwood          | G    | inst        | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
+| 4 | Grazing Gladehart          | 2G   | 2/2         | Landfall: gain 2 life                                                                                              |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+| 2 | Expedition Map             | 1    | art         | 2, t: sacr it, search for a land, and put it into hand                                                             |
+| 3 | Naturalize                 | 1G   | inst        | Destroy tgt artifact or enchantment                                                                                |
+| 2 | Undead Slayer              | 2W   | 2/2         | W, t: exile target squeleton, vampire or zombie                                                                    |
 
 |---+-------------------------+----+----------+------------------------------------------------------------------------------------------------------------|
 | 2 | Quest for Renewal       | 1G | ench     | When creat becomes tapped, put a counter -- if counter > 4: untap all creats during each other untap phase |
