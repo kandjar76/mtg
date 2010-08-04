@@ -1,0 +1,2 @@
+| 4 | Matsu-Tribe Sniper | 1G | 1/1 | t: deal 1 damage to tgt creat w/ flying -- creat damages this way don't untap during their next untap step |
+|   |                    |    |     |                                                                                                            |

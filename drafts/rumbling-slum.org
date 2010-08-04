@@ -1,0 +1,5 @@
+| 4 | Rumbling Slum       | 1RGG | 5/5     | Elemental      | Beg upk, it deals 1 damage to each player                         |
+| 4 | Burning-Tree Shaman | 1RG  | 3/4     | Centaur Shaman | When play activates an non mana ability, it deals 1 damage to him |
+|   |                     |      |         |                |                                                                   |
+| 4 | Basilisk Collar     | 1    | equip 2 |                | equip creat has deathotuch and lifelink                           |
+| 4 |                     |      |         |                |                                                                   |

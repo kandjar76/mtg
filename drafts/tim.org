@@ -1,0 +1,20 @@
+Death touch equip:
+
+| 4 | Gorgon Flail    | 2 | equip 2 | equip creat has +1/+1 and deathtouch                                                                                        |
+| 4 | Quietus Spike   | 3 | equip 3 | equip creat has deathtouch -- whenever eq creat deals combat damage to player, thjis player looses half his life rounded up |
+| 4 | Basilisk Collar | 1 | equip 2 | equip creat has deathotuch and lifelink                                                                                     |
+| 4 | Thornbite Staff | 2 | equip 4 | equip creat gains: 2, t: deal 1 damage to tgt creat and when a creat is put to graveyard from play, untap eq creat          |
+
+Annoying equipment:
+|   | Neko-Te | 3 | equip 2 | Whenever eq creats deals damage to a creat that creat doesn't untap -- if to player, that player looses 1 life |
+
+Pinger:
+
+| 4 | Wojek Embermage   | 3R | 1/2 | human wiz    | radiance -- t: deal 1 damage to tgt creat and creat that share color with it  |
+| 4 | Cunning Sparkmage | 2R | 0/1 | human shaman | haste -- t: deal 1 damage to tgt creat                                        |
+
+|   |                   |    |     |              |                                                                               |
+
+
+| 4 | Bosk Banneret | 1G | 1/3 | treefolk shaman | Treefolk and shaman cost 1 less to play |
+|   |               |    |     |                 |                                         |
