@@ -9,20 +9,20 @@ Idea: everyone's drawing a lot -- but get penalize for it!!!
 cost:
 59 ($68? w/ tax and ship) 
 
-| 4 |   7 | Niv-Mizzet, the firemind  | 2UURR     | dragon wizard  | 4/4 leg fly   | Whenever u draw, it deals 1 damage to tgt player -- t: draw a card                                    |
+| 2 |   7 | Niv-Mizzet, the firemind  | 2UURR     | dragon wizard  | 4/4 leg fly   | Whenever u draw, it deals 1 damage to tgt player -- t: draw a card                                    |
 | 4 |     | Venser, Shaper Savant     | 2UU       | Human wizard   | 2/2 leg flash | When comes into play, return tgt spell or perm to its owner's hand                                    |
 | 4 |     | Fallowsage                | 3U        | Merfolk Wizard | 2/2           | When becomes tapped, u may draw                                                                       |
 | 4 |     | Stonybrook Banneret       | 1U        | Merfolk Wizard | 1/1           | Merf/Wiz cost 1 less                                                                                  |
 |   |     |                           |           |                |               |                                                                                                       |
 | 4 |     | Electrolyze               | 1UR       |                | inst          | deals 2 damages to up to two tgt, draw a card                                                         |
 | 4 |     | Cerebral Vortex           | 1UR       |                | inst          | tgt players draws 2 cards, then cerebral deals damage to number of card he draw this turn             |
-| 4 |     | Ponder                    | U         |                | sorc          | look at top 3 cards, put back, u may shuffle, then draw                                               |
 | 4 |     | Remand                    | 1U        |                | inst          | counter tgt spell, the spell goes back to its owner's hand, draw a card                               |
 | 4 |     | Paradise Mantle           | 0         |                | artifact      | equip 1; creat gets: "t: add on mana"                                                                 |
-|   |     |                           |           |                |               |                                                                                                       |
-|   |     |                           |           |                |               |                                                                                                       |
-| 2 |     | Spectral Shift            | 1U        |                | inst          | change a color, or basic land type on a spell/permanent u opp control                                 |
 | 1 |     | Jace the Mindsculpter     | 2UU       | planeswalker   |               |                                                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+|   |     |                           |           |                |               |                                                                                                       |
+| 4 |     | Ponder                    | U         |                | sorc          | look at top 3 cards, put back, u may shuffle, then draw                                               |
+| 2 |     | Spectral Shift            | 1U        |                | inst          | change a color, or basic land type on a spell/permanent u opp control                                 |
 | 1 |     | Doubling Cube             | 2         |                | artifact      | 3, double the mana                                                                                    |
 |   |     |                           |           |                |               |                                                                                                       |
 |   |     |                           |           |                |               |                                                                                                       |
