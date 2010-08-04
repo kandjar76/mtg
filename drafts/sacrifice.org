@@ -1,5 +1,10 @@
-| 4 | Dark Ritual                 | B       | inst | Add BBB to mana pool                                                                                                 |
-|   |                             |         |      |                                                                                                                      |
-| 4 | Savra, Queen of the Golgari | 2GB     | 2/2  | Whenever u sacr a green perm, u may gain 2 life -- whenever u sacr a black. u may pay 2, everybody else sacr a creat |
-| 4 | Creakwood Liege             | 1{bg}x3 | 2/2  | other black, other green get +1/+1 -- beg upk: put a 1/1 bg worm                                                     |
-|   |                             |         |      |                                                                                                                      |
+Original idea: going black/green.
+Thinking now going black/blue or full black..
+
+| 4 | Dark Ritual                 | B       | inst    | Add BBB to mana pool                                                                                                 |
+| 4 | Bitterblossom               | 1B      | ench    | Beg upk: loose 1 life and put a 1/1 black rogue faery into play                                                      |
+|   |                             |         |         |                                                                                                                      |
+| 4 | Braids, Cabal Minion        | 2BB     | 2/2 leg | Beg each players upk: that player sacr creat, art or land                                                            |
+|---+-----------------------------+---------+---------+----------------------------------------------------------------------------------------------------------------------|
+| 4 | Creakwood Liege             | 1{bg}x3 | 2/2     | other black, other green get +1/+1 -- beg upk: put a 1/1 bg worm                                                     |
+| 4 | Savra, Queen of the Golgari | 2GB     | 2/2     | Whenever u sacr a green perm, u may gain 2 life -- whenever u sacr a black. u may pay 2, everybody else sacr a creat |
