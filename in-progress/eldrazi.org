@@ -9,6 +9,8 @@ Also to consider:
  - white hideway also to consider.
  - Aetherplasm 
 
+ -> Going green blue seems a nice way to go!!
+
 |   2 | Aether Rift               |   1RG | ench      | Beg upk: disc card at random, if u discard a creat, put it to play unless any player pays 5 life                                                    |
 |   4 | Call of the wild          |   2GG | ench      | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
 |   2 | Crown of convergence      |     2 | art       | player w/ top library revealed -- gw: you may put that card at the bottom of library                                                                |
@@ -48,3 +50,10 @@ Also to consider:
 |     | Temporal Aperture         |     2 | art       | 5t: shuff ur lib, reveal top card, as long as it stays unchanges; you pay play it w/o paying its mana cost                                          |
 |     |                           |       |           |                                                                                                                                                     |
 |     | Sneak Attack              |    3R | ench      | R: put a creat from hand to play, it gains haste, sacr it at eot                                                                                    |
+|-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | Polymorph                 |    3U | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
+|     | Proteus Staff             |     3 | art       | 2U, t: put tgt creat on bottom of owner's lib, its controller, reveal card from lib until he reveals a creat, and put that one into play            |
+|     | Brainstorm                |     U | inst      | Draw 3 cards, then put 2 from hand on top of lib                                                                                                    |
+|     | Show and Tell             |    2U | sorc      | Each player may choose an art, creat ench or land and from his hand and put that perm into play                                                     |
+|     | Lat-Nam's Legacy          |    1U | inst      | Shuf a card from ur hand to your lib, if u do draw 2 cards at the beg of next upk                                                                   |
+|     |                           |       |           |                                                                                                                                                     |
