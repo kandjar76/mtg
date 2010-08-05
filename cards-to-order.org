@@ -4,6 +4,7 @@
 |-------------------------+-------+-------+------------+-------------------|
 | Burgeoning              | $3    |       | Land       | Stronghold        |
 | Deathrender             | $1.5  | 4     | Eldrazi?   | Lorwyn            |
+| Mana severance          |       | 4     | Inf loop   | Tempest           |
 |                         |       |       |            |                   |
 | Clear the land          |       |       |            |                   |
 | Ubord, Tomb of Yawgmoth | $7?   | 1     | Land       |                   |
