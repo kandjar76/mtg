@@ -2,10 +2,15 @@
 | 4 | Training Grounds     | U        | ench    |                 | activated ability of creats u control cost 2 less to play (min 1) |
 |   |                      |          |         |                 |                                                                   |
 | 4 | Trinket Mage         | 2U       | 2/2     | human wizard    | When comes into play, search art cmc < 1, and put into hand       |
+| 4 | Dizzy Spell          | U        | inst    |                 | Transmute 1UU -- Tgt creat gets -3/0 until eot                    |
 |   |                      |          |         |                 |                                                                   |
 | 4 | Puresight Merror     | {wu}{wu} | 2/2     | merfolk wizard  | {wu}u: look at top of library, u may exile this card              |
 | 4 | Knacksaw Clique      | 3U       | 1/4     | faerie rogue    | 1Uu: tgt opp exile top card of lib, u may play it until eot       |
 | 4 | Patrol Signaler      | 1W       | 1/1     | kithkin soldier | 1Wu: put a 1/1 white kithkin soldier token onto battlefield       |
-| 4 | Silkbind Faerie      | 2{wu}    | 1/3 fly | faerir rogue    | 1{wu}u: tap tgt creat                                             |
+| 4 | Silkbind Faerie      | 2{wu}    | 1/3 fly | faerie rogue    | 1{wu}u: tap tgt creat                                             |
 | 4 | Duergar Mine-Captain | 2{rw}    | 2/1     | dwarf soldier   | 1{rw}u: attacking creats get +1/0 until eot                       |
 |   |                      |          |         |                 |                                                                   |
+
+Considering:
+Mana Reflection (4GG) -> if u tap a perm for mana, it produce twice as much mana
+
