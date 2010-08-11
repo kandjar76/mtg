@@ -1,27 +1,34 @@
-|   4 | Hada Freeblade          | W   | 0/1 ally | When ally enter: put counter on him                                   |
-|   4 | Kazandu Blademaster     | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                    |
-|   4 | Harabaz Druid           | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                             |
-|   4 | Talus Paladin           | 3W  | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                      |
-| 1*4 | Kabira Evangel          | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                |
-| 3*4 | Sea Gate Loremaster     | 4U  | 1/3 ally | t: Draw a card for each ally you control                              |
-|     |                         |     |          |                                                                       |
-|   4 | Join the Ranks          | 3W  | inst     | Put two 1/1 white soldier ally to play                                |
-|   3 | Crip Swap               | 2W  | inst     | Exile tgt creat, put a 1/1 creat w/ all creats type into play instead |
-|   3 | Ghost way               | 2W  | inst     | Exile all your creats, they comes to play at the end of turn          |
-| 2*2 | Leyline of Anticipation | 2UU | ench     | if in opening hand -> in play -- non land cards have flash            |
-|     |                         |     |          |                                                                       |
-|-----+-------------------------+-----+----------+-----------------------------------------------------------------------|
-|   2 | Harrow                  | 2G  | inst     | Add cost: sacr a land -- search up to two basic land, put into play   |
-|   4 | Hagra Diabolist         | 4B  | 3/2 ally | When ally enter: tgt player looses life equal to # ally u control     |
-|   4 | Turntimber Ranger       | 3GG | 2/2 ally | When ally enter: put a 2/2 wolf and a counter on him                  |
-|     | Jwari Shapeshifter      | 1U  | 0/0 ally | You may have it enter the battle field as a copy of another ally      |
-|     | Otherworldly Journey    | 1W  | inst     | Exile creat, return at eot w/ +1/+1 counter on it                     |
-|     | Momentary Blink         | 1W  | inst     | Exile creat u control, return to play at eot                          |
+|  4 | Hada Freeblade          | W   | 0/1 ally | When ally enter: put counter on him                                   |
+|  4 | Ondu Cleric             | 1W  | 1/1 ally | When ally enter: gain life equal to num of ally in play               |
+|  4 | Kazandu Blademaster     | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                    |
+|  4 | Harabaz Druid           | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                             |
+|  4 | Kabira Evangel          | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                |
+|  4 | Sea Gate Loremaster     | 4U  | 1/3 ally | t: Draw a card for each ally you control                              |
+|  2 | Hagra Diabolist         | 4B  | 3/2 ally | When ally enter: tgt player looses life equal to # ally u control     |
+|    |                         |     |          |                                                                       |
+|  4 | Join the Ranks          | 3W  | inst     | Put two 1/1 white soldier ally to play                                |
+|  4 | Crip Swap               | 2W  | inst     | Exile tgt creat, put a 1/1 creat w/ all creats type into play instead |
+|  4 | Ghost way               | 2W  | inst     | Exile all your creats, they comes to play at the end of turn          |
+|    |                         |     |          |                                                                       |
+| 10 | Plain                   |     | bas land |                                                                       |
+|  2 | Forest                  |     | bas land |                                                                       |
+|  1 | Island                  |     | bas land |                                                                       |
+|  1 | Swamp                   |     | bas land |                                                                       |
+|  1 | Twilight Mire           |     | land     | t: add 1 -- {bg},t: add BB, BG, GG                                    |
+|  1 | Fetid Heath             |     | land     | t: add 1 -- {wb}, t: add WW, WB. BB                                   |
+|  3 | Temple Garden           |     | land     | comes tapped unless pay 2 -- t: add G or W                            |
+|  1 | Sunpetal Grove          |     | land     | comes tapped unless u own a plain or forest -- t: add G or W          |
+|  1 | Overgrown Tomb          |     | land     | comes tapped unless pay 2 -- t: add B or G                            |
+|  1 | Godless Shrine          |     | land     | comes tapped unless pay 2 -- t: add W or B                            |
+|----+-------------------------+-----+----------+-----------------------------------------------------------------------|
+|  4 | Talus Paladin           | 3W  | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                      |
+|  2 | Leyline of Anticipation | 2UU | ench     | if in opening hand -> in play -- non land cards have flash            |
+|  2 | Harrow                  | 2G  | inst     | Add cost: sacr a land -- search up to two basic land, put into play   |
+|  4 | Turntimber Ranger       | 3GG | 2/2 ally | When ally enter: put a 2/2 wolf and a counter on him                  |
+|    | Jwari Shapeshifter      | 1U  | 0/0 ally | You may have it enter the battle field as a copy of another ally      |
+|    | Otherworldly Journey    | 1W  | inst     | Exile creat, return at eot w/ +1/+1 counter on it                     |
+|    | Momentary Blink         | 1W  | inst     | Exile creat u control, return to play at eot                          |
 
 currently:
-  missing 2 Hagra Diabolist (replaced by 2 Ondu clearic)
-          1 Kabira Evangel  (replaced by 1 ghost way)
-
-after playing the deck:
-  - main issue I found, I need more card
-    two solutions: scry! or Sea Gate Loremaster
+  need mana fix
+  need a sideboard
