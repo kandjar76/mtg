@@ -11,23 +11,39 @@ Also to consider:
 
  -> Going green blue seems a nice way to go!!
 
+ Note: why having so many eldrazi dudes!!!
+ I won't be able to cast them the hard way.
+ -> I need to be able to place some on top of the library (Wordly tutor, brainstorm)
+ -> Need to be able to put some back to the lib (brainstorm, compulsive research)
+ -> Need to be able to cast them from the lib (Polymorph, Defense of the Heart, Proteus Staff)
+ -> Protection: counter spell
+ -> Spawn Tokens!! to sacr them!
+
+ Current version:
+ 44 spells!!!!
+ Need to remove 8 of them!!
+
+
 | 2*2 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
 | 4*4 | Proteus Staff             | 3     | art       | 2U, t: put tgt creat on bottom of owner's lib, its controller, reveal card from lib until he reveals a creat, and put that one into play            |
-| 4*4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
-|   4 | Growth Spasm              | 2G    | sorc      | Search basic land, put into play. Put a 0/1 eldrazi pawn                                                                                            |
-|   4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
+|   4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
 |   2 | Call of the wild          | 2GG   | ench      | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
-|  4? | Ponder                    | U     | inst      | Look top 3 card of lib, put back in any order, u may shuffle the lib, then draw a card                                                              |
+|     |                           |       |           |                                                                                                                                                     |
+| 1*4 | Growth Spasm              | 2G    | sorc      | Search basic land, put into play. Put a 0/1 eldrazi pawn                                                                                            |
+|   4 | Mercy Killing             | 2{gw} | inst      | Tgt creat's controller sacr it -- then put X 1/1 green elf tok into play -- where X is creat's power                                                |
+|   4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
+|     |                           |       |           |                                                                                                                                                     |
+| 4*4 | Worldly Tutor             | G     | inst      | Search lib for a creat, and put it on top of it                                                                                                     |
+|   4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
+|   4 | Compulsive Research       | 2U    | sorc      | Draw 3 cards, then discard 2 unless you discard a land                                                                                              |
 |     |                           |       |           |                                                                                                                                                     |
 | 4*4 | Ulamog, the Infinite Gyre | 11    | 10/10     | annihilator 4 -- when cast: destroy tgt perm -- indestructible -- graveyard -> lib                                                                  |
-|   4 | It that betrays           | 12    | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
 | 4*4 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
-| 4*4 | Kozilek, Butcher of Truth | 10    | 12/12     | Annihilator 4 -- when cast: draw 4 cards -- graveyard -> lib                                                                                        |
 |     |                           |       |           |                                                                                                                                                     |
 |   4 | Mossword Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
 |   4 | Kahlni Garden             |       | land      | Comes into play tapped -- put a 0/1 plant into play -- t: add G                                                                                     |
-|   4 | Forest                    |       | land      |                                                                                                                                                     |
-|  12 | Island                    |       | land      |                                                                                                                                                     |
+|   8 | Forest                    |       | land      |                                                                                                                                                     |
+|   8 | Island                    |       | land      |                                                                                                                                                     |
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | v2: |                           |       |           |                                                                                                                                                     |
 |     |                           |       |           |                                                                                                                                                     |
@@ -38,10 +54,20 @@ Also to consider:
 |     |                           |       |           |                                                                                                                                                     |
 |     |                           |       |           |                                                                                                                                                     |
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | Vitality Charm            | G     | inst      | Choose 1: put a 1/1 insect into play or tgt creat get +1/+1 and trample...                                                                          |
+|     |                           |       |           |                                                                                                                                                     |
+|     | Chatter of the squirrel   | G     | sorc      | flashback 1G -- put a 1/1 squirrel into play                                                                                                        |
+|     | Spiritual Visit           | W     | inst      | put a 1/1 soldier into play                                                                                                                         |
+|     | Sprout                    | G     | inst      | put a 1/1 sapro into play                                                                                                                           |
+|     |                           |       |           |                                                                                                                                                     |
+| 2*2 | Kozilek, Butcher of Truth | 10    | 12/12     | Annihilator 4 -- when cast: draw 4 cards -- graveyard -> lib                                                                                        |
+| 4*4 | Counterspell              | UU    | inst      | Counter tgt spell                                                                                                                                   |
+|     |                           |       |           |                                                                                                                                                     |
+|   4 | It that betrays           | 12    | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
+|   4 | Ponder                    | U     | inst      | Look top 3 card of lib, put back in any order, u may shuffle the lib, then draw a card                                                              |
 |     |                           |       |           |                                                                                                                                                     |
 |   4 | Hypergenesis              | N/A   | sorc      | Suspend 3 (1GG) -- starting with you, each player may put art, creat or ench or land into play -- repeat until no one put a card on the battlefield |
 |  $$ | Show and Tell             | 2U    | sorc      | Each player may choose an art, creat ench or land and from his hand and put that perm into play                                                     |
-|   ? | Worldly Tutor             | G     | inst      | Search lib for a creat, and put it on top of it                                                                                                     |
 |     | Instill Energy            | G     | aura      | Ench creat gets "haste" -- 0: untap that creat, play only once a turn during ur turn                                                                |
 |     |                           |       |           |                                                                                                                                                     |
 | $$$ | Eureka                    | 2GG   | sorc      | Starting with u, each player may put a perm onto battlefield, repeat until no-one put a card onto the battlefield                                   |
