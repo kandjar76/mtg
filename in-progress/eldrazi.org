@@ -46,7 +46,7 @@ Also to consider:
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |   1 | Ulamog, the Infinite Gyre | 11    | 10/10     | annihilator 4 -- when cast: destroy tgt perm -- indestructible -- graveyard -> lib                                                                  |
 |   1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
-|   3 | Slippery Bogle            | {gu}  | 1/1       | Can't be target spell or ability opp controls                                                                                                       |
+|   2 | Slippery Bogle            | {gu}  | 1/1       | Can't be target spell or ability opp controls                                                                                                       |
 |   1 | Aetherplasm               | 2UU   | 1/1       | When blocks, you may swap it w/ a creature from hand                                                                                                |
 |   2 | Elvish Piper              | 3G    | 1/1       | G, t: You may put a creature card from hand to play                                                                                                 |
 |   2 | Gamekeeper                | 3G    | 2/2       | When put to graveyard, u may exile it, then reveal card until u reveal a creat, put that into play, the rest to graveyard                           |
@@ -54,6 +54,7 @@ Also to consider:
 |   2 | Shifty Doppleganger       | 2U    | 1/1       | 3U, exile it: put creat from hand to play, gain hast, sacr the creat next turn                                                                      |
 |   1 | Fierce Empath             | 2G    | 1/1       | When enter: search lib for creat card w/ CMC>6, put to hand                                                                                         |
 |   1 | Mystic Snake              | 1GUU  | 2/2       | flash -- when enter: counter tgt spell                                                                                                              |
+|   1 | Mitotic Slime             | 4G    | 4/4       | When put to graveyard, put 2: 2/2 ooze, which when put to graveyard put 2 1/1 ooze.                                                                 |
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |     |                           |       |           |                                                                                                                                                     |
