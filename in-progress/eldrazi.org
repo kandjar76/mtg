@@ -39,14 +39,18 @@ Also to consider:
 |   4 | Worldly Tutor             | G     | inst      | Search lib for a creat, and put it on top of it                                                                                                     |
 |   4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
 |     |                           |       |           |                                                                                                                                                     |
-|   4 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
+|   1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
+| 1*1 | Ulamog, the Infinite Gyre | 11    | 10/10     | Annihilator 4 -- when cast: destroy tgt perm -- indestructible -- graveyard -> lib                                                                  |
+| 1*1 | Kozilek, Butcher of Truth | 10    | 12/12     | Annihilator 4 -- when cast: draw 4 cards -- graveyard -> lib                                                                                        |
+|   1 | It that betrays           | 12    | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
 |     |                           |       |           |                                                                                                                                                     |
 |   4 | Mosswort Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
 |   4 | Khalni Garden             |       | land      | Comes into play tapped -- put a 0/1 plant into play -- t: add G                                                                                     |
 |   8 | Forest                    |       | land      |                                                                                                                                                     |
 |   8 | Island                    |       | land      |                                                                                                                                                     |
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4*4 | Ulamog, the Infinite Gyre | 11    | 10/10     | annihilator 4 -- when cast: destroy tgt perm -- indestructible -- graveyard -> lib                                                                  |
+|   1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
+|   2 | Pathrazer of Ulamog       | 11    | 9/9       | annihilator 3 -- can't be block by less than 3 creatures                                                                                            |
 |   2 | Slippery Bogle            | {gu}  | 1/1       | Can't be target spell or ability opp controls                                                                                                       |
 |   1 | Aetherplasm               | 2UU   | 1/1       | When blocks, you may swap it w/ a creature from hand                                                                                                |
 | 1*1 | Mitotic Slime             | 4G    | 4/4       | When put to graveyard, put 2: 2/2 ooze, which when put to graveyard put 2 1/1 ooze.                                                                 |
