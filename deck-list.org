@@ -4,13 +4,14 @@
 | Faery         | Control       | AAA     | Lorwyn Block   |
 | Land-Fall     | Combo/Control | A+      | Zendikar Block |
 | Discard       | Control       | A+      | Legacy         |
-| Wee-Dragonaut | Aggro/Combo   | A       | Ravnica Block  |
-| Simic         | Combo/Control | A?      | Extended 2010  |
+| Eldrazi       | Combo         | A       | Legacy         |
+| Ally          | Combo/Aggro   |         | Extended 2010  |
 |---------------+---------------+---------+----------------|
+| Simic         | Combo/Control | B+      | Extended 2010  |
+| Wee-Dragonaut | Aggro/Combo   | B+      | Ravnica Block  |
 | Graft Control | Control       | B+      | Ravnica Block  |
 | Protean Hydra | Combo         | B+      | Extended 2010  |
-| Madness       | Combo         | B       | Legacy         |
-| Eldrazi       | Combo         | B-      | Legacy         |
+| Madness       | Combo         | C       | Legacy         |
 
 Name:     Nickname for the deck
 Category: Tournament Category for the Deck
