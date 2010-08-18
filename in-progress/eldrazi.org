@@ -12,7 +12,7 @@ How to get him out:
 
 To get a initial creature:
 |   4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
-|   4 | Sprout                    | G     | inst      | Put a 1/1 green saprolin into play                                                                                                                  |
+| * 4 | Sprout                    | G     | inst      | Put a 1/1 green saprolin into play                                                                                                                  |
 
 Helper:
 |   4 | Counter Spell             | UU    | inst      | Counter target spell                                                                                                                                |
