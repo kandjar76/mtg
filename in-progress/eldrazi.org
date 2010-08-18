@@ -1,5 +1,5 @@
 Current Version of the deck:
-36 spells / 24 lands.
+37 spells / 23 lands.
 
 
 THE Creature:
@@ -8,8 +8,8 @@ THE Creature:
 How to get him out:
 |   4 | Proteus Staff             | 3     | art       | 2U, t: put tgt creat on bottom of owner's lib, its controller, reveal card from lib until he reveals a creat, and put that one into play            |
 |   4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
-|   2 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
-|   2 | Call of the wild          | 2GG   | ench      | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
+|   4 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
+
 
 To get a initial creature:
 |   4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
@@ -17,7 +17,7 @@ To get a initial creature:
 
 Helper:
 |   4 | Counter Spell             | UU    | inst      | Counter target spell                                                                                                                                |
-|   3 | Mercy Killing             | 2{gw} | inst      | Tgt creat's controller sacr it -- then put X 1/1 green elf tok into play -- where X is creat's power                                                |
+|   4 | Mercy Killing             | 2{gw} | inst      | Tgt creat's controller sacr it -- then put X 1/1 green elf tok into play -- where X is creat's power                                                |
 |   4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
 |   2 | Vines of Vastwood         | G     | inst      | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                                                     |
 
@@ -25,7 +25,7 @@ Lands:
 |   3 | Mosswort Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
 |   4 | Khalni Garden             |       | land      | Comes into play tapped -- put a 0/1 plant into play -- t: add G                                                                                     |
 |   4 | Forest                    |       | land      |                                                                                                                                                     |
-|  10 | Island                    |       | land      |                                                                                                                                                     |
+|   9 | Island                    |       | land      |                                                                                                                                                     |
 |   2 | Halimar Depths            |       | land      | comes tapped; reorder top 3 cards of lib; t: add U                                                                                                  |
 |   1 | Tectonic Edge             |       | land      | t: add 1 to mana pool -- 1,t, sacr it: destroy tgt non basic land, the opp must have at least 4 lands                                               |
 
@@ -75,6 +75,7 @@ Also to consider:
 
 
 |-----+---------------------------+-------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   2 | Call of the wild          | 2GG   | ench      | 2GG: reveal top card, if creat put onto battlefield, otherwise, in graveyard                                                                        |
 |   4 | Worldly Tutor             | G     | inst      | Search lib for a creat, and put it on top of it                                                                                                     |
 |   1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
 | 2*2 | Gamekeeper                | 3G    | 2/2       | When put to graveyard, u may exile it, then reveal card until u reveal a creat, put that into play, the rest to graveyard                           |
