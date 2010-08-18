@@ -10,10 +10,9 @@ How to get him out:
 |   4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
 |   4 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
 
-
 To get a initial creature:
 |   4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
-|   4 | Growth Spasm              | 2G    | sorc      | Search basic land, put into play. Put a 0/1 eldrazi pawn                                                                                            |
+|   4 | Sprout                    | G     | inst      | Put a 1/1 green saprolin into play                                                                                                                  |
 
 Helper:
 |   4 | Counter Spell             | UU    | inst      | Counter target spell                                                                                                                                |
