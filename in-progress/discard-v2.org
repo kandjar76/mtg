@@ -1,10 +1,9 @@
-Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
+Main Deck: Single/Multi Plater Oriented / Side board = Multiplayer change + Helpers!
 
-38
 10 creats
-6 winning cond cards
-13 discards spells
-9 helpers
+10 winning cond cards
+20 discards spells
+12 helpers
 
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 |  4 | Hypnotic Specter          | 1BB | 2/2 fly    | When deals damage to opp, that player disc a card at random!!!                                                             |
@@ -14,33 +13,49 @@ Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
 |  4 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
 |  4 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
 |  4 | Funeral Charm             | B   | inst!      | choose 1: tgt player disc, tgt creats get +2/-1, tgt creat gains swampwalk                                                 |
-|  4 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
+|  3 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
 |  3 | Pox                       | BBB | sorc       | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                                               |
-|  2 | Honden of Night's Reach   | 3B  | ench leg   | Beg upk, tgt opp discards a card                                                                                           |
-|  2 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
-|  3 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|  2 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|  3 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
+|  3 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |    |                           |     |            |                                                                                                                            |
 |  4 | Bojuka Bog                |     | land       | Comes into play tapped, exile tgt player graveyard - t: add B                                                              |
 | 20 | Swamp                     |     | basic land |                                                                                                                            |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
-|  4 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
+|  1 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|  1 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
+|  2 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
+|  2 | Honden of Night's Reach   | 3B  | ench leg   | Beg upk, tgt opp discards a card                                                                                           |
+|    |                           |     |            |                                                                                                                            |
+|  1 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
+|  1 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |  3 | Duress                    | B   | sorc       | Tgt reveal, you choose a non land, non creat card, he discards it.                                                         |
 |  1 | Haunting Echoes           | 3BB | sorc       | Exile all cards from tgt player graveyard other than basic land, search lib for all cads w/ same name, exile them.         |
 |  3 | Liliana's Caress          | 1B  | ench       | When an opp discards, he looses 2 life                                                                                     |
-|  4 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 
 
-Single Player Version:
--1 Geth's Grimoire
--2 Smallpox
--1 Viridian Longbow
--2 Honden of Night's Reach
-+3 Hymn to Tourach
-+3 Duress
+Multiplayer Player Version:
+-3 Hymn to Tourach
+-3 The Rack
++1 Geth's Grimoire
++2 Smallpox
++1 Viridian Longbow
++2 Honden of Night's Reach
 
 Alternate Single Player Version:
-+3 The Rack
--3 Duress (?)
+-3 The Rack
++3 Duress (?)
+
+Against a red damage deck:
+  -2 Viridian Longbow
+  +1 Rack
+  +1 Hymn to Tourach
+  -3 Nezumi Shortfang 
+  +3 Duress
+  maybe:
+  -3 pox
+  +3 liliana's caress
+
 --------------------------------------------
 
