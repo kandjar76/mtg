@@ -40,5 +40,8 @@ Single Player Version:
 +3 Hymn to Tourach
 +3 Duress
 
+Alternate Single Player Version:
++3 The Rack
+-3 Duress (?)
 --------------------------------------------
 
