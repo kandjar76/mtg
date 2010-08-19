@@ -26,10 +26,9 @@ Main Deck: Multiplater oriented / Side board = Single Player change + Helpers!
 |  4 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
 |  3 | Duress                    | B   | sorc       | Tgt reveal, you choose a non land, non creat card, he discards it.                                                         |
 |  1 | Haunting Echoes           | 3BB | sorc       | Exile all cards from tgt player graveyard other than basic land, search lib for all cads w/ same name, exile them.         |
-|  3 | Guul Draz Specter         | 2BB | 2/2 fly    | It gets +3/+3 as long as an opp has no card in hands; when deals combat damage to an player, he discards a card            |
+|  3 | Liliana's Caress          | 1B  | ench       | When an opp discards, he looses 2 life                                                                                     |
 |  4 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
-|    | Innocent Blood            | B   | sorc       | each player sacr a creats                                                                                                  |
 
 
 Single Player Version:
