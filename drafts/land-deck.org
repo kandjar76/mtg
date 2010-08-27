@@ -1,0 +1,31 @@
+|   |                         | R?   | sorc? | deals two damage to each creatures..                                                    |
+|   | Catastrophe             | 4WW  | sorc  | Destroy all land and all creats                                                         |
+|   | Breaking Point          | 1RR  | sorc  | Any play may takes 6 damages, if not: destroy all creatures                             |
+|   | Austere Command         | 4WW  | sorc  | choose 2 -- destr all art, or ench, or creats w/ cmc<=3 or creats w/ cmc>=4             |
+|   | Day of Judgement        | 2WW  | sorc  | Destroy all creatures                                                                   |
+|   | Wrath of God            | 2WW  | sorc  | Bury all creatures                                                                      |
+|   | Cryptic Command         | 1UUU | inst  | choose 2: counter tgt spell, ret perm to owner's hand, tap all creats opp control, draw |
+|   | Damnation               | 2BB  | sorc  | Destroy all creats, can't be regen                                                      |
+|   | Evacuation              | 3UU  | inst! | Ret all creats to owner's hand                                                          |
+|   | Final Juggement         | 4WW  | sorc  | Exile all creats                                                                        |
+|   | Hallowed Burial         | 3WW  | sorc  | Put all creat at the bottom of their owner's library                                    |
+|   | Infest                  | 1BB  | sorc  | All creats gets -2/-2 until eot                                                         |
+|   | Massacre                | 2BB  | sorc  | If opp control a plain, u control a swap: no casting cost -- all creats gets -2/-2      |
+|   | Nausea                  | 1B   | sorc  | All creats gets -1/-1                                                                   |
+|   | Shrivel                 | 1B   | sorc  | All creats gets -1/-1                                                                   |
+|   | Reign of Power          | 2UU  | inst  | Untap all creat u and an opp control, exchanges until eot, they gain haste              |
+|   | Retribution of the Meek | 2W   | sorc  | Destroy all creat w/ pow 4+ - no regen                                                  |
+|   | Rolling Spoil           | 2GG  | sorc  | Destr tgt land -- if B was spent: all creats gets -1/-1                                 |
+|   | Sleep                   | 2UU  | sorc  | Tap all creat tgt player control, they dont untap next upk                              |
+|   | Sunscour                | 5WW  | sorc  | U may exile two white card to no pay mana cost -- destroy all creats                    |
+|   |                         |      |       |                                                                                         |
+| 4 | Reset                   | UU   | inst  | cast only after opp's upk: untap all land u control                                     |
+| 4 | Rude Awakening          | 4G   | sorc  | Choose 1 - entwine 2G: untap all land OR lands becomes 2/2                              |
+| 4 |                         | 2GG  | aura  | Ench creats gets +2/+2 and when it attacks, untap all ur lands.                         |
+|   |                         |      |       |                                                                                         |
+| 2 | Garruk Wildspeaker      | 2GG  | plwk  | +1: untap 2 land, -1: put a 3/3, -4: creats gain +3/+3 and trample                      |
+| 4 |                         | G?   | ench  | Whenever ench creat attack, untap all land                                              |
+| 4 |                         | 1G   | inst  | You may play an additional land this turn -- draw a card                                |
+| 4 |                         | W?   | ench  | Land are indrestructible                                                                |
+| 2 |                         | 1    | art   | Permanent u control don't comes into play tapped                                        |
+|   |                         |      |       |                                                                                         |
