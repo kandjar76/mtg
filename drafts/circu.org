@@ -1,7 +1,12 @@
 | 4 | Circu, Dimir Lobotomist | 2UB  | 2/3 leg | When you play a blue spell or black spell, exile top card lib - opp can't cast spells exile by him |
 | 4 | Dimir Doppelganger      | 1UB  | 0/2     | 1UB: exile tgt creat cards from a graveyard, it becomes a copy of it and gain this ab              |
+| 4 | Dimir Iniltrator        | UB   | 1/3     | Transmute 1UB -- can't be blocked                                                                  |
+| 4 | Tidehollow Strix        | UB   | 2/1 fly | deathtouch                                                                                         |
 |   |                         |      |         |                                                                                                    |
-|   |                         |      |         |                                                                                                    |
-| 4 | Perplex                 | 1UB  | inst    | Counter tgt spell unless its controller discards his or her hand                                   |
-| 4 | Clutch of the Undercity | 1UUB | inst    | Transmute 1UB -- Ret tgt perm to owner's hand, he looses 3 life                                    |
+| 4 | Mind Funeral            | 1UB  | sorc    | Tgt opp reveal top card of lib until reveal 4 land, put all card revealed into graveyard           |
+| 4 | Glympse the Unthinkable | UB   | sorc    | Mill 10 cards                                                                                      |
+| 4 | Lobotomy                | 2UB  | sorc    | tgt play reveal hand, choose non basic land - exile all card from hand, lib and graveyard          |
 | 4 | Consult the Necrosages  | 1UB  | sorc    | Choose one: u draw 2 cards, tgt player discard two                                                 |
+|   |                         |      |         |                                                                                                    |
+| 4 | Clutch of the Undercity | 1UUB | inst    | Transmute 1UB -- Ret tgt perm to owner's hand, he looses 3 life                                    |
+| 4 | Perplex                 | 1UB  | inst    | Counter tgt spell unless its controller discards his or her hand                                   |
