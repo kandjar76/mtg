@@ -2,15 +2,14 @@
 | 4 | Emeria Angel               | 2WW  | 3/3 fly     | Landfall: put a 1/1 white bird w/ fly                                                                              |
 | 4 | Lotus Cobra                | 1G   | 2/1         | Landfall: whenever land comes into play, add one color to mana pool                                                |
 | 4 | Steppe Lynx                | W    | 0/1         | Landfall: get +2/+2 until eot                                                                                      |
-| 3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
 | 4 | Ruin Ghost                 | 1W   | 1/1         | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
 | 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
 |   |                            |      |             |                                                                                                                    |
 | 2 | Adventuring Gear           | 1    | art equip   | Equip 1 -- Landfall: equip creats gets +2/+2                                                                       |
-| 2 | Explore                    | 1G   | sorc        | You mayp play an add land this turn -- draw a card                                                                 |
-| 3 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
-| 3 | Vines of Vastwood          | G    | inst        | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
 | 2 | Seer's Sundial             | 4    | artifact    | Landfall: pay 2, draw a card                                                                                       |
+| 3 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
+| 4 | Vines of Vastwood          | G    | inst        | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
+| 4 | Journey to Nowhere         | 1W   | ench        | When enter, exile tgt creature -- when leave: put it back                                                          |
 |   |                            |      |             |                                                                                                                    |
 | 4 | Sejuri Steppe              | land |             | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
 | 1 | Terraformic Expanse        | land |             | t, sacr it: Search basic land, put it in play tapped                                                               |
@@ -20,15 +19,20 @@
 | 6 | Forest                     | land |             |                                                                                                                    |
 | 6 | Plain                      | land |             |                                                                                                                    |
 |---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+| 3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
 | 3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
-| 4 | Journey to Nowhere         | 1W   | ench        | When enter, exile tgt creature -- when leave: put it back                                                          |
-| 4 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
-| 1 | Vines of Vastwood          | G    | inst        | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                    |
-| 3 | Grazing Gladehart          | 2G   | 2/2         | Landfall: gain 2 life                                                                                              |
+| 3 | Rest for the Weary         | 1W   | inst        | Tgt player gain 4 life -- landfall: gain 8 life instead                                                            |
+| 3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
+| 3 | Summoning Trap             | 4GG  | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                           |
 |---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
-| 2 | Expedition Map             | 1    | art         | 2, t: sacr it, search for a land, and put it into hand                                                             |
-| 3 | Naturalize                 | 1G   | inst        | Destroy tgt artifact or enchantment                                                                                |
-| 2 | Undead Slayer              | 2W   | 2/2         | W, t: exile target squeleton, vampire or zombie                                                                    |
+|   | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
+| 2 | Momentous Fall             | 2GG  | isnt        | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                     |
+| ? | Emerge Unscathed           | W    | inst        | Tgt creat u control gain prot against color of choice -- Rebound                                                   |
+| 3 | Arbor Elf                  | 1G   | 1/1         | t: untap tgt forest                                                                                                |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+| 2 | Kor Firewalker             | WW   | 2/2         | Protect form red -- whenever a player plays a red spell gain 1 life                                                |
+| ? | Baloth Cage Trap           | 3GG  | inst        | You may pay 1G if an art enter on opp field -- put a 4/4 token into play                                           |
+| ? | Cobra Trap                 | 4GG  | inst        | You may pay G if a creat got destr -- Put 4 1/1 token into play                                                    |
 
 
 |---+-------------------------+----+----------+------------------------------------------------------------------------------------------------------------|
@@ -38,6 +42,7 @@
 | 2 | Explorer's Scope        | 1  | artifact | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped   |
 | 2 | Rampant Growth          | 1G | sorc     | Search for a basic land and put it into play tapped                                                        |
 |---+-------------------------+----+----------+------------------------------------------------------------------------------------------------------------|
+
 
 
 |---------+---+-------------------+------+-----------+----------------------------------------------------------------------------------|
