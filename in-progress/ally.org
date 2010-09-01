@@ -1,0 +1,45 @@
+
+
+|  4 | Hada Freeblade          | W   | 0/1 ally | When ally enter: put counter on him                                |
+|  4 | Ondu Cleric             | 1W  | 1/1 ally | When ally enter: gain life equal to num of ally in play            |
+|  4 | Kazandu Blademaster     | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                 |
+|  4 | Harabaz Druid           | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                          |
+|  4 | Kabira Evangel          | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color             |
+|  4 | Sea Gate Loremaster     | 4U  | 1/3 ally | t: Draw a card for each ally you control                           |
+|    |                         |     |          |                                                                    |
+|  4 | Join the Ranks          | 3W  | inst     | Put two 1/1 white soldier ally to play                             |
+|  4 | Oblivion Ring           | 2W  | ench     | When comes into play: exile tgt perm -- when leave: put it back    |
+|  4 | Mana Leak               | 1U  | inst     | Counter tgt spell, unless caster pays 3                            |
+|  2 | Leyline of Anticipation | 2UU | ench     | if in opening hand -> in play -- non land cards have flash         |
+|    |                         |     |          |                                                                    |
+|  8 | Plain                   |     | bas land |                                                                    |
+|  5 | Forest                  |     | bas land |                                                                    |
+|  2 | Island                  |     | bas land |                                                                    |
+|  1 | Sunpetal Grove          |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W   |
+|  1 | Stirring Wildwood       |     | land     | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach       |
+|  2 | Glacial Fortress        |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U   |
+|  3 | Celestial Colonnade     |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance    |
+|----+-------------------------+-----+----------+--------------------------------------------------------------------|
+| 3? | Pitching Needle         | 1   | art      | Choose a card; activated ab of choosen card can't be played        |
+|  4 | Talus Paladin           | 3W  | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                   |
+|  2 | Tajuru Archer           | 2G  | 1/2      | When ally enter: deal damage to tgt creats w/ fly eq to # ally     |
+|    |                         |     |          |                                                                    |
+|  2 | Tuktuk Scrapper         | 3R  | 2/2 ally | When ally enter: destroy tgt art + damage to control = # ally      |
+|  2 | Stomping Ground         |     | land     | comes tapped unless pay 2 -- t: add R or G                         |
+|  1 | Scalding Tarn           |     | land     | t, pay 1, sacr: Search lib for an island or mountain put into play |
+|    |                         |     |          |                                                                    |
+|    | *Too Consider*          |     |          |                                                                    |
+| MD | Rite of Replication     | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead   |
+| SB | Unified Will            | 1U  | inst     | Counter tgt spell if u control more creat that ur opp              |
+| SB | Oust                    | W   | inst     | Put tgt creat second from top of its owners lib                    |
+
+Sideboard usage:
+
+  Against a direct damage deck:
+  - 4 Sea Gate Loremaster
+  + 4 Talus Paladin
+  
+
+
+
+
