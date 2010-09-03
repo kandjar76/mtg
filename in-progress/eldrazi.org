@@ -3,42 +3,42 @@ Current Version of the deck:
 
 
 THE Creature:
-|   3 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
+| 3 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
 
 How to get him out:
-|   4 | Proteus Staff             | 3     | art       | 2U, t: put tgt creat on bottom of owner's lib, its controller, reveal card from lib until he reveals a creat, and put that one into play            |
-|   4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
-|   4 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
+| 4 | Proteus Staff             | 3     | art       | 2U, t: put tgt creat on bottom of owner's lib, its controller, reveal card from lib until he reveals a creat, and put that one into play            |
+| 4 | Polymorph                 | 3U    | sorc      | Destroy tgt creat, its controller reveals card from lib until he reveals a creat and put that one into play                                         |
+| 4 | Defense of the Heart      | 3G    | ench      | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                            |
 
 To get a initial creature:
-|   4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
-| * 4 | Sprout                    | G     | inst      | Put a 1/1 green saprolin into play                                                                                                                  |
+| 4 | Living Wish               | 1G    | sorc      | Search for a creat or land from outside of the game and put to hand, then exile this card                                                           |
+| 4 | Sprout                    | G     | inst      | Put a 1/1 green saprolin into play                                                                                                                  |
 
 Helper:
-|   4 | Counter Spell             | UU    | inst      | Counter target spell                                                                                                                                |
-|   4 | Mercy Killing             | 2{gw} | inst      | Tgt creat's controller sacr it -- then put X 1/1 green elf tok into play -- where X is creat's power                                                |
-|   4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
-|   2 | Vines of Vastwood         | G     | inst      | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                                                     |
+| 4 | Counter Spell             | UU    | inst      | Counter target spell                                                                                                                                |
+| 4 | Mercy Killing             | 2{gw} | inst      | Tgt creat's controller sacr it -- then put X 1/1 green elf tok into play -- where X is creat's power                                                |
+| 4 | Brainstorm                | U     | inst      | Draw 3 cards, then put two from ur hand on top of lib                                                                                               |
+| 2 | Vines of Vastwood         | G     | inst      | kicker G -- tgt creat can't be the tgt of spell opp control -- if kicked: tgt creats gets +4/+4                                                     |
 
 Lands:
-|   3 | Mosswort Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
-|   4 | Khalni Garden             |       | land      | Comes into play tapped -- put a 0/1 plant into play -- t: add G                                                                                     |
-|   4 | Forest                    |       | land      |                                                                                                                                                     |
-|   9 | Island                    |       | land      |                                                                                                                                                     |
-|   2 | Halimar Depths            |       | land      | comes tapped; reorder top 3 cards of lib; t: add U                                                                                                  |
-|   1 | Tectonic Edge             |       | land      | t: add 1 to mana pool -- 1,t, sacr it: destroy tgt non basic land, the opp must have at least 4 lands                                               |
+| 3 | Mosswort Bridge           |       | land      | hideway -- Gt: cast the remove card if creature u control have a pow > 10                                                                           |
+| 4 | Khalni Garden             |       | land      | Comes into play tapped -- put a 0/1 plant into play -- t: add G                                                                                     |
+| 4 | Forest                    |       | land      |                                                                                                                                                     |
+| 9 | Island                    |       | land      |                                                                                                                                                     |
+| 2 | Halimar Depths            |       | land      | comes tapped; reorder top 3 cards of lib; t: add U                                                                                                  |
+| 1 | Tectonic Edge             |       | land      | t: add 1 to mana pool -- 1,t, sacr it: destroy tgt non basic land, the opp must have at least 4 lands                                               |
 
 Sideboard:
-|   1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
-|   1 | It that betrays           | 12    | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
-|   1 | Projenitus                | 2*X   | 10/10     | Protection from everything -- graveyard -> lib                                                                                                      |
-|   1 | Mitotic Slime             | 4G    | 4/4       | When put to graveyard, put 2: 2/2 ooze, which when put to graveyard put 2 1/1 ooze.                                                                 |
-|   2 | Slippery Bogle            | {gu}  | 1/1       | Can't be target spell or ability opp controls                                                                                                       |
-|   4 | Wind Zendikon             | U     | aura      | Enchanted land becomes a 2/2, it's still a land -- when put to graveyard, return the land to owner's hand                                           |
-|   1 | Tectonic Edge             |       | land      | t: add 1 to mana pool -- 1,t, sacr it: destroy tgt non basic land, the opp must have at least 4 lands                                               |
-|   1 | Plaxmanta                 | 1U    | 2/2       | flash -- when enter: creats u control gain shroud until eot -- sacr it unless u pay G to cast it                                                    |
-|   1 | Acidic Slime              | 3GG   | 2/2       | deathtouch -- when enter: destroy tgt art, ench or land                                                                                             |
-|   2 | Autumn's Veil             | G     | inst      | Spell u control can't be counter by black or blue spells this turns, cret u control can't be target of black or blue spell this turn                |
+| 1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                              |
+| 1 | It that betrays           | 12    | 11/11     | annihilator 2 -- when opp sacr a non token, put it under your control                                                                               |
+| 1 | Projenitus                | 2*X   | 10/10     | Protection from everything -- graveyard -> lib                                                                                                      |
+| 1 | Mitotic Slime             | 4G    | 4/4       | When put to graveyard, put 2: 2/2 ooze, which when put to graveyard put 2 1/1 ooze.                                                                 |
+| 2 | Slippery Bogle            | {gu}  | 1/1       | Can't be target spell or ability opp controls                                                                                                       |
+| 4 | Wind Zendikon             | U     | aura      | Enchanted land becomes a 2/2, it's still a land -- when put to graveyard, return the land to owner's hand                                           |
+| 1 | Tectonic Edge             |       | land      | t: add 1 to mana pool -- 1,t, sacr it: destroy tgt non basic land, the opp must have at least 4 lands                                               |
+| 1 | Plaxmanta                 | 1U    | 2/2       | flash -- when enter: creats u control gain shroud until eot -- sacr it unless u pay G to cast it                                                    |
+| 1 | Acidic Slime              | 3GG   | 2/2       | deathtouch -- when enter: destroy tgt art, ench or land                                                                                             |
+| 2 | Autumn's Veil             | G     | inst      | Spell u control can't be counter by black or blue spells this turns, cret u control can't be target of black or blue spell this turn                |
 
 
 The deck is currently really fun to play.
