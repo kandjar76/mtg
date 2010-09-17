@@ -6,12 +6,14 @@
 |  4 | Harabaz Druid              | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                                                |
 |  4 | Kabira Evangel             | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                                   |
 |  3 | Sea Gate Loremaster        | 4U  | 1/3 ally | t: Draw a card for each ally you control                                                 |
-|  2 | Sun Titan                  | 4WW | 6/6 vig  | When enter or attack: u may ret up to two perm CMC 3- grav->play                         |
+|  2 | Sun Titan                  | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
 |    |                            |     |          |                                                                                          |
-|  1 | Jace the Mind Sculptor     | 2UU | pln-wkr  | +2: ook at top card opp lib; 0: brainstorm; -1:                                          |
-|  1 | Rite of Replication        | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
-|  2 | Join the Ranks             | 3W  | inst     | Put two 1/1 white soldier ally to play                                                   |
-|  4 | Oblivion Ring              | 2W  | ench     | When comes into play: exile tgt perm -- when leave: put it back                          |
+|  2 | Jace the Mind Sculptor     | 2UU | pln-wkr  | +2: look at top card opp lib; 0: brainstorm; -1:                                         |
+|  2 | Day of Judgement           | 2WW | sorc     | Destroy all creatures                                                                    |
+| -4 | Oblivion Ring              | 2W  | ench     | When comes into play: exile tgt perm -- when leave: put it back                          |
+| +2 | Day of Judgement           | 2WW | sorc     | Destroy all creatures                                                                    |
+| +1 | Sun Titan                  | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
+| +1 | Rite of Replication        | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
 |  4 | Mana Leak                  | 1U  | inst     | Counter tgt spell, unless caster pays 3                                                  |
 |  2 | Leyline of Anticipation    | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                            |     |          |                                                                                          |
@@ -23,12 +25,14 @@
 |  2 | Glacial Fortress           |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  3 | Celestial Colonnade        |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
 |----+----------------------------+-----+----------+------------------------------------------------------------------------------------------|
-|  2 | Day of Judgement           | 2WW | sorc     | Destroy all creatures                                                                    |
 | *3 | Summoning Trap             | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
-| *3 | Qasali Pridemage           | GW  | 2/2      | 1, sacr: destroy tgt art or ench                                                         |
-|  2 | Back to Nature             | 1G  | inst     | Destroy all enchantments                                                                 |
+|  3 | Back to Nature             | 1G  | inst     | Destroy all enchantments                                                                 |
+|  4 | Leyline of Sanctity        | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
 | *3 | Pithing Needle             | 1   | art      | Choose a card; activated ab of choosen card can't be played                              |
+|  ? | Basilisk Collar            | 1   | eqp      | eqp 2 -- creat gets death touch and lifelink.                                            |
+|----+----------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    |                            |     |          |                                                                                          |
+|  2 | Join the Ranks             | 3W  | inst     | Put two 1/1 white soldier ally to play                                                   |
 |  2 | Tajuru Archer              | 2G  | 1/2      | When ally enter: deal damage to tgt creats w/ fly eq to # ally                           |
 |  4 | Talus Paladin              | 3W  | 2/3 ally | When ally enter: Ally gain lifelink, he gain +1c                                         |
 |  2 | Negate                     | 1U  | inst     | Counter tgt non creat spell                                                              |
@@ -38,7 +42,12 @@
 |  2 | Stomping Ground            |     | land     | comes tapped unless pay 2 -- t: add R or G                                               |
 |  1 | Scalding Tarn              |     | land     | t, pay 1, sacr: Search lib for an island or mountain put into play                       |
 |    |                            |     |          |                                                                                          |
+|    |                            |     |          |                                                                                          |
+|    |                            |     |          |                                                                                          |
 |    | *Too Consider*             |     |          |                                                                                          |
+| SB | Great Sable Stag           | 1GG | 3/3      | prot black and blue -- can't be countered                                                |
+| S? | Luminarch Ascension        | 1W  | ench     | Put counter if u didn't loose life during opp step - 1W: put 4/4 angel (need 4 counters) |
+|    |                            |     |          |                                                                                          |
 | SB | Unified Will               | 1U  | inst     | Counter tgt spell if u control more creat that ur opp                                    |
 | SB | Oust                       | W   | inst     | Put tgt creat second from top of its owners lib                                          |
 | SB | Dauntless Escort           | 1GW | 3/3      | Sacr it: creatures you control are indestructible this turn                              |
