@@ -2,10 +2,10 @@
 |---------------+---------------+---------+----------------|
 | Merfolk       | Combo/Mill    | AAA     | Lorwyn Block   |
 | Faery         | Control       | AAA     | Lorwyn Block   |
-| Land-Fall     | Combo/Control | A+      | Zendikar Block |
-| Discard       | Control       | A+      | Legacy         |
+| Land-Fall     | Control/Aggro | A+      | Zendikar Block |
+| Ally          | Aggro         | A+      | Standart 2010  |
+| Discard       | Control       | A       | Legacy         |
 | Eldrazi       | Combo         | A       | Legacy         |
-| Ally          | Combo/Aggro   |         | Extended 2010  |
 |---------------+---------------+---------+----------------|
 | Simic         | Combo/Control | B+      | Extended 2010  |
 | Wee-Dragonaut | Aggro/Combo   | B+      | Ravnica Block  |
