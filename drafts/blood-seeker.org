@@ -10,11 +10,25 @@
 | 4 | Hunted Phantasm                            | 1UU | 4/6  | Unblockable -- when enter put 5 1/1 red gob on opponent side                                                        |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Spell to change stuff into creatures*     |     |      |                                                                                                                     |
-|   | *Or spell to destroy/counter*              |     |      |                                                                                                                     |
+| 4 | Wind Zendikon                              | U   | aura | ench land -- enchanted land is a 2/2 w/ flying                                                                      |
+|   |                                            |     |      |                                                                                                                     |
+|   | *Draw/Speed up*                            |     |      |                                                                                                                     |
+| 4 | Ponder                                     | U   | sorc | Look top 3, put back in any order (u may shuffle) then draw!                                                        |
+| 4 | Unearth                                    | B   | sorc | Return creat w/ cmc <3 to play -- cycling 2                                                                         |
+| 2 | Quicken                                    | U   | inst | Next sorcery is instant -- draw a card                                                                              |
+| 2 | Howling Mine                               | 2   | art  | Each player draw an extra cards                                                                                     |
+| 2 | Compulsion                                 | 1U  | ench | 1U, disc: draw a card -- 1U, sacr: draw.                                                                            |
+|   |                                            |     |      |                                                                                                                     |
+|   | *Get 'creatures' back*                     |     |      |                                                                                                                     |
+| 2 | Crucible of Words                          | 3   | art  | You may play land from graveyard                                                                                    |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Lands*                                    |     |      |                                                                                                                     |
 | 2 | Forbidden Orchard                          |     | land | t: add 1 mana any color -- when tapped for mana: put a 1/1 spirit on opp side                                       |
-| 4 | Mutavault                                  |     | land | t: add 1 colorless -- 1: becomes a 2/2 artifact                                                                     |
-|   |                                            |     |      |                                                                                                                     |
+| 4 | Mishra's Factory                           |     | land | t: add 1 -- 1: becomes a 2/2 artifact                                                                               |
+| 4 | Creeping Tar Pit                           |     | land | comes tapped - t: add U or B -- 1BU: becomes a 3/2 unblockable                                                      |
+| 2 | Terramorphic Expanse                       |     | land | t: sacr it; search lib for basic land put into play tapped                                                          |
+| 6 | Swamp                                      |     | land |                                                                                                                     |
+| 6 | Island                                     |     | land |                                                                                                                     |
 |---+--------------------------------------------+-----+------+---------------------------------------------------------------------------------------------------------------------|
+| 4 | Mutavault                                  |     | land | t: add 1 colorless -- 1: becomes a 2/2 artifact                                                                     |
 | 4 | Tainted Aether                             | 2BB | ench | Whenever a creats enter battlefield, its controller, sacr a creat or land                                           |
