@@ -1,3 +1,14 @@
+Ally Deck:
+
+Composition:
+| Creatures | Spells | Lands |
+|-----------+--------+-------|
+| 25        | 13     | 22    |
+
+Mana Curve:
+| 1 |  2 | 3 |  4 | 5 | 6 |
+|---+----+---+----+---+---|
+| 4 | 15 | 4 | 11 | 3 | 3 |
 
 
 |    | *The allies*                          |     |           |                                                                                          |
@@ -35,50 +46,32 @@
 |  3 | Nature's Claim                        | G   | inst      | Destroy target artifact or enchantment, his controller gain 4 life                       |
 |    |                                       |     |           |                                                                                          |
 |----+---------------------------------------+-----+-----------+------------------------------------------------------------------------------------------|
-|    |                                       |     |           |                                                                                          |
-|    | Revoke Existence                      | 1W  | sorc      | Exile tgt art or enchantment                                                             |
-| *3 | Pithing Needle                        | 1   | art       | Choose a card; activated ab of choosen card can't be played                              |
-|  3 | Back to Nature                        | 1G  | inst      | Destroy all enchantments                                                                 |
-|  ? | Basilisk Collar                       | 1   | eqp       | eqp 2 -- creat gets death touch and lifelink.                                            |
-|----+---------------------------------------+-----+-----------+------------------------------------------------------------------------------------------|
-|    |                                       |     |           |                                                                                          |
-|  2 | Join the Ranks                        | 3W  | inst      | Put two 1/1 white soldier ally to play                                                   |
-|  2 | Tajuru Archer                         | 2G  | 1/2       | When ally enter: deal damage to tgt creats w/ fly eq to # ally                           |
-|  4 | Talus Paladin                         | 3W  | 2/3 ally  | When ally enter: Ally gain lifelink, he gain +1c                                         |
-|  2 | Negate                                | 1U  | inst      | Counter tgt non creat spell                                                              |
-|    |                                       |     |           |                                                                                          |
-|  1 | Join the Ranks                        | 3W  | inst      | Put two 1/1 white soldier ally to play                                                   |
-|  2 | Tuktuk Scrapper                       | 3R  | 2/2 ally  | When ally enter: destroy tgt art + damage to control = # ally                            |
-|  2 | Stomping Ground                       |     | land      | comes tapped unless pay 2 -- t: add R or G                                               |
-|  1 | Scalding Tarn                         |     | land      | t, pay 1, sacr: Search lib for an island or mountain put into play                       |
-|    |                                       |     |           |                                                                                          |
-|    |                                       |     |           |                                                                                          |
-|    |                                       |     |           |                                                                                          |
-|    | *Too Consider*                        |     |           |                                                                                          |
-| SB | Great Sable Stag                      | 1GG | 3/3       | prot black and blue -- can't be countered                                                |
-| S? | Luminarch Ascension                   | 1W  | ench      | Put counter if u didn't loose life during opp step - 1W: put 4/4 angel (need 4 counters) |
-|    |                                       |     |           |                                                                                          |
+|    | *Cards to consider*                   |     |           |                                                                                          |
+| SB | Revoke Existence                      | 1W  | sorc      | Exile tgt art or enchantment                                                             |
+| SB | Pithing Needle                        | 1   | art       | Choose a card; activated ab of choosen card can't be played                              |
+| SB | Luminarch Ascension                   | 1W  | ench      | Put counter if u didn't loose life during opp step - 1W: put 4/4 angel (need 4 counters) |
 | SB | Unified Will                          | 1U  | inst      | Counter tgt spell if u control more creat that ur opp                                    |
-| SB | Oust                                  | W   | inst      | Put tgt creat second from top of its owners lib                                          |
-| SB | Dauntless Escort                      | 1GW | 3/3       | Sacr it: creatures you control are indestructible this turn                              |
-| SB | Tajuru Preserver                      | 1G  | 2/1       | Spells and ab ur opp control can't cause you to sacrifice perm                           |
-| SB | Obstinate Baloth                      | 2GG | 4/4       | When enter: gain 4 life -- if discard: put into play                                     |
+| SB | Oust                                  | W   | sorc      | Put tgt creat second from top of its owners lib                                          |
 | SB | Limvala, Keeper of Silence            | 2WW | 3/3 fly   | Act ab of creat ur opp control can't be activated                                        |
-| SB | Pitching Needle                       | 1   | art       | Choose a card; activated ab of choosen card can't be played                              |
-| SB | Bant Charm                            | GWU | inst      | Choose one: destr art or put creat on bottom of lib or counter inst                      |
 | SB | Negate                                | 1U  | inst      | Counter tgt non creat spell                                                              |
-| SB | Flashfreeze                           | 1U  | inst      | Counter tgt red or green spell                                                           |
-| SB | Celestial Purge                       | 1W  | inst      | Exile tgt red or black perm                                                              |
-| SB | Day of Judgement                      | 2WW | sorc      | Destroy all creatures                                                                    |
-| SB | Leyline of Sanctity                   | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
+|    |                                       |     |           |                                                                                          |
+| MB | Basilisk Collar                       | 1   | eqp       | eqp 2 -- creat gets death touch and lifelink.                                            |
 
 Sideboard usage:
 
-  Against a direct damage deck:
-  - 4 Sea Gate Loremaster
-  + 4 Talus Paladin
+  Against Mill, Sacrifice, Direct Damage Red:
+  -1 Day of Judgement
+  -1 Rite of Replication
+  -2 Mana Leak
+  +4 Leyline of Sanctity
+
+  Against Blue Counter / Control:
+  -1 Rite of Replication
+  -2 Mana Leak
+  +3 Summoning Trap
+  Potentially:
+  -1 Days of Judgement
+  +1 Emrakul
   
-
-
-
-
+  Against Totem Armor; Eldrazi Monumnet; or Basilisk Collar:
+  +3 Nature's Claim
