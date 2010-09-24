@@ -1,9 +1,3 @@
-Main deck pending change:
-+1 Day of Judgement
--1 Ruin Ghost
-
-Sideboard need to be redone.
-
 | 4 | Admonition Angel           | 3WWW | 6/6 fly     | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
 | 4 | Emeria Angel               | 2WW  | 3/3 fly     | Landfall: put a 1/1 white bird w/ fly                                                                              |
 | 4 | Lotus Cobra                | 1G   | 2/1         | Landfall: whenever land comes into play, add one color to mana pool                                                |
@@ -26,7 +20,7 @@ Sideboard need to be redone.
 | 6 | Plain                      | land |             |                                                                                                                    |
 |---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
 | 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
-| 1 | Day of Judgement           | 2WW  | sorc        | Destroy all creatures                                                                                              |
+| 1 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
 | 3 | Summoning Trap             | 4GG  | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                           |
 | 3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
 | 3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
