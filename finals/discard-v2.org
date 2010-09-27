@@ -59,3 +59,36 @@ Against a red damage deck:
 
 --------------------------------------------
 
+Got wacked 3 games in a row by a black sacrifice STANDARD DECK!!!!!
+I think "draw card" is missing in this deck!
+  
+  Night Wisper (1B -> sorc | Draw 2, and loose 2 life)
+  Sign of Blood (BB -> sorc | Draw 2 and loose 2 life)
+
+  Skeletal Scrying? (xB -> inst!! | Add cost: exile X card from graveyard -> draw X and loose X)
+  Cruel Bargain (BBB -> sorc | Draw 4 and loose half life) AKA Infernal Contract
+
+Looking at:
+
+   Chains of Mephistopheles (SB) (prevent refilling hand too quickly) --> EEEK!!!! TOOO expensive!!!
+   Underworld Dreams (BBB -> ench | Whenever opp draw, he looses 1 life)
+
+
+Also:
+  Need to consider winning condition / helper
+  Are helpers useful if not in a winning condition state?
+
+  For example: 
+   Instant to give protection to a creature is useful only if there is a creature in play
+
+Deck modified. 
+The list of cards is gonna get updated very soon.
+May need other way to destory than pox:
+  - problem with pox; if your opp has 2 creatures, one good, you can't get rid of it.
+
+Alternated way:
+ - damnation (2BB) or mutilate(2BB)
+ - dianolic edict (1B - inst - tgt play sacr a creature)
+ - maybe 1 death cloud? (xBBB - sorc - tgt play loose x life, sacr x creat, x land, discard x card)
+ - innocent blood (B - sorc - each play sacr a creat)
+ - comsuming vapors (3B - sorc - tgt play sacr a creat, u gain life eq to creats toughness - rebound)
