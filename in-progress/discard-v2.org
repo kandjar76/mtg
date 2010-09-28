@@ -1,68 +1,69 @@
-Main Deck: Single/Multi Plater Oriented / Side board = Multiplayer change + Helpers!
+Main Deck: Single Player Oriented Discard Deck
 
-10 creats
-10 winning cond cards
-20 discards spells
+ 9 creats
+ 9 winning cond cards
+19 discards spells
 12 helpers
 
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 |    | *Discard Creatures*       |     |            |                                                                                                                            |
-|  4 | Hypnotic Specter          | 1BB | 2/2 fly    | When deals damage to opp, that player disc a card at random!!!                                                             |
+|  3 | Hypnotic Specter          | 1BB | 2/2 fly    | When deals damage to opp, that player disc a card at random!!!                                                             |
 |  3 | Rotting Rats              | 1B  | 1/1        | when enter: each players discards -- unearth 1B                                                                            |
 |  3 | Nezumi Shortfang          | 1B  | 1/1 -- 3/3 | 1Bt: tgt player disc a card, when no card, flip // beg opp upk, looses 1 life for each card fewer than 3                   |
 |    |                           |     |            |                                                                                                                            |
 |    | *Discard spells*          |     |            |                                                                                                                            |
+|  4 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
 |  4 | Funeral Charm             | B   | inst!      | choose 1: tgt player disc, tgt creats get +2/-1, tgt creat gains swampwalk                                                 |
-|  3 | Pox                       | BBB | sorc       | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                                               |
-|  3 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
-|    |                           |     |            |                                                                                                                            |
-|    | *Helpers*                 |     |            |                                                                                                                            |
-|  4 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
-|  3 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
-|  2 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|  2 | Duress                    | B   | sorc       | Tgt reveal, you choose a non land, non creat card, he discards it.                                                         |
 |    |                           |     |            |                                                                                                                            |
 |    | *Benefits from Discards*  |     |            |                                                                                                                            |
-|  4 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
+|  3 | Liliana's Caress          | 1B  | ench       | When an opp discards, he looses 2 life                                                                                     |
+|  3 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
 |  3 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
+|    |                           |     |            |                                                                                                                            |
+|    | *Extra Draws*             |     |            |                                                                                                                            |
+|  3 | Sign of Blood             | BB  | sorc       | Target player draws 2, and looses 2 life                                                                                   |
+|  2 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
+|    |                           |     |            |                                                                                                                            |
+|    | *Helpers*                 |     |            |                                                                                                                            |
+|  3 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
+|  4 | Damnation                 | 2BB | sorc       | Destroy all creatures, they can't be regenerated.                                                                          |
 |    |                           |     |            |                                                                                                                            |
 |    | *Lands*                   |     |            |                                                                                                                            |
 |  4 | Bojuka Bog                |     | land       | Comes into play tapped, exile tgt player graveyard - t: add B                                                              |
-| 20 | Swamp                     |     | basic land |                                                                                                                            |
+| 16 | Swamp                     |     | basic land |                                                                                                                            |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*               |     |            |                                                                                                                            |
-|  1 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
-|  1 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
-|  2 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
+|    |                           |     |            |                                                                                                                            |
+|    | *Against Killing Decks*   |     |            |                                                                                                                            |
+|  3 | Ravenous Rats             | 1B  | 1/1        | when enter: tgt opponent discards                                                                                          |
+|    |                           |     |            |                                                                                                                            |
+|    | *Against Draw Decks*      |     |            |                                                                                                                            |
+|  3 | Underworld Dreams         | BBB | ench       | Whenever opp draws, he takes 1 damage                                                                                      |
 |  2 | Honden of Night's Reach   | 3B  | ench leg   | Beg upk, tgt opp discards a card                                                                                           |
 |    |                           |     |            |                                                                                                                            |
-|  1 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
-|  1 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
-|  3 | Duress                    | B   | sorc       | Tgt reveal, you choose a non land, non creat card, he discards it.                                                         |
+|    | *Against Mana Heavy Deck* |     |            |                                                                                                                            |
+|  3 | Pox                       | BBB | sorc       | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                                               |
+|  3 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
+|    |                           |     |            |                                                                                                                            |
+|    | *Against Graveyard Deck*  |     |            |                                                                                                                            |
 |  1 | Haunting Echoes           | 3BB | sorc       | Exile all cards from tgt player graveyard other than basic land, search lib for all cads w/ same name, exile them.         |
-|  3 | Liliana's Caress          | 1B  | ench       | When an opp discards, he looses 2 life                                                                                     |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
 
+Considering:
+ - 1 or 2 Liliana Vess
+ - 1? Skeletal Scrying (don't like the add cost of X cards to remove from graveyard)
+ - 1 or 2 Raven's Crime (tgt player discard for B -- but has retrace!!! (discard land, play it again))
+
+ - 1 or 2 Tectonite Edge (tap for 1 -- 1, t: destroy non basic land if its controller has at least 4 lands)
+
 Multiplayer Player Version:
--3 Hymn to Tourach
 -3 The Rack
 +1 Geth's Grimoire
-+2 Smallpox
-+1 Viridian Longbow
 +2 Honden of Night's Reach
 
-Alternate Single Player Version:
--3 The Rack
-+3 Duress (?)
+Words of Waste (2B ench - 1: next time u draw this turn; each opp discard instead)
 
-Against a red damage deck:
-  -2 Viridian Longbow
-  +1 Rack
-  +1 Hymn to Tourach
-  -3 Nezumi Shortfang 
-  +3 Duress
-  maybe:
-  -3 pox
-  +3 liliana's caress
 
 --------------------------------------------
 
@@ -88,14 +89,6 @@ Also:
   For example: 
    Instant to give protection to a creature is useful only if there is a creature in play
 
-Deck modified. 
-The list of cards is gonna get updated very soon.
-May need other way to destory than pox:
-  - problem with pox; if your opp has 2 creatures, one good, you can't get rid of it.
 
-Alternated way:
- - damnation (2BB) or mutilate(2BB)
- - dianolic edict (1B - inst - tgt play sacr a creature)
- - maybe 1 death cloud? (xBBB - sorc - tgt play loose x life, sacr x creat, x land, discard x card)
- - innocent blood (B - sorc - each play sacr a creat)
- - comsuming vapors (3B - sorc - tgt play sacr a creat, u gain life eq to creats toughness - rebound)
+ - maybe 1 death cloud? (xBBB - sorc - EACH play loose x life, sacr x creat, x land, discard x card)
+
