@@ -6,22 +6,30 @@ Main Deck: Single/Multi Plater Oriented / Side board = Multiplayer change + Help
 12 helpers
 
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
+|    | *Discard Creatures*       |     |            |                                                                                                                            |
 |  4 | Hypnotic Specter          | 1BB | 2/2 fly    | When deals damage to opp, that player disc a card at random!!!                                                             |
-|  3 | Nezumi Shortfang          | 1B  | 1/1 -- 3/3 | 1Bt: tgt player disc a card, when no card, flip // beg opp upk, looses 1 life for each card fewer than 3                   |
 |  3 | Rotting Rats              | 1B  | 1/1        | when enter: each players discards -- unearth 1B                                                                            |
+|  3 | Nezumi Shortfang          | 1B  | 1/1 -- 3/3 | 1Bt: tgt player disc a card, when no card, flip // beg opp upk, looses 1 life for each card fewer than 3                   |
 |    |                           |     |            |                                                                                                                            |
-|  4 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
-|  4 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
+|    | *Discard spells*          |     |            |                                                                                                                            |
 |  4 | Funeral Charm             | B   | inst!      | choose 1: tgt player disc, tgt creats get +2/-1, tgt creat gains swampwalk                                                 |
-|  3 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
 |  3 | Pox                       | BBB | sorc       | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                                               |
-|  2 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
 |  3 | Hymn to Tourach           | BB  | sorc       | Tgt player disc two cards at random                                                                                        |
+|    |                           |     |            |                                                                                                                            |
+|    | *Helpers*                 |     |            |                                                                                                                            |
+|  4 | Dark Ritual               | B   | inst       | Add BBB to mana pool                                                                                                       |
+|  3 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
+|  2 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
+|    |                           |     |            |                                                                                                                            |
+|    | *Benefits from Discards*  |     |            |                                                                                                                            |
+|  4 | Quest for the nihil stone | B   | ench       | when opp disc: put a quest counter -- at beg of each opp upk, if that player has no cards and 2+ quest counter -> 5 damage |
 |  3 | The Rack                  | 1   | art        | WHen comes into play, choose an opp, beg upk, it get dealt damage eq to 3 - #cards he has in hand.                         |
 |    |                           |     |            |                                                                                                                            |
+|    | *Lands*                   |     |            |                                                                                                                            |
 |  4 | Bojuka Bog                |     | land       | Comes into play tapped, exile tgt player graveyard - t: add B                                                              |
 | 20 | Swamp                     |     | basic land |                                                                                                                            |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*               |     |            |                                                                                                                            |
 |  1 | Viridian Longbow          | 1   | art        | eqp 3, eqp creat gets: "t: deals 1 damge to tgt creats or player"                                                          |
 |  1 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
 |  2 | Smallpox                  | BB  | sorc       | each player, loose 1 life, sacr a creat, sacr a land, discard a card                                                       |
@@ -33,7 +41,6 @@ Main Deck: Single/Multi Plater Oriented / Side board = Multiplayer change + Help
 |  1 | Haunting Echoes           | 3BB | sorc       | Exile all cards from tgt player graveyard other than basic land, search lib for all cads w/ same name, exile them.         |
 |  3 | Liliana's Caress          | 1B  | ench       | When an opp discards, he looses 2 life                                                                                     |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
-
 
 Multiplayer Player Version:
 -3 Hymn to Tourach
