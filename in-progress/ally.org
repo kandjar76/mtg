@@ -18,6 +18,8 @@ Mana Curve:
 |  4 | Harabaz Druid                         | 1G  | 0/1 ally  | t: add X mana of one color (X = num ally)                                                |
 |  4 | Kabira Evangel                        | 2W  | 2/3 ally  | When ally enter: ally gain protec against choose color                                   |
 |  3 | Sea Gate Loremaster                   | 4U  | 1/3 ally  | t: Draw a card for each ally you control                                                 |
+| -1 | Ondu Cleric                           | 1W  | 1/1 ally  | When ally enter: gain life equal to num of ally in play                                  |
+| +1 | Jwari Shapeshifter                    | 1U  | 0/0 ally  | Enter as a copy of any other ally                                                        |
 |    |                                       |     |           |                                                                                          |
 |    | *Clean the board and bring them back* |     |           |                                                                                          |
 |  3 | Sun Titan                             | 4WW | 6/6 vig   | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
@@ -25,7 +27,8 @@ Mana Curve:
 |    |                                       |     |           |                                                                                          |
 |    | *Helpers*                             |     |           |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | pln-wkr   | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-|  1 | Rite of Replication                   | 2UU | sorc      | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
+| -1 | Rite of Replication                   | 2UU | sorc      | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
+| +1 | Eldrazi Monument                      | 5   | art       | Beg upk: sacr a creat or this one -- creats u control have +1/+1, fly, indestruct.       |
 |  4 | Mana Leak                             | 1U  | inst      | Counter tgt spell, unless caster pays 3                                                  |
 |  2 | Leyline of Anticipation               | 2UU | ench      | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |           |                                                                                          |
@@ -37,6 +40,8 @@ Mana Curve:
 |  2 | Stirring Wildwood                     |     | land      | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                             |
 |  2 | Glacial Fortress                      |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  3 | Celestial Colonnade                   |     | land      | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
+| -1 | Celestial Colonnade                   |     | land      | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
+| +1 | Tectonite Edge                        |     | land      | t: add 1 to mana pool -- 1, t, sacr it: destr tgt land opp control (if opp has 4+ lands) |
 |----+---------------------------------------+-----+-----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |           |                                                                                          |
 |  1 | Emrakul, the Aeons Torn               | 15  | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib   |
@@ -45,6 +50,12 @@ Mana Curve:
 |  4 | Mindbreak Trap                        | 2UU | inst      | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 |  3 | Nature's Claim                        | G   | inst      | Destroy target artifact or enchantment, his controller gain 4 life                       |
 |    |                                       |     |           |                                                                                          |
+| -2 | Mindbreak Trap                        | 2UU | inst      | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
+| -1 | Emrakul, the Aeons Torn               | 15  | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib   |
+| +2 | Tuktuk Scrapper                       | 3R  | 2/2 ally  | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
+| +1 | Mountain                              |     | bas land  |                                                                                          |
+|    |                                       |     |           |                                                                                          |
+|  ? | Rite of Replication                   | 2UU | sorc      | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
 |----+---------------------------------------+-----+-----------+------------------------------------------------------------------------------------------|
 |    | *Cards to consider*                   |     |           |                                                                                          |
 | SB | Revoke Existence                      | 1W  | sorc      | Exile tgt art or enchantment                                                             |
@@ -55,7 +66,8 @@ Mana Curve:
 | SB | Limvala, Keeper of Silence            | 2WW | 3/3 fly   | Act ab of creat ur opp control can't be activated                                        |
 | SB | Negate                                | 1U  | inst      | Counter tgt non creat spell                                                              |
 |    |                                       |     |           |                                                                                          |
-| MB | Basilisk Collar                       | 1   | eqp       | eqp 2 -- creat gets death touch and lifelink.                                            |
+| MB | Mimic Vat                             | 3   | art       | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
+
 
 Sideboard usage:
 
@@ -75,3 +87,9 @@ Sideboard usage:
   
   Against Totem Armor; Eldrazi Monumnet; or Basilisk Collar:
   +3 Nature's Claim
+
+
+I like the idea of putting:
+MB: +1 Scalding Tarn (sac land for island or mountain)
+SB: +1 Mountain
+SB: +2 Tuktuk Scrapper
