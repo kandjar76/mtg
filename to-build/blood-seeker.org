@@ -3,32 +3,37 @@
 | 4 | Lethal Vapors                              | 2BB | ench | Whenever a creats enter battlefield, destroy it; 0: destroy lethal vapors, skip next turn -- anyone can activate it |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Make sure they aren't too many creatures* |     |      |                                                                                                                     |
-| 4 | Leyline of Singularity                     | 2UU | ench | leyline -- Non land permanent are legenrary                                                                         |
+| 4 | Leyline of Singularity                     | 2UU | ench | leyline -- Non land permanent are legendary                                                                         |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Way to put creatures*                     |     |      |                                                                                                                     |
 | 4 | Hunted Horror                              | BB  | 7/7  | tranple -- when enter battlefield put two 3/3 prot from black on opp control                                        |
 | 4 | Hunted Phantasm                            | 1UU | 4/6  | Unblockable -- when enter put 5 1/1 red gob on opponent side                                                        |
 |   |                                            |     |      |                                                                                                                     |
-|   | *Spell to change stuff into creatures*     |     |      |                                                                                                                     |
-| 4 | Wind Zendikon                              | U   | aura | ench land -- enchanted land is a 2/2 w/ flying                                                                      |
-|   |                                            |     |      |                                                                                                                     |
 |   | *Draw/Speed up*                            |     |      |                                                                                                                     |
+| 3 | Preordain                                  | U   | inst | scry 2 then draw                                                                                                    |
 | 4 | Ponder                                     | U   | sorc | Look top 3, put back in any order (u may shuffle) then draw!                                                        |
 | 4 | Unearth                                    | B   | sorc | Return creat w/ cmc <3 to play -- cycling 2                                                                         |
 | 2 | Quicken                                    | U   | inst | Next sorcery is instant -- draw a card                                                                              |
 | 2 | Howling Mine                               | 2   | art  | Each player draw an extra cards                                                                                     |
-| 2 | Compulsion                                 | 1U  | ench | 1U, disc: draw a card -- 1U, sacr: draw.                                                                            |
+| 2 | Foil                                       | 2UU | inst | You may discard an island and another card instead of paying mana cost -- counter target spell                      |
+|   |                                            |     |      |                                                                                                                     |
+|   | *Could be fun*                             |     |      |                                                                                                                     |
+| 1 | Pithing Needle                             | 1   | art  | Name a card -- activated ab of the named card can't be played.                                                      |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Get 'creatures' back*                     |     |      |                                                                                                                     |
 | 2 | Crucible of Words                          | 3   | art  | You may play land from graveyard                                                                                    |
 |   |                                            |     |      |                                                                                                                     |
 |   | *Lands*                                    |     |      |                                                                                                                     |
-| 2 | Forbidden Orchard                          |     | land | t: add 1 mana any color -- when tapped for mana: put a 1/1 spirit on opp side                                       |
+| 2 | Watery Grave                               |     | land | comes tapped unless pay 2 life -- t: add B or U                                                                     |
 | 4 | Mishra's Factory                           |     | land | t: add 1 -- 1: becomes a 2/2 artifact                                                                               |
 | 4 | Creeping Tar Pit                           |     | land | comes tapped - t: add U or B -- 1BU: becomes a 3/2 unblockable                                                      |
-| 2 | Terramorphic Expanse                       |     | land | t: sacr it; search lib for basic land put into play tapped                                                          |
-| 6 | Swamp                                      |     | land |                                                                                                                     |
-| 6 | Island                                     |     | land |                                                                                                                     |
+| 5 | Swamp                                      |     | land |                                                                                                                     |
+| 5 | Island                                     |     | land |                                                                                                                     |
 |---+--------------------------------------------+-----+------+---------------------------------------------------------------------------------------------------------------------|
+| 2 | Forbidden Orchard                          |     | land | t: add 1 mana any color -- when tapped for mana: put a 1/1 spirit on opp side                                       |
+| 2 | Terramorphic Expanse                       |     | land | t: sacr it; search lib for basic land put into play tapped                                                          |
+| 2 | Compulsion                                 | 1U  | ench | 1U, disc: draw a card -- 1U, sacr: draw.                                                                            |
 | 4 | Mutavault                                  |     | land | t: add 1 colorless -- 1: becomes a 2/2 artifact                                                                     |
 | 4 | Tainted Aether                             | 2BB | ench | Whenever a creats enter battlefield, its controller, sacr a creat or land                                           |
+
+
