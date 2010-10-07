@@ -17,11 +17,11 @@ Mana Curve:
 |   |                            |      |             |                                                                                                                    |
 |   | *Landfall Helper*          |      |             |                                                                                                                    |
 | 3 | Ruin Ghost                 | 1W   | 1/1         | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
-| 3 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
+| 2 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
 |   |                            |      |             |                                                                                                                    |
 |   | *Protection/Draw*          |      |             |                                                                                                                    |
 | 4 | Emerge Unscathed           | W    | inst        | Tgt creat u control gain prot against color of choice -- Rebound                                                   |
-| 3 | Momentous Fall             | 2GG  | inst        | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                     |
+| 4 | Momentous Fall             | 2GG  | inst        | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                     |
 |   |                            |      |             |                                                                                                                    |
 |   | *Helper*                   |      |             |                                                                                                                    |
 | 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
