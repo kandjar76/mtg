@@ -1,0 +1,14 @@
+| 4 | Kor Outfitter          |  WW | 2/2     | When enter: you may attach equip to tgt creat u control                                                                     |
+| 4 | Kitesail Apprentice    |   W | 1/1     | When equipped: gain +1/+1 and flying                                                                                        |
+|   | Kor Duelist            |   W | 1/1     | When equipped: gain double strike                                                                                           |
+| 4 | Stoneforge Mystic      |  1W | 1/2     | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                  |
+| 2 | Kemba, Kha Regent      | 1WW | 2/4 leg | Beg upk: put a 2/2 cat for each equip attached to her                                                                       |
+| 2 | Armament Master        |  WW | 2/2     | Other kor gets +2/+2 for each equip attach to him                                                                           |
+|   |                        |     |         |                                                                                                                             |
+| 2 | Argentum Armor         |   6 | eqp 6   | Equip creat gets +6/+6 -- when attack destroy tgt permanent                                                                 |
+| 3 | Basilisk Collar        |   1 | eqp 1   | Equip creat gain lifelink and deathtouch                                                                                    |
+| 4 | Infiltration Lens      |   1 | eqp 1   | When equip gets blocked u may draw two cards                                                                                |
+| 2 | Sword of Vengeance     |   3 | eqp 3   | Equip creat gets +2/0 first stk, vig, trample and haste                                                                     |
+| 2 | Grafted Exoskeleton    |   4 | eqp 2   | Equip creat gets +2/+2 and infect -- when unattached, sacrifice the perm                                                    |
+| 2 | Sword of Body and Mind |   3 | eqp 2   | Equip gets +2/+2 prot green and blue -- when deal damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard |
+|   |                        |     |         |                                                                                                                             |
