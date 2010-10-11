@@ -8,3 +8,10 @@ Thinking now going black/blue or full black..
 |---+-----------------------------+---------+---------+----------------------------------------------------------------------------------------------------------------------|
 | 4 | Creakwood Liege             | 1{bg}x3 | 2/2     | other black, other green get +1/+1 -- beg upk: put a 1/1 bg worm                                                     |
 | 4 | Savra, Queen of the Golgari | 2GB     | 2/2     | Whenever u sacr a green perm, u may gain 2 life -- whenever u sacr a black. u may pay 2, everybody else sacr a creat |
+
+To consider:
+|  | Spawning Pit | 2 | art | sacr a creat: put a charge counter -- 1, remove 2 charge: put a 2/2 art token in play |
+
+ - diabolic edict (1B - inst - tgt play sacr a creature)
+ - innocent blood (B - sorc - each play sacr a creat)
+ - comsuming vapors (3B - sorc - tgt play sacr a creat, u gain life eq to creats toughness - rebound)
