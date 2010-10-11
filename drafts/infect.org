@@ -26,3 +26,11 @@
 | 2 | Memoricyde                   | 3B  | sorc        | Name a card - search opp hand/grave/lib and exile any number of card with that name                                         |
 | 3 | Duress                       | B   | sorc        | Opp reveal hand, choose non creat non land, he discard it                                                                   |
 | 2 | Tainted Strike               | B   | inst        | Tgt creat gets +1/0 until eot and infect                                                                                    |
+
+Alright: infect colors: Main B
+secondary?
+ - G -> Putrefax + mana acceleration (lotus cobra???)
+ - R -> Kiln Fiend (gets +3/0 for each instant/sorc -> tainted strike)
+ - U -> unblockable?
+   Distortion Strike (U -> tgt creat gets +1/0 and unblockable + rebound) 
+   also: black/blue land turning into 3/2 unblockable
