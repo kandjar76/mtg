@@ -1,31 +1,38 @@
-|   | *Black Creatures*            |     |             |                                                                                                                             |
-| 2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | infect -- B: gain haste -- BB: regenerate                                                                                   |
-| 4 | Hand of the Praetors         | 3B  | 3/2         | infect -- other infect gets +1/+1 -- when a creat with infect enter: put a poison counter on tgt player                     |
-| 4 | Plague Stinger               | 1B  | 1/1 fly     | infect                                                                                                                      |
-| ? | Ichor Rats                   | 1BB | 2/1         | infect -- when enter: each player gets a poison counter                                                                     |
-| ? | Fume Spitter                 | B   | 1/1         | sacr it: put a -1/-1 on tgt creat                                                                                           |
-|   |                              |     |             |                                                                                                                             |
-| 2 | Vampire Hexmage              | BB  | 2/1         | first strike -- sacr it: remove all counter from tgt perm                                                                   |
-|   |                              |     |             |                                                                                                                             |
-|   | *Green Creatures*            |     |             |                                                                                                                             |
-| 4 | Putrefax                     | 3GG | 5/3         | infect, trample, haste -- sacr it at eot                                                                                    |
-| 4 | Blight Mamba                 | 1G  | 1/1         | infect -- 1G: regenerate                                                                                                    |
-| 4 | Tangle Angler                | 3G  | 1/5         | infect -- G: tgt creat must block if able                                                                                   |
-|   |                              |     |             |                                                                                                                             |
-|   | *Artifact Creatures*         |     |             |                                                                                                                             |
-| 4 | Ichoclaw Myr                 | 2   | 1/1         | infect -- when blocked: gets +2/+2                                                                                          |
-| 4 | Necropede                    | 2   | 1/1         | infect -- when put to greaveyard: you may put a -1/-1 counter on tgt creat                                                  |
-|   |                              |     |             |                                                                                                                             |
-|   | *Nice Equipment*             |     |             |                                                                                                                             |
-| 2 | Infiltration Lens            | 1   | eqp 1       | When eqp creat gets blocked: you may draw two cards                                                                         |
-| 2 | Livewire Lash                | 2   | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                     |
-| 2 | Sword of Body and Mind       | 3   | eqp 2       | Eqp gets +2/+2 and prot green/blue and when deals damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard |
-|   |                              |     |             |                                                                                                                             |
-|   | *General Helper*             |     |             |                                                                                                                             |
-| 4 | Grasp of Darkness            | BB  | inst        | tgt creats gets -4/-4 until eot                                                                                             |
-| 2 | Memoricyde                   | 3B  | sorc        | Name a card - search opp hand/grave/lib and exile any number of card with that name                                         |
-| 3 | Duress                       | B   | sorc        | Opp reveal hand, choose non creat non land, he discard it                                                                   |
-| 2 | Tainted Strike               | B   | inst        | Tgt creat gets +1/0 until eot and infect                                                                                    |
+|   |    | *Black Creatures: 22*        |     |             |                                                                                                                             |
+| x |  2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | infect -- B: gain haste -- BB: regenerate                                                                                   |
+| 4 |  4 | Hand of the Praetors         |  3B | 3/2         | infect -- other infect gets +1/+1 -- when a creat with infect enter: put a poison counter on tgt player                     |
+| x |  4 | Plague Stinger               |  1B | 1/1 fly     | infect                                                                                                                      |
+| 1 |  4 | Ichor Rats                   | 1BB | 2/1         | infect -- when enter: each player gets a poison counter                                                                     |
+| x |  4 | Leaden Myr                   |   2 | 1/1         | t: add B to mana pool                                                                                                       |
+| x |  4 | Ichoclaw Myr                 |   2 | 1/1         | infect -- when blocked: gets +2/+2                                                                                          |
+|   |    |                              |     |             |                                                                                                                             |
+|   |    | *Spells: 16*                 |     |             |                                                                                                                             |
+| 2 |  4 | Infiltration Lens            |   1 | eqp 1       | When eqp creat gets blocked: you may draw two cards                                                                         |
+| x |  4 | Grasp of Darkness            |  BB | inst        | tgt creats gets -4/-4 until eot                                                                                             |
+| x |  4 | Duress                       |   B | sorc        | Opp reveal hand, choose non creat non land, he discard it                                                                   |
+| x |  2 | Memoricyde                   |  3B | sorc        | Name a card - search opp hand/grave/lib and exile any number of card with that name                                         |
+| 2 |  2 | Sword of Vengence            |   3 | eqp 3       | Equp creats gets +2/0, first strike, vig, trample and haste                                                                 |
+|   |    |                              |     |             |                                                                                                                             |
+|   |    | *Lands: 22?*                 |     |             |                                                                                                                             |
+|   | 22 | Swamp                        |     | basic land  |                                                                                                                             |
+|---+----+------------------------------+-----+-------------+-----------------------------------------------------------------------------------------------------------------------------|
+|   |    | *Sideboard*                  |     |             |                                                                                                                             |
+|   |  4 | Vampire Hexmage              |  BB | 2/1         | first strike -- sacr it: remove all counter from tgt perm                                                                   |
+|   |  2 | Sword of Body and Mind       |   3 | eqp 2       | Eqp gets +2/+2 and prot green/blue and when deals damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard |
+|   |  2 | Ratchet Bomb                 |   2 | art         | t: put charge counter -- t, sacr: destroy non land with CMC = # charge counter                                              |
+|   |    |                              |     |             |                                                                                                                             |
+|   |    | *Other card to consider*     |     |             |                                                                                                                             |
+|   |  2 | Livewire Lash                |   2 | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                     |
+|   |  6 | Virulent Swipe               |   B | inst        | Tgt creats gets +2/0 and deathtouch -- rebound                                                                              |
+|   |    |                              |     |             |                                                                                                                             |
+|   |  2 | Bladed Pinions               |   2 | eqp 2       | Eqp creat gets flying and first strike                                                                                      |
+|   |    | Strider Harness              |   3 | eqp 1       | Eqp creat gets +1/+1 and haste                                                                                              |
+|   |  4 | Necropede                    |   2 | 1/1         | infect -- when put to greaveyard: you may put a -1/-1 counter on tgt creat                                                  |
+|   |  2 | Fume Spitter                 |   B | 1/1         | sacr it: put a -1/-1 on tgt creat                                                                                           |
+|   |  2 | Livewire Lash                |   2 | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                     |
+|   |    |                              |     |             |                                                                                                                             |
+|   |    | *General Helper*             |     |             |                                                                                                                             |
+|   |  2 | Tainted Strike               |   B | inst        | Tgt creat gets +1/0 until eot and infect                                                                                    |
 
 Alright: infect colors: Main B
 secondary?
@@ -34,3 +41,5 @@ secondary?
  - U -> unblockable?
    Distortion Strike (U -> tgt creat gets +1/0 and unblockable + rebound) 
    also: black/blue land turning into 3/2 unblockable
+
+Let's try fully black fisrt!
