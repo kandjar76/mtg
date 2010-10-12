@@ -8,7 +8,7 @@ Composition:
 Mana Curve:
 | 1 |  2 | 3 |  4 | 5 | 6 |
 |---+----+---+----+---+---|
-| 4 | 15 | 4 | 10 | 4 | 3 |
+| 4 | 13 | 6 |  8 | 4 | 3 |
 
 
 |    | *The allies*                          |     |          |                                                                                          |
@@ -26,10 +26,12 @@ Mana Curve:
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | pln-wkr  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-| -1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
-| +1 | Eldrazi Monument                      | 5   | art      | Beg upk: sacr a creat or this one -- creats u control have +1/+1, fly, indestruct.       |
-|  3 | Mana Leak                             | 1U  | inst     | Counter tgt spell, unless caster pays 3                                                  |
+|  1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
+|  2 | Mana Leak                             | 1U  | inst     | Counter tgt spell, unless caster pays 3                                                  |
+|  1 | Elspeth Tirel                         | 3WW | pln-wkr  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
 |  1 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
+| -1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
+| +1 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
@@ -41,8 +43,6 @@ Mana Curve:
 |  2 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  2 | Celestial Colonnade                   |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
 |  1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
-| -1 | Island                                |     | bas land |                                                                                          |
-| +1 | Tectonite Edge                        |     | land     | t: add 1 to mana pool -- 1, t, sacr it: destr tgt land opp control (if opp has 4+ lands) |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
 |  3 | Summoning Trap                        | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
@@ -65,6 +65,11 @@ Mana Curve:
 | ?? | Rite of Replication                   | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
 
 
+Note: I'm not sure if removing the mana leak is such a good idea;
+ 2 may be too little... 3 seemed right; 4 too many since they aren't straight counters
+After few games; I can already say: Mimic Vat is a Key card!! I won a game with it I wouldn't have without it. 
+
+
 Sideboard usage:
 
   Against Mill, Sacrifice, Direct Damage Red:
@@ -77,9 +82,6 @@ Sideboard usage:
   -1 Rite of Replication
   -2 Mana Leak
   +3 Summoning Trap
-  Potentially:
-  -1 Days of Judgement
-  +1 Emrakul
   
   Against Totem Armor; Eldrazi Monumnet; or Basilisk Collar:
   +3 Nature's Claim
