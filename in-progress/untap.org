@@ -1,3 +1,5 @@
+Note: worked, but not fun!
+
 | 4 | Paradise Mangle      | 0        | eqp 1   |                 | equip creats gains: t: add 1 mana of any color to mana pool       |
 | 4 | Training Grounds     | U        | ench    |                 | activated ability of creats u control cost 2 less to play (min 1) |
 |   |                      |          |         |                 |                                                                   |
