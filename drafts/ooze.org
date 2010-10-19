@@ -1,0 +1,58 @@
+|   | *Key Cards*             |          |             |                                                                                                      |
+| 4 | Skill Borrower          | 2U       | 1/3         | Play w/ top lib revealed -- he has activated ability of card if art/creat                            |
+| 4 | Necrotic Ooze           | 2BB      | 4/3         | Has activated ability of all creatures in all graveyard                                              |
+| 2 | Dimir Doppelganger      | 1UB      | 0/2         | 1UB: exile tgt cret from a graveyard, he becomes a copy and gain this ab.                            |
+| 4 | Birds of Paradise       | G        | 0/1         | t: add 1 mana to mana pool                                                                           |
+| 4 | Fauna Shaman            | 1G       | 2/2         | G, t, disc card: search lib for creat card, put to hand                                              |
+|   |                         |          |             |                                                                                                      |
+|   | *Helper*                |          |             |                                                                                                      |
+| 4 | Training Ground         | U        | ench        | Activated Ability Cost 2 less to play                                                                |
+| 4 | Thousand Elixir         | 3        | art         | Creats can use activated ab as if they has haste -- 1, t: untap tgt creats                           |
+| 1 | Sensei's Divining Top   |          |             |                                                                                                      |
+| 4 | Evolution Charm         | 1G       | inst        | Choose 1: search lib for basic land -- return tgt creat from grave to hand -- tgt creat gain flying  |
+| 2 | Buried Alive            | 2B       | sorc        | Search lib for up to 3 creats and put them into your graveyard                                       |
+| 2 | Liliana Vess            | 3BB      | plnwk       | +1: tgt player disc; -2: search card put on top of lib; -8: put all creat in all grave to play       |
+|   |                         |          |             |                                                                                                      |
+|   |                         |          |             |                                                                                                      |
+|   | *Activated Abs: 20*     |          |             |                                                                                                      |
+|   |                         |          |             |                                                                                                      |
+|   | /Token Maker/           |          |             |                                                                                                      |
+| 1 | Godsire                 | 4RGGW    | 8/8 vig     | t: put a 8/8 into play                                                                               |
+| 1 | Oona, Queen of the Fae  | 3{UB}x3  | 5/5 fly leg | x{ub}: choose color, tgt player exile X card from lib; put a 1/1 fly for each card of choosen color  |
+|   |                         |          |             |                                                                                                      |
+|   | /Mana Helper/           |          |             |                                                                                                      |
+| 1 | Elvish Aberration       | 5G       | 4/5         | t: add GGG to mana pool                                                                              |
+| 1 | Pili-Pala               | 2        | 1/1 fly     | 2, u: add one mana any color to mana pool                                                            |
+| 1 | Palladium Myr           | 3        | 2/2         | t: add 2 to mana pool                                                                                |
+|   |                         |          |             |                                                                                                      |
+|   | /Building Strength/     |          |             |                                                                                                      |
+| 1 | Gigantomancer           | 7G       | 1/1         | 1: tgt creat u control becomes 7/7 until eot                                                         |
+|   |                         |          |             |                                                                                                      |
+|   | /Draw search/           |          |             |                                                                                                      |
+| 1 | Puresight Merrow        | {wu}{wu} | 2/2         | {wu}, u: look top card of lib; u may exile it                                                        |
+| 1 | Lurking Informant       | 1{ub}    | 1/2         | 2, t: look top card of tgt player lib, u may put card to graveyard                                   |
+| 1 | Arcanis the Omnipotent  | 3UUU     | 3/4         | t: draw 3 cards; 2UU: return it to owner's hand                                                      |
+|   |                         |          |             |                                                                                                      |
+|   | /Protection/            |          |             |                                                                                                      |
+| 1 | Advanced Hoverguard     | 3U       | 2/2 fly     | u: gain shroud until eot                                                                             |
+| 1 | Spiritmonger            | 3GB      | 6/6         | when deal damage: put a +1c on him -- B: regen; G: becomes color of choice                           |
+| 1 | Vedalken Mastermind     | UU       | 1/2         | U, t: return tgt perm u control to owner's hand                                                      |
+| 1 | Vampire Hexmage         | BB       | 2/1         | first strike -- sacr it: remove all counters from tgt perm                                           |
+| 1 | Oracle of Nectars       | 2{gw}    | 2/2         | x, t: you gain X life                                                                                |
+| 1 | Vexing Shusher          | {rg}{rg} | 2/2         | Can't be countered -- {gr}: tgt spell can't be countered by spell or abs                             |
+|   |                         |          |             |                                                                                                      |
+|   | /Creature Killer/       |          |             |                                                                                                      |
+| 1 | Royal Assassin          | 1BB      | 1/1         | t: destroy tgt tapped creature                                                                       |
+| 1 | Avatar of Woe           | 6BB      | 6/5         | if grave has 10+ creats he cost 6 less to play -- t: destr tgt creat, it can't be regen              |
+| 1 | Lightning Crafter       | 3R       | 3/3         | Champ gob or shaman -- t: deals 3 damage to tgt creats or player                                     |
+|   |                         |          |             |                                                                                                      |
+|   | /Graveyard Playground/  |          |             |                                                                                                      |
+| 1 | Wild Mongrel            | 1G       | 2/2         | disc card: he gains +1/+1 until eot                                                                  |
+| 1 | Geth, Lord of the Vault | 4BB      | 5/5 leg     | intimidate -- xB: put tgt art of creat from opp graveyard to play under ur control, opp mill X cards |
+|---+-------------------------+----------+-------------+------------------------------------------------------------------------------------------------------|
+|   | /Guild Mages/           |          |             |                                                                                                      |
+| 1 | Azorius Guildmage       | {wu}{wu} | 2/2         | 2W: tap tgt creats -- 2U: counter activated ab                                                       |
+| 1 | Simic Guildmage         | {ug}{ug} | 2/2         | 1G: move +1c -- 1U: move enchantment                                                                 |
+| 1 | Dimir Guildmage         | {ub}{ub} | 2/2         | 3U: tgt player draw -- 3B: tgt player discard (only as sorcery)                                      |
+| 1 | Golgari Guildmage       | {gb}{gb} | 2/2         | 4B, sacr: return creat from grave ot hand; 4G: put +1c                                               |
+|   |                         |          |             |                                                                                                      |
