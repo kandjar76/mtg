@@ -31,14 +31,14 @@ Mana Curve:
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
-|  5 | Plain                                 |     | bas land |                                                                                          |
+|  4 | Plain                                 |     | bas land |                                                                                          |
 |  3 | Forest                                |     | bas land |                                                                                          |
 |  3 | Island                                |     | bas land |                                                                                          |
 |  3 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
 |  2 | Stirring Wildwood                     |     | land     | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                             |
 |  3 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  2 | Celestial Colonnade                   |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
-|  1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
+|  2 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
 |  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
@@ -61,6 +61,7 @@ Current consideration:
    in the main deck: should I add a third Leyline of Anticipation...
    have to try to play with Contagious Engine in the main deck to see if it's playable.
    if note: I'll swap it for "Rite of Replication".
+   Wondering if I should not keep 5 plain (removing 1 Glacial Fortress)
 --
 
 Elspeth Tirel is definitively a strong planeswalker.
