@@ -10,7 +10,6 @@ Mana Curve:
 |---+----+---+----+---+---|
 | 4 | 13 | 6 |  8 | 4 | 3 |
 
-
 |    | *The allies*                          |     |          |                                                                                          |
 |  4 | Hada Freeblade                        | W   | 0/1 ally | When ally enter: put counter on him                                                      |
 |  2 | Ondu Cleric                           | 1W  | 1/1 ally | When ally enter: gain life equal to num of ally in play                                  |
@@ -26,9 +25,8 @@ Mana Curve:
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | pln-wkr  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-|  1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
-|  2 | Mana Leak                             | 1U  | inst     | Counter tgt spell, unless caster pays 3                                                  |
 |  1 | Elspeth Tirel                         | 3WW | pln-wkr  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
+|  2 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
@@ -43,57 +41,56 @@ Mana Curve:
 |  1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
-|  2 | Summoning Trap                        | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
 |  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
 |  1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
 |  1 | Contagion Engine                      | 6   | art      | When enter: put a -1c on each creats tgt player control; 4, t: proliferate x2            |
+|  2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
 |  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
-|  3 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
-|  2 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
+|  2 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
+|  3 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
 |  1 | Mountain                              |     | bas land |                                                                                          |
 |    |                                       |     |          |                                                                                          |
 |  ? | Rite of Replication                   | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Cards to consider*                   |     |          |                                                                                          |
 | SB | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-| SB | Pithing Needle                        | 1   | art      | Choose a card; activated ab of choosen card can't be played                              |
 | SB | Unified Will                          | 1U  | inst     | Counter tgt spell if u control more creat that ur opp                                    |
 
 
+Current consideration:
+   in the main deck: should I add a third Leyline of Anticipation...
+   have to try to play with Contagious Engine in the main deck to see if it's playable.
+   if note: I'll swap it for "Rite of Replication".
+--
+
 Elspeth Tirel is definitively a strong planeswalker.
 I would probably switch her with Venser, the Sojourner; however she turned out useful in many games.
-
 The mana changes (removing 3 plains to add more dual color land) didn't seem to be to problematic.
 
+Change in the main deck:
+ - usually "Mana Leak" is only useful to counter a artifact or enchantment; creatures aren't too much of an issue;
+besides, there is always "Days of Judgement", so instead of "Mana Leak", I put: 2 "Revoke Existence".
 
-
-Note: I'm not sure if removing the mana leak is such a good idea;
- 2 may be too little... 3 seemed right; 4 too many since they aren't straight counters
-
-Need to try the deck with tuktuk in it; see if 2 is enough, or if 3 would be better. 
-Also: will the 2 land enough (1 fetch + 1 mountain) enough? -> So maybe 2 is enough.
+Sideboard wise:
+- summoning trap isn't so much useful here; the most likely spell which are gonna get countered are:
+   the planeswalkers, the days of judgement spells, potentially mimic vat... but rarely the ally I 
+   think. -> removed! adding Contagious Clasp instead
 
 Sideboard usage:
 
   Against Mill, Sacrifice, Direct Damage Red:
   -1 Day of Judgement
-  -1 Rite of Replication
-  -2 Mana Leak
-  +4 Leyline of Sanctity
+  -2 Revoke Existence
+  +3 Leyline of Sanctity
 
-  Against Blue Counter / Control:
-  -1 Rite of Replication
-  -2 Mana Leak
-  +3 Summoning Trap
-  
   Against Totem Armor; Eldrazi Monumnet; or Basilisk Collar:
-  +3 Revoke Existence
+  +2 Revoke Existence
 
   Against artifact heavy/dangerous deck:
   -1 Plain
   +1 Mountain
-  +2 Tuktuk Scrapper
-  -2 ???
+  +3 Tuktuk Scrapper
+  -3 ???
 
   Against instructible artifact: 
   -1 or -2 Day of Judgement and +2 Revoke Existence
