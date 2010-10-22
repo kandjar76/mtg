@@ -29,29 +29,24 @@ Mana Curve:
 |  1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
 |  2 | Mana Leak                             | 1U  | inst     | Counter tgt spell, unless caster pays 3                                                  |
 |  1 | Elspeth Tirel                         | 3WW | pln-wkr  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
-|  1 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
-| -1 | Semblance Anvil                       | 3   | art      | Imprint: exile card from hand -- spell sharing card type cost 2 less to play             |
-| +1 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
+|  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
-|  8 | Plain                                 |     | bas land |                                                                                          |
+|  5 | Plain                                 |     | bas land |                                                                                          |
 |  3 | Forest                                |     | bas land |                                                                                          |
 |  3 | Island                                |     | bas land |                                                                                          |
-| -3 | Plain                                 |     | bas land |                                                                                          |
-| +2 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
-|  1 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
+|  3 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
 |  2 | Stirring Wildwood                     |     | land     | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                             |
-| +1 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
-|  2 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
+|  3 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  2 | Celestial Colonnade                   |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
 |  1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
-|  3 | Summoning Trap                        | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
-| -1 | Summoning Trap                        | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
-| +1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-|  4 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
+|  2 | Summoning Trap                        | 4GG | inst     | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom |
+|  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
+|  1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
+|  1 | Contagion Engine                      | 6   | art      | When enter: put a -1c on each creats tgt player control; 4, t: proliferate x2            |
 |  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 |  3 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  2 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
@@ -65,9 +60,18 @@ Mana Curve:
 | SB | Unified Will                          | 1U  | inst     | Counter tgt spell if u control more creat that ur opp                                    |
 
 
+Elspeth Tirel is definitively a strong planeswalker.
+I would probably switch her with Venser, the Sojourner; however she turned out useful in many games.
+
+The mana changes (removing 3 plains to add more dual color land) didn't seem to be to problematic.
+
+
+
 Note: I'm not sure if removing the mana leak is such a good idea;
  2 may be too little... 3 seemed right; 4 too many since they aren't straight counters
 
+Need to try the deck with tuktuk in it; see if 2 is enough, or if 3 would be better. 
+Also: will the 2 land enough (1 fetch + 1 mountain) enough? -> So maybe 2 is enough.
 
 Sideboard usage:
 
