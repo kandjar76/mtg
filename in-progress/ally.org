@@ -1,4 +1,4 @@
-Ally Deck:
+Ally Deck: "The Day of Allies"
 
 Composition:
 | Creatures | Spells | Lands |
@@ -42,9 +42,9 @@ Mana Curve:
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
 |  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
-|  1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-|  1 | Contagion Engine                      | 6   | art      | When enter: put a -1c on each creats tgt player control; 4, t: proliferate x2            |
-|  2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
+| ?1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
+| ?1 | Contagion Engine                      | 6   | art      | When enter: put a -1c on each creats tgt player control; 4, t: proliferate x2            |
+| *2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
 |  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 |  2 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  3 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
@@ -55,13 +55,23 @@ Mana Curve:
 |    | *Cards to consider*                   |     |          |                                                                                          |
 | SB | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
 | SB | Unified Will                          | 1U  | inst     | Counter tgt spell if u control more creat that ur opp                                    |
-
+| SB | Nihil Spellbomb                       | 1   | art      | t, sacr it: exile tgt graveyard of tgt player (u may also pay B to draw)                 |
+| SB | Celestial Purge                       | 1W  | inst     | Exile black or red permanent                                                             |
 
 Current consideration:
    in the main deck: should I add a third Leyline of Anticipation...
    have to try to play with Contagious Engine in the main deck to see if it's playable.
    if note: I'll swap it for "Rite of Replication".
    Wondering if I should not keep 5 plain (removing 1 Glacial Fortress)
+
+   Question regarding the sideboard:
+   - what am I trying to solve by putting Contagious Clasp in it
+   - same question for Ratchet Bomb and Contagion Engine
+   
+   Regarding: Ratchet Bomb -> Massive Token Deck!
+     Won't Day of Judgements take care of the problem?
+   Maybe: playing negate? or protection? to replace what?
+
 --
 
 Elspeth Tirel is definitively a strong planeswalker.
