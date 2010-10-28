@@ -26,8 +26,8 @@ Mana Curve:
 |    | *Helpers*                             |     |          |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | pln-wkr  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
 |  1 | Elspeth Tirel                         | 3WW | pln-wkr  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
-|  2 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
+|  2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
@@ -41,12 +41,10 @@ Mana Curve:
 |  2 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
-|  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
-| ?1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-| ?1 | Contagion Engine                      | 6   | art      | When enter: put a -1c on each creats tgt player control; 4, t: proliferate x2            |
-| *2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
+|  4 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
+|  1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
 |  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
-|  2 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
+|  4 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  3 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
 |  1 | Mountain                              |     | bas land |                                                                                          |
 |    |                                       |     |          |                                                                                          |
@@ -64,13 +62,18 @@ Current consideration:
    if note: I'll swap it for "Rite of Replication".
    Wondering if I should not keep 5 plain (removing 1 Glacial Fortress)
 
-   Question regarding the sideboard:
-   - what am I trying to solve by putting Contagious Clasp in it
-   - same question for Ratchet Bomb and Contagion Engine
-   
-   Regarding: Ratchet Bomb -> Massive Token Deck!
-     Won't Day of Judgements take care of the problem?
-   Maybe: playing negate? or protection? to replace what?
+   I dunno if 4 of some cards is the way to go in the SB:
+   - 4 leyline, really?
+   - 4 revoke? 
+   I think I could do: -1 revoke and +1 ratchet bomb; or +1 Mindbreak Trap.
+
+   Ratchet Bomb: really good against massive token.
+   Yes Day of Judgement take care of the problem; but Ratchet Bomb add an extra card for it
+   Furthermore: Sun Titan can fetch for it.!!!
+
+   Contagious Clasp seem to be actually really good in the main deck.
+   It takes care of annoying 1/1 (royal assassin, mana douche...)
+   And the proliferate benefits is non negligeable.
 
 --
 
