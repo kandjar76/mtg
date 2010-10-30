@@ -1,0 +1,40 @@
+40
+ 
+
+|   | *Proliferate 14*        |      |                |                                                                                                                                              |
+| 4 | Steady Progress         | 2U   |                | Proliferate, draw a card                                                                                                                     |
+| 4 | Thrummingbird           | 1U   | 1/1 fly        | When deal damage: prolifetate                                                                                                                |
+| 4 | Contagion Clasp         | 2    | art            | When enter: put a -1c on tgt creat; 4,t: proliferate                                                                                         |
+| 2 | Throne of Geth          | 2    | art            | t, sacr an art: proliferate                                                                                                                  |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Quests 8*              |      |                |                                                                                                                                              |
+| 2 | Quest for the Gravelord | B    | Ench           | When a creat put to graveyard, put counter -- remove 3, sacr it: put a 5/5 tok zomb to play                                                  |
+| 2 | Quest for Ula's temple  | U    | ench           | Beg upk, u may look and reveal a creat: put a counter -- if 3, counter, at end step: u may put a leviathan, kraken, octopus, serpent to play |
+| 2 | Soul Stair Expedition   | B    | Ench           | Landfall: put a counter in it -- Remove 3, sacr it: return up to 2 creats from graveyard to hand                                             |
+| 2 | Bloodchief Ascension    | B    |                | Beg end stp, if an opp lost 2 life this turn, put a counter on it -- when 2+ counter, opp looses 2 life for each card going to his graveyard |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Artifact to sacrice 2* |      |                |                                                                                                                                              |
+| 2 | Ornithopter             | 0    | art - 0/2 fly  |                                                                                                                                              |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Planeswalker 4*        |      |                |                                                                                                                                              |
+| 2 | Jace Belleren           | 1UU  | plnlkr 3       | +2: everybody draws; -1: u draw; -10: tgt player put top 20 card from lib to graveyard                                                       |
+| 2 | Liliana Vess            | 3BB  | plnwlk 5       | +1: tgt player disc; -2: search lib for card put on top; -8: put all creat in all graveyard to play under ur control                         |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Big Douches 4*         |      |                |                                                                                                                                              |
+| 2 | Wrexial, the Risen Deep | 3UUB | 5/8 kraken leg | Islandwalk, Swampwalk -- When deal combat damage: u may play a instant or sorcery spell from that player's graveyard                         |
+| 2 | Stormtide Leviathan     | 5UUU | 8/8 leviat     | Islandwalk -- Creat without islandwalk or fly can't attack                                                                                   |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Mill cards 5*          |      |                |                                                                                                                                              |
+| 1 | Geth, Lord of the Vault | 4BB  | 5/5 leg zomb   | intimidate -- xB: put tgt art or creat w/ CMC x from opp graveyard to play tapped -- then that play put X card from lib to graveyard         |
+| 4 | Hedron Crap             | U    | 0/2 crap       | Landfall: tgt player put top 3 card from lib to graveyard                                                                                    |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Mana helper 3*         |      |                |                                                                                                                                              |
+| 3 | Everflowing Chalice     | 0    | art            | Multiker 2; put a charge counter for each time kicked -- t: add 1 mana for each kick                                                         |
+|   |                         |      |                |                                                                                                                                              |
+|   | *Lands*                 |      |                |                                                                                                                                              |
+| 4 | Creeping Tar Pit        |      | land           | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                               |
+| 2 | Darkslick Shores        |      | land           | enter tapped if u control 3+ land -- t: add U or B                                                                                           |
+|---+-------------------------+------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Archive Trap            | 3UU  | inst           | If opp search: u may pay 0 -- tgt opp mill 13 cards                                                                                          |
+|   | Bloodchief Ascension    | B    |                | Beg end stp, if an opp lost 2 life this turn, put a counter on it -- when 2+ counter, opp looses 2 life for each card going to his graveyard |
+|   |                         |      |                |                                                                                                                                              |
