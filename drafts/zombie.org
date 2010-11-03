@@ -1,18 +1,19 @@
-| 4 | Phylactery Lich              | BBB | 5/5         | When enter put counter on art -- when no counter in play, sacr it                                                      |
-| 4 | Skinrender                   | 3B  | 3/3         | When enter: put 3 -1/-1 on tgt creat                                                                                   |
-| 1 | Geth, Lord of the Vault      | 4BB | 5/5 leg     | Intimidate -- xB: put tgt art from opp graveyard to play under ur control then he put top X card from lib to graveyard |
-| 2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | Infect -- B: gain haste -- BB: regen                                                                                   |
-|   |                              |     |             |                                                                                                                        |
-| 4 | Contagious Nim               | 2B  | 2/2         | Infect                                                                                                                 |
-| 4 | Hand of the Praetors         | 3B  | 3/3         | Infect -- other creats w/ infect gets +1/+1 -- when cast infect put a poison counter on tgt player                     |
-| 4 | Plague Stinger               | 1B  | 1/1 fly     | Infect                                                                                                                 |
-| 4 | Ichor Rats                   | 1BB | 2/1         | Infect -- when enter: each play gets a poison counter                                                                  |
-|   |                              |     |             |                                                                                                                        |
-| 4 | Darksteel Axe                | 1   | eqp 2       | Darksteel is indestructible -- Equp get +2/0                                                                           |
-| 4 | Infiltration Lens            | 1   | eqp 1       | When equp gets blocked you may draw 2 cards                                                                            |
-| 1 | Nim Deathmantle              | 4   | eqp 4       | Equp gets +2/+2 intimidate and is a zombie -- creat graveyard: pay 4 and return to play with Nim attached to it        |
-| 4 | Grasp of Darkness            | BB  | inst        | Tgt creats gets -4/-4 until eot                                                                                        |
-| 2 | Disfigure                    | B   | inst        | Tgt creats gets -2/-2 until eot                                                                                        |
-|---+------------------------------+-----+-------------+------------------------------------------------------------------------------------------------------------------------|
-| 4 | Tainted Strike               | B   | inst        | Tgt creats gets +1/0 and infect until eot                                                                              |
-| ? | Guul Draz Assassin           | B   | 1/1         | Level up 1B -- [2-3]: 2/2, Bt: tgt creat gets -2/-2 -- [4+]: 4/4, Bt: tgt creats gets -4/-4 until eot                  |
+| 1 | Geth, Lord of the Vault | 4BB | 5/5 leg | Intimidate -- xB: put tgt art from opp graveyard to play under ur control then he put top X card from lib to graveyard |
+| 4 | Phylactery Lich         | BBB | 5/5     | When enter put counter on art -- when no counter in play, sacr it                                                      |
+| 4 | Vampire Nighthawk       | 1BB | 2/3 fly | Deathtouch, Lifelink                                                                                                   |
+| 4 | Skinrender              | 3B  | 3/3     | When enter: put 3 -1/-1 on tgt creat                                                                                   |
+| 4 | Gatekeeper of Malakir   | BB  | 2/2     | Kicker B -- When enter, if kicked: tgt player sacrifice a creature                                                     |
+| 4 | Fume Spitter            | B   | 1/1     | Sacr it: put a -1c on tgt creats                                                                                       |
+| 2 | Necrotic Ooze           | 2BB | 4/3     | When on battlefield; he has all activated ability of all creats in all graveyard                                       |
+|   |                         |     |         |                                                                                                                        |
+| 3 | Darksteel Axe           | 1   | eqp 2   | Darksteel is indestructible -- Equp get +2/0                                                                           |
+| 3 | Infiltration Lens       | 1   | eqp 1   | When equp gets blocked you may draw 2 cards                                                                            |
+| 4 | Grasp of Darkness       | BB  | inst    | Tgt creats gets -4/-4 until eot                                                                                        |
+| 2 | Nim Deathmantle         | 4   | eqp 4   | Equp gets +2/+2 intimidate and is a zombie -- creat graveyard: pay 4 and return to play with Nim attached to it        |
+|   |                         |     |         |                                                                                                                        |
+|   |                         |     |         |                                                                                                                        |
+| 2 | Carnifex Demon          | 4BB | 6/6 fly | Comes with 2 -1c -- B, rem a -1c: put a -1c on each other creatures                                                    |
+| 2 | Disfigure               | B   | inst    | Tgt creats gets -2/-2 until eot                                                                                        |
+|---+-------------------------+-----+---------+------------------------------------------------------------------------------------------------------------------------|
+| 4 | Tainted Strike          | B   | inst    | Tgt creats gets +1/0 and infect until eot                                                                              |
+| ? | Guul Draz Assassin      | B   | 1/1     | Level up 1B -- [2-3]: 2/2, Bt: tgt creat gets -2/-2 -- [4+]: 4/4, Bt: tgt creats gets -4/-4 until eot                  |
