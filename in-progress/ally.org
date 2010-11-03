@@ -42,9 +42,9 @@ Mana Curve:
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
 |  4 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
-|  1 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
+|  2 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
 |  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
-|  4 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
+|  3 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  3 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
 |  1 | Mountain                              |     | bas land |                                                                                          |
 |    |                                       |     |          |                                                                                          |
