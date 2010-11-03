@@ -34,6 +34,10 @@
 |   |   | *Lands*                 |      |                |                                                                                                                                              |
 | x | 4 | Creeping Tar Pit        |      | land           | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                               |
 | x | 2 | Darkslick Shores        |      | land           | enter tapped if u control 3+ land -- t: add U or B                                                                                           |
+| x | 2 | Halimar Depths          |      | land           | Comes tapped -- t: add U -- when enter: look top 3 cards of lib, put them back in any order.                                                 |
+|   | 4 | Terramorphic Expanse    |      | land           | t, sacr: search for a basic land put into play tapped.                                                                                       |
+|   | 4 | Swamp                   |      | land           |                                                                                                                                              |
+|   | 4 | Island                  |      | land           |                                                                                                                                              |
 |---+---+-------------------------+------+----------------+----------------------------------------------------------------------------------------------------------------------------------------------|
 |   | 1 | Archive Trap            | 3UU  | inst           | If opp search: u may pay 0 -- tgt opp mill 13 cards                                                                                          |
 |   |   | Bloodchief Ascension    | B    |                | Beg end stp, if an opp lost 2 life this turn, put a counter on it -- when 2+ counter, opp looses 2 life for each card going to his graveyard |
