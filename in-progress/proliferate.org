@@ -42,3 +42,21 @@
 | 1 | Archive Trap            | 3UU  | inst           | If opp search: u may pay 0 -- tgt opp mill 13 cards                                                                                          |
 |   | Bloodchief Ascension    | B    |                | Beg end stp, if an opp lost 2 life this turn, put a counter on it -- when 2+ counter, opp looses 2 life for each card going to his graveyard |
 |   |                         |      |                |                                                                                                                                              |
+
+What did work: 
+  - when Quest for Ula's Temple was out; it worked great!
+  - Everflowing Chalice is definitively a good mana acceleration
+  - Bloodchief Ascension worked great too!
+  - Bringing all creatures in all graveyard out with Liliana's ultimatum was awesome!
+
+What did not work: 
+  - The deck is too slow
+  - Unfocused.
+  - Quest for teh gravelord was useleff
+  - Same goes for: Semblance Anvil and Soulstair Expedition
+
+=> Change of deck: 
+  - Focus more on the milling/discard to build up Bloodchief ability
+  - More creature killing.
+  
+  Question: what about Ula's quest? (kinda fun)
