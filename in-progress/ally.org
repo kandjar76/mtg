@@ -41,41 +41,39 @@ Mana Curve:
 |  2 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
-|  4 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
+|  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
 |  2 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-|  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
+|  2 | Celestial Purge                       | 1W  | inst     | Exile black or red permanent                                                             |
+|  2 | Negate                                | 1U  | inst     | Counter non creature spell                                                               |
 |  3 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
-|  3 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
+|  2 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
 |  1 | Mountain                              |     | bas land |                                                                                          |
 |    |                                       |     |          |                                                                                          |
-|  ? | Rite of Replication                   | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Cards to consider*                   |     |          |                                                                                          |
-| SB | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
-| SB | Unified Will                          | 1U  | inst     | Counter tgt spell if u control more creat that ur opp                                    |
+| SB | Rite of Replication                   | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
+| SB | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 | SB | Nihil Spellbomb                       | 1   | art      | t, sacr it: exile tgt graveyard of tgt player (u may also pay B to draw)                 |
-| SB | Celestial Purge                       | 1W  | inst     | Exile black or red permanent                                                             |
 
 Current consideration:
+   Considering: -2 protection ally +2 flying bird ally.
    in the main deck: should I add a third Leyline of Anticipation...
-   have to try to play with Contagious Engine in the main deck to see if it's playable.
-   if note: I'll swap it for "Rite of Replication".
    Wondering if I should not keep 5 plain (removing 1 Glacial Fortress)
+   Also: considering putting 1 Tuktuk and 1 Mountain in the main deck.
 
-   I dunno if 4 of some cards is the way to go in the SB:
-   - 4 leyline, really?
-   - 4 revoke? 
-   I think I could do: -1 revoke and +1 ratchet bomb; or +1 Mindbreak Trap.
+Ratchet Bomb: really good against massive token.
+Yes Day of Judgement take care of the problem; but Ratchet Bomb add an extra card for it
+Furthermore: Sun Titan can fetch for it.!!!
 
-   Ratchet Bomb: really good against massive token.
-   Yes Day of Judgement take care of the problem; but Ratchet Bomb add an extra card for it
-   Furthermore: Sun Titan can fetch for it.!!!
+Putting 4 of the leyline seems overkill for now; putting 4 means: 
+ - removing 4 cards from the deck to just put this one! -> down to 3
+Same for revoke; this leave room for an extra spell: Celestial Purge
 
-   Contagious Clasp seem to be actually really good in the main deck.
-   It takes care of annoying 1/1 (royal assassin, mana douche...)
-   And the proliferate benefits is non negligeable.
+Mindbreak Trap is way to high casting cost to be that useful.  Usually
+I want to counter non creature spells.
 
---
+Contagious Engine isn't good enough; it's strong, but too high casting cost.
+Contagious Clasp is much better.
 
 Elspeth Tirel is definitively a strong planeswalker.
 I would probably switch her with Venser, the Sojourner; however she turned out useful in many games.
