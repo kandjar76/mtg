@@ -8,16 +8,17 @@ Composition:
 Mana Curve:
 | 1 |  2 | 3 |  4 | 5 | 6 |
 |---+----+---+----+---+---|
-| 4 | 13 | 6 |  8 | 4 | 3 |
+| 4 | 13 | 7 |  8 | 3 | 3 |
 
 |    | *The allies*                          |     |          |                                                                                          |
 |  4 | Hada Freeblade                        | W   | 0/1 ally | When ally enter: put counter on him                                                      |
 |  2 | Ondu Cleric                           | 1W  | 1/1 ally | When ally enter: gain life equal to num of ally in play                                  |
 |  4 | Kazandu Blademaster                   | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                                       |
 |  4 | Harabaz Druid                         | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                                                |
-|  4 | Kabira Evangel                        | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                                   |
-|  3 | Sea Gate Loremaster                   | 4U  | 1/3 ally | t: Draw a card for each ally you control                                                 |
+|  3 | Kabira Evangel                        | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                                   |
+|  2 | Sea Gate Loremaster                   | 4U  | 1/3 ally | t: Draw a card for each ally you control                                                 |
 |  1 | Jwari Shapeshifter                    | 1U  | 0/0 ally | Enter as a copy of any other ally                                                        |
+|  2 | Umara Raptor                          | 2U  | 1/1 ally | When ally enter: put a +1c on him                                                        |
 |    |                                       |     |          |                                                                                          |
 |    | *Clean the board and bring them back* |     |          |                                                                                          |
 |  3 | Sun Titan                             | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
@@ -32,8 +33,9 @@ Mana Curve:
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
 |  4 | Plain                                 |     | bas land |                                                                                          |
-|  3 | Forest                                |     | bas land |                                                                                          |
+|  2 | Forest                                |     | bas land |                                                                                          |
 |  3 | Island                                |     | bas land |                                                                                          |
+|  1 | Misty Rainforest                      |     | land     | pay 1, sacr it: search for a island or forest and put it into play                       |
 |  3 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
 |  2 | Stirring Wildwood                     |     | land     | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                             |
 |  3 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
@@ -96,7 +98,7 @@ Sideboard usage:
   +3 Leyline of Sanctity
 
   Against Totem Armor; Eldrazi Monumnet; or Basilisk Collar:
-  +2 Revoke Existence
+  +3 Revoke Existence
 
   Against artifact heavy/dangerous deck:
   -1 Plain
