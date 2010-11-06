@@ -1,9 +1,9 @@
 | Name          | Genre         | Stength | Category       |
 |---------------+---------------+---------+----------------|
-| Merfolk       | Combo/Mill    | AAA     | Lorwyn Block   |
 | Faery         | Control       | AAA     | Lorwyn Block   |
+| Ally          | Control/Aggro | AAA     | Standart 2010  |
+| Merfolk       | Combo/Mill    | A+      | Lorwyn Block   |
 | Land-Fall     | Control/Aggro | A+      | Zendikar Block |
-| Ally          | Aggro         | A+      | Standart 2010  |
 | Discard       | Control       | A       | Legacy         |
 | Eldrazi       | Combo         | A       | Legacy         |
 |---------------+---------------+---------+----------------|
