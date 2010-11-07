@@ -18,15 +18,15 @@ Mana Curve:
 |  3 | Kabira Evangel                        | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                                   |
 |  2 | Sea Gate Loremaster                   | 4U  | 1/3 ally | t: Draw a card for each ally you control                                                 |
 |  1 | Jwari Shapeshifter                    | 1U  | 0/0 ally | Enter as a copy of any other ally                                                        |
-|  2 | Umara Raptor                          | 2U  | 1/1 ally | When ally enter: put a +1c on him                                                        |
 |    |                                       |     |          |                                                                                          |
 |    | *Clean the board and bring them back* |     |          |                                                                                          |
 |  3 | Sun Titan                             | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
 |  4 | Day of Judgement                      | 2WW | sorc     | Destroy all creatures                                                                    |
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
-|  2 | Jace the Mind Sculptor                | 2UU | pln-wkr  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-|  1 | Elspeth Tirel                         | 3WW | pln-wkr  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
+|  2 | Jace the Mind Sculptor                | 2UU | plnwkr 3 | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
+|  1 | Elspeth Tirel                         | 3WW | plnwkr 4 | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
+|  2 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
@@ -46,18 +46,29 @@ Mana Curve:
 |  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
 |  2 | Ratchet Bomb                          | 2   | art      | t: put charge counter -- t: destroy each non land perm with CMC = #charge counter        |
 |  2 | Celestial Purge                       | 1W  | inst     | Exile black or red permanent                                                             |
-|  2 | Negate                                | 1U  | inst     | Counter non creature spell                                                               |
+|  2 | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 |  3 | Revoke Existence                      | 1W  | sorc     | Exile tgt art or enchantment                                                             |
 |  2 | Tuktuk Scrapper                       | 3R  | 2/2 ally | When ally enter: destroy tgt art - deal damage to controller eq to # or ally in play     |
 |  1 | Mountain                              |     | bas land |                                                                                          |
 |    |                                       |     |          |                                                                                          |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Cards to consider*                   |     |          |                                                                                          |
+| SB | Negate                                | 1U  | inst     | Counter non creature spell                                                               |
 | SB | Rite of Replication                   | 2UU | sorc     | Kick 5 -- Put a tok copy of a creat; if kicked put 5 tok instead                         |
-| SB | Mindbreak Trap                        | 2UU | inst     | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                 |
 | SB | Nihil Spellbomb                       | 1   | art      | t, sacr it: exile tgt graveyard of tgt player (u may also pay B to draw)                 |
 
-Current consideration:
+Post tournament:
+   Deck did really good :) => Finished 2nd.
+   Venser is really strong in the deck -> +2
+   Need to find room for a third leyline of anticipation...
+   and also: tectonic edge (sac destruction land)
+   And also now considering running the Contagious Engine instead of Clasp
+    -> because of Venser and hara.
+   
+Sideboard update: Gonna replace Negate by Mindbreak again.
+   -> It's still the best way to take care of Eldrazi dudes!!!
+   
+Previous consideration:
    Considering: -2 protection ally +2 flying bird ally.
    in the main deck: should I add a third Leyline of Anticipation...
    Wondering if I should not keep 5 plain (removing 1 Glacial Fortress)
