@@ -39,13 +39,11 @@ Mana Curve:
 |----+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*                |      |             |                                                                                                                    |
 |  1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
-|  1 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
+|  2 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
 |  3 | Summoning Trap             | 4GG  | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                           |
 |  3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
 |  3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
-|  4 | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
-| +1 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
-| -1 | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
+|  3 | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
 |----+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
 |    | *Choices?*                 |      |             |                                                                                                                    |
 |  3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
