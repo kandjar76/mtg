@@ -3,12 +3,12 @@ Ally Deck: "The Day of Allies"
 Composition:
 | Creatures | Spells | Lands |
 |-----------+--------+-------|
-| 25        | 13     | 22    |
+| 23        | 15     | 22    |
 
 Mana Curve:
-| 1 |  2 | 3 |  4 | 5 | 6 |
-|---+----+---+----+---+---|
-| 4 | 13 | 7 |  8 | 3 | 3 |
+| 1 |  2 | 3 | 4 | 5 | 6 |
+|---+----+---+---+---+---|
+| 4 | 11 | 5 | 8 | 6 | 4 |
 
 |    | *The allies*                          |     |          |                                                                                          |
 |  4 | Hada Freeblade                        | W   | 0/1 ally | When ally enter: put counter on him                                                      |
@@ -28,11 +28,12 @@ Mana Curve:
 |  1 | Elspeth Tirel                         | 3WW | plnwkr 4 | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
 |  2 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
-|  2 | Contagious Clasp                      | 2   | art      | When enter: put a -1c on tgt creat; 4, t: proliferate                                    |
+|  1 | Contagious Engine                     | 6   | art      | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif    |
+|  1 | Eldrazi Monument                      | 5   | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
-|  4 | Plain                                 |     | bas land |                                                                                          |
+|  3 | Plain                                 |     | bas land |                                                                                          |
 |  2 | Forest                                |     | bas land |                                                                                          |
 |  3 | Island                                |     | bas land |                                                                                          |
 |  1 | Misty Rainforest                      |     | land     | pay 1, sacr it: search for a island or forest and put it into play                       |
@@ -41,6 +42,9 @@ Mana Curve:
 |  3 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
 |  2 | Celestial Colonnade                   |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
 |  2 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
+| -1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
+| +1 | Arid Mesa                             |     | land     | pay 1, sacr it: search for mountain or plain and put it into play                        |
+|  1 | Tectonite Edge                        |     | land     | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)     |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
 |  3 | Leyline of Sanctity                   | 2WW | ench     | Op hand -> play -- You can't be tgt of ab or spell your opp control                      |
