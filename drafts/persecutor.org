@@ -1,8 +1,6 @@
-
-
-|    | *The main creature 8* |     |           |                                                                                      |
+|    | *Creature to sacr 8*  |     |           |                                                                                      |
 |  4 | Abyssal Persecutor    | 2BB | 6/6 fly   | Trample -- you can't win, your opps can't loose                                      |
-|  4 | Cadaver Imp           | 1BB | 1/1 fly   | When enter: u may return tgt creat from graveyard to hand                            |
+|  4 | Bloodghast            | BB  | 2/1       | Has haste if opp has 10- life -- landfall: comes back to play                        |
 |    |                       |     |           |                                                                                      |
 |    | *Sacrifice 8*         |     |           |                                                                                      |
 |  4 | Gatekeeper of Malakir | BB  | 2/2       | Kicker B -- When kicked: tgt player sacr a creat                                     |
@@ -17,12 +15,17 @@
 |  4 | Grasp of Darkness     | BB  | inst      | tgt creats gets -4/-4 until eot                                                      |
 |  4 | Disfigure             | B   | inst      | Tgt creat gets -2/-2 until eot                                                       |
 |    |                       |     |           |                                                                                      |
-|    | *Helper 6*            |     |           |                                                                                      |
+|    | *Helper 8*            |     |           |                                                                                      |
 |  2 | Liliana's Vess        | 3BB | pln-wkr 5 | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play |
 |  4 | Sign of Blood         | BB  | sorc      | Tgt player draws 2 card and looses 2 life                                            |
+|  2 | Culling Dais          | 2   | art       | t, sacr creat: put charge on it; 1, sacr it: draw card for each counter              |
 |    |                       |     |           |                                                                                      |
-| 22 | Swamp                 |     |           |                                                                                      |
-|    |                       |     |           |                                                                                      |
+| 20 | Swamp                 |     |           |                                                                                      |
 |----+-----------------------+-----+-----------+--------------------------------------------------------------------------------------|
-|  4 | Suffer the past       | xB  | inst      | Tgt player exile X card from graveyard, u gain X life                                |
-|    |                       |     |           |                                                                                      |
+|    | *Sideboard*           |     |           |                                                                                      |
+|  2 | Ratchet Bomb          | 2   | art       | t: put charge on it; t: sacr it: destroy non perm with CMC = #charge                 |
+|  3 | Suffer the past       | xB  | inst      | Tgt player exile X card from graveyard, u gain X life                                |
+|  2 | Sadistic Sacrement    | BBB | sorc      | Kicker 7 -- search tgt player lib for 3 card (15 if kicked) and exile them           |
+|  2 | Memoricide            | 3B  | sorc      | Name a card, search player hand, lib, graveyard for that card, exile them            |
+|  4 | Doom Blade            | 1B  | inst      | Destroy tgt non black creat.                                                         |
+|  2 | Nim Deathmantle       | 2   | eqp 4     | eqp has +2/+2 and intime and zomb; when non tok put to grave: pay 4 ret to play      |
