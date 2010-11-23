@@ -1,0 +1,28 @@
+
+
+|    | *The main creature 8* |     |           |                                                                                      |
+|  4 | Abyssal Persecutor    | 2BB | 6/6 fly   | Trample -- you can't win, your opps can't loose                                      |
+|  4 | Cadaver Imp           | 1BB | 1/1 fly   | When enter: u may return tgt creat from graveyard to hand                            |
+|    |                       |     |           |                                                                                      |
+|    | *Sacrifice 8*         |     |           |                                                                                      |
+|  4 | Gatekeeper of Malakir | BB  | 2/2       | Kicker B -- When kicked: tgt player sacr a creat                                     |
+|  4 | Consuming Vapors      | 3B  | sorc      | Rebound -- Tgt player sacr a creat                                                   |
+|    |                       |     |           |                                                                                      |
+|    | *Control 8*           |     |           |                                                                                      |
+|  4 | Duress                | B   | sorc      | Tgt player reveal his hand, choose non land/creat he discard it                      |
+|  2 | Memoricide            | 3B  | sorc      | Name a card, search player hand, lib, graveyard for that card, exile them            |
+|  2 | Sadistic Sacrement    | BBB | sorc      | Kicker 7 -- search tgt player lib for 3 card (15 if kicked) and exile them           |
+|    |                       |     |           |                                                                                      |
+|    | *Kills 8*             |     |           |                                                                                      |
+|  4 | Grasp of Darkness     | BB  | inst      | tgt creats gets -4/-4 until eot                                                      |
+|  4 | Disfigure             | B   | inst      | Tgt creat gets -2/-2 until eot                                                       |
+|    |                       |     |           |                                                                                      |
+|    | *Helper 6*            |     |           |                                                                                      |
+|  2 | Liliana's Vess        | 3BB | pln-wkr 5 | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play |
+|  4 | Sign of Blood         | BB  | sorc      | Tgt player draws 2 card and looses 2 life                                            |
+|    |                       |     |           |                                                                                      |
+| 22 | Swamp                 |     |           |                                                                                      |
+|    |                       |     |           |                                                                                      |
+|----+-----------------------+-----+-----------+--------------------------------------------------------------------------------------|
+|  4 | Suffer the past       | xB  | inst      | Tgt player exile X card from graveyard, u gain X life                                |
+|    |                       |     |           |                                                                                      |
