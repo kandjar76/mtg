@@ -53,6 +53,11 @@ Main Deck: Single Player Oriented Discard Deck
 | *3 | Words of Waste            | 2B  | ench       | 1: next time u draw, each opp discard instead                                                                              |
 |  1 | Geth's Grimoire           | 4   | art        | Whenever opp disc, you may draw                                                                                            |
 |----+---------------------------+-----+------------+----------------------------------------------------------------------------------------------------------------------------|
+|    | *Pb: leyline of sanctity* |     |            |                                                                                                                            |
+| SB | Dystopia                  | 1BB | ench       | Cumul upk: pay 1 life -- at beg of each player upk, that player sacr a white or green permanent                            |
+| SB | Ratchet Bomb              | 2   | art        | t: put charge counter -- t, sacr it: destroy all non land perm w/ CMC = #charge on it                                      |
+| SB | Lux Cannon                | 4   | art        | t: put charge counter -- t, rem 3 chrge: destroy tgt permanent                                                             |
+| SB | Steel Hellkite            | 6   | 5/5 art    | 2: gets +1/0 -- X: destroy all non land perm with CMC = x tgt opp who got dealt damage by steelkite this turn controls     |
 
 Considering:
  - 1 or 2 Liliana Vess
