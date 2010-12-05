@@ -1,61 +1,69 @@
 52.27
 
-| Name                    | Price | Count | Decks      | From              |
-|-------------------------+-------+-------+------------+-------------------|
-| Burgeoning              | $3    |       | Land       | Stronghold        |
-| Deathrender             | $1.5  | 4     | Eldrazi?   | Lorwyn            |
-| Mana severance          |       | 4     | Inf loop   | Tempest           |
-|                         |       |       |            |                   |
-| Clear the land          |       |       |            |                   |
-| Ubord, Tomb of Yawgmoth | $7?   | 1     | Land       |                   |
-|                         |       |       |            |                   |
-| Darkness                | $1.5  | 4/4   | Discard?   | Timeshifted       |
-| Extirpate               | $7    | 2/4   | Discard?   | Planar Chaos      |
-| Reconnaissance          | $.15  | 4/4   | Archer?    | Exodus            |
-| Stillmoon Cavalier      | $4    | 4/4   | ???        | Lorwyn/Shadowmoor |
-|                         |       |       |            |                   |
-| Culling the Weak        |       | 4/4   | Sacrifice  |                   |
-| Burnt Offering          |       | 4/4   | Sacrifice  |                   |
-|                         |       |       |            |                   |
-| Instill Energy          | $.15  | 4/4   | Kraj       | Fifth Edition     |
-|                         |       |       |            |                   |
-| Words of Waste          |       | 0/4   | Discard    |                   |
-| Persecute               |       | 0/4   | Discard    |                   |
-| Mind Twist              |       | 0/4   | Discard    |                   |
-| Syphon Mind             |       | ?/4   | Discard    |                   |
-|                         |       |       |            |                   |
-| Planar Void             |       | 0/4   | Madness    |                   |
-|                         |       |       |            |                   |
-| High Tide               |       | 0/4   |            | Master Edition    |
-|                         |       |       |            |                   |
-| Sunken Ruins            | $5    | 3     | Faerie     | Lorwin/Shadowmoor |
-| Murkfiend Liege         | $3    | 4     | Hydra      | Lorwyn/Shadowmoor |
-| Mirror Entity           | $2    | 4     | Merfolk SB | Lorwin/Shadowmoor |
-| Mystic Gate             | $3.5  | 4     | Merfolk    | Lorwyn/Shadowmoor |
-| Jace Belleren           | $7    | 2     | Merfolk    | Lorwyn/Shadowmoor |
-| Graypelt Refuge         | $.25  | 4     | Landfall   | Zendikar          |
-|                         |       |       |            |                   |
-| Everlasting Torment     | $2    | 4     |            | Lorwyn/Shadowmoor |
-| Demigod of Revenge      | $6    | 3     |            | Lorwyn/Shadowmoor |
-| Azorius Herald          |       | 3     |            | Ravnica           |
-|                         |       |       |            |                   |
-|                         |       |       |            |                   |
-| Enlightened Tutor       | $8    | 4     | Untap      | Sixth Edition     |
-| Trinket Mage            | $.40  | ?     | Untap      | Fifth Dawn        |
-| Fabricate               | $.75  | ?     | Untap      | M10               |
-| Idylic Tutor            | ?     | ?     | Untap/Ench | Morningtide       |
-| Steelshaper's Gift      |       | 4?    | Untap      | Fifth Dawn        |
-|                         |       |       |            |                   |
-| Cruel Tutor             |       | ?     | Discard    |                   |
-| Temporal Extension      |       | 4     | ???        |                   |
-| Grim Tutor              |       |       | Discard    | Master Edition    |
-| Head Games              |       |       | ???        |                   |
-| Infernal Tutor          |       | 3     | Discard    |                   |
-| Maralen of the Mornsong |       |       |            |                   |
-| Shimian Specter         |       | ?     | Discard    | Future Sight      |
-| Vampiric Tutor          |       | 4     | Discard    |                   |
-|                         |       |       |            |                   |
-| Web of inertia          |       |       |            |                   |
-| Reality Twist           |       |       | fun card   |                   |
-| AEther Vial             |       |       |            |                   |
-| Barter in Blood         |       |       |            |                   |
+| Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
+|-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Damping Engine          |       |       |            |                   | artifact -- a player who controls more pem than other can't cast art creat or ench (that player may sac a perm to ignore this) |
+| Nightcreep              |       |       |            |                   | instant -- all creats becomes black, all land becomes swamp                                                                    |
+|                         |       |       |            |                   |                                                                                                                                |
+| Master Transmuter       | $2.5  |     4 | artifact   | Conflux           | U, t: swap tgt art u control with 1 in ur hand                                                                                 |
+| Intruder Alarm          | $2.5  |     4 | merfolk    | VIII edition      | Creats don't untap -- when creat comes into play: untap all                                                                    |
+|                         |       |       |            |                   |                                                                                                                                |
+| Mask of the Mimic       |       |       |            |                   |                                                                                                                                |
+| Pongify                 |       |       | blue?      |                   |                                                                                                                                |
+| Diamond Valley          |       |     2 | Sacrifice  |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Burgeoning              | $3    |       | Land       | Stronghold        |                                                                                                                                |
+| Deathrender             | $1.5  |     4 | Artifact   | Lorwyn            | Eqip get +2/+2, when die -- put creat from hand to play                                                                        |
+| Mana severance          |       |     4 | Inf loop   | Tempest           |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Clear the land          |       |       |            |                   |                                                                                                                                |
+| Ubord, Tomb of Yawgmoth | $7?   |     1 | Land       |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Darkness                | $1.5  |   4/4 | Discard?   | Timeshifted       |                                                                                                                                |
+| Extirpate               | $7    |   2/4 | Discard?   | Planar Chaos      |                                                                                                                                |
+| Reconnaissance          | $.15  |   4/4 | Archer?    | Exodus            |                                                                                                                                |
+| Stillmoon Cavalier      | $4    |   4/4 | ???        | Lorwyn/Shadowmoor |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Culling the Weak        |       |   4/4 | Sacrifice  |                   |                                                                                                                                |
+| Burnt Offering          |       |   4/4 | Sacrifice  |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Instill Energy          | $.15  |   4/4 | Kraj       | Fifth Edition     |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Words of Waste          |       |   0/4 | Discard    |                   |                                                                                                                                |
+| Persecute               |       |   0/4 | Discard    |                   |                                                                                                                                |
+| Mind Twist              |       |   0/4 | Discard    |                   |                                                                                                                                |
+| Syphon Mind             |       |   ?/4 | Discard    |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| High Tide               |       |   0/4 |            | Master Edition    |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Sunken Ruins            | $5    |     3 | Faerie     | Lorwin/Shadowmoor |                                                                                                                                |
+| Murkfiend Liege         | $3    |     4 | Hydra      | Lorwyn/Shadowmoor |                                                                                                                                |
+| Mirror Entity           | $2    |     4 | Merfolk SB | Lorwin/Shadowmoor |                                                                                                                                |
+| Mystic Gate             | $3.5  |     4 | Merfolk    | Lorwyn/Shadowmoor |                                                                                                                                |
+| Jace Belleren           | $7    |     2 | Merfolk    | Lorwyn/Shadowmoor |                                                                                                                                |
+| Graypelt Refuge         | $.25  |     4 | Landfall   | Zendikar          |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Everlasting Torment     | $2    |     4 |            | Lorwyn/Shadowmoor |                                                                                                                                |
+| Demigod of Revenge      | $6    |     3 |            | Lorwyn/Shadowmoor |                                                                                                                                |
+| Azorius Herald          |       |     3 |            | Ravnica           |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Enlightened Tutor       | $8    |     4 | Untap      | Sixth Edition     |                                                                                                                                |
+| Trinket Mage            | $.40  |     ? | Untap      | Fifth Dawn        |                                                                                                                                |
+| Fabricate               | $.75  |     ? | Untap      | M10               |                                                                                                                                |
+| Idyllic Tutor           | $2.5  |     ? | Untap/Ench | Morningtide       |                                                                                                                                |
+| Steelshaper's Gift      |       |    4? | Untap      | Fifth Dawn        |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Cruel Tutor             |       |     ? | Discard    |                   |                                                                                                                                |
+| Temporal Extension      |       |     4 | ???        |                   |                                                                                                                                |
+| Grim Tutor              |       |       | Discard    | Master Edition    |                                                                                                                                |
+| Head Games              |       |       | ???        |                   |                                                                                                                                |
+| Infernal Tutor          |       |     3 | Discard    |                   |                                                                                                                                |
+| Maralen of the Mornsong |       |       |            |                   |                                                                                                                                |
+| Shimian Specter         |       |     ? | Discard    | Future Sight      |                                                                                                                                |
+| Vampiric Tutor          |       |     4 | Discard    |                   |                                                                                                                                |
+|                         |       |       |            |                   |                                                                                                                                |
+| Web of inertia          |       |       |            |                   |                                                                                                                                |
+| Reality Twist           |       |       | fun card   |                   |                                                                                                                                |
+| AEther Vial             |       |       |            |                   |                                                                                                                                |
+| Barter in Blood         |       |       |            |                   |                                                                                                                                |
