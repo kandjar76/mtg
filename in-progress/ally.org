@@ -25,25 +25,25 @@ Mana Curve:
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | plnwkr 3 | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-|  1 | Elspeth Tirel                         | 3WW | plnwkr 4 | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm |
 |  2 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  1 | Contagious Engine                     | 6   | art      | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif    |
-|  1 | Eldrazi Monument                      | 5   | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this |
+|  2 | Eldrazi Monument                      | 5   | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
 |  3 | Plain                                 |     | bas land |                                                                                          |
 |  2 | Forest                                |     | bas land |                                                                                          |
 |  3 | Island                                |     | bas land |                                                                                          |
+|  1 | Arid Mesa                             |     | land     | pay 1, sacr it: search for mountain or plain and put it into play                        |
 |  1 | Misty Rainforest                      |     | land     | pay 1, sacr it: search for a island or forest and put it into play                       |
-|  3 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a forest or a plain  -- t: add G or W                         |
+|  1 | Sunpetal Grove                        |     | land     | comes tapped unless u ctrl a plain or forest -- t: add G or W                            |
+|  2 | Razorverge Thicket                    |     | land     | enters tapped unless u control 2 or fewer other lands -- t: add G or W                   |
 |  2 | Stirring Wildwood                     |     | land     | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                             |
-|  3 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
+|  1 | Glacial Fortress                      |     | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                         |
+|  2 | Seachrome Coast                       |     | land     | enters tapped unless u control 2 or fewer other lands -- t: add W or U                   |
 |  2 | Celestial Colonnade                   |     | land     | comes tapped -- t: add W or U -- 3WU: becomes 4/4 fly vigilance                          |
-|  2 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
-| -1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
-| +1 | Arid Mesa                             |     | land     | pay 1, sacr it: search for mountain or plain and put it into play                        |
+|  1 | Scalding Tarn                         |     | land     | pay 1, sacr it: search for island or mountain and put it into play                       |
 |  1 | Tectonite Edge                        |     | land     | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)     |
 |----+---------------------------------------+-----+----------+------------------------------------------------------------------------------------------|
 |    | *Sideboard*                           |     |          |                                                                                          |
