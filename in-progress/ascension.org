@@ -4,43 +4,46 @@
 |    |                      |     |           |                                                                                                                                             |
 |    | *Protection/Offense* |     |           |                                                                                                                                             |
 |  4 | Vampire Nighthawk    | 1BB | 2/3 fly   | Deathtouch / Lifelink                                                                                                                       |
-|  4 | Omnithopter          | 0   | 0/2 art   |                                                                                                                                             |
-|  4 | Perilous Myr         | 2   | 1/1 art   | When put to graveyard, it deals two damage to tgt creats or player                                                                          |
+|  4 | Liliana's Specter    | 1BB | 2/1 fly   | When enter each opp discards a card                                                                                                         |
+|  2 | Perilous Myr         | 2   | 1/1 art   | When put to graveyard, it deals two damage to tgt creats or player                                                                          |
 |  4 | Wall of Omen         | 1W  | 0/4 def   | When enter: draw                                                                                                                            |
 |    |                      |     |           |                                                                                                                                             |
 |    | *Protection/Draw*    |     |           |                                                                                                                                             |
 |  4 | Sign of Blood        | BB  | sorc      | Tgt player looses 2 life and draws 2 card                                                                                                   |
 |  3 | Day of Judgement     | 2WW | sorc      | Destroy all creatures                                                                                                                       |
+|  2 | Mimic Vat            | 3   | art       | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                       |
 |    |                      |     |           |                                                                                                                                             |
 |    | *Proliferate*        |     |           |                                                                                                                                             |
 |  3 | Throne of Geth       | 2   | art       | t, sacr art: proliferate                                                                                                                    |
-|  1 | Contagious Engine    | 6   | art       | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif                                                       |
+|  2 | Contagion Clasp      | 2   | art       | When enter: put a -1c on tgt creat tgt; 4, t: proliferate                                                                                   |
 |    |                      |     |           |                                                                                                                                             |
 |    | *Planeswalker*       |     |           |                                                                                                                                             |
 |  2 | Elspeth Tirel        | 3WW | plnwkr 4  | +2: gain 2 life for each creat u ctrl; -2: Put 3 1/1 tok; -5: dstr non land non tok perm                                                    |
 |    |                      |     |           |                                                                                                                                             |
 |    | *Mana Proliferator*  |     |           |                                                                                                                                             |
-|  3 | Everflowing Chalice  | 0   | art       | Multikick 2 -- Enter battlefield with a charge coutner for each kick -- t: add X to mana pool (X = #charge)                                 |
+|  2 | Everflowing Chalice  | 0   | art       | Multikick 2 -- Enter battlefield with a charge coutner for each kick -- t: add X to mana pool (X = #charge)                                 |
 |    |                      |     |           |                                                                                                                                             |
 |    | *Lands*              |     |           |                                                                                                                                             |
 |  4 | Marsh Flats          |     | land      | pay 1 life, sacr it: search for plain or swamp and put it into play                                                                         |
 |  7 | Plain                |     | bas land  |                                                                                                                                             |
 |  7 | Swamp                |     | bas land  |                                                                                                                                             |
 |  2 | Tectonite Edge       |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                        |
-+----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
+|----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
 |  3 | Leyline of Sanctity  | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                         |
 |  3 | Revoke Existence     | 1W  | sorc      | Exile tgt art or enchantment                                                                                                                |
 |  3 | Celestial Purge      | 1W  | inst      | Exile black or red permanent                                                                                                                |
 |  2 | Hyena Umbra          | W   | aura      | Totem armor - Ench creat gets first strike, +1/+1                                                                                           |
 |  2 | Memoricide           | 3B  | sorc      | Name a card, search hand, lib, graveyard for card of that name and exile it                                                                 |
 |  2 | Vampire Hexmage      | BB  | 2/1       | first strike -- sacr it: remove all counter from tgt perm                                                                                   |
-+----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
+|----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Hideous End          | 1BB | inst      | Destroy tgt non black creatures, its controller loses 2 life.                                                                               |
+|  1 | Contagious Engine    | 6   | art       | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif                                                       |
 | MB | Mimic Vat            | 3   | art       | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                       |
 | MB | Brittle Effigy       | 1   | art       | 4, t, exile it: Exile tgt creature                                                                                                          |
 | MB | Liliana's Vess       | 3BB | pln-wkr 5 | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play                                                        |
 | MB | Virulent Swipe       | B   | inst      | Tgt creats gain +2/0 and death touch -- rebound                                                                                             |
 | MB | Gideon Jura          | 3WW | pln-wkr 6 | +2: opp next turn, creats attack him if able -- -2: destroy tap creature -- 0: until eot it becomes a 6/6 human soldier (comb damage prev)  |
 | MB | Duress               | B   | sorc      | Opp reveal hand, choose non creat non land, he discard it                                                                                   |
-+----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
+|----+----------------------+-----+-----------+---------------------------------------------------------------------------------------------------------------------------------------------|
 
 
