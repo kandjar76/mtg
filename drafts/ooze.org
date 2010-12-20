@@ -1,15 +1,14 @@
-|   | *Key Cards 12*          |          |             |                                                                                                      |
+|   | *Key Cards 11*          |          |             |                                                                                                      |
 | 4 | Necrotic Ooze           | 2BB      | 4/3         | Has activated ability of all creatures in all graveyard                                              |
 | 4 | Fauna Shaman            | 1G       | 2/2         | G, t, disc card: search lib for creat card, put to hand                                              |
-| 4 | Thousand Elixir         | 3        | art         | Creats can use activated ab as if they has haste -- 1, t: untap tgt creats                           |
+| 3 | Thousand Elixir         | 3        | art         | Creats can use activated ab as if they has haste -- 1, t: untap tgt creats                           |
 |   |                         |          |             |                                                                                                      |
-|   | *Helper 12*             |          |             |                                                                                                      |
+|   | *Helper 10*             |          |             |                                                                                                      |
 | 3 | Birds of Paradise       | G        | 0/1         | t: add 1 mana to mana pool                                                                           |
 | 3 | Evolution Charm         | 1G       | inst        | Choose 1: search lib for basic land -- return tgt creat from grave to hand -- tgt creat gain flying  |
 | 4 | Buried Alive            | 2B       | sorc        | Search lib for up to 3 creats and put them into your graveyard                                       |
-| 2 | Liliana Vess            | 3BB      | plnwk       | +1: tgt player disc; -2: search card put on top of lib; -8: put all creat in all grave to play       |
 |   |                         |          |             |                                                                                                      |
-|   | *Activated Abs: 20*     |          |             |                                                                                                      |
+|   | *Activated Abs: 19*     |          |             |                                                                                                      |
 |   |                         |          |             |                                                                                                      |
 |   | /Token Maker/           |          |             |                                                                                                      |
 | 1 | Godsire                 | 4RGGW    | 8/8 vig     | t: put a 8/8 into play                                                                               |
@@ -32,12 +31,11 @@
 |   |                         |          |             |                                                                                                      |
 |   | /Protection/            |          |             |                                                                                                      |
 | 1 | Quillspike              | 2{bg}    | 1/1         | {bg}: remove -1c, it gets +3/+3 until eot                                                            |
-| 1 | Advanced Hoverguard     | 3U       | 2/2 fly     | u: gain shroud until eot                                                                             |
+| 1 | Advanced Hoverguard     | 3U       | 2/2 fly     | U: gain shroud until eot                                                                             |
 | 1 | Spiritmonger            | 3GB      | 6/6         | when deal damage: put a +1c on him -- B: regen; G: becomes color of choice                           |
-| 1 | Vedalken Mastermind     | UU       | 1/2         | U, t: return tgt perm u control to owner's hand                                                      |
 | 1 | Vampire Hexmage         | BB       | 2/1         | first strike -- sacr it: remove all counters from tgt perm                                           |
-| 1 | Oracle of Nectars       | 2{gw}    | 2/2         | x, t: you gain X life                                                                                |
 | 1 | Vexing Shusher          | {rg}{rg} | 2/2         | Can't be countered -- {gr}: tgt spell can't be countered by spell or abs                             |
+| 1 | Thornling               | 3GG      | 4/4         | G: gain haste, trample or indestructible -- 1: gain +1/-1 or -1/+1                                   |
 |   |                         |          |             |                                                                                                      |
 |   | /Creature Killer/       |          |             |                                                                                                      |
 | 1 | Avatar of Woe           | 6BB      | 6/5         | if grave has 10+ creats he cost 6 less to play -- t: destr tgt creat, it can't be regen              |
@@ -46,7 +44,16 @@
 |   | /Graveyard Playground/  |          |             |                                                                                                      |
 | 1 | Wild Mongrel            | 1G       | 2/2         | disc card: he gains +1/+1 until eot                                                                  |
 | 1 | Geth, Lord of the Vault | 4BB      | 5/5 leg     | intimidate -- xB: put tgt art of creat from opp graveyard to play under ur control, opp mill X cards |
+|   |                         |          |             |                                                                                                      |
+|   | *Land*                  |          |             |                                                                                                      |
+| 3 | Terramorphic            | land     |             | t, sacr it: search for a basic land put it into play tapped                                          |
+| 8 | Swamp                   | b. land  |             |                                                                                                      |
+| 8 | Forest                  | b. land  |             |                                                                                                      |
+| 1 | Island                  | b. land  |             |                                                                                                      |
 |---+-------------------------+----------+-------------+------------------------------------------------------------------------------------------------------|
+| 1 | Oracle of Nectars       | 2{gw}    | 2/2         | x, t: you gain X life                                                                                |
+| 1 | Vedalken Mastermind     | UU       | 1/2         | U, t: return tgt perm u control to owner's hand                                                      |
+|   |                         |          |             |                                                                                                      |
 |   | /Guild Mages/           |          |             |                                                                                                      |
 | 1 | Azorius Guildmage       | {wu}{wu} | 2/2         | 2W: tap tgt creats -- 2U: counter activated ab                                                       |
 | 1 | Simic Guildmage         | {ug}{ug} | 2/2         | 1G: move +1c -- 1U: move enchantment                                                                 |
