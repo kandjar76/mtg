@@ -3,19 +3,24 @@
 | 4 | Hunted Horror                  | BB  | 7/7  | tranple -- when enter battlefield put two 3/3 prot from black on opp control                                        |
 | 4 | Hunted Phantasm                | 1UU | 4/6  | Unblockable -- when enter put 5 1/1 red gob on opponent side                                                        |
 |   |                                |     |      |                                                                                                                     |
+|   | *Help to get the leyline*      |     |      |                                                                                                                     |
+| 4 | Serum Powder                   | 3   | art  | t: add 1 to mana pool -- if in opening hand, u may exile ur hand and draw that many card instead of mulliganing     |
+|   |                                |     |      |                                                                                                                     |
+|   | *Draw Helpers*                 |     |      |                                                                                                                     |
+| 4 | Hatching Plans                 | 1U  | ench | When put to graveyard, draw 3 cards                                                                                 |
+| 4 | Brainstorm                     | U   | inst | Draw 3 cards, then put two from ur hand on top of lib                                                               |
+| 4 | Frantic Search                 | 2U  | inst | Draw 3, discard 2, untap up to three lands                                                                          |
+|   |                                |     |      |                                                                                                                     |
+|   | *Kill/Rebirth*                 |     |      |                                                                                                                     |
+| 4 | Dance of Many                  | UU  | ench | Put a token copy of creats -- when leave play, remove token -- during upk: pay UU or sacr it                        |
+| 4 | Unearth                        | B   | sorc | Return creat w/ cmc <3 to play -- cycling 2                                                                         |
+|   |                                |     |      |                                                                                                                     |
 |   | *Penalty for having creatures* |     |      |                                                                                                                     |
-| 4 | Blood Seeker                   | 1B  | 1/1  | Whenever a creature enter opp side, he looses 1 life                                                                |
-| 4 | Lethal Vapors                  | 2BB | ench | Whenever a creats enter battlefield, destroy it; 0: destroy lethal vapors, skip next turn -- anyone can activate it |
+| 2 | Lethal Vapors                  | 2BB | ench | Whenever a creats enter battlefield, destroy it; 0: destroy lethal vapors, skip next turn -- anyone can activate it |
 |   |                                |     |      |                                                                                                                     |
 |   | *Helpers*                      |     |      |                                                                                                                     |
-| 3 | Ponder                         | U   | sorc | Look top 3, put back in any order (u may shuffle) then draw!                                                        |
-| 4 | Unearth                        | B   | sorc | Return creat w/ cmc <3 to play -- cycling 2                                                                         |
-| 4 | Mutilate                       | 2BB | sorc | All creats gets -1/-1 for each swamp u control                                                                      |
-|   |                                |     |      |                                                                                                                     |
-|   | *Color Fixer*                  |     |      |                                                                                                                     |
-| 3 | Terraformer                    | 2U  | 2/2  | 1: choose basic land, land type u control becomes that type                                                         |
-| 2 | Terrarion                      | 1   | art  | Comes tapped -- 2, t, sacr it: add 2 mana any colors to mana pool                                                   |
-| 4 | Elsewhere Flask                | 2   | art  | Enter battlefield: draw a card -- sacr it: each land u control becomes basic land type of ur choice                 |
+| 1 | Diabolic Tutor                 | 1B  | sorc | Search lib for a card, put it into hand                                                                             |
+| 1 | Vampiric Tutor                 | B   | inst | Search lib for a card, put on top of lib, pay 2 life                                                                |
 |   |                                |     |      |                                                                                                                     |
 |   | *Lands*                        |     |      |                                                                                                                     |
 | 2 | Watery Grave                   |     | land | comes tapped unless pay 2 life -- t: add B or U                                                                     |
