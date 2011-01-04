@@ -1,0 +1,108 @@
+Going BR!
+20 lands! Small mana cost deck!
+
+8 Quests
+
+|   | *The quests*           |     |            |                                                                                                                                                     |
+| 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
+| 2 | Pyromancer Ascension   | 1R  | ench       | Whenever cast: inst or sorc, if one exist in graveyard, put a counter on it -- when 2+ counter: each instant or sorc you cast is copied             |
+| 2 | Quest of the Gravelord | B   | ench       | Whenever creat put to graveyard: add a quest counter -- remove 3 quests counters, sacr it: put a 5/5 zombie into play                               |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Damage by creats*     |     |            |                                                                                                                                                     |
+| 4 | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, it deals two damage to tgt creats or player                                                                                  |
+| 4 | Vampire Nighthawk      | 1BB | 2/3 fly    | Deathtouch / Lifelink                                                                                                                               |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Damage by discard*    |     |            |                                                                                                                                                     |
+| 4 | Liliana's Caress       | 1B  | ench       | Whenever an opp discard; he looses 2 life                                                                                                           |
+| 4 | Liliana's Specter      | 1BB | 2/1 fly    | When enter; each opp discard a card                                                                                                                 |
+| 4 | Duress                 | B   | sorc       | Tgt player reveal hand, choose non land non creats; he discards it                                                                                  |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Direct Damage*        |     |            |                                                                                                                                                     |
+| 4 | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Planeswalker*         |     |            |                                                                                                                                                     |
+| 2 | Liliana's Vess         | 3BB | pln-wkr 5  | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play                                                                |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Draw/Life*            |     |            |                                                                                                                                                     |
+| 4 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
+| 4 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Proliferate*          |     |            |                                                                                                                                                     |
+| 3 | Contagion Clasp        | 2   | art        | Put a -1/-1 on tgt creat -- 4, t: proliferate                                                                                                       |
+| 3 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
+|   |                        |     |            |                                                                                                                                                     |
+|   | *Lands*                |     |            |                                                                                                                                                     |
+| 4 | Blackcleave Cliff      |     | Land       | Comes tapped unless u control 2 or less other lands                                                                                                 |
+| 4 | Dragonskull Summit     |     | Land       | Comes tapped unless u control Swamp or Mountain                                                                                                     |
+| 2 | Lavaclaw Reaches       |     | Land       | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                         |
+| 5 | Swamp                  |     | Basic Land |                                                                                                                                                     |
+| 5 | Mountain               |     | Basic Land |                                                                                                                                                     |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Discard Choices*      |     |            |                                                                                                                                                     |
+|   | Liliana's Caress       | 1B  | ench       | Whenever an opp discard; he looses 2 life                                                                                                           |
+|   | Inquisition of Kozilek | B   | sorc       | Tgt player reveal hand, choose card with CMC < 4; he discards the card                                                                              |
+|   | Chandra Ablaze         | 4RR | pln-wkr 5  | +1: disc a card, if red; deals 4 damage to tgt creat or play -- -2: each play disc hands & draw 3 -- -7: play any # red inst/sorc w/o pay mana cost |
+|   | Duress                 | B   | sorc       | Tgt player reveal hand, choose non land non creats; he discards it                                                                                  |
+|   | Liliana's Specter      | 1BB | 2/1 fly    | When enter; each opp discard a card                                                                                                                 |
+|   | Liliana's Vess         | 3BB | pln-wkr 5  | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play                                                                |
+|   | Bloodhusk Ritualist    | 2B  | 2/2        | Multikick: B -- tgt opp discard a card for each time it was kicked                                                                                  |
+|   | Mire's Toll            | B   | sorc       | Tgt player reveal card in hand equal to # of swamp, choose one - he discards it                                                                     |
+|   | Mind Rot               | 2B  | sorc       | Tgt player discard 2 cards                                                                                                                          |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Direct Damage*        |     |            |                                                                                                                                                     |
+|   | Galvanic Blast         | R   | isnt       | Deals 2 damage tgt creat or player -- metalcraft: 4 instead                                                                                         |
+|   | Searing Blaze          | RR  | inst       | Deals 1 damage tgt player and 1 damage to tgt creat he control -- landfall: 3 instead                                                               |
+|   | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
+|   | Livewire Lash          | 2   | eqp 2      | Equip creat gets +2/0 and whenever becomes tgt spell or ab: it deals 2 damage to tgt creat or player                                                |
+|   | Ember Hauler           | RR  | 2/2        | 1, sacr it: deals two damage tgt creat or player                                                                                                    |
+|   | Staggersshock          | 2R  | inst       | Deals 2 damage tgt creat/player -- rebound                                                                                                          |
+|   |                        |     |            |                                                                                                                                                     |
+|   | Contaminated Ground    | 1B  | ench land  | Ench land is a swamp -- whenever tapped: its controller looses 2 life                                                                               |
+|   |                        |     |            |                                                                                                                                                     |
+|   | Flame Slash            | R   | sorc       | Deals 4 damage to tgt creature                                                                                                                      |
+|   | Melt Terrain           | 2RR | sorc       | Destroy tgt land, it deals two damage to its controller                                                                                             |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Combo Ping*           |     |            |                                                                                                                                                     |
+|   | Basilisk Collar        | 1   | eqp 2      | Equip creat gets lifelink and deathtouch                                                                                                            |
+|   | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, deals 2 damage tgt creats or player                                                                                          |
+|   | Spikeshot Elder        | R   | 1/1        | 1RR: deals damage eq to its power to tgt creat or player                                                                                            |
+|   | Cunning Spawkmage      | 2R  | 0/1        | Haste -- t: deals 1 damage tgt creat or player                                                                                                      |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Invasion*             |     |            |                                                                                                                                                     |
+| 2 | Sword of Body and Mind | 3   | eqp 2      | Eqp creat has +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and player put top 10 card from lib to graveyaard                     |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Life gain*            |     |            |                                                                                                                                                     |
+|   | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
+|   | Vampire Nighthawk      | 1BB | 2/3 fly    | Deathtouch / lifelink                                                                                                                               |
+|   | Comsuming Vapors       | 3B  | sorc       | Tgt player sacr a creat, u gain life equal to its toughness -- rebound                                                                              |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Draw Helper*          |     |            |                                                                                                                                                     |
+| 4 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
+| 2 | Nihil Spellbomb        | 1   | art        | t, sacr it: exile all cards from player graveyard -- when put to graveyard, u may pay B to draw a card                                              |
+|   | Sign or Blood          | BB  | sorc       | Tgt player draws 2 cards, and looses 2 life                                                                                                         |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Penality cards*       |     |            |                                                                                                                                                     |
+|   | Hellfire Mongrel       | 2R  | 2/2        | At bef each upk: if opp has 2 or fewer card in hand; it deals 2 damage to him                                                                       |
+|   | Blood Seeker           | 1B  | 1/1        | Whenever a creat enter under opp control; u may have this player looses 1 life                                                                      |
+|   | Lust of War            | 2R  | ench creat | When ench becomes tapped, its controller looses 3 life -- creat attack each turn if able                                                            |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *General Helper*       |     |            |                                                                                                                                                     |
+|   | Mimic Vat              | 3   | art        | When creat put to graveyard: imprint it -- 3, t: put a copy of the imprint creat; exile at eot                                                      |
+|   | Voltaic Key            | 1   | art        | 1, t: untap tgt artifact                                                                                                                            |
+|   | Vampire Hexmage        | BB  | 2/1        | First strike -- sacr it: remove all counters from tgt perm                                                                                          |
+|   | Reassembling Skeleton  | 1B  | 1/1        | 1B: return it from graveyard to play tapped                                                                                                         |
+|   | Nantuko Shade          | BB  | 2/1        | B: gets +1/+1 until eot                                                                                                                             |
+|   | Grasp of Darkness      | BB  | inst       | Tgt creat gets -4/-4                                                                                                                                |
+|   | Disfigure              | B   | inst       | Tgt creat gets -2/-2                                                                                                                                |
+|   | Virulent Swipe         | B   | inst       | Tgt creat gets +2/0 and deathtouch -- rebound                                                                                                       |
+|   | Plated Geopede         | 1R  | 1/1        | First strike -- landfall: gets +2/+2                                                                                                                |
+|   | Grim Discovery         | 1B  | sorc       | Choose 1 or both: return tgt creat from graveyard to hand or tgt land                                                                               |
+|   | Fume Spitter           | B   | 1/1        | Sacr it: put a -1c on tgt creat                                                                                                                     |
+|---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Perfect Sideboard*    |     |            |                                                                                                                                                     |
+|   | Punishing Fire         | 1R  | inst       | Deals 2 damage tgt creat or player -- whenever opp gain life: if u may R to return this to hand                                                     |
+|   | Combust                | 1R  | inst       | Can't be countered -- Deals 5 damage to tgt white or blue creats -- damage can't be prevented                                                       |
+|   | Pyroclasm              | 1R  | sorc       | Deals 2 damage to each creats                                                                                                                       |
+|   | Darksteel Myr          | 3   | 0/1 art    | indestructible                                                                                                                                      |
+|   | Gatekeeper of Malakir  | BB  | 2/2        | kicker B -- if kicked: tgt player sacr a creat                                                                                                      |
+|   | Ratchet Bomb           | 2   | art        | t: put charge on it; t, sacr it: destroy non land perm with CMC = #charge counters                                                                  |
