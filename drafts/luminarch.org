@@ -1,0 +1,58 @@
+journey to nowhere?
+gideon jura?
+
+Need: 2 spreading seas!!
+
+May need to add:
+2 Gigeon Jura
+1 Elspeth (after replacing her with Venser)
+
+38 spells | 22 lands
+
+|    | *The quest*          |     |           |                                                                                                                                            |
+|  4 | Luminarch Ascension  | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                        |
+|    |                      |     |           |                                                                                                                                            |
+|    | *Proliferate*        |     |           |                                                                                                                                            |
+|  3 | Thrummingbird        | 1U  | 1/1 fly   | When deals combat damage to player -- proliferate                                                                                          |
+|  2 | Steady Progress      | 2U  | inst      | Proliferate then draw                                                                                                                      |
+|  2 | Contagion Clasp      | 2   | art       | When enter: put a -1c on tgt creat tgt; 4, t: proliferate                                                                                  |
+|    |                      |     |           |                                                                                                                                            |
+|    | *Protection/Draw*    |     |           |                                                                                                                                            |
+|  4 | Wall of Omen         | 1W  | 0/4 def   | When enter: draw                                                                                                                           |
+|  3 | Preordain            | U   | sorc      | Scry 2 then draw.                                                                                                                          |
+| *4 | Spreading Seas       | 1U  | ench land | Enchanted land is an island -- draw                                                                                                        |
+|  1 | Sun Titan            | 4WW | 6/6 vig   | When enter or attack: u may ret tgt perm CMC 3- grav->play                                                                                 |
+|  1 | Sphinx of Jwar Isle  | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                      |
+|    |                      |     |           |                                                                                                                                            |
+|    | *Control*            |     |           |                                                                                                                                            |
+|  2 | Into the Roll        | 1U  | inst      | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                   |
+|  2 | Day of Judgement     | 2WW | sorc      | Destroy all creatures                                                                                                                      |
+|  3 | Cancel               | 1UU | inst      | Counter tgt spell                                                                                                                          |
+|  3 | Mana leak            | 1U  | inst      | Counter tgt spell unless its controller pay 3                                                                                              |
+|    |                      |     |           |                                                                                                                                            |
+|    | *Planeswalker*       |     |           |                                                                                                                                            |
+| -2 | Elspeth Tirel        | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                     |
+| +2 | Venser the Sojourner | 3WU | plnwkr 3  | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                   |
+|  2 | Jace Beleren         | 1UU | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                   |
+|    |                      |     |           |                                                                                                                                            |
+|    | *Lands*              |     |           |                                                                                                                                            |
+|  6 | Plain                |     | bas land  |                                                                                                                                            |
+| 10 | Swamp                |     | bas land  |                                                                                                                                            |
+|  2 | Tectonite Edge       |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                       |
+|----+----------------------+-----+-----------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Everflowing Chalice  | 0   | art       | Multikick 2 -- Enter battlefield with a charge coutner for each kick -- t: add X to mana pool (X = #charge)                                |
+|  2 | Perilous Myr         | 2   | 1/1 art   | When put to graveyard, it deals two damage to tgt creats or player                                                                         |
+|  3 | Leyline of Sanctity  | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                        |
+|  3 | Revoke Existence     | 1W  | sorc      | Exile tgt art or enchantment                                                                                                               |
+|  3 | Celestial Purge      | 1W  | inst      | Exile black or red permanent                                                                                                               |
+|  2 | Hyena Umbra          | W   | aura      | Totem armor - Ench creat gets first strike, +1/+1                                                                                          |
+|----+----------------------+-----+-----------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Contagious Engine    | 6   | art       | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif                                                      |
+| MB | Mimic Vat            | 3   | art       | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                      |
+| MB | Brittle Effigy       | 1   | art       | 4, t, exile it: Exile tgt creature                                                                                                         |
+| MB | Liliana's Vess       | 3BB | pln-wkr 5 | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play                                                       |
+| MB | Virulent Swipe       | B   | inst      | Tgt creats gain +2/0 and death touch -- rebound                                                                                            |
+| MB | Gideon Jura          | 3WW | pln-wkr 6 | +2: opp next turn, creats attack him if able -- -2: destroy tap creature -- 0: until eot it becomes a 6/6 human soldier (comb damage prev) |
+|----+----------------------+-----+-----------+--------------------------------------------------------------------------------------------------------------------------------------------|
+
+
