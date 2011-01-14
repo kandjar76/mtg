@@ -1,66 +1,54 @@
-journey to nowhere?
-gideon jura?
-
-Need: 2 spreading seas!!
-
-May need to add:
-1 or 2 Gigeon Jura
+Would journey to nowhere be a descent addon to this deck? Not sure... Main question being: what would it replace? 
+Consider adding: 1 sun titan?
 
 38 spells | 22 lands
 
-|    | *The quest*             |     |             |                                                                                                                                            |
-|  3 | Luminarch Ascension     | 1W  | ench        | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                        |
-|    |                         |     |             |                                                                                                                                            |
-|    | *Proliferate*           |     |             |                                                                                                                                            |
-|  3 | Thrummingbird           | 1U  | 1/1 fly     | When deals combat damage to player -- proliferate                                                                                          |
-|  2 | Steady Progress         | 2U  | inst        | Proliferate then draw                                                                                                                      |
-|  2 | Contagion Clasp         | 2   | art         | When enter: put a -1c on tgt creat tgt; 4, t: proliferate                                                                                  |
-|    |                         |     |             |                                                                                                                                            |
-|    | *Protection/Draw*       |     |             |                                                                                                                                            |
-|  4 | Wall of Omen            | 1W  | 0/4 def     | When enter: draw                                                                                                                           |
-|  3 | Preordain               | U   | sorc        | Scry 2 then draw.                                                                                                                          |
-|  2 | Spreading Seas          | 1U  | ench land   | Enchanted land is an island -- draw                                                                                                        |
-| +1 | Spreading Seas          | 1U  | ench land   | Enchanted land is an island -- draw                                                                                                        |
-|  2 | AEther Tradewinds       | 2U  | inst        | Return tgt perm you control and tgt perm you don't control to their owner's hand                                                           |
-| -2 | AEther Tradewinds       | 2U  | inst        | Return tgt perm you control and tgt perm you don't control to their owner's hand                                                           |
-|  1 | Sun Titan               | 4WW | 6/6 vig     | When enter or attack: u may ret tgt perm CMC 3- grav->play                                                                                 |
-|    |                         |     |             |                                                                                                                                            |
-|    | *Control*               |     |             |                                                                                                                                            |
-|  2 | Into the Roll           | 1U  | inst        | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                   |
-| +1 | Into the Roll           | 1U  | inst        | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                   |
-|  2 | Day of Judgement        | 2WW | sorc        | Destroy all creatures                                                                                                                      |
-|  3 | Cancel                  | 1UU | inst        | Counter tgt spell                                                                                                                          |
-|  3 | Mana leak               | 1U  | inst        | Counter tgt spell unless its controller pay 3                                                                                              |
-|    |                         |     |             |                                                                                                                                            |
-|    | *Planeswalker*          |     |             |                                                                                                                                            |
-|  2 | Elspeth Tirel           | 3WW | plwk 4      | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                     |
-| +2 | Venser the Sojourner    | 3WU | plnwkr 3    | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                   |
-|  2 | Jace Beleren            | 1UU | plwk 3      | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                   |
-|    |                         |     |             |                                                                                                                                            |
-|    | *Lands*                 |     |             |                                                                                                                                            |
-|  9 | Plain                   |     | bas land    |                                                                                                                                            |
-| 11 | Island                  |     | bas land    |                                                                                                                                            |
-|  2 | Tectonite Edge          |     | land        | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                       |
-|----+-------------------------+-----+-------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|    | *Sideboard*             |     |             |                                                                                                                                            |
-|  1 | Sphinx of Jwar Isle     | 4UU | 5/5 fly     | Shroud - You may look at the top card of your library                                                                                      |
-|  3 | Revoke Existence        | 1W  | sorc        | Exile tgt art or enchantment                                                                                                               |
-|  3 | Celestial Purge         | 1W  | inst        | Exile black or red permanent                                                                                                               |
-|  2 | Leyline of Sanctity     | 2WW | ench        | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                        |
-|  2 | Spreading Seas          | 1U  | ench land   | Enchanted land is an island -- Draw.                                                                                                       |
-|  1 | Day of Judgement        | 2WW | sorc        | Destroy all creatures                                                                                                                      |
-|  3 | Leonin Arbiter          | 1W  | 2/2         | Players can't search lib -- unless he pays 2.                                                                                              |
-|----+-------------------------+-----+-------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 | Contagious Engine       | 6   | art         | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif                                                      |
-| MB | Guard Gomazoa           | 2U  | 1/3 def fly | Prevent all combat damage dealt to him                                                                                                     |
-| SB | Perimeter Captain       | W   | 0/4 def     | When creat w/ defender block, you may gain 2 life                                                                                          |
-| SB | Ratchet Bomb            | 2   | art         | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                         |
-| MB | Mimic Vat               | 3   | art         | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                      |
-| MB | Brittle Effigy          | 1   | art         | 4, t, exile it: Exile tgt creature                                                                                                         |
-| MB | Gideon Jura             | 3WW | pln-wkr 6   | +2: opp next turn, creats attack him if able -- -2: destroy tap creature -- 0: until eot it becomes a 6/6 human soldier (comb damage prev) |
-| MB | Enclave Cryptologist    | U   | 0/1         | Lvl up: 1U -- [1-2] 0/1 t: draw then discard -- [3+] 0/1 t:draw                                                                            |
-| MB | Lighthouse Chronologist | 1U  | 1/3         | Lvl up: U -- [4:6] 2/4 -- [7+] 3/5 At the beg end step if not urs, take an extra turn after this one                                       |
-|----+-------------------------+-----+-------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|    | See beyond              | 1U  | sorc        | Draw 2 then shuffle a card from hand to lib                                                                                                |
-|----+-------------------------+-----+-------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 |  2 | 3 | 4 | 5 | 6 |
+|---+----+---+---+---+---|
+| 5 | 17 | 5 | 3 | 6 | 2 |
+
+|    | *The quest 3*           |     |           |                                                                                                                                           |
+|  3 | Luminarch Ascension     | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
+|    |                         |     |           |                                                                                                                                           |
+|    | *Proliferate 2*         |     |           |                                                                                                                                           |
+|  2 | Contagion Engine        | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
+|    |                         |     |           |                                                                                                                                           |
+|    | *Protection/Draw 12*    |     |           |                                                                                                                                           |
+|  4 | Wall of Omen            | 1W  | 0/4 def   | When enter: draw                                                                                                                          |
+|  3 | Preordain               | U   | sorc      | Scry 2 then draw.                                                                                                                         |
+|  3 | Spreading Seas          | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
+|    |                         |     |           |                                                                                                                                           |
+|    | *Control 13*            |     |           |                                                                                                                                           |
+|  4 | Into the Roll           | 1U  | inst      | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                  |
+|  3 | Day of Judgement        | 2WW | sorc      | Destroy all creatures                                                                                                                     |
+|  3 | Cancel                  | 1UU | inst      | Counter tgt spell                                                                                                                         |
+|  3 | Mana leak               | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
+|  2 | Small Pierce            | U   | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
+|    |                         |     |           |                                                                                                                                           |
+|    | *Planeswalker 8*        |     |           |                                                                                                                                           |
+|  2 | Gideon Jura             | 3WW | plwk 6    | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|  2 | Elspeth Tirel           | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
+|  2 | Venser the Sojourner    | 3WU | plnwkr 3  | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
+|  2 | Jace Beleren            | 1UU | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
+|    |                         |     |           |                                                                                                                                           |
+|    | *Lands*                 |     |           |                                                                                                                                           |
+|  4 | Glacial Fortress        |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
+|  5 | Plain                   |     | bas land  |                                                                                                                                           |
+|  9 | Island                  |     | bas land  |                                                                                                                                           |
+|  4 | Tectonite Edge          |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
+|----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*             |     |           |                                                                                                                                           |
+|  3 | Sea Gate Oracle         | 2U  | 1/3       | When enter: look top 2, put one in hand, one on the bottom                                                                                |
+|  3 | Leonin Arbiter          | 1W  | 2/2       | Players can't search lib -- unless he pays 2.                                                                                             |
+|  3 | Revoke Existence        | 1W  | sorc      | Exile tgt art or enchantment                                                                                                              |
+|  3 | Celestial Purge         | 1W  | inst      | Exile black or red permanent                                                                                                              |
+|  1 | Sphinx of Jwar Isle     | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
+|  2 | Leyline of Sanctity     | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
+|----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+| SB | Ratchet Bomb            | 2   | art       | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
+| MB | Mimic Vat               | 3   | art       | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                     |
+| MB | Brittle Effigy          | 1   | art       | 4, t, exile it: Exile tgt creature                                                                                                        |
+| MB | Enclave Cryptologist    | U   | 0/1       | Lvl up: 1U -- [1-2] 0/1 t: draw then discard -- [3+] 0/1 t:draw                                                                           |
+| MB | Lighthouse Chronologist | 1U  | 1/3       | Lvl up: U -- [4:6] 2/4 -- [7+] 3/5 At the beg end step if not urs, take an extra turn after this one                                      |
+|----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 
