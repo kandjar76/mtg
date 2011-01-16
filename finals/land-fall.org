@@ -9,50 +9,50 @@ Mana Curve:
 |---+----+---+----+---+---|
 | 7 | 11 | 3 | 11 |   | 4 |
 
-|    | *Landfall Keycards*        |      |             |                                                                                                                    |
-|  4 | Admonition Angel           | 3WWW | 6/6 fly     | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
-|  4 | Emeria Angel               | 2WW  | 3/3 fly     | Landfall: put a 1/1 white bird w/ fly                                                                              |
-|  4 | Lotus Cobra                | 1G   | 2/1         | Landfall: whenever land comes into play, add one color to mana pool                                                |
-|  3 | Steppe Lynx                | W    | 0/1         | Landfall: get +2/+2 until eot                                                                                      |
-|    |                            |      |             |                                                                                                                    |
-|    | *Landfall Helper*          |      |             |                                                                                                                    |
-|  3 | Ruin Ghost                 | 1W   | 1/1         | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
-|  2 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
-|    |                            |      |             |                                                                                                                    |
-|    | *Protection/Draw*          |      |             |                                                                                                                    |
-|  4 | Emerge Unscathed           | W    | inst        | Tgt creat u control gain prot against color of choice -- Rebound                                                   |
-|  4 | Momentous Fall             | 2GG  | inst        | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                     |
-|    |                            |      |             |                                                                                                                    |
-|    | *Helper*                   |      |             |                                                                                                                    |
-|  1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
-|  3 | Day of Judgement           | 2WW  | sorc        | Destroy all creatures                                                                                              |
-|  4 | Journey to Nowhere         | 1W   | ench        | When enter, exile tgt creature -- when leave: put it back                                                          |
-|    |                            |      |             |                                                                                                                    |
-|    | *Lands*                    |      |             |                                                                                                                    |
-|  4 | Sejuri Steppe              | land |             | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
-|  1 | Terraformic Expanse        | land |             | t, sacr it: Search basic land, put it in play tapped                                                               |
-|  1 | Arid Mesa                  | land |             | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
-|  3 | Marsh Flats                | land |             | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
-|  3 | Misty Rainforest           | land |             | pay 1 life, sacr it: search for forest or island and put it into play                                              |
-|  6 | Forest                     | land |             |                                                                                                                    |
-|  6 | Plain                      | land |             |                                                                                                                    |
-|----+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
-|    | *Sideboard*                |      |             |                                                                                                                    |
-|  1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
-|  2 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
-|  3 | Summoning Trap             | 4GG  | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                           |
-|  3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
-|  3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
-|  3 | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
-|----+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
-|    | *Choices?*                 |      |             |                                                                                                                    |
-|  3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
-|  3 | Arbor Elf                  | G    | 1/1         | t: untap tgt forest                                                                                                |
-|  3 | Hyena Umbra                | W    | aura        | Ench creat gain first strike and +1/+1 -- totem armor                                                              |
-|  3 | Rest for the Weary         | 1W   | inst        | Tgt player gain 4 life -- landfall: gain 8 life instead                                                            |
-|  2 | Kor Firewalker             | WW   | 2/2         | Protect form red -- whenever a player plays a red spell gain 1 life                                                |
-|  2 | Explorer's Scope           | 1    | artifact    | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped           |
-|----+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+|   | *Landfall Keycards*        |      |             |                                                                                                                    |
+| 4 | Admonition Angel           | 3WWW | 6/6 fly     | Landfall: exile tgt non land permanent -- When leave battlefield, return all cards exiled to their owner's control |
+| 4 | Emeria Angel               | 2WW  | 3/3 fly     | Landfall: put a 1/1 white bird w/ fly                                                                              |
+| 4 | Lotus Cobra                | 1G   | 2/1         | Landfall: whenever land comes into play, add one color to mana pool                                                |
+| 3 | Steppe Lynx                | W    | 0/1         | Landfall: get +2/+2 until eot                                                                                      |
+|   |                            |      |             |                                                                                                                    |
+|   | *Landfall Helper*          |      |             |                                                                                                                    |
+| 3 | Ruin Ghost                 | 1W   | 1/1         | W,t: Exile Tgt Land, then return it to battlefield under ur control                                                |
+| 2 | Harrow                     | 2G   | inst        | Add cost: sacr a land -- search and put two basic land into play                                                   |
+|   |                            |      |             |                                                                                                                    |
+|   | *Protection/Draw*          |      |             |                                                                                                                    |
+| 4 | Emerge Unscathed           | W    | inst        | Tgt creat u control gain prot against color of choice -- Rebound                                                   |
+| 4 | Momentous Fall             | 2GG  | inst        | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                     |
+|   |                            |      |             |                                                                                                                    |
+|   | *Helper*                   |      |             |                                                                                                                    |
+| 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
+| 3 | Day of Judgement           | 2WW  | sorc        | Destroy all creatures                                                                                              |
+| 4 | Journey to Nowhere         | 1W   | ench        | When enter, exile tgt creature -- when leave: put it back                                                          |
+|   |                            |      |             |                                                                                                                    |
+|   | *Lands*                    |      |             |                                                                                                                    |
+| 4 | Sejuri Steppe              | land |             | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
+| 1 | Evolving Wilds             | land |             | t, sacr it: Search basic land, put it in play tapped                                                               |
+| 1 | Arid Mesa                  | land |             | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
+| 3 | Marsh Flats                | land |             | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
+| 3 | Misty Rainforest           | land |             | pay 1 life, sacr it: search for forest or island and put it into play                                              |
+| 6 | Forest                     | land |             |                                                                                                                    |
+| 6 | Plain                      | land |             |                                                                                                                    |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+|   | *Sideboard*                |      |             |                                                                                                                    |
+| 1 | Linvala, Keeper of Silence | 2WW  | 3/4 fly leg | Activated of creatures your opp control can't be activated                                                         |
+| 2 | World Queller              | 3WW  | 4/4         | Beg upk: u may choose a type, each player sacr a perm of that type                                                 |
+| 3 | Summoning Trap             | 4GG  | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                           |
+| 3 | Nature's Claim             | G    | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                 |
+| 3 | Brave the Element          | W    | inst        | White creat you control gain protection against the choosen color                                                  |
+| 3 | Tajuru Preserver           | 1G   | 2/1         | Spell or ab ur opp control can't cause you to sacrifice                                                            |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
+|   | *Choices?*                 |      |             |                                                                                                                    |
+| 3 | Turntimber Basilisk        | 1GG  | 2/1         | Landfall: tgt creature must block if able -- deathtouch                                                            |
+| 3 | Arbor Elf                  | G    | 1/1         | t: untap tgt forest                                                                                                |
+| 3 | Hyena Umbra                | W    | aura        | Ench creat gain first strike and +1/+1 -- totem armor                                                              |
+| 3 | Rest for the Weary         | 1W   | inst        | Tgt player gain 4 life -- landfall: gain 8 life instead                                                            |
+| 2 | Kor Firewalker             | WW   | 2/2         | Protect form red -- whenever a player plays a red spell gain 1 life                                                |
+| 2 | Explorer's Scope           | 1    | artifact    | Equip 1 -- Wehn equip attack, reveal top card of lib is land: you may put it onto the battlefield tapped           |
+|---+----------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------|
 
 To consider:
  - Switching Journey to Nowhere for Oust
