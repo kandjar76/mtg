@@ -3,33 +3,33 @@ Ally Deck: "The Allies come back"
 Composition:
 | Creatures | Spells | Lands |
 |-----------+--------+-------|
-| 23        | 15     | 22    |
+| 18        | 20     | 22    |
 
 Mana Curve:
 | 1 |  2 | 3 | 4 | 5 | 6 |
 |---+----+---+---+---+---|
-| 4 | 11 | 5 | 8 | 6 | 4 |
+| 7 |  9 | 6 | 8 | 4 | 4 |
 
 |    | *The allies*                          |     |          |                                                                                          |
 |  4 | Hada Freeblade                        | W   | 0/1 ally | When ally enter: put counter on him                                                      |
-|  2 | Ondu Cleric                           | 1W  | 1/1 ally | When ally enter: gain life equal to num of ally in play                                  |
 |  4 | Kazandu Blademaster                   | WW  | 1/1 ally | First strike, vig -- when ally: put counter on him                                       |
 |  4 | Harabaz Druid                         | 1G  | 0/1 ally | t: add X mana of one color (X = num ally)                                                |
 |  3 | Kabira Evangel                        | 2W  | 2/3 ally | When ally enter: ally gain protec against choose color                                   |
-|  2 | Sea Gate Loremaster                   | 4U  | 1/3 ally | t: Draw a card for each ally you control                                                 |
 |  1 | Jwari Shapeshifter                    | 1U  | 0/0 ally | Enter as a copy of any other ally                                                        |
 |    |                                       |     |          |                                                                                          |
 |    | *Clean the board and bring them back* |     |          |                                                                                          |
-|  3 | Sun Titan                             | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
+|  2 | Sun Titan                             | 4WW | 6/6 vig  | When enter or attack: u may ret tgt perm CMC 3- grav->play                               |
 |  4 | Day of Judgement                      | 2WW | sorc     | Destroy all creatures                                                                    |
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
 |  2 | Jace the Mind Sculptor                | 2UU | plnwkr 3 | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
 |  2 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
+|  1 | Jace Beleren                          | 1UU | plnwkr 3 | +2: each player draws; -1: u draw; -10: tgt player mill 20 cards                         |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
-|  1 | Contagious Engine                     | 6   | art      | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif    |
+|  2 | Contagious Engine                     | 6   | art      | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif    |
 |  2 | Eldrazi Monument                      | 5   | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this |
 |  2 | Leyline of Anticipation               | 2UU | ench     | if in opening hand -> in play -- non land cards have flash                               |
+|  3 | Preordain                             | U   | sorc     | Scry 2 then draw                                                                         |
 |    |                                       |     |          |                                                                                          |
 |    | *lands*                               |     |          |                                                                                          |
 |  3 | Plain                                 |     | bas land |                                                                                          |
