@@ -13,12 +13,14 @@
 |    |                       |     |           |                                                                                      |
 |    | *Kills 8*             |     |           |                                                                                      |
 |  4 | Grasp of Darkness     | BB  | inst      | tgt creats gets -4/-4 until eot                                                      |
-|  4 | Disfigure             | B   | inst      | Tgt creat gets -2/-2 until eot                                                       |
+|  3 | Disfigure             | B   | inst      | Tgt creat gets -2/-2 until eot                                                       |
+|  1 | Consume the Meek      | 3BB | inst      | Destroy all creats w/ CMC <= 3; they can't be regen                                  |
 |    |                       |     |           |                                                                                      |
 |    | *Helper 8*            |     |           |                                                                                      |
 |  2 | Liliana's Vess        | 3BB | pln-wkr 5 | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play |
 |  4 | Sign of Blood         | BB  | sorc      | Tgt player draws 2 card and looses 2 life                                            |
 |  2 | Culling Dais          | 2   | art       | t, sacr creat: put charge on it; 1, sacr it: draw card for each counter              |
+|  2 | Ratchet Bomb          | 2   | art       | t: put charge on it; t: sacr it: destroy non perm with CMC = #charge                 |
 |    |                       |     |           |                                                                                      |
 | 20 | Swamp                 |     |           |                                                                                      |
 |----+-----------------------+-----+-----------+--------------------------------------------------------------------------------------|
