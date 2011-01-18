@@ -1,12 +1,9 @@
 Going BR!
 20 lands! Small mana cost deck!
 
-8 Quests
 
 |   | *The quests*           |     |            |                                                                                                                                                     |
 | 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
-| 2 | Pyromancer Ascension   | 1R  | ench       | Whenever cast: inst or sorc, if one exist in graveyard, put a counter on it -- when 2+ counter: each instant or sorc you cast is copied             |
-| 2 | Quest of the Gravelord | B   | ench       | Whenever creat put to graveyard: add a quest counter -- remove 3 quests counters, sacr it: put a 5/5 zombie into play                               |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Damage by creats*     |     |            |                                                                                                                                                     |
 | 4 | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, it deals two damage to tgt creats or player                                                                                  |
@@ -19,16 +16,14 @@ Going BR!
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Direct Damage*        |     |            |                                                                                                                                                     |
 | 4 | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
-|   |                        |     |            |                                                                                                                                                     |
-|   | *Planeswalker*         |     |            |                                                                                                                                                     |
-| 2 | Liliana's Vess         | 3BB | pln-wkr 5  | +1: tgt plr disc -- -2: search for card, on top of lib - -8: all dead creats in play                                                                |
+| 2 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
-| 4 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
-| 4 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
+| 3 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
+| 2 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Proliferate*          |     |            |                                                                                                                                                     |
-| 3 | Contagion Clasp        | 2   | art        | Put a -1/-1 on tgt creat -- 4, t: proliferate                                                                                                       |
+| 2 | Contagion Clasp        | 2   | art        | Put a -1/-1 on tgt creat -- 4, t: proliferate                                                                                                       |
 | 3 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Lands*                |     |            |                                                                                                                                                     |
