@@ -1,16 +1,33 @@
-| 4 | Quest for Holy Relic   | W   | ench    | When u cast a creat: put a quest counter -- Remove 5 counter, sacr it: search equipment put into play attached to a creat u control |
-| 4 | Kor Outfitter          | WW  | 2/2     | When enter: you may attach equip to tgt creat u control                                                                             |
-| 4 | Stoneforge Mystic      | 1W  | 1/2     | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                          |
-| 4 | Wall of Omen           | 1W  | 0/4 def | When comes into play, draw a card                                                                                                   |
-|   |                        |     |         |                                                                                                                                     |
-| 2 | Kor Skyfisher          | 1W  | 2/3 fly | When enter, return tgt perm u control to owner's hand                                                                               |
-| 2 | Glimmerpoint Stag      | 2WW | 3/3 vig | When enter, exile a permanent, return it to play at beg next end step                                                               |
-|   |                        |     |         |                                                                                                                                     |
-| 2 | Kemba, Kha Regent      | 1WW | 2/4 leg | Beg upk: put a 2/2 cat for each equip attached to her                                                                               |
-|   |                        |     |         |                                                                                                                                     |
-| 2 | Argentum Armor         | 6   | eqp 6   | Equip creat gets +6/+6 -- when attack destroy tgt permanent                                                                         |
-| 1 | Basilisk Collar        | 1   | eqp 1   | Equip creat gain lifelink and deathtouch                                                                                            |
-| 1 | Infiltration Lens      | 1   | eqp 1   | When equip gets blocked u may draw two cards                                                                                        |
-| 1 | Sword of Vengeance     | 3   | eqp 3   | Equip creat gets +2/0 first stk, vig, trample and haste                                                                             |
-| 1 | Sword of Body and Mind | 3   | eqp 2   | Equip gets +2/+2 prot green and blue -- when deal damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard         |
-|   |                        |     |         |                                                                                                                                     |
+37 cards.
+
+|    | *Creatures: 20*        |     |          |                                                                                                                             |
+|  2 | Kor Outfitter          |  WW | 2/2      | When enter: you may attach equip to tgt creat u control                                                                     |
+|  4 | Stoneforge Mystic      |  1W | 1/2      | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                  |
+|  4 | Sea Gate Oracle        |  2U | 1/3      | When comes into play, look at top two cards, put one in hand, one at the bottom of lib                                      |
+|  4 | Grand Architect        | 1UU | 2/2      | Other blue gets +1/+1 -- U: tgt art becomes blue -- tap a blue creat: add 2 to play act ab or casting cost of artifacts     |
+|  4 | Treasure Mage          |  2U | 2/2      | When enter: search art with CMC 6+ and put it into hand                                                                     |
+|  2 | Kemba, Kha Regent      | 1WW | 2/4 leg  | Beg upk: put a 2/2 cat for each equip attached to her                                                                       |
+|    |                        |     |          |                                                                                                                             |
+|    | *Planeswalker: 2*      |     |          |                                                                                                                             |
+|  2 | Venser the Sojourner   | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                    |
+|    |                        |     |          |                                                                                                                             |
+|    | *Helper: 4*            |     |          |                                                                                                                             |
+|  4 | Stoic Rebuttal         | 1UU | inst     | Counter target spell -- Metalcraft: cost 1 less to cast                                                                     |
+|    |                        |     |          |                                                                                                                             |
+|    | *High Casting Art: 5*  |     |          |                                                                                                                             |
+|  1 | Contagion Engine       |   6 |          | When enter, put a -1c on each creat tgt opp control; 4, t: proliferate then proliferate                                     |
+|  1 | Steel Hellkite         |   6 | 5/5      | 2: gets +1/0 -- X: destroy each non land perm w/ CMC = X (activate only if steelkite dealt combat damage to opp)            |
+|  2 | Wurmcoil Engine        |   6 | 6/6      | Deathtouch/Lifelink -- When goes to graveyard, put 1 3/3 deathtouch and 1 3/3 lifelink token to play                        |
+|  1 | Spine of Ish Sah       |   7 | art      | When enter: destroy tgt perm -- When goes to grave: return to hand                                                          |
+|    |                        |     |          |                                                                                                                             |
+|    | *Equipment: 6*         |     |          |                                                                                                                             |
+|  2 | Argentum Armor         |   6 | eqp 6    | Equip creat gets +6/+6 -- when attack destroy tgt permanent                                                                 |
+|  2 | Sword of Body and Mind |   3 | eqp 2    | Equip gets +2/+2 prot green and blue -- when deal damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard |
+|  1 | Sword of Vengeance     |   3 | eqp 3    | Equip creat gets +2/0 first stk, vig, trample and haste                                                                     |
+|  1 | Infiltration Lens      |   2 | eqp 1    | When equip gets blocked draw two cards                                                                                      |
+|    |                        |     |          |                                                                                                                             |
+|    | *Lands*                |     |          |                                                                                                                             |
+|  4 | Seachrome Coast        |     | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                        |
+|  2 | Celestial Colonnade    |     | land     | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                  |
+|  7 | Plain                  |     | bas land |                                                                                                                             |
+| 10 | Island                 |     | bas land |                                                                                                                             |
