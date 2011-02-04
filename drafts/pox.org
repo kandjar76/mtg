@@ -1,0 +1,22 @@
+|   | *Pox Spells*            |     |                 |                                                                                                 |
+| 4 | Pox                     | BBB | sorc            | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                    |
+| 4 | Smallpox                | BB  | sorc            | each player, loose 1 life, sacr a creat, sacr a land, discard a card                            |
+|   |                         |     |                 |                                                                                                 |
+|   | *Helper*                |     |                 |                                                                                                 |
+| 4 | Dark Ritual             | B   | inst            | Add BBB to mana pool                                                                            |
+| 4 | Innocent Blood          | B   | sorc            | Each player sacrifice a creature                                                                |
+| 4 | Sign In Blood           | BB  | sorc            | Tgt player draws 2 and looses 2 life                                                            |
+|   |                         |     |                 |                                                                                                 |
+| 4 | Abyssal Persecutor      | 2BB | 6/6 fly trample | You can't win, ur opp can't loose.                                                              |
+|   |                         |     |                 |                                                                                                 |
+|---+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
+|   |                         |     |                 |                                                                                                 |
+| 4 | Gatekeeper of Malakir   | BB  | 2/2             | Kicker B -- If kicked: tgt player sacr a creature                                               |
+| 4 | Abyssal Gatekeeper      | 1B  | 1/1             | When put to graveyard, each player sacr a creat                                                 |
+| 4 | Reassembling Skeleton   | 1B  | 1/1             | 1B: return him from grave to play tapped.                                                       |
+|   |                         |     |                 |                                                                                                 |
+|   |                         |     |                 |                                                                                                 |
+| 4 | Quest for the Gravelord | B   | ench            | When creat put to graveyard: put a quest counter -- remove 3 sacr it, put a 5/5                 |
+| 4 | Diabolic Intent         | 1B  | inst            | Add cost: sacr a creat -- search card from lib, put it into hand                                |
+|---+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
+| 1 | Rite of Consumption     | 1B  | sorc            | Add cost: sacr a creat; it deals damage to tgt player eq to pow; u gain life eq to damage dealt |
