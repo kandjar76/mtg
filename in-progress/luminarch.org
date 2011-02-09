@@ -7,25 +7,25 @@ Currently trying: frost titan and sun titan.
 |---+----+---+---+---+---|
 | 5 | 16 | 4 | 3 | 6 | 4 |
 
-|    | *The quest 3*           |     |           |                                                                                                                                           |
+|    | *The quest 2*           |     |           |                                                                                                                                           |
 |  2 | Luminarch Ascension     | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
 |    |                         |     |           |                                                                                                                                           |
 |    | *Proliferate 2*         |     |           |                                                                                                                                           |
 |  2 | Contagion Engine        | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
 |    |                         |     |           |                                                                                                                                           |
-|    | *Protection/Draw 12*    |     |           |                                                                                                                                           |
+|    | *Protection/Draw 10*    |     |           |                                                                                                                                           |
 |  4 | Wall of Omen            | 1W  | 0/4 def   | When enter: draw                                                                                                                          |
 |  3 | Preordain               | U   | sorc      | Scry 2 then draw.                                                                                                                         |
 |  3 | Spreading Seas          | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
 |    |                         |     |           |                                                                                                                                           |
-|    | *Control 13*            |     |           |                                                                                                                                           |
+|    | *Control 14*            |     |           |                                                                                                                                           |
 |  4 | Into the Roll           | 1U  | inst      | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                  |
 |  3 | Day of Judgement        | 2WW | sorc      | Destroy all creatures                                                                                                                     |
 |  2 | Cancel                  | 1UU | inst      | Counter tgt spell                                                                                                                         |
 |  3 | Mana leak               | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
 |  2 | Small Pierce            | U   | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                         |     |           |                                                                                                                                           |
-|    | *Titans*                |     |           |                                                                                                                                           |
+|    | *Titans 2*              |     |           |                                                                                                                                           |
 |  1 | Sun Titan               | 4WW | 6/6 vig   | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                                           |
 |  1 | Frost Titan             | 4UU | 6/6       | Whenever enter or attack: tap tgt perm it doesn't untap during next untap phase -- when opp target it: counter spell unless he pays 2     |
 |    |                         |     |           |                                                                                                                                           |
@@ -35,7 +35,7 @@ Currently trying: frost titan and sun titan.
 |  2 | Venser the Sojourner    | 3WU | plnwkr 3  | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
 |  2 | Jace Beleren            | 1UU | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
 |    |                         |     |           |                                                                                                                                           |
-|    | *Lands*                 |     |           |                                                                                                                                           |
+|    | *Lands 22*              |     |           |                                                                                                                                           |
 |  4 | Glacial Fortress        |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
 |  3 | Plain                   |     | bas land  |                                                                                                                                           |
 |  7 | Island                  |     | bas land  |                                                                                                                                           |
