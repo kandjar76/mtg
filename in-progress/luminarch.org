@@ -1,6 +1,3 @@
-Would journey to nowhere be a descent addon to this deck? Not sure... Main question being: what would it replace? 
-Currently trying: frost titan and sun titan.
-
 38 spells | 22 lands
 
 | 1 |  2 | 3 | 4 | 5 | 6 |
@@ -61,4 +58,25 @@ Currently trying: frost titan and sun titan.
 | MB | Enclave Cryptologist    | U   | 0/1       | Lvl up: 1U -- [1-2] 0/1 t: draw then discard -- [3+] 0/1 t:draw                                                                           |
 | MB | Lighthouse Chronologist | 1U  | 1/3       | Lvl up: U -- [4:6] 2/4 -- [7+] 3/5 At the beg end step if not urs, take an extra turn after this one                                      |
 |----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+
+Note:
+  Next step: taking the deck to a tournament.
+  To solve 3 questions:
+  - should Jace TMS be in this deck?
+  - does the deck need more titans?
+  - should the deck run Journey to Nowhere?
+  So far the answers are:
+    *Maybe* *Probably Not* and *Not likely*
+
+
+  --
+
+  Frost Titan and Sun Titan are two key cards in the deck!
+    The main question is: should I put one more titan (most likely frost)
+    But what should be removed in that case?
+  Also: the deck only runs 22 mana! Removing a low csting cost to add
+  a high casting cost cards could really impact the deck in a "non good" way!
+
+  Would journey to nowhere be a descent addon to this deck? Not
+  sure... Main question being: what would it replace?
 
