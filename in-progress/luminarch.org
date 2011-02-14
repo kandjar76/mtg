@@ -35,11 +35,11 @@
 |    | *Lands 22*              |     |           |                                                                                                                                           |
 |  4 | Glacial Fortress        |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
 |  3 | Plain                   |     | bas land  |                                                                                                                                           |
-|  7 | Island                  |     | bas land  |                                                                                                                                           |
+|  6 | Island                  |     | bas land  |                                                                                                                                           |
 |  1 | Scalding Tarn           |     | land      | t, pay 1, sacr it: search island or mountain put it into play                                                                             |
 |  2 | Seachrome Coast         |     | land      | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
 |  3 | Celestial Colonnade     |     | land      | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                                |
-|  2 | Tectonite Edge          |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
+|  3 | Tectonite Edge          |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
 |----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*             |     |           |                                                                                                                                           |
 |  2 | Silence                 | W   | inst      | Ur opp can't cast spell this turn                                                                                                         |
@@ -67,7 +67,7 @@ Note:
   - should the deck run Journey to Nowhere?
   So far the answers are:
     *Maybe* *Probably Not* and *Not likely*
-
+  And finally: should I run 4 tectonic edge? (*very likely*)
 
   --
 
