@@ -19,7 +19,8 @@
 |  4 | Into the Roll           | 1U  | inst      | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                  |
 |  3 | Day of Judgement        | 2WW | sorc      | Destroy all creatures                                                                                                                     |
 |  2 | Cancel                  | 1UU | inst      | Counter tgt spell                                                                                                                         |
-|  3 | Mana leak               | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
+|  1 | Deprive                 | UU  | inst      | Add cost: return land to hand -- Counter tgt spell                                                                                        |
+|  2 | Mana leak               | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
 |  2 | Small Pierce            | U   | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                         |     |           |                                                                                                                                           |
 |    | *Titans 2*              |     |           |                                                                                                                                           |
@@ -35,21 +36,22 @@
 |    | *Lands 22*              |     |           |                                                                                                                                           |
 |  4 | Glacial Fortress        |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
 |  3 | Plain                   |     | bas land  |                                                                                                                                           |
-|  6 | Island                  |     | bas land  |                                                                                                                                           |
+|  5 | Island                  |     | bas land  |                                                                                                                                           |
 |  1 | Scalding Tarn           |     | land      | t, pay 1, sacr it: search island or mountain put it into play                                                                             |
-|  2 | Seachrome Coast         |     | land      | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
+|  3 | Seachrome Coast         |     | land      | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
 |  3 | Celestial Colonnade     |     | land      | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                                |
 |  3 | Tectonite Edge          |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
 |----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*             |     |           |                                                                                                                                           |
 |  2 | Silence                 | W   | inst      | Ur opp can't cast spell this turn                                                                                                         |
-|  1 | Luminarch Ascension     | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
+|  1 | Baneslayer Angel        | 3WW | 5/5 fly   | First strike, lifelink, prot from demon and dragons                                                                                       |
 |  3 | Revoke Existence        | 1W  | sorc      | Exile tgt art or enchantment                                                                                                              |
 |  3 | Leonin Arbiter          | 1W  | 2/2       | Players can't search lib -- unless he pays 2.                                                                                             |
 |  2 | Mindbreak Trap          | 2UU | inst      | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                                                                  |
 |  2 | Leyline of Sanctity     | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
 |  2 | Ratchet Bomb            | 2   | art       | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
 |----+-------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Luminarch Ascension     | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
 |  1 | Sphinx of Jwar Isle     | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
 |  3 | Sea Gate Oracle         | 2U  | 1/3       | When enter: look top 2, put one in hand, one on the bottom                                                                                |
 |  3 | Celestial Purge         | 1W  | inst      | Exile black or red permanent                                                                                                              |
@@ -65,6 +67,7 @@ Note:
   - should Jace TMS be in this deck?
   - does the deck need more titans?
   - should the deck run Journey to Nowhere?
+  - considering Baneslayer Angel in the SB -- to take Elspeth spot in a fight against UB control?
   So far the answers are:
     *Maybe* *Probably Not* and *Not likely*
   And finally: should I run 4 tectonic edge? (*very likely*)
