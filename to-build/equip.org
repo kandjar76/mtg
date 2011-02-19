@@ -1,5 +1,10 @@
 37 cards.
 
+Needs: 
+1 Venser, the Sojourner ($13)
+3 Seachrome Coast ($2.5)
+1 Celestial Colonnade ($4)
+
 |    | *Creatures: 20*        |     |          |                                                                                                                             |
 |  2 | Kor Outfitter          |  WW | 2/2      | When enter: you may attach equip to tgt creat u control                                                                     |
 |  4 | Stoneforge Mystic      |  1W | 1/2      | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                  |
