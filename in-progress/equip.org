@@ -36,3 +36,10 @@ Needs:
 |  2 | Celestial Colonnade    |     | land     | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                  |
 |  7 | Plain                  |     | bas land |                                                                                                                             |
 | 10 | Island                 |     | bas land |                                                                                                                             |
+
+
+Note: the deck is trying to do two incompatible thing...
+casting high casting cards
+and using artifacts...
+
+
