@@ -22,9 +22,8 @@ Mana Curve:
 |  4 | Day of Judgement                      | 2WW | sorc     | Destroy all creatures                                                                    |
 |    |                                       |     |          |                                                                                          |
 |    | *Helpers*                             |     |          |                                                                                          |
-|  2 | Jace the Mind Sculptor                | 2UU | plnwkr 3 | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib   |
-|  2 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
-|  1 | Jace Beleren                          | 1UU | plnwkr 3 | +2: each player draws; -1: u draw; -10: tgt player mill 20 cards                         |
+|  3 | Venser the Sojourner                  | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm |
+|  2 | Jace Beleren                          | 1UU | plnwkr 3 | +2: each player draws; -1: u draw; -10: tgt player mill 20 cards                         |
 |  2 | Mimic Vat                             | 3   | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot    |
 |  2 | Contagious Engine                     | 6   | art      | When enter: put a -1c on each creat tgt player control; 4, t: proliferate then prolif    |
 |  2 | Eldrazi Monument                      | 5   | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this |
