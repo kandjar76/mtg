@@ -16,7 +16,7 @@
 |                         |       |       |            |                   |                                                                                                                                |
 | Mask of the Mimic       |       |       |            |                   |                                                                                                                                |
 | Pongify                 |       |       | blue?      |                   |                                                                                                                                |
-| Diamond Valley          | $90   |     2 | Sacrifice  | Arabian Night     | Land -- sacr a creat: gain life equal to its power                                                                                                |
+| Diamond Valley          | $90   |     2 | Sacrifice  | Arabian Night     | Land -- sacr a creat: gain life equal to its toughness                                                                         |
 |                         |       |       |            |                   |                                                                                                                                |
 | Burgeoning              | $3    |       | Land       | Stronghold        |                                                                                                                                |
 | Deathrender             | $1.5  |     4 | Artifact   | Lorwyn            | Eqip get +2/+2, when die -- put creat from hand to play                                                                        |
