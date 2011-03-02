@@ -93,6 +93,7 @@ If Mimic Vat can imprint Putrefax; it's almost guaranteed to be over.
 |----+------------------------------+-----+-------------+-----------------------------------------------------------------------------------------------------------------------------|
 | SB | *Sideboard*                  |     |             |                                                                                                                             |
 |  4 | Naturalize                   | 1G  | inst        | Destroy tgt art or enchantment                                                                                              |
+|  4 | Vampire Hexmage              | BB  | 2/1         | First strike -- sacr it: remove all counter from target permanent                                                           |
 |  2 | Grim Discovery               | 1B  | sorc        | Choose 1 or both: return creat to hand or return land to hand                                                               |
 |  2 | Sword of Vengence            | 3   | eqp 3       | Equp creats gets +2/0, first strike, vig, trample and haste                                                                 |
 |  2 | Adventuring Gear             | 1   | eqp 1       | When land enters: eqp creats gets +2/+2 until eot                                                                           |
@@ -118,17 +119,16 @@ MMM... doesn't seems too interesting... sadly. So far!
 |  2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | infect -- B: gain haste -- BB: regenerate                                                               |
 |  4 | Hand of the Praetors         | 3B  | 3/2         | infect -- other infect gets +1/+1 -- when a creat with infect enter: put a poison counter on tgt player |
 |  4 | Plague Stinger               | 1B  | 1/1 fly     | infect                                                                                                  |
-|  4 | Ichor Rats                   | 1BB | 2/1         | infect -- when enter: each player gets a poison counter                                                 |
 |  4 | Ichoclaw Myr                 | 2   | 1/1         | infect -- when blocked: gets +2/+2                                                                      |
 |  4 | Thrummingbird                | 1U  | 1/1 fly     | When deals damage to player: proliferate                                                                |
 |    |                              |     |             |                                                                                                         |
 |    | *Spells: 18*                 |     |             |                                                                                                         |
-|    | Distortion Strike            | U   | sorc        | Tgt creats get +1/0 and is unblockable -- rebound                                                       |
-|  2 | Jace Beleren                 | 1UU | plnwk       | +2: each play draws; -1: u draw; -10: tgt player put top 20 cards to graveyard                          |
-|  3 | Steady Progress              | 2U  | inst        | Proliferate, draw a card                                                                                |
-|  4 | Spreading Seas               | 1U  | ench land   | Tgt land is an island -- draw a card                                                                    |
+|  4 | Distortion Strike            | U   | sorc        | Tgt creats get +1/0 and is unblockable -- rebound                                                       |
 |  4 | Virulent Swipe               | B   | inst        | Tgt creats gain +2/0 and death touch -- rebound                                                         |
 |  2 | Livewire Lash                | 2   | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                 |
+|  3 | Steady Progress              | 2U  | inst        | Proliferate, draw a card                                                                                |
+|  2 | Jace Beleren                 | 1UU | plnwk       | +2: each play draws; -1: u draw; -10: tgt player put top 20 cards to graveyard                          |
+|  3 | Spreading Seas               | 1U  | ench land   | Tgt land is an island -- draw a card                                                                    |
 |    |                              |     |             |                                                                                                         |
 |  4 | Grasp of Darkness            | BB  | inst        | tgt creats gets -4/-4 until eot                                                                         |
 |  3 | Duress                       | B   | sorc        | Opp reveal hand, choose non creat non land, he discard it                                               |
