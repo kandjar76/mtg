@@ -2,6 +2,12 @@
 
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
 |-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Dragon Broodmother      | $3    |     4 | Doubling   | Shard of Alara    | Flying -- beg upk: put a 1/1 dragon w/ devour 2 on the battlefield                                                             |
+| Mycoloth                | $1.5  |     4 | Doubling   | Shard of Alara    | Devour 2 (when enter, sacr creats to put 2 +1c on him) -- Beg upk: put a 1/1 token for each +1c he has on him.                 |
+|                         |       |       |            |                   |                                                                                                                                |
+| Swans of Bryn Argoll    | $1.5  |     4 | UR or WR   | Shadowmoor        | 4/3 fly -- Prevent damage dealt to him its controller draws cards equals to damage prevented this way                          |
+| Volcanic Fallout        | $1    |     4 | UR or WR   | Conflux           | Can't be countered -- Deals 2 damage to each creats / player                                                                   |
+|                         |       |       |            |                   |                                                                                                                                |
 | Damping Engine          |       |       |            |                   | artifact -- a player who controls more pem than other can't cast art creat or ench (that player may sac a perm to ignore this) |
 | Nightcreep              |       |       |            |                   | instant -- all creats becomes black, all land becomes swamp                                                                    |
 |                         |       |       |            |                   |                                                                                                                                |
@@ -10,7 +16,7 @@
 |                         |       |       |            |                   |                                                                                                                                |
 | Mask of the Mimic       |       |       |            |                   |                                                                                                                                |
 | Pongify                 |       |       | blue?      |                   |                                                                                                                                |
-| Diamond Valley          |       |     2 | Sacrifice  |                   |                                                                                                                                |
+| Diamond Valley          | $90   |     2 | Sacrifice  | Arabian Night     | Land -- sacr a creat: gain life equal to its power                                                                                                |
 |                         |       |       |            |                   |                                                                                                                                |
 | Burgeoning              | $3    |       | Land       | Stronghold        |                                                                                                                                |
 | Deathrender             | $1.5  |     4 | Artifact   | Lorwyn            | Eqip get +2/+2, when die -- put creat from hand to play                                                                        |
