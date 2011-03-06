@@ -1,0 +1,27 @@
+|   | *Key creatures 10*   |     |      |                                                                     |
+| 4 | Kor Spiritdancer     | 1W  | 0/2  | Gets +2/+2 for each aura, whenever u cast an aura, draw a card      |
+| 2 | Mesa Enchantress     | 1WW | 0/2  | Whenever u cast an enchant, u may draw a card                       |
+| 4 | Academic Researcher  | 1UU | 2/2  | When enter, u may attach an aura from hand to him                   |
+| 2 | Cold-Eyed Selkie     | 1uu | 1/1  | Whenever deals combat damage, u may draw that many cards            |
+|   |                      |     |      |                                                                     |
+|   | *Support spells 16*  |     |      |                                                                     |
+| 4 | Enchanted Alteration | U   | inst | Move target aura from creats or land to another                     |
+| 4 | Spreading Seas       | 1U  | aura | Enchanted land is an island -- draw                                 |
+| 4 | Oblivion Ring        | 2U  | ench | When enter, exile target permanent -- When leave, return it to play |
+| 4 | Counterspell         | UU  | inst | Counter target spells                                               |
+|   |                      |     |      |                                                                     |
+|   | *Auras/Enchants 10*  |     |      |                                                                     |
+| 4 | Arcanum Wings        | 1U  | aura | ench creat gets flying -- aura swap (2U)                            |
+| 2 | Eldrazi Conscription | 8   | aura | ench creat gets +10/+10, trample and annhilator 2                   |
+| 2 | Eel Umbra            | 1U  | aura | flash -- totem armor -- enchant creat gets +1/+1                    |
+| 2 | Infiltrator Magemark | 2U  | aura | enchanted creats gets +1/+1 and can only gets block by walls        |
+|   |                      |     |      |                                                                     |
+| 4 | Seachrome Coast      |     | land | Enter tapped unless u control 4 or less land -- tap for U or W      |
+| 4 | Hallowed Fountain    |     | land | Enter tapped unless pay 2 life -- tap for U or W                    |
+| 4 | Glacial Fortress     |     | land | Enter tapped unless u control island or plain -- tap for U or W     |
+| 6 | Plain                |     |      |                                                                     |
+| 6 | Island               |     |      |                                                                     |
+|---+----------------------+-----+------+---------------------------------------------------------------------|
+|   | *Sideboard*          |     |      |                                                                     |
+| 3 | Slippery Bogle       | u   | 1/1  | Can't be target spell or ab opponents' control                      |
+| 2 | Alexi's Cloak        | 1U  | aura | flash -- ench creats gets shroud                                    |
