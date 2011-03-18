@@ -8,28 +8,29 @@
 |  2 | Luminarch Ascension    | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
 |    |                        |     |           |                                                                                                                                           |
 |    | *Proliferate 2*        |     |           |                                                                                                                                           |
-|  2 | Contagion Engine       | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
+|  1 | Contagion Engine       | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
 |    |                        |     |           |                                                                                                                                           |
-|    | *Protection/Draw 10*   |     |           |                                                                                                                                           |
+|    | *Protection/Draw 9*    |     |           |                                                                                                                                           |
 |  4 | Wall of Omen           | 1W  | 0/4 def   | When enter: draw                                                                                                                          |
 |  3 | Preordain              | U   | sorc      | Scry 2 then draw.                                                                                                                         |
-|  2 | Spreading Seas         | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
+|  3 | Spreading Seas         | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
 |    |                        |     |           |                                                                                                                                           |
 |    | *Control 13*           |     |           |                                                                                                                                           |
 |  3 | Into the Roll          | 1U  | inst      | Kicker 1U -- Return tgt non land perm to owner's hand -- if kicked: draw                                                                  |
 |  3 | Day of Judgement       | 2WW | sorc      | Destroy all creatures                                                                                                                     |
-|  2 | Cancel                 | 1UU | inst      | Counter tgt spell                                                                                                                         |
+|  2 | Stoic Rebuttal         | 1UU | inst      | Metalcraft: cost 1 less to cast -- Counter tgt spell                                                                                      |
 |  1 | Deprive                | UU  | inst      | Add cost: return land to hand -- Counter tgt spell                                                                                        |
 |  2 | Mana leak              | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
 |  2 | Small Pierce           | U   | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                        |     |           |                                                                                                                                           |
 |    | *Titans 2*             |     |           |                                                                                                                                           |
-|  1 | Sun Titan              | 4WW | 6/6 vig   | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                                           |
 |  1 | Frost Titan            | 4UU | 6/6       | Whenever enter or attack: tap tgt perm it doesn't untap during next untap phase -- when opp target it: counter spell unless he pays 2     |
+| +1 | Frost Titan            | 4UU | 6/6       | Whenever enter or attack: tap tgt perm it doesn't untap during next untap phase -- when opp target it: counter spell unless he pays 2     |
 |    |                        |     |           |                                                                                                                                           |
 |    | *Planeswalker 10*      |     |           |                                                                                                                                           |
 |  2 | Gideon Jura            | 3WW | plwk 6    | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
-|  2 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
+| +1 | Gideon Jura            | 3WW | plwk 6    | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|  1 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
 |  2 | Venser the Sojourner   | 3WU | plnwkr 3  | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
 |  2 | Jace Beleren           | 1UU | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
 |  2 | Jace the Mind Sculptor | 2UU | plnwkr 3  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                    |
@@ -44,17 +45,25 @@
 |  3 | Tectonite Edge         |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*            |     |           |                                                                                                                                           |
+|  1 | Luminarch Ascension    | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
 |  1 | Spreading Seas         | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
 |  1 | Day of Judgement       | 2WW | sorc      | Destroy all creatures                                                                                                                     |
 |  1 | Baneslayer Angel       | 3WW | 5/5 fly   | First strike, lifelink, prot from demon and dragons                                                                                       |
-|  3 | Revoke Existence       | 1W  | sorc      | Exile tgt art or enchantment                                                                                                              |
-|  3 | Leonin Arbiter         | 1W  | 2/2       | Players can't search lib -- unless he pays 2.                                                                                             |
-|  2 | Mindbreak Trap         | 2UU | inst      | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                                                                  |
-|  2 | Leyline of Sanctity    | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
+|  1 | Sphinx of Jwar Isle    | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
 |  2 | Ratchet Bomb           | 2   | art       | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
+|  2 | Divine Offering        | 1W  | inst      | Destroy tgt artifact, u gain life equal to its CMC                                                                                        |
+|  2 | Leyline of Sanctity    | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
+|  2 | Flash Freeze           | 1U  | inst      | Counter tgt red or green spell                                                                                                            |
+|  2 | Tumble Magnet          | 3   | art       | Enter w/ 3 charges -- t, remove a charge: tap tgt creat or artifact                                                                       |
+|----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Sun Titan              | 4WW | 6/6 vig   | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                                           |
+|  1 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
+|  1 | Contagion Engine       | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
+|  2 | Revoke Existence       | 1W  | sorc      | Exile tgt art or enchantment                                                                                                              |
+|  2 | Leonin Arbiter         | 1W  | 2/2       | Players can't search lib -- unless he pays 2.                                                                                             |
+|  2 | Mindbreak Trap         | 2UU | inst      | If opp cast 3 spell, you may pay 0 instead -- Exile any number of spells                                                                  |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 | SB | Celestial Purge        | 1W  | inst      | Exile black or red permanent                                                                                                              |
-| SB | Sphinx of Jwar Isle    | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
 | SB | Mirran Crusader        | 1WW | 2/2       | Dble strike -- Protection from black and green                                                                                            |
 | MB | Brittle Effigy         | 1   | art       | 4, t, exile it: Exile tgt creature                                                                                                        |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
