@@ -2,41 +2,47 @@
 |  4 | Pox                     | BBB | sorc            | each player, loose 1/3 life, sacr 1/3 creat, sacr 1/3 land, discard 1/3 card                    |
 |  4 | Smallpox                | BB  | sorc            | each player, loose 1 life, sacr a creat, sacr a land, discard a card                            |
 |    |                         |     |                 |                                                                                                 |
-|    | *Finisher:6*            |     |                 |                                                                                                 |
+|    | *Finisher:5*            |     |                 |                                                                                                 |
 |  4 | The Rack                | 1   | art             | Beg opp upk: deal damage equal to 3 - X where X is the number of cards in hand                  |
-|  2 | Chimeric Idol           | 3   | art             |                                                                                                 |
+|  1 | Chimeric Idol           | 3   | art             | 0: tap all lands u control -- it becomes a 3/3 art until eot                                    |
 |    |                         |     |                 |                                                                                                 |
-|    | *Helper:12*             |     |                 |                                                                                                 |
+|    | *Helper:13*             |     |                 |                                                                                                 |
 |  4 | Dark Ritual             | B   | inst            | Add BBB to mana pool                                                                            |
 |  4 | Innocent Blood          | B   | sorc            | Each player sacrifice a creature                                                                |
 |  3 | Sign In Blood           | BB  | sorc            | Tgt player draws 2 and looses 2 life                                                            |
 |  1 | Infernal Tutor          | 1B  | sorc            | Search a card w/ same name as a card in ur hand -- hellbent: search for any cards               |
+|  1 | Diabolic Intent         | 1B  | sorc            | Add cost: sacr a creat -- search lib for card, put it into hand                                 |
 |    |                         |     |                 |                                                                                                 |
 |    | *Creatures and Gen:10*  |     |                 |                                                                                                 |
 |  4 | Bloodghast              | BB  | 2/1             | Has haste if opp has 10- life -- landfall: comes back to play                                   |
 |  4 | Bitterblossom           | 1B  | ench            | Beg upk: loose 1 life and put a 1/1 faerie into play                                            |
 |  2 | Quest for the Gravelord | B   | ench            | When creat put to graveyard: put a quest counter -- remove 3 sacr it, put a 5/5                 |
+|  1 | Nether Spirit           | 1BB | 2/2             | Beg upk: If he's the only creat in ur graveyard, he comes back to play                          |
 |    |                         |     |                 |                                                                                                 |
 |    | *Anti Counter*          |     |                 |                                                                                                 |
-|  4 | Duress                  |     |                 |                                                                                                 |
+|  4 | Duress                  | B   | sorc            | Tgt player reveal hand, choose non land non creat, he discards the choosen card                 |
 |    |                         |     |                 |                                                                                                 |
 |    | *Lands*                 |     |                 |                                                                                                 |
 | 16 | Swamp                   |     |                 |                                                                                                 |
 |  4 | Fetched Land            |     |                 |                                                                                                 |
 |----+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
+|  2 | Contamination           | 2B  | ench            | Beg upk: sacr a creat or this -- if a land is tapped for mana he produces B.                    |
+|  2 | Ratchet Bomb            | 2   | art             | t: put counter -- t, sacr: destroy each non-land w/ cmc = to # of counters                      |
+|  4 | Engineered Plague       | 2B  | Ench            | Comes into play: choose creat type -- Creats of the choosen type gets -1/-1                     |
+|  1 | Rite of Consumption     | 1B  | sorc            | Add cost: sacr a creat; it deals damage to tgt player eq to pow; u gain life eq to damage dealt |
+|  4 | Nihil Spellbomb         | 1   | art             | t, sacr it: exile tgt player's graveyard -- when put to graveyard, u may pay B to draw a card   |
+|  4 | Hymn to Tourach         | BB  | sorc            | Tgt player disc 2 cards at random                                                               |
+|----+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
+|  4 | Reassembling Skeleton   | 1B  | 1/1             | 1B: return him from grave to play tapped.                                                       |
 |  x | Tangle Wire             | 3   | art             | Beg each upk: that player tap creat/art or land for each fading counter on it.                  |
-| SB | Engineered Plague       | 2B  | Ench            | Comes into play: choose creat type -- Creats of the choosen type gets -1/-1                     |
+|  3 | Gatekeeper of Malakir   | BB  | 2/2             | Kicker B -- If kicked: tgt player sacr a creature                                               |
 |    |                         |     |                 |                                                                                                 |
 |    |                         |     |                 |                                                                                                 |
 |  1 | Diabolic Tutor          | 1B  | inst            | Search for a card put into ur hand                                                              |
 |    |                         |     |                 |                                                                                                 |
-|  4 | Reassembling Skeleton   | 1B  | 1/1             | 1B: return him from grave to play tapped.                                                       |
-|    |                         |     |                 |                                                                                                 |
 |  4 | Abyssal Persecutor      | 2BB | 6/6 fly trample | You can't win, ur opp can't loose.                                                              |
-|  4 | Gatekeeper of Malakir   | BB  | 2/2             | Kicker B -- If kicked: tgt player sacr a creature                                               |
 |  4 | Abyssal Gatekeeper      | 1B  | 1/1             | When put to graveyard, each player sacr a creat                                                 |
 |    |                         |     |                 |                                                                                                 |
 |    |                         |     |                 |                                                                                                 |
-|  4 | Diabolic Intent         | 1B  | inst            | Add cost: sacr a creat -- search card from lib, put it into hand                                |
+|  1 | Diabolic Intent         | 1B  | inst            | Add cost: sacr a creat -- search card from lib, put it into hand                                |
 |----+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
-|  1 | Rite of Consumption     | 1B  | sorc            | Add cost: sacr a creat; it deals damage to tgt player eq to pow; u gain life eq to damage dealt |
