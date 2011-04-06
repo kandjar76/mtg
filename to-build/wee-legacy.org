@@ -1,38 +1,40 @@
+
 |   |    | *Creatures: 14*           |       |         |                                                                                         |
-|   | 4  | Wee Dragonauts            | 1UR   | 1/3 fly | Gain +2/0 every time you cast an instant or a sorcery                                   |
-|   | 4  | Gelectrode                | 1UR   | 0/1     | t: deal 1 damage to tgt creat or player -- whenever u cast inst or sorc: u may untap it |
-| 3 | 2  | Kiln Fiend                | 1R    | 1/2     | Gain +3/0 every time you cast an instant or a sorcery                                   |
-| 1 | 2  | Niv-Mizzet, the Firemind  | 2RRUU | 4/4 fly | Whenever u draw, it deals 1 damage to tgt creat or player -- t: draw                    |
-| 2 | 2  | Erayo, Soratami Ascendant | 1U    | 1/1 fly | When 4th spell play flip it -- when flip: first spell opp cast is counter each turn     |
+|   |  4 | Wee Dragonauts            | 1UR   | 1/3 fly | Gain +2/0 every time you cast an instant or a sorcery                                   |
+|   |  3 | Gelectrode                | 1UR   | 0/1     | t: deal 1 damage to tgt creat or player -- whenever u cast inst or sorc: u may untap it |
+| 3 |  3 | Kiln Fiend                | 1R    | 1/2     | Gain +3/0 every time you cast an instant or a sorcery                                   |
+| 1 |  2 | Niv-Mizzet, the Firemind  | 2RRUU | 4/4 fly | Whenever u draw, it deals 1 damage to tgt creat or player -- t: draw                    |
+| 2 |  2 | Erayo, Soratami Ascendant | 1U    | 1/1 fly | When 4th spell play flip it -- when flip: first spell opp cast is counter each turn     |
 |   |    |                           |       |         |                                                                                         |
-|   |    | *Draw spells: 8*          |       |         |                                                                                         |
-| 4 | 4  | Brainstorm                | U     | inst    | Draw 3 cards, then put two from hand on top of lib                                      |
-|   | 2  | Preordain                 | U     | sorc    | Scry 2 then draw                                                                        |
-|   | 2  | Jace Beleren              | 1UU   | plwr 3  | +2: each player draw -- -1: u draw -- -10: mill 20 cards                                |
+|   |    | *Draw spells: 10*         |       |         |                                                                                         |
+| 4 |  3 | Brainstorm                | U     | inst    | Draw 3 cards, then put two from hand on top of lib                                      |
+| 4 |  3 | Preordain                 | U     | sorc    | Scry 2 then draw                                                                        |
+| x |  4 | Manamorphose              | 1r    | inst    | Add 2 mana any color + draw a card                                                      |
 |   |    |                           |       |         |                                                                                         |
-|   |    | *Helper: 9*               |       |         |                                                                                         |
-|   | 2  | Remand                    | 1U    | inst    | Counter tgt spell and draw a card -- spell counter goes to owner's hand                 |
-|   | 4  | Distortion Strike         | U     | sorc    | Tgt creat gets +1/0 and unblockable -- rebound                                          |
-|   | 3  | Reckless Charge           | R     | sorc    | Tgt creats gain +3/0 and haste -- flashback 2R                                          |
+|   |    | *Helper: 6*               |       |         |                                                                                         |
+| 4 |  3 | Crimson wisps             | R     | inst    | Tgt creat becomes red, gain haste -- Draw a card                                        |
+| 4 |  3 | Assault Strobe            | R     | sorc    | Tgt creats gain double strike                                                           |
 |   |    |                           |       |         |                                                                                         |
-|   |    | *Protection: 12*          |       |         |                                                                                         |
-|   | 4  | Counterspell              | UU    | inst    | Counter tgt spell                                                                       |
-|   | 3  | Lightning Bolt            | R     | inst    | Deal 3 damage to tgt creat or player                                                    |
-|   | 3  | Assault Strobe            | R     | sorc    | Tgt creats gain double strike                                                           |
+|   |    | *Invasion: 6*             |       |         |                                                                                         |
+| 4 |  3 | Distortion Strike         | U     | sorc    | Tgt creat gets +1/0 and unblockable -- rebound                                          |
+| 4 |  3 | Shadow Rift               | U     | inst    | Target creature gain shadow until eot -- Draw a card                                    |
+|   |    |                           |       |         |                                                                                         |
+|   |    | *Counter: 4*              |       |         |                                                                                         |
+|   |  4 | Counterspell              | UU    | inst    | Counter tgt spell                                                                       |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Lands: 20*               |       |         |                                                                                         |
-|   | 4  | Steam Vents               |       | land    | Island/Mountain -- t: add U or R; comes into play tapped unless u pay 2                 |
-|   | 4  | Cascade Bluffs            |       | land    | t: add 1 -- {ru}, t: add UU or RU or RR to mana pool                                    |
-|   | 4  | Scalding Tarn             |       | land    | Pay 1 life: search for island or mountain                                               |
-|   | 4  | Mountain                  |       |         |                                                                                         |
-|   | 4  | Island                    |       |         |                                                                                         |
+| 3 |  4 | Steam Vents               |       | land    | Island/Mountain -- t: add U or R; comes into play tapped unless u pay 2                 |
+| 4 |  4 | Cascade Bluffs            |       | land    | t: add 1 -- {ru}, t: add UU or RU or RR to mana pool                                    |
+| x |  4 | Scalding Tarn             |       | land    | Pay 1 life: search for island or mountain                                               |
+|   |  4 | Mountain                  |       |         |                                                                                         |
+|   |  4 | Island                    |       |         |                                                                                         |
 |---+----+---------------------------+-------+---------+-----------------------------------------------------------------------------------------|
-|   | SB | Ponder                    | U     | sorc    | Look top 3 card, put back any order, u may shuffle, then draw                           |
-|   | SB | Echoing Truth             | 1U    | inst    | Return tgt nonland perm and all other perm w/ same name to owner's hands                |
+|   |  4 | Turn Aside                | U     | inst    | Counter tgt spell that tgt a perm u control                                             |
+|   |  4 | Echoing Truth             | 1U    | inst    | Return tgt nonland perm and all other perm w/ same name to owner's hands                |
+| 4 |  4 | Snap                      | 1U    | inst    | Return tgt creat to owner's hand -- untap two land                                      |
+|   |  3 | Nihil Spellbomb           | 1     | art     | t, sacr it: exile tgt players graveyard -- when put to graveyard, u may pay B to draw   |
 |---+----+---------------------------+-------+---------+-----------------------------------------------------------------------------------------|
 |   |    | *Free Spells*             |       |         |                                                                                         |
-|   | ?? | Manamorphose              | 1r    | inst    | Add 2 mana any color + draw a card                                                      |
-|   | ?? | Snap                      | 1U    | inst    | Return tgt creat to owner's hand -- untap two land                                      |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Direct Damage*           |       |         |                                                                                         |
 |   | ?? | Incinerate                | 1R    | inst    | Deals 3 damage to tgt creat or player -- if to creature: it can't be regen this turn    |
@@ -41,6 +43,7 @@
 |   | ?? | Shock                     | R     | inst    | Deals 2 damage to tgt creat or player                                                   |
 |   | ?? | Soul Fire                 | 2R    | inst    | Tgt creats deals damage equals to its power to tgt creat or player                      |
 |   | ?? | Fling                     | 1U    | inst    | Add cost: sacr a creat -- Deals damage equal to tgt creats power                        |
+|   | ?? | Lightning Bolt            | R     | inst    | Deal 3 damage to tgt creat or player                                                    |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Mana Accel*              |       |         |                                                                                         |
 |   | ?? | Lotus Petal               | 0     | art     | Sacr it: add mana any color to mana pool                                                |
@@ -51,17 +54,19 @@
 |   | ?? | Intervene                 | U     | inst    | Counter tgt spell that tgt a creature                                                   |
 |   | ?? | Turn Aside                | U     | inst    | Counter tgt spell that tgt a perm u control                                             |
 |   | ?? | Mage's Guile              | 1U    | inst    | Tgt creat gain shroud -- Cycling (U)                                                    |
+|   |  2 | Remand                    | 1U    | inst    | Counter tgt spell and draw a card -- spell counter goes to owner's hand                 |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Beefing Spell*           |       |         |                                                                                         |
-|   | MD | Veil of Secrecy           | 1U    | inst    | Tgt creats is unblockable and gain shroud until eot                                     |
-|   | MD | Shadow Rift               | U     | inst    | Target creature gain shadow until eot -- Draw a card                                    |
-|   | MD | Crimson wisps             | R     | inst    | Tgt creat becomes red, gain haste -- Draw a card                                        |
+|   | ?? | Veil of Secrecy           | 1U    | inst    | Tgt creats is unblockable and gain shroud until eot                                     |
+|   | ?? | Reckless Charge           | R     | sorc    | Tgt creats gain +3/0 and haste -- flashback 2R                                          |
 |   | ?? | Double Cleave             | 1R    | inst    | Tgt creat gain dble strike until eot                                                    |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Retraceable*             |       |         |                                                                                         |
-|   | 1? | Oona's grace              | 2U    | inst    | Retrace -- Tgt player draw a card                                                       |
-|   | 1? | Flame Jab                 | R     | inst    | Deals 1 damage to tgt creat or opp -- Retrace                                           |
+|   | SB | Ponder                    | U     | sorc    | Look top 3 card, put back any order, u may shuffle, then draw                           |
+|   |  1 | Oona's grace              | 2U    | inst    | Retrace -- Tgt player draw a card                                                       |
+|   |  1 | Flame Jab                 | R     | inst    | Deals 1 damage to tgt creat or opp -- Retrace                                           |
 |   |    |                           |       |         |                                                                                         |
 |   |    | *Other Helper*            |       |         |                                                                                         |
 |   | ?? | Treasure Hunt             | 1U    | inst    | Reveal top of lib cards until u reveal a non land -- put all revealed cards in hand     |
+|   |  2 | Jace Beleren              | 1UU   | plwr 3  | +2: each player draw -- -1: u draw -- -10: mill 20 cards                                |
 |---+----+---------------------------+-------+---------+-----------------------------------------------------------------------------------------|
