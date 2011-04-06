@@ -6,7 +6,6 @@ Going BR!
 | 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Damage by creats*     |     |            |                                                                                                                                                     |
-| 2 | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, it deals two damage to tgt creats or player                                                                                  |
 | 4 | Vampire Nighthawk      | 1BB | 2/3 fly    | Deathtouch / Lifelink                                                                                                                               |
 | 4 | Vampire Hexmage        | BB  | 2/1        | First strike -- sacr it: remove all counters from tgt perm                                                                                          |
 |   |                        |     |            |                                                                                                                                                     |
@@ -18,6 +17,7 @@ Going BR!
 |   | *Direct Damage*        |     |            |                                                                                                                                                     |
 | 4 | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
 | 4 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
+| 2 | Black Sun Zenith       | xBB | sorc       | Put x -1c on each creatures                                                                                                                         |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
 | 3 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
