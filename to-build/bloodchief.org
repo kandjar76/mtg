@@ -28,8 +28,8 @@ Going BR!
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Lands*                |     |            |                                                                                                                                                     |
 | 4 | Blackcleave Cliff      |     | Land       | Comes tapped unless u control 2 or less other lands                                                                                                 |
-| 4 | Dragonskull Summit     |     | Land       | Comes tapped unless u control Swamp or Mountain                                                                                                     |
-| 2 | Lavaclaw Reaches       |     | Land       | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                         |
+| 4 | Lavaclaw Reaches       |     | Land       | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                         |
+| 2 | Dragonskull Summit     |     | Land       | Comes tapped unless u control Swamp or Mountain                                                                                                     |
 | 5 | Swamp                  |     | Basic Land |                                                                                                                                                     |
 | 5 | Mountain               |     | Basic Land |                                                                                                                                                     |
 |---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
