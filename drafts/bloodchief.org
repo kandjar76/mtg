@@ -6,25 +6,25 @@ Going BR!
 | 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Damage by creats*     |     |            |                                                                                                                                                     |
-| 4 | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, it deals two damage to tgt creats or player                                                                                  |
+| 2 | Perilous Myr           | 2   | 1/1 art    | When put to graveyard, it deals two damage to tgt creats or player                                                                                  |
 | 4 | Vampire Nighthawk      | 1BB | 2/3 fly    | Deathtouch / Lifelink                                                                                                                               |
+| 4 | Vampire Hexmage        | BB  | 2/1        | First strike -- sacr it: remove all counters from tgt perm                                                                                          |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Damage by discard*    |     |            |                                                                                                                                                     |
-| 4 | Liliana's Caress       | 1B  | ench       | Whenever an opp discard; he looses 2 life                                                                                                           |
+| 2 | Liliana's Caress       | 1B  | ench       | Whenever an opp discard; he looses 2 life                                                                                                           |
 | 4 | Liliana's Specter      | 1BB | 2/1 fly    | When enter; each opp discard a card                                                                                                                 |
 | 4 | Duress                 | B   | sorc       | Tgt player reveal hand, choose non land non creats; he discards it                                                                                  |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Direct Damage*        |     |            |                                                                                                                                                     |
 | 4 | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
-| 2 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
+| 4 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
 | 3 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
 | 2 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Proliferate*          |     |            |                                                                                                                                                     |
-| 2 | Contagion Clasp        | 2   | art        | Put a -1/-1 on tgt creat -- 4, t: proliferate                                                                                                       |
-| 3 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
+| 2 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Lands*                |     |            |                                                                                                                                                     |
 | 4 | Blackcleave Cliff      |     | Land       | Comes tapped unless u control 2 or less other lands                                                                                                 |
@@ -93,6 +93,7 @@ Going BR!
 |   | Plated Geopede         | 1R  | 1/1        | First strike -- landfall: gets +2/+2                                                                                                                |
 |   | Grim Discovery         | 1B  | sorc       | Choose 1 or both: return tgt creat from graveyard to hand or tgt land                                                                               |
 |   | Fume Spitter           | B   | 1/1        | Sacr it: put a -1c on tgt creat                                                                                                                     |
+|   | Bloodghast             | BB  | 2/1        | Can't block -- has haste if opp has < 11 life -- landfall: return from graveyard to play                                                            |
 |---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Perfect Sideboard*    |     |            |                                                                                                                                                     |
 |   | Punishing Fire         | 1R  | inst       | Deals 2 damage tgt creat or player -- whenever opp gain life: if u may R to return this to hand                                                     |
