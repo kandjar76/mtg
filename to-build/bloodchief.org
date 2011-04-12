@@ -2,10 +2,12 @@ Going BR!
 20 lands! Small mana cost deck!
 
 Needed:
-| 1 | Dark Tutelage      |
 | 2 | Blackcleave Cliff  |
-| 4 | Lavaclaw Reaches   |
+| 2 | Lavaclaw Reaches   |
 | 1 | Dragonskull Summit |
+
+Not immediatly needed; deck modified to accomodate the lack of those cards.
+| 1 | Dark Tutelage      |
 | 2 | Staggershock       |
 
 
@@ -23,12 +25,14 @@ Needed:
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Direct Damage*        |     |            |                                                                                                                                                     |
 | 4 | Lightning Bolt         | R   | inst       | Deals 3 damage tgt creats or player                                                                                                                 |
-| 4 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
-| 2 | Black Sun Zenith       | xBB | sorc       | Put x -1c on each creatures                                                                                                                         |
+| 2 | Staggershock           | 2R  | inst       | Deals 2 damage tgt creats or player -- Rebound                                                                                                      |
+| 2 | Black Sun Zenith       | xBB | sorc       | Put x -1c on each creatures, then shuffle it into lin                                                                                               |
+| 2 | Red Sun Zenith         | xB  | sorc       | Deals X damage to tgt creat or player (if creat put to graveyard, exile it instead)                                                                 |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
-| 3 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
+| 2 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
 | 2 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
+| 2 | Sign In Blood          | BB  | sorc       | Tgt plaers draws 2 cards and looses 2 life.                                                                                                         |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Proliferate*          |     |            |                                                                                                                                                     |
 | 2 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
@@ -109,3 +113,12 @@ Needed:
 |   | Darksteel Myr          | 3   | 0/1 art    | indestructible                                                                                                                                      |
 |   | Gatekeeper of Malakir  | BB  | 2/2        | kicker B -- if kicked: tgt player sacr a creat                                                                                                      |
 |   | Ratchet Bomb           | 2   | art        | t: put charge on it; t, sacr it: destroy non land perm with CMC = #charge counters                                                                  |
+
+
+Comments:
+- Played against one of Connor's deck. It did OK; however, I think my life was already too low to be able to afford: Dark Tutelage.
+  -> I'm gonna replace it w/ 2 more sign in blood; they give me cards faster.
+- Since Dark Tutelage is going to leave the deck; there is no point of having: Elixir of Immortality.
+- Also: Needs more ways to kill creatures.
+  -> Go for the throat?
+- Final notes: there are so many 2 hard black mana in the casting costs of my spells; I need way more swamp than Red mana. -> More dual (2 more Dragon Skull Submit) and less Mountains.
