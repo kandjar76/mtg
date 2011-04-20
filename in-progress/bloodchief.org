@@ -4,12 +4,20 @@ Going BR!
 Needed:
 | 2 | Blackcleave Cliff  |
 | 2 | Lavaclaw Reaches   |
-| 1 | Dragonskull Summit |
+| 3 | Dragonskull Summit |
 
 Not immediatly needed; deck modified to accomodate the lack of those cards.
-| 1 | Dark Tutelage      |
 | 2 | Staggershock       |
 
+
+Modif:
++2 Dragonskull Submit
++2 Go for the throat
++2 Sign in blood
+-2 Dark Tutelage
+-2 Elixir of Immortality
+-3 Mountain
++1 Swamp
 
 |   | *The quests*           |     |            |                                                                                                                                                     |
 | 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
@@ -30,9 +38,8 @@ Not immediatly needed; deck modified to accomodate the lack of those cards.
 | 2 | Red Sun Zenith         | xB  | sorc       | Deals X damage to tgt creat or player (if creat put to graveyard, exile it instead)                                                                 |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
-| 2 | Dark Tutelage          | 2B  | ench       | Beg upk, reveal top card, loose life equal to its mana cost and draw                                                                                |
-| 2 | Elixir of Immortality  | 1   | art        | 2, t: u gain 5 life, shuffle it with the graveyard to ur lib                                                                                        |
-| 2 | Sign In Blood          | BB  | sorc       | Tgt plaers draws 2 cards and looses 2 life.                                                                                                         |
+| 4 | Sign In Blood          | BB  | sorc       | Tgt plaers draws 2 cards and looses 2 life.                                                                                                         |
+| 2 | Go for the throat      | 1B  | inst       | Destroy tgt non artifact creature                                                                                                                   |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Proliferate*          |     |            |                                                                                                                                                     |
 | 2 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
@@ -40,9 +47,9 @@ Not immediatly needed; deck modified to accomodate the lack of those cards.
 |   | *Lands*                |     |            |                                                                                                                                                     |
 | 4 | Blackcleave Cliff      |     | Land       | Comes tapped unless u control 2 or less other lands                                                                                                 |
 | 4 | Lavaclaw Reaches       |     | Land       | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                         |
-| 2 | Dragonskull Summit     |     | Land       | Comes tapped unless u control Swamp or Mountain                                                                                                     |
-| 5 | Swamp                  |     | Basic Land |                                                                                                                                                     |
-| 5 | Mountain               |     | Basic Land |                                                                                                                                                     |
+| 4 | Dragonskull Summit     |     | Land       | Comes tapped unless u control Swamp or Mountain                                                                                                     |
+| 6 | Swamp                  |     | Basic Land |                                                                                                                                                     |
+| 2 | Mountain               |     | Basic Land |                                                                                                                                                     |
 |---+------------------------+-----+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Discard Choices*      |     |            |                                                                                                                                                     |
 |   | Liliana's Caress       | 1B  | ench       | Whenever an opp discard; he looses 2 life                                                                                                           |
