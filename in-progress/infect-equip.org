@@ -90,3 +90,12 @@ Still considering G:
 W land: 2+3+3 -> 8
 B land: 4+2+6 -> 12
 U land: 4+2+2 -> 8
+
+
+Deck v1.0:
+- After play-testing the deck; it didn't work at all.
+The lack of mana didn't help at all.
+The main issue; the deck is too slow while he want to be fast.
+- Going toward: WGB instead of WUB.
+Probably bringing the lotus cobra in!
+
