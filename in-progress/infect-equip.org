@@ -4,8 +4,12 @@ From land-fall deck:
 
 To buy:
 1 Marsh Flats
-4 Verdant Catacombs
-
+2 Priests of Norn
+2 Razorverge Thicket
+1 Putrefax
+-
+2 Tectonic Edge
+3 Gideon Jura
 
 |    | *Helper Creatures: 8*        |     |             |                                                                                                                                           |
 |  4 | Stoneforge Mystic            | 1W  | 1/2         | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                                |
@@ -41,7 +45,8 @@ To buy:
 |  3 | Forest                       |     | bas land    |                                                                                                                                           |
 |----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard: 15*              |     |             |                                                                                                                                           |
-|  1 | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
+| 1+ | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
+| 0+ | Memoricide                   | 3G  | sorc        | Name a non-land card, search opp's hand, library, graveyard for the named card and exile any number of them                               |
 |    |                              |     |             |                                                                                                                                           |
 |  3 | Nature's Claim               | G   | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                                        |
 |  3 | Go for the throat            | 1B  | inst        | Destroy tgt non art creat                                                                                                                 |
