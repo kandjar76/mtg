@@ -1,96 +1,108 @@
-From pln-wkr deck:
--3 Gideon Jura*
--3 Preordain
--2 Seachrome Coast
--2 Tectonic Edge
--1 Ratchet Bomb
--3 Flash Freeze
-
 From land-fall deck:
 -3 Marsh Flats*
+-4 Lotus Cobra
 
-From ally:
--1 Sun Titan*
--1 Jace Beleren*
-
- 1 Distorsion Strike
-
-OOPS, MISSING ONE CARD!!!
-
-Other cards to consider:
-- replacing Necropede by "Plague Myr" (t: add 1 mana)
-- considering: Priests of Norn (1/4 vig) -- vigilance is nice to attack safely :)
-- Corrupted Conscience 3UU -- Control enchanted creature, it gain infect
-- Skithiryx, the Blight Dragon (as a finisher?)
-
-Equipment:
-- Basilisk Collar (1, eq2): deathtouch and lifelink
-- Whispersilk Cloak (3, eq2): unblockable, shroud
-- Explorer's Scope (1, eq1): when attack, look at top card of lib, if land: put into play tapped
-- Sylvok Lifestaff (1, eq1): eq gets +1/0; when eq creat it put to graveyard, u gain 3 life
-- Adventuring Gear (1, eq1): Landfall: eqp creats gets +2/+2
-- Strider Harness (3, eq1): Eq creats gets +1/+1 and haste
-- Hammer of Ruin (SB 2, eq2) : gets +2/0 and when dealt combat damage, u may destroy tgt equipment
-
-Still considering G:
-- Rot Wolf (2/2 for 2G w/: when a creat dealt damage by it is put to the graveyard, u may draw a card)
-- Tangle Angler (1/5 for 3G w/: G: tgt creat must block him if able) + Infiltration Lens
+To buy:
+1 Marsh Flats
+4 Verdant Catacombs
 
 
-|   |    | *Creatures: 12*           |     |          |                                                                                                                                           |
-|   |  4 | Stoneforge Mystic         | 1W  | 1/2      | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                                |
-|   |  4 | Necropede                 | 2   | 1/1      | infect -- when put to greaveyard: you may put a -1/-1 counter on tgt creat                                                                |
-| 3 |  4 | Phyrexian Crusader        | 1BB | 2/2      | infect, first strike, prot from white and red                                                                                             |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Helpers: 9*              |     |          |                                                                                                                                           |
-| 3 |  4 | Preordain                 | U   | sorc     | Scry 2 then draw                                                                                                                          |
-| 1 |  2 | Distortion Strike         | U   | sorc     | Tgt creats get +1/0 and is unblockable -- rebound                                                                                         |
-|   |  3 | Tainted Strike            | B   | inst     | Tgt creat gets +1/0 until eot and infect                                                                                                  |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Control: 8*              |     |          |                                                                                                                                           |
-|   |  2 | Duress                    | B   | sorc     | Opp reveal hand, choose non creat non land, he discards it                                                                                |
-|   |  3 | Inquisition of Kozilek    | B   | sorc     | Opp reveal hand, choose a non land with CMC <= 3; he discards it                                                                          |
-|   |  3 | Mana Leak                 | 1U  | inst     | Counter tgt spell unless controller pays 3                                                                                                |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Removal: 1*              |     |          |                                                                                                                                           |
-|   |  1 | Blacksun Zenith           | xBB | sorc     | Put a -1c on each creatures, then shuffle it into lib                                                                                     |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Planeswalker: 3*         |     |          |                                                                                                                                           |
-| 3 |  3 | Gideon Jura               | 3WW | plwkr 6  | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Equipment: 3*            |     |          |                                                                                                                                           |
-|   |  1 | Sword of Body and Mind    | 3   | eqp 2    | Equip gets +2/+2 prot green and blue -- when deal comb damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard          |
-|   |  1 | Sword of Feast and Famine | 3   | eqp 2    | Equip gets +2/+2 prot black and green -- when deal comb damage: def player discard and u untap all lands                                  |
-|   |  1 | Livewire Lash             | 2   | eqp 2    | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                                   |
-|   |    |                           |     |          |                                                                                                                                           |
-|   |    | *Lands: 23*               |     |          |                                                                                                                                           |
-|   |  4 | Creeping Tar Pit          |     | land     | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                            |
-|   |  2 | Darkslick Shores          |     | land     | enter tapped if u control 3+ land -- t: add U or B                                                                                        |
-| 2 |  2 | Seachrome Coast           |     | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
-| 1 |  4 | Inkmoth Nexus             |     | land     | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                             |
-| 2 |  2 | Tectonic Edge             |     | land     | t: add 1 -- t, sacr: destroy non basic land (only if opp has 4+ land)                                                                     |
-| 3 |  3 | Marsh Flats               |     | land     | pay 1 life, sacr it: search for plain or swamp and put it into play                                                                       |
-|   |  3 | Swamp                     |     | bas land |                                                                                                                                           |
-|   |  3 | Plain                     |     | bas land |                                                                                                                                           |
-|---+----+---------------------------+-----+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
-|   |    | *Sideboard*               |     |          |                                                                                                                                           |
-|   |  3 | Go for the throat         | 1B  | inst     | Destroy tgt non art creat                                                                                                                 |
-| 3 |  3 | Flash Freeze              | 1U  | inst     | Counter tgt green or red spell                                                                                                            |
-|   |  2 | Into the roil             | 1U  | inst     | Return tgt non land perm to owner's hand                                                                                                  |
-| 1 |  2 | Ratchet Bomb              | 2   | art      | t: add counter on it; t, sacr: destroy each perm w/ CMC = #counter                                                                        |
-| 2 |  2 | Sun Titan                 | 4WW | 6/6 vig  | When enter or attacks, return tgt perm w/ CMC <= 3 to play                                                                                |
-| 1 |  1 | Jace Beleren              | 1UU | plwk 3   | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
-|   |  1 | Contagion Engine          | 6   |          | When enter, put a -1c on each creat tgt opp control; 4, t: proliferate then proliferate                                                   |
-|   |  1 | Basilisk Collar           | 1   | eqp 2    | Eqp creature gains deathtouch and lifelink                                                                                                |
-|---+----+---------------------------+-----+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
-|   | MB | Venser the Sojourner      | 3WU | plnwkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
-|   | SB | Infiltration Lens         | 2   | eqp 1    | When equip gets blocked draw two cards                                                                                                    |
-|   | SB | Wurmcoil Engine           | 6   | 6/6      | Deathtouch/Lifelink -- When goes to graveyard, put 1 3/3 deathtouch and 1 3/3 lifelink token to play                                      |
+|    | *Helper Creatures: 8*        |     |             |                                                                                                                                           |
+|  4 | Stoneforge Mystic            | 1W  | 1/2         | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                                |
+|  4 | Lotus Cobra                  | 1G  | 2/1         | Landfall: add one mana any color to your mana pool                                                                                        |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Infect Creatures: 15*       |     |             |                                                                                                                                           |
+|  4 | Phyrexian Crusader           | 1BB | 2/2         | infect, first strike, prot from white and red                                                                                             |
+|  2 | Rot Wolf                     | 2G  | 2/2         | infect -- When a creat dealt damage by him is put to the graveyard, u may draw a card                                                     |
+|  3 | Priests of Norn              | 2W  | 1/4 vig     | infect                                                                                                                                    |
+|  4 | Putrefax                     | 3GG | 5/3 haste   | infect, trample -- sacr it at end of turn                                                                                                 |
+|  2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | infect -- B: gain haste -- BB: regenerate                                                                                                 |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Generic Helper: 5*          |     |             |                                                                                                                                           |
+|  3 | Vines of Vastewood           | G   | inst        | Kicker G -- Tgt creats can't be target by opp; if kicked: gain +4/+4                                                                      |
+|  2 | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Planeswalker: 3*            |     |             |                                                                                                                                           |
+|  3 | Gideon Jura                  | 3WW | plwkr 6     | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Equipment: 3*               |     |             |                                                                                                                                           |
+|  1 | Sword of Body and Mind       | 3   | eqp 2       | Equip gets +2/+2 prot green and blue -- when deal comb damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard          |
+|  1 | Sword of Feast and Famine    | 3   | eqp 2       | Equip gets +2/+2 prot black and green -- when deal comb damage: def player discard and u untap all lands                                  |
+|  1 | Adventuring Gear             | 1   | eqp 1       | Landfall: eqp creats gets +2/+2                                                                                                           |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Lands: 26*                  |     |             |                                                                                                                                           |
+|  4 | Inkmoth Nexus                |     | land        | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                             |
+|  2 | Tectonic Edge                |     | land        | t: add 1 -- t, sacr: destroy non basic land (only if opp has 4+ land)                                                                     |
+|  2 | Razorverge Thicket           |     | land        | comes tapped unless u control <3 other land -- t: add G or W                                                                              |
+|  4 | Marsh Flats                  |     | land        | pay 1 life, sacr it: search for plain or swamp and put it into play                                                                       |
+|  4 | Verdant Catacombs            |     | land        | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                      |
+|  5 | Swamp                        |     | bas land    |                                                                                                                                           |
+|  2 | Plain                        |     | bas land    |                                                                                                                                           |
+|  3 | Forest                       |     | bas land    |                                                                                                                                           |
+|----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard: 15*              |     |             |                                                                                                                                           |
+|  1 | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
+|    |                              |     |             |                                                                                                                                           |
+|  3 | Nature's Claim               | G   | inst        | Destroy target artifact or enchantment, his controller gain 4 life                                                                        |
+|  3 | Go for the throat            | 1B  | inst        | Destroy tgt non art creat                                                                                                                 |
+|    |                              |     |             |                                                                                                                                           |
+|  2 | Ratchet Bomb                 | 2   | art         | t: add counter on it; t, sacr: destroy each perm w/ CMC = #counter                                                                        |
+|  1 | Blacksun Zenith              | xBB | sorc        | Put a -1c on each creatures, then shuffle it into lib                                                                                     |
+|  1 | Contagion Engine             | 6   |             | When enter, put a -1c on each creat tgt opp control; 4, t: proliferate then proliferate                                                   |
+|    |                              |     |             |                                                                                                                                           |
+|  1 | Infiltration Lens            | 1   | eqp 1       | When equip gets blocked, u may draw 2 cards                                                                                               |
+|  1 | Basilisk Collar              | 1   | eqp 2       | Eqp creature gains deathtouch and lifelink                                                                                                |
+|  1 | Hammer of Ruin               | 2   | eqp 2       | Eqp creature gets +2/0 and when dealt combat damage, u may destroy tgt equipment                                                          |
+|  1 | Livewire Lash                | 2   | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                                   |
+|----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Equipment*                  |     |             |                                                                                                                                           |
+|  1 | Whispersilk Cloak            | 3   | eqp 2       | Eqp creature is unblockable, and has shroud                                                                                               |
+|  1 | Explorer's Scope             | 1   | eqp 1       | When eqp creat attacks, look at top card of lib, if land: put into play tapped                                                            |
+|  1 | Sylvok Lifestaff             | 1   | eqp 1       | Eqp creature gets +1/0; when eq creat it put to graveyard, u gain 3 life                                                                  |
+|  1 | Strider Harness              | 3   | eqp 1       | Eqp creature gets +1/+1 and haste                                                                                                         |
+|  1 | Hammer of Ruin               | 2   | eqp 2       | Eqp creature gets +2/0 and when dealt combat damage, u may destroy tgt equipment                                                          |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Infect Helpers: 2*          |     |             |                                                                                                                                           |
+|  3 | Viridian Corrupter           | 1GG | 2/2         | infect -- When enter, destroy tgt artifact                                                                                                |
+|  4 | Tainted Strike               | B   | inst        | Tgt creat gets +1/0 until eot and infect                                                                                                  |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Infect Creature*            |     |             |                                                                                                                                           |
+|  4 | Necropede                    | 2   | 1/1         | infect -- when put to greaveyard: you may put a -1/-1 counter on tgt creat                                                                |
+|  4 | Hand of the Praetors         | 3B  | 3/2         | infect -- infect creats gets +1/+1 -- When creat w/ infect enters, tgt player gets a poison counter                                       |
+|    | Tangle Angler                | 3G  | 1/5         | infect -- G: tgt creat must block him if able                                                                                             |
+|    |                              |     |             |                                                                                                                                           |
+| SB | Plaguemaw Beast              | 3GG | 4/3         | t, sacr a creat: proliferate                                                                                                              |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Control: 5*                 |     |             |                                                                                                                                           |
+|  4 | Duress                       | B   | sorc        | Opp reveal hand, choose non creat non land, he discards it                                                                                |
+|  4 | Inquisition of Kozilek       | B   | sorc        | Opp reveal hand, choose a non land with CMC <= 3; he discards it                                                                          |
+|    |                              |     |             |                                                                                                                                           |
+| SB | Green Sun Zenith             | xG  | sorc        | Search for a green creats with CMC == x and put it into play                                                                              |
+| SB | Sun Titan                    | 4WW | 6/6 vig     | When enter or attacks, return tgt perm w/ CMC <= 3 to play                                                                                |
+|    |                              |     |             |                                                                                                                                           |
+|----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Stirring Wildwood            |     | land        | comes tapped -- t: add G or W -- 1GW: becomes 3/4 w/ reach until eot                                                                      |
+|  3 | Flash Freeze                 | 1U  | inst        | Counter tgt green or red spell                                                                                                            |
+|  2 | Into the roil                | 1U  | inst        | Return tgt non land perm to owner's hand                                                                                                  |
+|  1 | Jace Beleren                 | 1UU | plwk 3      | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
+|  3 | Mana Leak                    | 1U  | inst        | Counter tgt spell unless controller pays 3                                                                                                |
+|  2 | Distortion Strike            | U   | sorc        | Tgt creats get +1/0 and is unblockable -- rebound                                                                                         |
+|  4 | Preordain                    | U   | sorc        | Scry 2 then draw                                                                                                                          |
+|  2 | Darkslick Shores             |     | land        | enter tapped if u control 3+ land -- t: add U or B                                                                                        |
+|  2 | Seachrome Coast              |     | land        | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
+|  4 | Creeping Tar Pit             |     | land        | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                            |
+|    | Venser the Sojourner         | 3WU | plnwkr 3    | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
+|    | Wurmcoil Engine              | 6   | 6/6         | Deathtouch/Lifelink -- When goes to graveyard, put 1 3/3 deathtouch and 1 3/3 lifelink token to play                                      |
 
 W land: 2+3+3 -> 8
 B land: 4+2+6 -> 12
 U land: 4+2+2 -> 8
 
+Deck v2.0: 
+- First downside; no real Man land (3/4 w/ reach...)
+- Fetch lands: Marsh Flats. Verdant Catacombs  -- Great for landfall.
+  -> Land fall infect???
+- Deck designed -- needs some play test!
 
 Deck v1.0:
 - After play-testing the deck; it didn't work at all.
