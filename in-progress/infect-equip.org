@@ -108,6 +108,9 @@ Deck v2.0:
 - Fetch lands: Marsh Flats. Verdant Catacombs  -- Great for landfall.
   -> Land fall infect???
 - Deck designed -- needs some play test!
+- After playtesting the deck:
+  . The current version seems to be relying way too much on the lotus cobra.
+  . The deck needs way to take care of creatures.
 
 Deck v1.0:
 - After play-testing the deck; it didn't work at all.
