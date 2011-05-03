@@ -20,10 +20,11 @@
 |  3 | Day of Judgement       | 2WW | sorc      | Destroy all creatures                                                                                                                     |
 |  2 | Tumble Magnet          | 3   | art       | Enter w/ 3 charges -- t, remove a charge: tap tgt creat or artifact                                                                       |
 |    |                        |     |           |                                                                                                                                           |
-|    | *Counters 7*           |     |           |                                                                                                                                           |
-|  2 | Stoic Rebuttal         | 1UU | inst      | Metalcraft: cost 1 less to cast -- Counter tgt spell                                                                                      |
-|  1 | Deprive                | UU  | inst      | Add cost: return land to hand -- Counter tgt spell                                                                                        |
+|    | *Counters 5*           |     |           |                                                                                                                                           |
+| -2 | Stoic Rebuttal         | 1UU | inst      | Metalcraft: cost 1 less to cast -- Counter tgt spell                                                                                      |
+| -1 | Deprive                | UU  | inst      | Add cost: return land to hand -- Counter tgt spell                                                                                        |
 |  2 | Mana leak              | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
+| +1 | Mana leak              | 1U  | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
 |  2 | Small Pierce           | U   | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                        |     |           |                                                                                                                                           |
 |    | *Titans 2*             |     |           |                                                                                                                                           |
@@ -35,27 +36,34 @@
 |  2 | Jace Beleren           | 1UU | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
 |  2 | Jace the Mind Sculptor | 2UU | plnwkr 3  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                    |
 |    |                        |     |           |                                                                                                                                           |
-|    | *Lands 22*             |     |           |                                                                                                                                           |
+|    | *Lands 24*             |     |           |                                                                                                                                           |
 |  4 | Glacial Fortress       |     | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
 |  3 | Plain                  |     | bas land  |                                                                                                                                           |
 |  5 | Island                 |     | bas land  |                                                                                                                                           |
 |  1 | Scalding Tarn          |     | land      | t, pay 1, sacr it: search island or mountain put it into play                                                                             |
 |  3 | Seachrome Coast        |     | land      | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
+| +1 | Seachrome Coast        |     | land      | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
 |  3 | Celestial Colonnade    |     | land      | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                                |
+| +1 | Celestial Colonnade    |     | land      | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot                                |
 |  3 | Tectonite Edge         |     | land      | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                      |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*            |     |           |                                                                                                                                           |
-|  1 | Luminarch Ascension    | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
+|  1 | Leyline of Sanctity    | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
 |  1 | Spreading Seas         | 1U  | ench land | Enchanted land is an island -- draw                                                                                                       |
 |  1 | Day of Judgement       | 2WW | sorc      | Destroy all creatures                                                                                                                     |
-|  1 | Baneslayer Angel       | 3WW | 5/5 fly   | First strike, lifelink, prot from demon and dragons                                                                                       |
-|  1 | Sphinx of Jwar Isle    | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
-|  2 | Ratchet Bomb           | 2   | art       | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
 |  2 | Divine Offering        | 1W  | inst      | Destroy tgt artifact, u gain life equal to its CMC                                                                                        |
-|  1 | Leyline of Sanctity    | 2WW | ench      | Op hand -> play -- You can't be tgt of ab or spell your opp control                                                                       |
 |  2 | Flash Freeze           | 1U  | inst      | Counter tgt red or green spell                                                                                                            |
-|  1 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
-|  1 | Contagion Engine       | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
+|  2 | Mortapod               | 2   | eqp 2     | Living Weapon -- eqp creats gains: sacr: deals 1 damage to tgt creat or player.                                                           |
+| +3 | Mirran Crusader        | 1WW | 2/2       | Double strike, protection from black and from green                                                                                       |
+| +3 | Kor Firewalker         | WW  | 2/2       | Protection from red -- Whenever a player plays a red spell you may gain 1 life                                                            |
+| -2 | Chokinng Fumes         | 2W  | inst      | Put a -1c on each attacking creature                                                                                                      |
+| -2 | Ratchet Bomb           | 2   | art       | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
+| -1 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
+| -1 | Baneslayer Angel       | 3WW | 5/5 fly   | First strike, lifelink, prot from demon and dragons                                                                                       |
+|----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+| 1? | Luminarch Ascension    | 1W  | ench      | If no damage got dealt to u this turn, put a quest counter -- 1W: put a 4/4 angel fly if there are 4+ quest counter                       |
+| 1? | Sphinx of Jwar Isle    | 4UU | 5/5 fly   | Shroud - You may look at the top card of your library                                                                                     |
+| 1? | Contagion Engine       | 6   | art       | When enter: put a -1c on creats, tgt opp control; 4, t: proliferate then proliferate                                                      |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Sun Titan              | 4WW | 6/6 vig   | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                                           |
 |  1 | Elspeth Tirel          | 3WW | plwk 4    | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                    |
@@ -69,46 +77,32 @@
 | MB | Brittle Effigy         | 1   | art       | 4, t, exile it: Exile tgt creature                                                                                                        |
 |----+------------------------+-----+-----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 
-Wondering if Tumble Magnet shouldn't be in the main deck!
-At least 1! Potentially 2... But what to remove???
+Note: update of the SB
+  - Luminarch Ascension is nice; but I don't think I'd ever want to have more than 2 in the deck.
+  Mainly because I would have to remove something else.
+  - Wall of Omen is a nice card to have 4 in the deck against aggro decks... However, I will try to add Choking Fumes instead.
+  - I don't have enough creature to play w/ the Sphinx of Jwar Isle; it's expensive to play and I'd rather have the Frost Titan
+  - As much as I like Contagion Engine; it's not a game breaker... it's only great w/ Venser out. 
+  Also: I need to be able to get rid of the cobra -> Contagion Clasp seems appropriate.
+  Oust would only delay its coming in play AND I don't want to counter it! (Due to summoning trap!)
+  Considering: Mortapod (living weapon which can sacr to deal 1 damage!)
 
-Type of decks / SB for it:
-  - UB Control:
-    +1 Luminarch Ascension
-    +2 Leyline of Sanctity
-  - UB Tezzeret/Jace TMS:
-    +2 Divine Offering
-    +2 Leyline of Sanctity
-    +1 Luminarch Ascension
-  - UW Caw Blade:
-    +2 Divine Offering
-    +2 Ratchet Bomb
-    +1 Baneslayer Angel
-    +1 Sphinx of Jwar Isle
-  - Infect:
-    +2 Divine Offering
-    +2 Tumble Magnet
-    +1 Spreading Seas
-    +1 Leyline of Sanctity
-    +1 Sphinx of Jwar Isle
-  - Vampire:
-    +2 Leyline of Sanctity
-    +1 Day of Judgement
-  - Valakut Ramp:
-    +2 Tumble Magnet
-    +2 Flash Freeze
-    +2 Leyline of Sanctity
-    +1 Spreading Seas
-  - Eldrazi Ramp:
-    +2 Tumble Magnet
-  - Boros:
-    +1 Day of Judgement
-  - Red ascension:
-    +2 Leyline of Sanctity
-  - Elves:
-  - Battle cry:
-    +1 Day of Judgement
 
+Post FNM tournament (04/29/11): 
+  - The deck is having some issue against very fast aggro decks... such as: vampires, and RW landfall...
+  - Also: I took way too many mulligans...
+  I need to increase the number of land from 22 to 24.
+  The choice of the two cards to remove isn't trivial.
+  I currently opted for two counterspells (even if 5 may be a bit short)
+  The SB has also been updated to consider teh two threatening decks.)
+
+
+Post FNM tournament (04/09/11):
+  - The recent changes to the deck improved it a lot.
+  - Results: 2 win, 2 tie, 1 loss
+  - Valakut still dangerously strong.
+  - Played against a titan deck (U/R titans + G w/ lotus cobra for mana acceleration) -- very strong
+  - Sideboard needs update.
 
 Post FNM tournament:
   - Deck did OK; lost against two decks, mainly because of unlucky draws...
