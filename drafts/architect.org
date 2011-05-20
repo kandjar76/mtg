@@ -1,0 +1,51 @@
+
+
+|    | *Creature combo: 10*    |      |          |                                                                                                                             |
+|  4 | Lotus Cobra             | 1G   | 2/1      | landfall: add 1 mana any color to mana pool                                                                                 |
+|  4 | Grand Architect         | 1UU  | 1/3      | Blue creats gets +1/+1, U: tgt art becomes blue -- tap a blue creat to add 2 mana (spendable only on art or art abilities   |
+|  2 | Treasure Mage           | 2U   | 2/2      | Search art with CMC 6+ and put it into your hand                                                                            |
+|    |                         |      |          |                                                                                                                             |
+|    | *Trap: 3*               |      |          |                                                                                                                             |
+|  3 | Summoning Trap          | 4GG  | inst     | Trap: cost 0 if creat spell was counter this turn -- Look at top 7 cards ot lib; you may put creat into play                |
+|    |                         |      |          |                                                                                                                             |
+|    | *Big artifacts: 6*      |      |          |                                                                                                                             |
+|  3 | Wurmcoil Engine         | 6    | 6/6      | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                   |
+|  1 | Steel Hellkite          | 6    | 5/5 fly  | 2: gets +1/0 -- X: destroy each non land perm w/ CMC = X whose controller was dealt damage by spellskite this turn          |
+|  1 | Mindslaver              | 6    | art      | 4, sacr: gain control of tgt opp next turn                                                                                  |
+|  1 | Contagious Engine       | 6    | art      | When enter: put -1 on each creat opp control -- 4: proliferate then proliferate                                             |
+|    |                         |      |          |                                                                                                                             |
+|    | *Protection: 8*         |      |          |                                                                                                                             |
+|  3 | Mana leak               | 1U   | inst     | Counter tgt spell unless caster pays 3                                                                                      |
+|  2 | Deprive                 | UU   | inst     | Add cost: return perm to hand                                                                                               |
+|  2 | Mental Misstep          | {up} | inst     | Counter tgt spell w/ CMC = 1                                                                                                |
+|    |                         |      |          |                                                                                                                             |
+|    | *Mana accel: 3*         |      |          |                                                                                                                             |
+|  2 | Cultivate               | 2U   | sorc     | Search lib of up to two basic land, put one into battlefield tapped, one in hand                                            |
+|    |                         |      |          |                                                                                                                             |
+|    | *Draw*                  |      |          |                                                                                                                             |
+|  3 | Preordain               | U    | sorc     | Scry 2, then draw                                                                                                           |
+|    |                         |      |          |                                                                                                                             |
+|    | *Some key cards: 6*     |      |          |                                                                                                                             |
+|  3 | Jace, the Mind Sculptor | 2UU  | plwk 3   |                                                                                                                             |
+|  1 | Karn                    | 7    | plwk 6   | +4: tgt playr exiles card from hand -- -3: exile tgt perm -- -14: restart the game put exiled cards into play under ur ctrl |
+|  2 | Emrakul, the Aeons Torn | 15   | 15/15    | Flying, annihilator 6, prot colored spells -- Can't be countered -- When cast, take an extra turn -- Graveyard -> deck      |
+|    |                         |      |          |                                                                                                                             |
+|  4 | Misty Forest            |      | land     | Sacr it, pay 1 life: search for a forest or an island, put it into play                                                     |
+|  4 | Tectonic Edge           |      | land     | t: add 1 -- 1, sacr it: destroy tgt non basic land (only if opp controls 4 or more)                                         |
+|  4 | Forest                  |      | bas land |                                                                                                                             |
+| 11 | Island                  |      | bas land |                                                                                                                             |
+|----+-------------------------+------+----------+-----------------------------------------------------------------------------------------------------------------------------|
+|  3 | Acidic Slime            | 3GG  | 2/2      | deathtouch -- when enters: destroy tgt land, art or enchantment                                                             |
+|  2 | Green Sun Zenith        |      |          |                                                                                                                             |
+|  3 | Twisted Image           | U    | inst     | Switch power and toughness of tgt creat until eot -- draw a card                                                            |
+|  3 |                         | {pu} | inst     | Look at tgt players hand -- draw                                                                                            |
+|----+-------------------------+------+----------+-----------------------------------------------------------------------------------------------------------------------------|
+| MB | Foresee                 | 3U   | sorc     | Scry 4 then draw 2                                                                                                          |
+| MB | See Beyond              | 1U   | sorc     | Draw 2 then shuffle 1 back                                                                                                  |
+
+Thinking:
+-1 Summoning Trap
+-1 Mana Leak
+-1 Cultivate
++3 Preordain?
+
