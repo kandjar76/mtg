@@ -3,21 +3,12 @@ Going BR!
 
 Needed:
 | 2 | Blackcleave Cliff  |
-| 2 | Lavaclaw Reaches   |
-| 3 | Dragonskull Summit |
 
-Not immediatly needed; deck modified to accomodate the lack of those cards.
-| 2 | Staggershock       |
+To Modif:
+-1 Swamp
+-1 Mountain
++2 Blackcleave Cliff
 
-
-Modif:
-+2 Dragonskull Submit
-+2 Go for the throat
-+2 Sign in blood
--2 Dark Tutelage
--2 Elixir of Immortality
--3 Mountain
-+1 Swamp
 
 |   | *The quests*           |     |            |                                                                                                                                                     |
 | 4 | Bloodchief Ascension   | B   | ench       | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard         |
@@ -39,10 +30,10 @@ Modif:
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Draw/Life*            |     |            |                                                                                                                                                     |
 | 4 | Sign In Blood          | BB  | sorc       | Tgt plaers draws 2 cards and looses 2 life.                                                                                                         |
-| 2 | Go for the throat      | 1B  | inst       | Destroy tgt non artifact creature                                                                                                                   |
+| 3 | Go for the throat      | 1B  | inst       | Destroy tgt non artifact creature                                                                                                                   |
 |   |                        |     |            |                                                                                                                                                     |
-|   | *Proliferate*          |     |            |                                                                                                                                                     |
-| 2 | Throne of Geth         | 2   | art        | t, sacr art: proliferate                                                                                                                            |
+|   | *Mill/Damage*          |     |            |                                                                                                                                                     |
+| 1 | Decimator Web          | 4   | art        | 4, t: Tgt opp looses 2 life, gets a poison, mill 6 cards                                                                                            |
 |   |                        |     |            |                                                                                                                                                     |
 |   | *Lands*                |     |            |                                                                                                                                                     |
 | 4 | Blackcleave Cliff      |     | Land       | Comes tapped unless u control 2 or less other lands                                                                                                 |
