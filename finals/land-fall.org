@@ -30,9 +30,10 @@ Mana Curve:
 |   |                            |      |             |                                                                                                                    |
 |   | *Lands*                    |      |             |                                                                                                                    |
 | 4 | Sejuri Steppe              | land |             | Enter tapped, tgt creat gain protection from choosen color, t: add W                                               |
-| 1 | Evolving Wilds             | land |             | t, sacr it: Search basic land, put it in play tapped                                                               |
 | 1 | Arid Mesa                  | land |             | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
 | 3 | Marsh Flats                | land |             | pay 1 life, sacr it: search for plain or swamp and put it into play                                                |
+| 1 | Verdant Catacombs          | land |             | pay 1 life, sacr it: search for swamp or forest and put it into play                                               |
+| 1 | Arid Mesa                  | land |             | pay 1 life, sacr it: search for mountain or plain and put it into play                                             |
 | 3 | Misty Rainforest           | land |             | pay 1 life, sacr it: search for forest or island and put it into play                                              |
 | 6 | Forest                     | land |             |                                                                                                                    |
 | 6 | Plain                      | land |             |                                                                                                                    |
