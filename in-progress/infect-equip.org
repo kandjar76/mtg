@@ -11,38 +11,48 @@ To buy:
 2 Tectonic Edge
 3 Gideon Jura
 
-|    | *Helper Creatures: 8*        |     |             |                                                                                                                                           |
+|    | *Helper Creatures: 4*        |     |             |                                                                                                                                           |
 |  4 | Stoneforge Mystic            | 1W  | 1/2         | When enter: search equip put to hand -- 1W, t: put equip from hand to play                                                                |
-|  4 | Lotus Cobra                  | 1G  | 2/1         | Landfall: add one mana any color to your mana pool                                                                                        |
 |    |                              |     |             |                                                                                                                                           |
-|    | *Infect Creatures: 15*       |     |             |                                                                                                                                           |
+|    | *Infect Creatures: 8*        |     |             |                                                                                                                                           |
 |  4 | Phyrexian Crusader           | 1BB | 2/2         | infect, first strike, prot from white and red                                                                                             |
-|  2 | Rot Wolf                     | 2G  | 2/2         | infect -- When a creat dealt damage by him is put to the graveyard, u may draw a card                                                     |
-|  3 | Priests of Norn              | 2W  | 1/4 vig     | infect                                                                                                                                    |
-|  4 | Putrefax                     | 3GG | 5/3 haste   | infect, trample -- sacr it at end of turn                                                                                                 |
+|  2 | Priests of Norn              | 2W  | 1/4 vig     | infect                                                                                                                                    |
 |  2 | Skithiryx, the Blight Dragon | 3BB | 4/4 fly leg | infect -- B: gain haste -- BB: regenerate                                                                                                 |
-|    |                              |     |             |                                                                                                                                           |
-|    | *Generic Helper: 5*          |     |             |                                                                                                                                           |
-|  3 | Vines of Vastewood           | G   | inst        | Kicker G -- Tgt creats can't be target by opp; if kicked: gain +4/+4                                                                      |
-|  2 | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
-|    |                              |     |             |                                                                                                                                           |
-|    | *Planeswalker: 3*            |     |             |                                                                                                                                           |
-|  3 | Gideon Jura                  | 3WW | plwkr 6     | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
 |    |                              |     |             |                                                                                                                                           |
 |    | *Equipment: 3*               |     |             |                                                                                                                                           |
 |  1 | Sword of Body and Mind       | 3   | eqp 2       | Equip gets +2/+2 prot green and blue -- when deal comb damage: put a 2/2 wolf and def play put top 10 card from lib to graveyard          |
 |  1 | Sword of Feast and Famine    | 3   | eqp 2       | Equip gets +2/+2 prot black and green -- when deal comb damage: def player discard and u untap all lands                                  |
-|  1 | Adventuring Gear             | 1   | eqp 1       | Landfall: eqp creats gets +2/+2                                                                                                           |
+|  1 | Basilisk Collar              | 1   | eqp 2       | Eqp creature gains deathtouch and lifelink                                                                                                |
+|    |                              |     |             |                                                                                                                                           |
+|    | ---- 15 so far ----          |     |             |                                                                                                                                           |
+|    | -- 26 land still -> 19 contr |     |             |                                                                                                                                           |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Planeswalker: 5*            |     |             |                                                                                                                                           |
+|  3 | Gideon Jura                  | 3WW | plwkr 6     | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|  2 | Jace the Mind Sculptor       | 2UU | plnwkr 3    | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                    |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Control Spell: 8*           |     |             |                                                                                                                                           |
+|  3 | Inquisition of Kozilek       | B   | sorc        | Opp reveal hand, choose a non land with CMC <= 3; he discards it                                                                          |
+|  2 | Duress                       | B   | sorc        | Opp reveal hand, choose non creat non land, he discards it                                                                                |
+|  3 | Go for the throat            | 1B  | inst        | Destroy tgt non art creat                                                                                                                 |
+|    |                              |     |             |                                                                                                                                           |
+|    | *Proliferate/Draw*           |     |             |                                                                                                                                           |
+|  3 | Mana leak                    | 1U  | inst        | Counter tgt spell unless its controller pays 3                                                                                            |
+|  3 | Preordain                    | U   | sorc        | Scry 2 then draw                                                                                                                          |
 |    |                              |     |             |                                                                                                                                           |
 |    | *Lands: 26*                  |     |             |                                                                                                                                           |
 |  4 | Inkmoth Nexus                |     | land        | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                             |
+|  4 | Creeping Tar Pit             |     | land        | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                            |
+|  4 | Darkslick Shores             |     | land        | enter tapped if u control 3+ land -- t: add U or B                                                                                        |
+|  2 | Seachrome Coast              |     | land        | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
+|  4 | Marsh Flats                  |     | land        | pay 1 life, sacr it: search for plain or swamp and put it into play                                                                       |
+|  5 | Swamp                        |     | bas land    |                                                                                                                                           |
+|  3 | Plain                        |     | bas land    |                                                                                                                                           |
+|----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |  2 | Tectonic Edge                |     | land        | t: add 1 -- t, sacr: destroy non basic land (only if opp has 4+ land)                                                                     |
 |  2 | Razorverge Thicket           |     | land        | comes tapped unless u control <3 other land -- t: add G or W                                                                              |
-|  4 | Marsh Flats                  |     | land        | pay 1 life, sacr it: search for plain or swamp and put it into play                                                                       |
-|  4 | Verdant Catacombs            |     | land        | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                      |
-|  5 | Swamp                        |     | bas land    |                                                                                                                                           |
-|  2 | Plain                        |     | bas land    |                                                                                                                                           |
 |  3 | Forest                       |     | bas land    |                                                                                                                                           |
+|  4 | Verdant Catacombs            |     | land        | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                      |
 |----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard: 15*              |     |             |                                                                                                                                           |
 | 1+ | Summoning Trap               | 4GG | inst        | If creat gets countered, you may pay 0 -- look top 7, put a creat into play, rest bottom                                                  |
@@ -56,7 +66,6 @@ To buy:
 |  1 | Contagion Engine             | 6   |             | When enter, put a -1c on each creat tgt opp control; 4, t: proliferate then proliferate                                                   |
 |    |                              |     |             |                                                                                                                                           |
 |  1 | Infiltration Lens            | 1   | eqp 1       | When equip gets blocked, u may draw 2 cards                                                                                               |
-|  1 | Basilisk Collar              | 1   | eqp 2       | Eqp creature gains deathtouch and lifelink                                                                                                |
 |  1 | Hammer of Ruin               | 2   | eqp 2       | Eqp creature gets +2/0 and when dealt combat damage, u may destroy tgt equipment                                                          |
 |  1 | Livewire Lash                | 2   | eqp 2       | Eqp gets +2/0 and "when tgt by spell: deals 2 damage to creat or player                                                                   |
 |----+------------------------------+-----+-------------+-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -66,6 +75,7 @@ To buy:
 |  1 | Sylvok Lifestaff             | 1   | eqp 1       | Eqp creature gets +1/0; when eq creat it put to graveyard, u gain 3 life                                                                  |
 |  1 | Strider Harness              | 3   | eqp 1       | Eqp creature gets +1/+1 and haste                                                                                                         |
 |  1 | Hammer of Ruin               | 2   | eqp 2       | Eqp creature gets +2/0 and when dealt combat damage, u may destroy tgt equipment                                                          |
+|  1 | Adventuring Gear             | 1   | eqp 1       | Landfall: eqp creats gets +2/+2                                                                                                           |
 |    |                              |     |             |                                                                                                                                           |
 |    | *Infect Helpers: 2*          |     |             |                                                                                                                                           |
 |  3 | Viridian Corrupter           | 1GG | 2/2         | infect -- When enter, destroy tgt artifact                                                                                                |
@@ -93,15 +103,25 @@ To buy:
 |  3 | Mana Leak                    | 1U  | inst        | Counter tgt spell unless controller pays 3                                                                                                |
 |  2 | Distortion Strike            | U   | sorc        | Tgt creats get +1/0 and is unblockable -- rebound                                                                                         |
 |  4 | Preordain                    | U   | sorc        | Scry 2 then draw                                                                                                                          |
-|  2 | Darkslick Shores             |     | land        | enter tapped if u control 3+ land -- t: add U or B                                                                                        |
-|  2 | Seachrome Coast              |     | land        | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
-|  4 | Creeping Tar Pit             |     | land        | enter tapped -- t: add U or B -- 1UB: becomes a 3/2 unblocable                                                                            |
 |    | Venser the Sojourner         | 3WU | plnwkr 3    | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
 |    | Wurmcoil Engine              | 6   | 6/6         | Deathtouch/Lifelink -- When goes to graveyard, put 1 3/3 deathtouch and 1 3/3 lifelink token to play                                      |
 
 W land: 2+3+3 -> 8
 B land: 4+2+6 -> 12
 U land: 4+2+2 -> 8
+
+Deck v3.0:
+- How about a infect/control deck.
+- Idea: few infect creatures: only the Knight and maybe the Norn.
+- Going back to UBW
+
+Deck v2.1:
+- Modification:
+  . Dropping Gideon.
+  . Needs draw/proliferate?
+  . Needs way to take care of creatures...
+  . Adding Garruk; for: another way to get mana acceleration?
+- Cancelled for now.
 
 Deck v2.0: 
 - First downside; no real Man land (3/4 w/ reach...)
