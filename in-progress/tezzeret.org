@@ -1,22 +1,31 @@
-Missing 1 Sphere of the Suns
+Prot from black = (almost) doomed!!
 
-|    | *Non art Creature: 3*     |       |         |                                                                                                                                                                  |
-|  3 | Phyrexia Obliterator      | BBBB  | 5/5     | Trample, when dealt damage, its source controller sacrifice that many permanent                                                                                  |
+Missing 1 Phyrexian 1 batterskull 1 Sword of War and Peace
+
+| 1 |  2 | 3 |  4 | 5 | 6 |
+|---+----+---+----+---+---|
+| 9 | 14 | 1 | 11 | 1 | 2 |
+
+
+|    | *Non art Creature: 4*     |       |         |                                                                                                                                                                  |
+|  4 | Phyrexian Obliterator     | BBBB  | 5/5     | Trample, when dealt damage, its source controller sacrifice that many permanent                                                                                  |
 |    |                           |       |         |                                                                                                                                                                  |
-|    | *Artifacts: 18*           |       |         |                                                                                                                                                                  |
-|  3 | Spellskite                | 2     | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
-|  3 | Wurmcoil Engine           | 6     | 6/6     | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                                                        |
+|    | *Artifacts Creats: 12*    |       |         |                                                                                                                                                                  |
+|  4 | Spellskite                | 2     | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
+|  2 | Wurmcoil Engine           | 6     | 6/6     | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                                                        |
 |  3 | Phyrexian Metamorth       | 3{up} | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
 |  3 | Vault Skirge              | 1{bp} | 1/1     | flying, lifelink                                                                                                                                                 |
-|  3 | Tumble Magnet             | 3     | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
-|  1 | Liquimetal Coating        | 2     | art     | t: tgt perm becomes an art                                                                                                                                       |
-|  1 | Mortarpod                 | 2     | eqp 2   | Living Weapon -- eqp creats gains +0/+1 and sacr: deals 1 damage to tgt creat or player.                                                                         |
 |    |                           |       |         |                                                                                                                                                                  |
-|    | *Helpers: 9*              |       |         |                                                                                                                                                                  |
+|    | *Equipment: 2*            |       |         |                                                                                                                                                                  |
+|  1 | Batterskull               | 5     | eqp 5   | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
+|  1 | Sword of Feast and Famine | 3     | eqp 2   | Eqp creats gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                       |
+|    |                           |       |         |                                                                                                                                                                  |
+|    | *Helpers: 11*             |       |         |                                                                                                                                                                  |
 |  2 | Go for the throat         | 1B    | isnt    | Destroy tgt non artifact creature                                                                                                                                |
 |  3 | Doom blade                | 1B    | inst    | Destroy tgt non black creature                                                                                                                                   |
 |  2 | Duress                    | B     | sorc    | Tgt player reveals hand, choose non creat, non land -- he discard it                                                                                             |
 |  2 | Despise                   | B     | sorc    | Tgt player reveal hand, Choose creat or planeswk, he discards it                                                                                                 |
+|  2 | Surgical Extraction       | {bp}  | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
 |    |                           |       |         |                                                                                                                                                                  |
 |    | *Planeswalker: 4*         |       |         |                                                                                                                                                                  |
 |  4 | Tezzeret, Agent of Bolas  | 2UB   | plwr 3  | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
@@ -24,44 +33,48 @@ Missing 1 Sphere of the Suns
 |    | *Draw: 3*                 |       |         |                                                                                                                                                                  |
 |  3 | Preordain                 | U     | sorc    | Scry 2, then draw                                                                                                                                                |
 |    |                           |       |         |                                                                                                                                                                  |
-|    | *Mana Boost*              |       |         |                                                                                                                                                                  |
+|    | *Mana Boost: 2*           |       |         |                                                                                                                                                                  |
 |  2 | Sphere of the Suns        | 2     | art     | Enter w/ 3 counters -- t, remove a counter: add 1 mana any color to mana pool                                                                                    |
 |    |                           |       |         |                                                                                                                                                                  |
 |    | *Lands: 22*               |       |         |                                                                                                                                                                  |
 |  4 | Creeping Tar Pit          |       | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                                                 |
 |  4 | Darkslick Shores          |       | land    | enter tapped if u control 3+ land -- t: add U or B                                                                                                               |
-|  2 | Drowned Catacomb          |       | land    | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
-|  4 | Swamp                     |       | land    |                                                                                                                                                                  |
-|  4 | Verdant Catacombs         |       | land    | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                                             |
+|  3 | Drowned Catacomb          |       | land    | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
+|  5 | Swamp                     |       | land    |                                                                                                                                                                  |
+|  2 | Verdant Catacombs         |       | land    | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                                             |
 |  4 | Tectonic Edge             |       | land    | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
 |----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2 | Mental Misstep            | {up}  | inst    | Counter tgt spell with CMC 1                                                                                                                                     |
-|  3 | Ratchet Bomb              | 2     | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
+|  2 | Inquisition of Kozilek    | B     | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
+|  2 | Ratchet Bomb              | 2     | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  3 | Torpor Orb                | 2     | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
-|  3 | Into the Roil             | 1U    | inst    | Kicker 1U -- Return non land perm to owners hand, if kicked: draw                                                                                                |
 |  3 | Hex Parasite              | 1     | 1/1     | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
-|  1 | Liquimetal Coating        | 2     | art     | t: tgt perm becomes an art                                                                                                                                       |
+|  2 | Tumble Magnet             | 3     | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
+|  1 | Go for the throat         | 1B    | isnt    | Destroy tgt non artifact creature                                                                                                                                |
+|  1 | Sword of War and Peace    | 3     | eqp 2   | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
+|  1 | Karn Liberated            | 7     | plwk 7  | +4: tgt player exiles card from hand; -3: exile tgt perm; -14: restart the game, put the exiled card under your control                                          |
 |----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 | Contagious Clasp          | 2     | art     | 4, t: proliferate                                                                                                                                                |
-|  2 | Flash Freeze              | 1U    | inst    | Counter tgt red or green spell                                                                                                                                   |
-|  3 | Phyrexian Revoker         | 2     | 2/1 art | When enter, name a non land card; activated ab of non land can't be played                                                                                       |
-|  2 | Sword of Body and Mind    | 3     | eqp 2   | Eqp creats gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf and mill 10 cards                                                               |
-|  1 | Sword of Feast and Famine | 3     | eqp 2   | Eqp creats gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                       |
-|----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MB | Jace Beleren              | 1UU   | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
-| MB | Inkmoth Nexus             |       | land    | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                                                    |
+| SB | Mental Misstep            | {up}  | inst    | Counter tgt spell with CMC 1                                                                                                                                     |
+| SB | Turn Aside                | U     | inst    | Counter tgt spell that target a permanent you control                                                                                                            |
+| SB | Prophetic Prism           | 2     | art     | When enter: draw -- 1, t: add 1 mana any color to mana pool                                                                                                      |
 |    |                           |       |         |                                                                                                                                                                  |
 | SB | Vampire Hexmage           | BB    | 2/1     | Sacr it: remove all counter from tgt permanent                                                                                                                   |
+| SB | Archive Trap              | 3UU   | inst    | If opp search lib, you may pay 0 -- Mill 13 cards.                                                                                                               |
 | SB | Praetor's Grasp           | 1BB   | sorc    | Search and exile a card from opp lib -- You can play it as long as it's exiled                                                                                   |
-| SB | Surgical Extraction       | {bp}  | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
-| SB | Inquisition of Kozilek    | B     | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
-| SB | Twisted Image             | U     | inst    | Switch power and toughness of tgt creat until eot -- draw a card                                                                                                 |
-| SB | Into the roil             | 1U    | inst    | Return tgt non land perm to owner's hand -- Kicker 1U: draw                                                                                                      |
 |    |                           |       |         |                                                                                                                                                                  |
-|    | Everflowing Chalice       | 0     | art     | Multikick 2 -- t: add X mana to mana pool, X is number of times it got kicked                                                                                    |
+| SB | Grappling Hook            | 4     | eqp 4   | Eqp creats gets double strike and force block                                                                                                                    |
+|----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Redirect                  | UU    | inst    | You may choose new targets for target spell                                                                                                                      |
+|    | Piston Sledge             | 2     | eqp sac | Equip:sacr art -- When enter play, attach it to creat u control.. Equip creats gets +3/+1                                                                        |
+|    | Into the Roil             | 1U    | inst    | Kicker 1U -- Return non land perm to owners hand, if kicked: draw                                                                                                |
+|    | Liquimetal Coating        | 2     | art     | t: tgt perm becomes an art                                                                                                                                       |
+|    | Flash Freeze              | 1U    | inst    | Counter tgt red or green spell                                                                                                                                   |
+|    | Phyrexian Revoker         | 2     | 2/1 art | When enter, name a non land card; activated ab of non land can't be played                                                                                       |
+|    | Sword of Body and Mind    | 3     | eqp 2   | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf and mill 10 cards                                                                |
+|    | Contagious Clasp          | 2     | art     | 4, t: proliferate                                                                                                                                                |
 |    | Contagious Engine         | 6     | art     | When enter: put -1 on each creat opp control -- 4: proliferate then proliferate                                                                                  |
 |    | Black Sun's Zenith        | xBB   | sorc    | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | Enclave Cryptologist      | U     | 0/1     | levelup(1U) -- [1-2] 0/1 t: draw and discard -- 0/1 [3+]: draw                                                                                                   |
-|    |                           |       |         |                                                                                                                                                                  |
+|    | Inkmoth Nexus             |       | land    | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                                                    |
+|    | Jace Beleren              | 1UU   | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
+|----+---------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
