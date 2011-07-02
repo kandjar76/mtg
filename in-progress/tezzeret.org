@@ -2,13 +2,13 @@ Tezzeret's Obliterator Deck
 
 | 1 |  2 | 3 |  4 | 5 | 6 |
 |---+----+---+----+---+---|
-| 9 | 14 | 1 | 11 | 1 | 2 |
+| 9 | 11 | 3 | 11 | 1 | 2 |
 
 |    | *Non art Creature: 4*     |           |         |                                                                                                                                                                  |
 |  4 | Phyrexian Obliterator     | BBBB      | 5/5     | Trample, when dealt damage, its source controller sacrifice that many permanent                                                                                  |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Artifacts Creats: 12*    |           |         |                                                                                                                                                                  |
-|  4 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
+|    | *Artifacts Creats: 10*    |           |         |                                                                                                                                                                  |
+|  2 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |  2 | Wurmcoil Engine           | 6         | 6/6     | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                                                        |
 |  3 | Phyrexian Metamorth       | 3{up}     | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
 |  3 | Vault Skirge              | 1{bp}     | 1/1     | flying, lifelink                                                                                                                                                 |
@@ -17,11 +17,13 @@ Tezzeret's Obliterator Deck
 |  1 | Batterskull               | 5         | eqp 5   | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
 |  1 | Sword of Feast and Famine | 3         | eqp 2   | Eqp creats gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                       |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Helpers: 11*             |           |         |                                                                                                                                                                  |
-|  2 | Go for the throat         | 1B        | isnt    | Destroy tgt non artifact creature                                                                                                                                |
-|  3 | Doom blade                | 1B        | inst    | Destroy tgt non black creature                                                                                                                                   |
+|    | *Helpers: 13*             |           |         |                                                                                                                                                                  |
+|  2 | Contagion Clasp           | 2         | art     | When enter, put -1c on tgt creat -- 4, t: proliferate                                                                                                            |
+|  1 | Go for the throat         | 1B        | isnt    | Destroy tgt non artifact creature                                                                                                                                |
+|  2 | Doom blade                | 1B        | inst    | Destroy tgt non black creature                                                                                                                                   |
+|  2 | Dismember                 | 1{bp}{bp} | inst    | Tgt creats gets -5/-5                                                                                                                                            |
 |  2 | Duress                    | B         | sorc    | Tgt player reveals hand, choose non creat, non land -- he discard it                                                                                             |
-|  2 | Despise                   | B         | sorc    | Tgt player reveal hand, Choose creat or planeswk, he discards it                                                                                                 |
+|  2 | Inquisition of Kozilek    | B         | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |  2 | Surgical Extraction       | {bp}      | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | *Planeswalker: 4*         |           |         |                                                                                                                                                                  |
@@ -30,26 +32,28 @@ Tezzeret's Obliterator Deck
 |    | *Draw: 3*                 |           |         |                                                                                                                                                                  |
 |  3 | Preordain                 | U         | sorc    | Scry 2, then draw                                                                                                                                                |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Mana Boost: 2*           |           |         |                                                                                                                                                                  |
-|  2 | Sphere of the Suns        | 2         | art     | Enter w/ 3 counters -- t, remove a counter: add 1 mana any color to mana pool                                                                                    |
+|    | *Mana Boost: 1*           |           |         |                                                                                                                                                                  |
+|  1 | Sphere of the Suns        | 2         | art     | Enter w/ 3 counters -- t, remove a counter: add 1 mana any color to mana pool                                                                                    |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Lands: 22*               |           |         |                                                                                                                                                                  |
+|    | *Lands: 23*               |           |         |                                                                                                                                                                  |
 |  4 | Creeping Tar Pit          |           | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                                                 |
 |  4 | Darkslick Shores          |           | land    | enter tapped if u control 3+ land -- t: add U or B                                                                                                               |
-|  3 | Drowned Catacomb          |           | land    | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
-|  5 | Swamp                     |           | land    |                                                                                                                                                                  |
+|  4 | Drowned Catacomb          |           | land    | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
+|  7 | Swamp                     |           | land    |                                                                                                                                                                  |
 |  2 | Verdant Catacombs         |           | land    | pay 1 life, sacr it: search for forest or swamp and put it into play                                                                                             |
-|  4 | Tectonic Edge             |           | land    | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
+|  2 | Tectonic Edge             |           | land    | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2 | Inquisition of Kozilek    | B         | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
-|  2 | Ratchet Bomb              | 2         | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
-|  3 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
-|  3 | Hex Parasite              | 1         | 1/1     | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
-|  2 | Tumble Magnet             | 3         | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
-|  1 | Dismember                 | 1{bp}{bp} | inst    | Tgt creats gets -5/-5                                                                                                                                            |
+|    | *Sideboard*               |           |         |                                                                                                                                                                  |
+|  2 | Hex Parasite              | 1         | 1/1     | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
+|  2 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |  1 | Sword of War and Peace    | 3         | eqp 2   | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
-|  1 | Karn Liberated            | 7         | plwk 7  | +4: tgt player exiles card from hand; -3: exile tgt perm; -14: restart the game, put the exiled card under your control                                          |
+|  3 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
+|  2 | Ratchet Bomb              | 2         | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
+|  2 | Spell Pierce              | U         | inst    | Counter tgt non creat spell unless its controller pays 2                                                                                                         |
+|  2 | Tumble Magnet             | 3         | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
+|  1 | Tectonic Edge             |           | land    | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SB | Despise                   | B         | sorc    | Tgt player reveal hand, Choose creat or planeswk, he discards it                                                                                                 |
 | SB | Mental Misstep            | {up}      | inst    | Counter tgt spell with CMC 1                                                                                                                                     |
 | SB | Turn Aside                | U         | inst    | Counter tgt spell that target a permanent you control                                                                                                            |
 | SB | Prophetic Prism           | 2         | art     | When enter: draw -- 1, t: add 1 mana any color to mana pool                                                                                                      |
@@ -63,6 +67,7 @@ Tezzeret's Obliterator Deck
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MB | Black Sun's Zenith        | xBB       | sorc    | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |    |                           |           |         |                                                                                                                                                                  |
+|    | Karn Liberated            | 7         | plwk 7  | +4: tgt player exiles card from hand; -3: exile tgt perm; -14: restart the game, put the exiled card under your control                                          |
 |    | Redirect                  | UU        | inst    | You may choose new targets for target spell                                                                                                                      |
 |    | Piston Sledge             | 2         | eqp sac | Equip:sacr art -- When enter play, attach it to creat u control.. Equip creats gets +3/+1                                                                        |
 |    | Into the Roil             | 1U        | inst    | Kicker 1U -- Return non land perm to owners hand, if kicked: draw                                                                                                |
@@ -77,3 +82,43 @@ Tezzeret's Obliterator Deck
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+Against RDW:
+  +2 Hex Parasite
+  +2 Spellskite
+  +1 Sword of War and Piece 
+  -2 Dismember
+  -1 Phyrexian Metamorph
+  -1 Sword of Feast and Famine
+  -1 Wurmcoil Engine
+Against control:   
+  +2 Hex Parasite
+  +2 Tumble Magnet 
+  +3 Spell pierce
+  -3 Vault Skirge
+  -2 Wurmcoil Engine
+  -2 Contagion Clasp
+Against valakut:   
+  +3 Torpor Orb
+  +1 Tectonic Edge
+  +2 Ratchet Bomb
+  -3 Vault Skirge
+  -1 Swamp
+  -2 Contagion Clasp
+Against exarch:    
+  +3 Torpor Orb 
+  +2 Tumble Magnet
+  +2 Spellskite
+  -3 Vault Skirge
+  -2 Contagion Clasp
+  -1 Batterskull
+  -1 Sword of Feast and Famine 
+Against tempered:  
+  +2 Spellpierce 
+  +2 Tumble Magnet
+  +2 Ratchet Bomb
+  -2 Wurmcoil Engine
+  -2 Spellskite
+  -1 Go for the throat
+  -1 Batterskull
+Against infect:
+  +2 Ratchet Bomb
