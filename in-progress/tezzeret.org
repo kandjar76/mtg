@@ -82,6 +82,72 @@ Tezzeret's Obliterator Deck
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+07/02/11: The deck saw its first FNM
+  Overall -> really liked it!!
+  Fun deck to play with!
+
+  Match 1: Against mono black w/ the obliterator.
+    Won 2/0.
+    Game 1: the key of that game was vault skirge equipped with SoF&F.
+    Game 2:
+      He started by bringing out two lashwrite. 
+      After he casted the second one, I played the obliterator which stall the game for him
+      The skirge + tezz won me the game again :)
+  Match 2: Against Valakut Ramp.
+    Lost 2/0
+    Game 1: Duress its "explore", but on turn 4 he played "oracle of mul daya"
+      No removal, and drew only lands from that point...
+    Game 2: His starting hand was 2 titans, the oracle, and 3 lands...
+      I kill the oracle asap.
+      However he was stil able to lay down two lands.
+      Turn 5 he play its first titan
+      Played the tumble magnet; 
+      Turn 6, he played its second titan, fetch for 2 valakut.
+      I cracked the tec edge; and surgical extraction on the valakut in the graveyard.
+      Next turn, I played the obliterator so with tumble magnet, I was thinking: I can keep the titans in check.
+      However, turn 7, he drew avenger of zendikar.
+      I drew a land on turn 8 and conceided.
+      I was one card away from ratchet bomb.
+      
+      My major mistake: the SB; 
+      I sideboarded out Phyrexian Metamorph without thinking... 
+      I would have had it (I had in my hand the card I originally wanted to SB and then decided to SB the metamorph....)
+
+  Match 3: I played against a GW ramp/control... 
+     Won 2/1
+     Weird but somewhat interesting deck.
+     Running 3 Primeval Titan, 3 Baneslayer, 6 planeswalker... Garuk, adjani... 
+     A bunch of mana acceleration (llanowar elves, bop...)
+     Also: Emrakul, and 3 or 4 Genesis waves.
+   Game 1:
+     He played very quickly the angel, I dismembered her then casted surgical extraction on it...
+     Vault skirge into 5/5 was the key to this game.
+   Game 2:
+     Elf -> Garruk -> Titan on turn 4
+     He casted the titan, I metamorphed it.
+     I killed garruk asap using the vault skirge (as a 1/1) and hex parasite..
+     He casted genesis wave to grave a wurmcoil and another titan...
+     Next turn, he casted another genesis wave... This time to get 2 other wurm coil...
+     Game was over by then.
+     Didn't drew anything good...
+   Game 3:
+     Really fast, obliterator + vaul skirge turned into a 5/5 ...
+     Last round he casted the angel, but had only 3 life left, creeping tarpit was the finisher.
+
+  Match 4:
+     Tempered steel deck with golems...
+     Lost 2/0
+   Game 1: 
+     I played it way too cautiosly thinking he was DoJ... 
+     That caused me the game...
+   Game 2:
+     Awesome starting hand: 3 mana, 2 duress, 1 dismember and 1 phyrexian obliterator...
+     And didn't drew a single mana for the rest of the game (10+ round)...
+     But drew all my 4 casting cost cards.... 
+     One sided game... 
+
+
+   
 Against RDW:
   +2 Hex Parasite
   +2 Spellskite
@@ -120,5 +186,4 @@ Against tempered:
   -2 Spellskite
   -1 Go for the throat
   -1 Batterskull
-Against infect:
-  +2 Ratchet Bomb
+
