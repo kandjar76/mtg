@@ -80,6 +80,15 @@ Tezzeret's Obliterator Deck v1.7
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+Comment about v1.7:
+- The deck played really well when I'm not stupid.. :)
+- However, clearly lacking of artifacts.
+- Also: I ended up sideboarding the ponder spells...
+  So Instead, I'm gonna replace them with 3 more artifacts.
+- Finally: I again didn't play wurmcoil engine... The 6 CMC is too much.
+  => I'm gonna replace it with 2 Batterskulls.
+
+
 07/07/11: Second tournament of the deck:
   Match 1: Against basic infect deck
     Lost 1/2
