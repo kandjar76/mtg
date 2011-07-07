@@ -80,6 +80,39 @@ Tezzeret's Obliterator Deck v1.7
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+07/07/11: Second tournament of the deck:
+  Match 1: Against basic infect deck
+    Lost 1/2
+    Game 1: Lost. he had an awesome starting hand, mine was so-so, didn't improve...
+    Game 2: Won. Ok game, I was dominating the whole game because of hte removal
+    Game 3: Lost. Terrible draw for me... Drew 9 lands in a row...
+    Again, in this round, I did a MAJOR mistake: not sideboarding in the 2 other spellskite.
+    He was playing beefed up infect deck... Spellskite is a big threat.
+  Match 2: Agaist Red Deck.
+    Won 2/0.
+    Game 1: He mull to 5, and did't do much.
+    Game 2: I pulled vault skirge, made it a 5/5 with tezz, had the obliterator out. 
+      I was gaining so much life, and doing so much daage. It was over.
+  Match 3: another infect.
+    Won 2/0
+    Game 1: Obliterator and kill spell were the keys.
+    Game 2: SB spellskite in.
+      I duressed him couple of times; he sideboarded some artifact destruction.
+      I made copy of my spell skite with metamorph. Obliterator out. Game over.
+  Match 4: Again hexarch twin
+    Lost 2/1
+    Game 1: Starting with 2 mana; didn't the third mana before turn 4 or 5; took another 3 turns to draw the 4th one...
+      (bad) luck of the draw
+    Game 2: SB in: torpor orb, spellskite, gftt.
+      He scoop after I played the second spellskite and the orb.
+      Obliterator was out.
+    Game 3: I lost coz I'm studid.
+      I use the wrong kill spell TWICE!
+      Had all 3 different kill spell in my hand, and surgical extraction.
+      I kill a stupid artifact with dismember instead of using doom blade.
+      I kill the Deceiver Exarch with doom blade (then exile each copy from the game) keeping gfft 
+      with Myr Galvanizer out... 
+
 07/02/11: The deck saw its first FNM
   Overall -> really liked it!!
   Fun deck to play with!
