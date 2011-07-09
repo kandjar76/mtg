@@ -1,4 +1,4 @@
-Tezzeret's Obliterator Deck v1.7
+Tezzeret's Obliterator Deck v1.8
 
 | 1 | 2 | 3 |  4 | 5 | 6 |
 |---+---+---+----+---+---|
@@ -10,11 +10,13 @@ Tezzeret's Obliterator Deck v1.7
 |    | *Artifacts Creats: 10*    |           |         |                                                                                                                                                                  |
 |  2 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |  2 | Wurmcoil Engine           | 6         | 6/6     | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                                                        |
-|  3 | Phyrexian Metamorth       | 3{up}     | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
-|  3 | Vault Skirge              | 1{bp}     | 1/1     | flying, lifelink                                                                                                                                                 |
+| -2 | Wurmcoil Engine           | 6         | 6/6     | Deathtouch/Lifelink -- When put to graveyard, put 3/3 tok w/ deathtouch and 3/3 tok w/ lifelink into play                                                        |
+|  4 | Phyrexian Metamorth       | 3{up}     | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
+|  4 | Vault Skirge              | 1{bp}     | 1/1     | flying, lifelink                                                                                                                                                 |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | *Equipment: 4*            |           |         |                                                                                                                                                                  |
 |  1 | Batterskull               | 5         | eqp 5   | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
+| +2 | Batterskull               | 5         | eqp 5   | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
 |  1 | Sword of Feast and Famine | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
 |  1 | Sword of Body and Mind    | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf into play and mill 10 cards                                                      |
 |  1 | Sword of War and Peace    | 3         | eqp 2   | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
@@ -26,12 +28,10 @@ Tezzeret's Obliterator Deck v1.7
 |  2 | Duress                    | B         | sorc    | Tgt player reveals hand, choose non creat, non land -- he discard it                                                                                             |
 |  2 | Inquisition of Kozilek    | B         | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |  2 | Surgical Extraction       | {bp}      | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
+|  1 | Liquimetal Coating        | 2         | art     | t: target permanent becomes an artifact until eot.                                                                                                               |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | *Planeswalker: 4*         |           |         |                                                                                                                                                                  |
 |  4 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3  | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
-|    |                           |           |         |                                                                                                                                                                  |
-|    | *Draw: 3*                 |           |         |                                                                                                                                                                  |
-|  3 | Preordain                 | U         | sorc    | Scry 2, then draw                                                                                                                                                |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | *Lands: 24*               |           |         |                                                                                                                                                                  |
 |  4 | Creeping Tar Pit          |           | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                                                 |
@@ -44,7 +44,7 @@ Tezzeret's Obliterator Deck v1.7
 |    | *Sideboard*               |           |         |                                                                                                                                                                  |
 |  2 | Hex Parasite              | 1         | 1/1     | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
 |  2 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
-|  3 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
+|  4 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
 |  2 | Ratchet Bomb              | 2         | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  2 | Consume the Meek          | 3BB       | inst    | Destroy all creats w/ CMC <= 3; they can't be regen                                                                                                              |
 |  2 | Tumble Magnet             | 3         | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
@@ -79,6 +79,99 @@ Tezzeret's Obliterator Deck v1.7
 |    | Inkmoth Nexus             |           | land    | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                                                    |
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+Comment about v1.8:
+  Sword played such a big role in these games..
+  As well as the main 3 creatures: obli, skirge and metamorph.
+  Didn't see many tezz...
+  Couldn't replace Wurmcoil in time.
+  It definively doesn't fit the deck!
+  -> -2 Wurmcoil +1 Batterskull, +1 Sword of F&F.
+
+07/09/11: FNM
+  Finish 2nd, great night!
+  Match 1: 2-0, played against a mono white knight deck.
+    Obliterator and Vault skirge, both played a big role for the victory.
+    Obliterator made him stops the attack, while vault skirge was damaging him through the air.
+    Doom blade on the flying knights.. 
+
+  Match 2: 2-0 Red Kuldotha
+    Game1: 
+     IoK -> The goblin lord.
+     Skirge / metamorph the skirge... Trying to minimize the life loss..
+     I was in surviving mode..
+     Until I drew Sword of War and Peace.
+     He killed a skirge, I played a second metamorph to make another one.
+     And I kept attacking with 1 eqp w/ the sword, then attach the sword to the other one to defend.
+    Game 2: 
+     Skirge turn 1 / killed...
+     Survival mode again...
+     Obliterator on turn 4, froze him a bit.
+     Turn 5: tezz -> +1 -> metamorph
+     Turn 6: play skirge, turned him into a 5/5, play metamorph copying the obliterator.
+     Game locked.
+
+  Match 3: 2-0 against grand architect
+    Game 1:
+     First game was slow... Played 3 skirge and an obliterator.
+     He pinned my obli down with 2 different tumble magnet...
+     Then use mystic maze to keep him out of combat.
+     I then drew a sword to finish him
+    Gane 2:
+     Duress.
+     Obliterator turn 4
+     Play skirge, sword of B&M
+     Next: tezz -> skirge -> 5/5 -> equip
+     He then played a Platinum Emperion
+     doom blade, he's tapped out,
+     Turn spellskite into a 5/5, swing with everything for his last 14 damage.
+
+  Match 4: 2-0 Against RUW Exarch Twin.
+    Game 1: 
+     IoK -> wall of omen (he had 2 spreading seas, no blue mana)
+     I saw the sun titan; he played it a 6 mana... return WoO to play.
+     I play phyrexian metamorh copying the titan, then doom bladed it.
+     Drew 2 swords, equip the titan. Win.
+   Game 2: SBed in: 2 spelskite, and 2 hex paradise.
+     Turn 1: IoK, made him discard into the roil, noticed a DoJ.
+     Played spellskite, sitting on my mana with a Gfft in hand.
+     Played very cautiously.
+     He DoJ; played the second one.
+     Play Gideon force the attack,
+     Using tar pit I managed to get him down to 2.
+     He killed spellskite, killing his gideon to play another one.
+     Played batterskull; he kept forcing the attack on gideon.
+     Played another spellskite equipped him with batterskull.
+     Vigilance was the key.
+     Finished him with the sword of B&M.
+
+  Match 5: 2-0 against UB control.
+    Game 1:
+      Played it cautiously, he duress me couple of time knew what I had in my hand.
+      So I played what appeared to be the least threatenin; Sword of W&P (had F&F in hand + obli)
+      He didn't countered it.  I kept attacking him little by little until the game was too big, he scooped.
+    Game 2:
+      I managed to an obliterator out.  And protect him with spellskite (against dismember)
+      Game ended quickly.
+
+  Match 6: Final / lost 0-2 against aggro vamps.
+    Game 1: 
+      Didn't have much of a hand; should have mull.
+      Didn't draw anything very good .
+      Were able to play an obliterator, but got forced to sacrifice it.
+      Got finished with two lightning bolts.
+    Game 2:
+      Bad draw again, down to 5 cards.
+      Kept: 1 obli, 1 Phyrexian and 3 lands.
+      Drew 2 Phyrexian in a row.
+      Got my 4 mana too late..
+      Tried to copyed my opponents creatures...
+      But too many kill spells..
+      I resisted for a long time; and I only I had 1 more mana... 
+      I drew a sword of W&P but couldn't play and equp it at the same time.. 
+      Can't say I was very lucky in this last round.
+
 
 Comment about v1.7:
 - The deck played really well when I'm not stupid.. :)
