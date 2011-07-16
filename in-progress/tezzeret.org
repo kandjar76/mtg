@@ -1,4 +1,5 @@
-Tezzeret's Obliterator Deck v1.9
+Tezzeret's Obliterator Deck v2.0
+TO-Blade v2.0
 
 | 1 | 2 | 3 |  4 | 5 |
 |---+---+---+----+---|
@@ -12,19 +13,21 @@ Tezzeret's Obliterator Deck v1.9
 |  4 | Phyrexian Metamorth       | 3{up}     | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
 |  4 | Vault Skirge              | 1{bp}     | 1/1     | flying, lifelink                                                                                                                                                 |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Equipment: 4*            |           |         |                                                                                                                                                                  |
+|    | *Equipment: 5*            |           |         |                                                                                                                                                                  |
 |  2 | Batterskull               | 5         | eqp 5   | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
-|  2 | Sword of Feast and Famine | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
-|  2 | Sword of Body and Mind    | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf into play and mill 10 cards                                                      |
+|  1 | Sword of Feast and Famine | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
+|  1 | Sword of Body and Mind    | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf into play and mill 10 cards                                                      |
 |  1 | Sword of War and Peace    | 3         | eqp 2   | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
 |    |                           |           |         |                                                                                                                                                                  |
-|    | *Helpers: 11*             |           |         |                                                                                                                                                                  |
+|    | *Helpers: 13*             |           |         |                                                                                                                                                                  |
 |  1 | Go for the throat         | 1B        | isnt    | Destroy tgt non artifact creature                                                                                                                                |
-|  2 | Doom blade                | 1B        | inst    | Destroy tgt non black creature                                                                                                                                   |
+|  1 | Doom blade                | 1B        | inst    | Destroy tgt non black creature                                                                                                                                   |
+|  1 | Black Sun's Zenith        | xBB       | sorc    | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |  2 | Dismember                 | 1{bp}{bp} | inst    | Tgt creats gets -5/-5                                                                                                                                            |
 |  2 | Duress                    | B         | sorc    | Tgt player reveals hand, choose non creat, non land -- he discard it                                                                                             |
 |  2 | Inquisition of Kozilek    | B         | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |  2 | Surgical Extraction       | {bp}      | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
+|  2 | Tumble Magnet             | 3         | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | *Planeswalker: 4*         |           |         |                                                                                                                                                                  |
 |  4 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3  | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
@@ -40,11 +43,13 @@ Tezzeret's Obliterator Deck v1.9
 |    | *Sideboard*               |           |         |                                                                                                                                                                  |
 |  2 | Hex Parasite              | 1         | 1/1     | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
 |  2 | Spellskite                | 2         | 0/4     | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
-|  4 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
+|  3 | Torpor Orb                | 2         | art     | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
+|  2 | Black Sun's Zenith        | xBB       | sorc    | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |  2 | Ratchet Bomb              | 2         | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
-|  2 | Consume the Meek          | 3BB       | inst    | Destroy all creats w/ CMC <= 3; they can't be regen                                                                                                              |
-|  2 | Tumble Magnet             | 3         | art     | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
+|  1 | Doom blade                | 1B        | inst    | Destroy tgt non black creature                                                                                                                                   |
 |  1 | Go for the throat         | 1B        | isnt    | Destroy tgt non artifact creature                                                                                                                                |
+|  1 | Sword of Feast and Famine | 3         | eqp 2   | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
+|  1 | Sword of War and Peace    | 3         | eqp 2   | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Despise                   | B         | sorc    | Tgt player reveal hand, Choose creat or planeswk, he discards it                                                                                                 |
 |  1 | Surgical Extraction       | {bp}      | inst    | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
@@ -63,7 +68,6 @@ Tezzeret's Obliterator Deck v1.9
 |    |                           |           |         |                                                                                                                                                                  |
 | SB | Brittle Effigy            | 1         | art     | 4, t, exile it: exile target creature                                                                                                                            |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MB | Black Sun's Zenith        | xBB       | sorc    | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |    |                           |           |         |                                                                                                                                                                  |
 |    | Karn Liberated            | 7         | plwk 7  | +4: tgt player exiles card from hand; -3: exile tgt perm; -14: restart the game, put the exiled card under your control                                          |
 |    | Redirect                  | UU        | inst    | You may choose new targets for target spell                                                                                                                      |
@@ -80,6 +84,12 @@ Tezzeret's Obliterator Deck v1.9
 |    | Jace Beleren              | 1UU       | plwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+Comment about v2.0:
+  Deck still have lots of issue against fast aggro.
+  Obliterator doesn't help as much against these decks.
+  After trying several version of this deck; I'm convinced: obli has to go... :(
+  As much as I like this card, as much as I realize it doesn't fit the deck...
+
 
 Comment about v1.9:
   The deck needs few fixed up.
@@ -87,6 +97,18 @@ Comment about v1.9:
   Also: surgical extraction is awesome against aggro decks (couple w/ discard or kill)!
   Need to fix the SB too :)
   Currently wondering if I shouldn't splash red to the deck for spell like "pyroclasm"
+
+  Every time I had Consume the Meek in hand, even when it was useful, I didn't use it. 
+  I spend the mana on other spells such as tezz.. 
+  -> I'm gonna replace with it "Black Sun Zenith"; I think it will work better since I
+  can cast it on turn 3 (for 1) to disminish the damage taken.
+  I also like the shuffle back part, so I can reshuffle the deck if I sink the obli w/
+  tezzeret +1 ability.
+
+  Since I want 3, I'm gonna remove 1 torpor orb from the SB.
+  Also: I'm gonna MB 2 Tumble Magnets and put 2 of the Sword in the SB.
+  So overall: running 3 sword MB, 2 Tumble, and 2 Sword in the SB 
+  (instead of 5 MB and 2 Tumble SB)
 
 07/13/11: WNM
   Finished 3nd.
