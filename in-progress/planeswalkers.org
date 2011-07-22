@@ -21,17 +21,17 @@
 |  2 | Tumble Magnet          | 3    | art       | Enter w/ 3 charges -- t, remove a charge: tap tgt creat or artifact                                                                       |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Counters 5*           |      |           |                                                                                                                                           |
-|  3 | Mana leak              | 1U   | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
-|  2 | Small Pierce           | U    | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
+|  4 | Mana leak              | 1U   | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
+|  1 | Spell Pierce           | U    | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Titans 2*             |      |           |                                                                                                                                           |
 |  2 | Frost Titan            | 4UU  | 6/6       | Whenever enter or attack: tap tgt perm it doesn't untap during next untap phase -- when opp target it: counter spell unless he pays 2     |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Planeswalker 10*      |      |           |                                                                                                                                           |
-|  3 | Gideon Jura            | 3WW  | plwk 6    | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
-|  2 | Venser the Sojourner   | 3WU  | plnwkr 3  | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
-|  2 | Jace Beleren           | 1UU  | plwk 3    | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
-|  3 | Jace the Mind Sculptor | 2UU  | plnwkr 3  | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                    |
+|  3 | Gideon Jura            | 3WW  | plwkr 6   | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|  2 | Venser the Sojourner   | 3WU  | plwkr 3   | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                  |
+|  2 | Jace Beleren           | 1UU  | plwkr 3   | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                  |
+|  3 | Jace the Mind Sculptor | 2UU  | plwkr 3   | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                    |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Lands 24*             |      |           |                                                                                                                                           |
 |  4 | Glacial Fortress       |      | land      | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
