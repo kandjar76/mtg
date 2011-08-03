@@ -1,8 +1,8 @@
-Tezz-Control v1.10
+136;0cTezz-Control v1.20
 
-| 0 | 1 |  2 | 3 |  4 | 5 | 6 |
-|---+---+----+---+----+---+---|
-| 6 | 2 | 11 | 3 | 10 | 2 | 2 |
+| 0 | 1 |  2 | 3 | 4 | 5 | 6 |
+|---+---+----+---+---+---+---|
+| 6 | 2 | 12 | 3 | 6 | 2 | 4 |
 
 |    | *Planeswalkers: 5*        |           |        |                                                                                                                                                                  |
 |  4 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3 | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
@@ -15,14 +15,14 @@ Tezz-Control v1.10
 |  3 | Tumble Magnet             | 3         | art    | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
 |  2 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Draw factor: 2*          |           |        |                                                                                                                                                                  |
+|    | *Draw factor: 4*          |           |        |                                                                                                                                                                  |
+|  2 | Consecrated Sphinx        | 4UU       | 4/6    | Flying -- Whenever an opponent draws, you may draw 2 cards                                                                                                       |
 |  2 | Tezzeret's Gambit         | 3{pu}     | sorc   | Draw 2 cards then proliferate                                                                                                                                    |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Artifacts Creats: 8*     |           |        |                                                                                                                                                                  |
+|    | *Artifacts Creats: 6*     |           |        |                                                                                                                                                                  |
 |  2 | Wurmcoil Engine           | 6         | 6/6    | Deathtouch, Lifelink -- When put to grave: put one 3/3 tok with deathtouch and one 3/3 tok with lifelink into play                                               |
-|  2 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
+|  3 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |  1 | Phyrexian Metamorth       | 3{up}     | 0/0    | Enter play as a copy of tgt art or creat                                                                                                                         |
-|  3 | Solemn Simulacrum         | 4         | 2/2    | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
 |    |                           |           |        |                                                                                                                                                                  |
 |    | *Equipments: 1*           |           |        |                                                                                                                                                                  |
 |  1 | Batterskull               | 5         | eqp 5  | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
@@ -36,10 +36,9 @@ Tezz-Control v1.10
 |    | *Lands: 24*               |           |        |                                                                                                                                                                  |
 |  4 | Creeping Tar Pit          |           | land   | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                                                 |
 |  4 | Darkslick Shores          |           | land   | enter tapped if u control 3+ land -- t: add U or B                                                                                                               |
-|  3 | Drowned Catacomb          |           | land   | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
+|  4 | Drowned Catacomb          |           | land   | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
 |  4 | Inkmoth Nexus             |           | land   | t: add 1 -- 1: becomes a 1/1 infect art w/ flying                                                                                                                |
 |  2 | Tectonic Edge             |           | land   | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
-|  1 | Phyrexia's Core           |           | land   | t: add 1 -- 1, t, sacr an art: you gain 1 life                                                                                                                   |
 |  3 | Swamp                     |           | land   |                                                                                                                                                                  |
 |  3 | Island                    |           | land   |                                                                                                                                                                  |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,11 +46,14 @@ Tezz-Control v1.10
 |  1 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |  2 | Ratchet Bomb              | 2         | art    | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  3 | Torpor Orb                | 2         | art    | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
-|  2 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |  2 | Mental Misstep            | {up}      | inst   | Counter tgt spell with CMC 1                                                                                                                                     |
 |  2 | Memoricide                | 3B        | sorc   | Name a non-land card, search hand, lib and graveyard for any number card matching the name and exile them                                                        |
-|  3 | Dismember                 | 1{bp}{bp} | inst   | Tgt creats gets -5/-5                                                                                                                                            |
+|  2 | Dismember                 | 1{bp}{bp} | inst   | Tgt creats gets -5/-5                                                                                                                                            |
+|  2 | Consume the Meek          | 3BB       | inst   | Destroy creatures w/ CMC <= 3                                                                                                                                    |
+|  1 | Life Finale               | 4BB       | sorc   | Destroy all creatures, search opp lib for up to 3 creats and exile them                                                                                          |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Phyrexia's Core           |           | land   | t: add 1 -- 1, t, sacr an art: you gain 1 life                                                                                                                   |
+|    | Solemn Simulacrum         | 4         | 2/2    | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
 |    | Inquisition of Kozilek    | B         | sorc   | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |    | Vault Skirge              | 1{bp}     | 1/1    | flying, lifelink                                                                                                                                                 |
 |    | Sword of Feast and Famine | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
@@ -62,7 +64,6 @@ Tezz-Control v1.10
 | SB | Doom blade                | 1B        | inst   | Destroy tgt non black creature                                                                                                                                   |
 | SB | Go for the throat         | 1B        | isnt   | Destroy tgt non artifact creature                                                                                                                                |
 | SB | Brittle Effigy            | 1         | art    | 4, t, exile it: exile target creature                                                                                                                            |
-|  1 | Life Finale               | 4BB       | sorc   | Destroy all creatures, search opp lib for up to 3 creats and exile them                                                                                          |
 |    | Hex Parasite              | 1         | 1/1    | x{bp}: Remove X counters from tgt perm; for each counter, he gets +1/0                                                                                           |
 |    | Karn Liberated            | 7         | plwk 7 | +4: tgt player exiles card from hand; -3: exile tgt perm; -14: restart the game, put the exiled card under your control                                          |
 |    | Into the Roil             | 1U        | inst   | Kicker 1U -- Return non land perm to owners hand, if kicked: draw                                                                                                |
