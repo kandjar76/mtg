@@ -1,0 +1,66 @@
+
+
+Mana Curve:
+| 1 | 2 |  3 | 4 | 5 | 6 |
+|---+---+----+---+---+---|
+| 8 | 4 | 15 | 6 | 1 | 2 |
+
+
+|   | *Planeswalkers 6*         |           |          |                                                                                                                                    |
+| 3 | Chandra, the Firebrand    | 3R        | plwk 3   | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts                |
+| 1 | Jace, Memory Adept        | 3UU       | plwk 4   | +1: draw, tgt player put top card of lib in graveyard -- 0: mill 10 -- -7: any number of player each draws 20 cards                |
+| 2 | Jace Beleren              | 1UU       | plwk 3   | +2: each players draws -- -1: draw -- -10: mill 20 cards                                                                           |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Creatures 6*             |           |          |                                                                                                                                    |
+| 2 | Consecrated Sphinx        | 4UU       | 4/6      | Flying -- When opp draw, you may draw 2 cards                                                                                      |
+| 4 | Chandra's Phoenix         | 1RR       | 2/2      | Fly, haste - When opp dealt damage by red spell or planeswalker, return from graveyard to hand                                     |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Control Spells 7*        |           |          |                                                                                                                                    |
+| 4 | Mana leak                 | 1U        | inst     | Counter tgt spell unless controller pay 3                                                                                          |
+| 3 | Tumble Magnet             | 3         | art      | Enters w/ 3 charges -- t, rem 1: tap tgt creat/art                                                                                 |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Burn spells 7*           |           |          |                                                                                                                                    |
+| 3 | Volt Charge               | 2R        | inst     | Deal 3 damage to tgt creat or player then proliferate                                                                              |
+| 4 | Lightning Bolt            | R         | inst     | Deal 3 damage to tgt creat/player                                                                                                  |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Draw spells 7*           |           |          |                                                                                                                                    |
+| 3 | Tezzeret Gambit           | 3{up}     | sorc     | Draw 2 cards, then proliferate                                                                                                     |
+| 4 | Ponder                    | U         | sorc     | Look at top 3 card, put back in any order, u may shuffle, then draw                                                                |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Sworda 3*                |           |          |                                                                                                                                    |
+| 2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                          |
+| 1 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size |
+|   |                           |           |          |                                                                                                                                    |
+|   | *Lands 24*                |           |          |                                                                                                                                    |
+| 2 | Inkmoth Nexus             |           | land     | t: add 1 -- 1: becomes a 1/1 flying w/ infect                                                                                      |
+| 6 | Island                    |           | bas land |                                                                                                                                    |
+| 8 | Mountain                  |           | bas land |                                                                                                                                    |
+| 2 | Halimar Depths            |           | land     | Enter tapped -- When enter: look at top 3 cards, put them back in any order -- t: add U                                            |
+| 4 | Scalding Tarn             |           | land     | pay 1, sacr it: search for island or mountain and put it into play                                                                 |
+| 2 | Tectonic Edge             |           | land     | t: add 1 -- sacr it: destroy tgt land (act only if tgt player has 4 land)                                                          |
+|---+---------------------------+-----------+----------+------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | Combust                   | 1R        | inst     | Can't be countered -- Deals 5 damage to tgt white or blue creatures.                                                               |
+| 2 | Mental Misstep            | {up}      | inst     | Counter tgt spell with CMC 1                                                                                                       |
+| 3 | Dismember                 | 1{bp}{bp} | inst     | Tgt creats gets -5/-5                                                                                                              |
+| 3 | Spreading Seas            | 1         | ench     | Ench land -- Enchanted land is an island -- When enter: draw a card                                                                |
+| 3 | Pyroclasm                 | 1R        | sorc     | Deals 2 damage to each creature                                                                                                    |
+|---+---------------------------+-----------+----------+------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size |
+| 2 | Phyrexian Metamorth       | 3{up}     | 0/0      | Enter play as a copy of tgt art or creat                                                                                           |
+
+
+----
+Comments:
+
+Note: the deck didn't worked at all!
+Sword don't work here at all..
+Maybe because they are not enough creatures and too many creatures removal in my opponents deck.
+Or: not enough counters... 
+
+The deck did nothing even against weak vampire decks.
+And got completely destroyed against Tempered Steel deck.
+
+One of the main issue is the mana colors. 
+Only 4 fetch lands to get the colors isn't enough when six 3 CMC spells requires 2 hard colors (4 phoenix and 2 jaces)
+
+I don't think the sphinx belongs in this deck, the same goes for Jace Memory Adept.
