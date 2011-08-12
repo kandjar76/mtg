@@ -1,23 +1,25 @@
-136;0cTezz-Control v1.20
+Tezz-Control v1.21
 
 | 0 | 1 |  2 | 3 | 4 | 5 | 6 |
 |---+---+----+---+---+---+---|
-| 6 | 2 | 12 | 3 | 6 | 2 | 4 |
+| 6 | 2 | 12 | 3 | 5 | 2 | 5 |
 
-|    | *Planeswalkers: 5*        |           |        |                                                                                                                                                                  |
-|  4 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3 | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
+|    | *Planeswalkers: 4*        |           |        |                                                                                                                                                                  |
+|  3 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3 | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
 |  1 | Jace, Memory Adept        | 3UU       | plwk 4 | +1: draw, tgt player put top card of lib in graveyard -- 0: mill 10 -- -7: any number of player each draws 20 cards                                              |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Control Spells: 11*      |           |        |                                                                                                                                                                  |
+|    | *Control Spells: 12*      |           |        |                                                                                                                                                                  |
 |  4 | Mana Leaks                | 1U        | inst   | Counter tgt spell unless its controller pay 3                                                                                                                    |
 |  2 | Spell Pierce              | U         | inst   | Counter tgt non creat spell unless its controller pays 2                                                                                                         |
 |  3 | Inquisition of Kozilek    | B         | sorc   | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |  3 | Tumble Magnet             | 3         | art    | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
 |  2 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
+|  1 | Contagion Engine          | 6         | art    | Put a -1c on each creat opp controls -- 4: proliferate, then proliferate                                                                                         |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Draw factor: 4*          |           |        |                                                                                                                                                                  |
+|    | *Draw factor: 7*          |           |        |                                                                                                                                                                  |
 |  2 | Consecrated Sphinx        | 4UU       | 4/6    | Flying -- Whenever an opponent draws, you may draw 2 cards                                                                                                       |
 |  2 | Tezzeret's Gambit         | 3{pu}     | sorc   | Draw 2 cards then proliferate                                                                                                                                    |
+|  3 | Preordain                 | U         | sorc   | Scry 2 then draw                                                                                                                                                 |
 |    |                           |           |        |                                                                                                                                                                  |
 |    | *Artifacts Creats: 6*     |           |        |                                                                                                                                                                  |
 |  2 | Wurmcoil Engine           | 6         | 6/6    | Deathtouch, Lifelink -- When put to grave: put one 3/3 tok with deathtouch and one 3/3 tok with lifelink into play                                               |
@@ -26,9 +28,6 @@
 |    |                           |           |        |                                                                                                                                                                  |
 |    | *Equipments: 1*           |           |        |                                                                                                                                                                  |
 |  1 | Batterskull               | 5         | eqp 5  | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
-|    |                           |           |        |                                                                                                                                                                  |
-|    | *Draw Spells: 3*          |           |        |                                                                                                                                                                  |
-|  3 | Preordain                 | U         | sorc   | Scry 2 then draw                                                                                                                                                 |
 |    |                           |           |        |                                                                                                                                                                  |
 |    | *Mana Boost: 3*           |           |        |                                                                                                                                                                  |
 |  3 | Everflowing Chalice       | 0         | art    | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                  |
@@ -71,6 +70,37 @@
 |    | Contagious Engine         | 6         | art    | When enter: put -1 on each creat opp control -- 4: proliferate then proliferate                                                                                  |
 |    | Jace Beleren              | 1UU       | plwk 3 | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+Current considerations:
+--------------------------------------------------
+Replacing Tezz Gambit by Jace; but I'm a bit concerned about the 2 hard blue.
+Adding 1 burried ruin to retrieved lost artifact.
+--
+Reconsidered: RB 1 in MB; and Solemn.
+
+
+Changes 1.20 -> 1.21
+--------------------------------------------------
+-1 Tezzeret
++1 Contagion Engine.
+The proliferate factor has proven to be very helpful during late games.
+
+One question needs to be solved: did it switch the balance of the game around?
+
+
+
+Note about 1.20:
+--------------------------------------------------
+
+Very fun deck to play.
+The deck seems to have an answer to everything so far.
+Still some problem with tempered steel when they start with the nuts hand... but overall very good.
+I just wish they were more proliferate going on.
+Maybe try to fit on Contagion Engine in the deck. (or clasp)
+
+
 
 Note about 1.10:
 --------------------------------------------------
