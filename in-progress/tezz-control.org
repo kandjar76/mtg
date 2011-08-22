@@ -92,6 +92,163 @@ Changes 1.21 -> 1.30
 +3 Solemn Simulacrum
 +1 Everflowing Chalice
 
+Here are the summary of the changes since the latest version (w/ explanation):
+
+Changes of draw spells:
+-2 Tezzeret's Gambit
++2 Jace Beleren
+
+Draw two cards is always nice; I'm definitively looking for card advantage.
+I had 3 options: tezz gambit, divination, and Jace B.
+I tried Tezz Gambit for a while knowing that I'll very often pay the 2 life (actually I don't think I ever casted it w/ 4 mana)
+I did like the proliferate aspect of it. Especially for tumble magnet since I wasn't running any kill spell.
+
+At the end, the two life were somewhat of a burden. Sure I had lifelink creatures... But it didn't help enough especially against aggro.
+
+Therefore it's time to try something else:
+Divination or Jace B... Honnestly between the 2, I prefer JaceB a lot.. EXCEPT for its 2 hard blue mana in its casting cost.
+I still opted for him for now, for one reason: Because I'm running Jace Memory Adept; and I want to avoid having a simily dead card because my
+opponent has a lots of jaces in his deck.. (UW and UB control). Kind of back to the "jace war" era.
+
+I'm hopping the casting cost isn't gonna be too much of a burden otherwise I'll probably switch to somethign else.
+
+I need kill spells
++2 Dismember
+-1 Phyrexian Metamorph
+-1 Batterskull
+
+I've said this before when I presented the previous version of the deck, but this time it's even more critical... No early proliferate...
+Therefore a slightly weaker Tumble magnet.
+Looking at my choices: Doom Blade, Dismember, Go for the throat, and clasp.
+I know a lot of people love clasp, but:
+- It only kill small creatures (unless u proliferate for a while)
+- 4 to proliferate is quite a bit (but will reduce overtime if chalice is out)
+- It's not an instant!! (probably its major draw back -- why can't artifact have flash )
+For the proliferate I was running at the time: contagion engine... So it was less interesting.
+Because of that, I decided to put it aside. [for now]
+
+Remain the classic: Gfft, DB, and Dismember.
+
+Since it's a main board card I'm looking for and I want to to be able to answer many threats for cheap.
+I put DB and Gfft aside: DB doesn't kill obliterator, and other nasty vamps, Gfft doesn't take care of Spellskite which is annoying when you want to turn some art into 5/5.
+Remain: Dismember.
+
+I wanted 2 or 3 of them.
+Looking at the original deck, it had a fair amount of mass destruction therefore since the spots for new cards are tight, I decided to go for 2.
+The good thing: I had 2 in my SB; so first thing first: were there any card which should be better in the SB than in the MB?
+
+Yes there were:
+- Phyrexian Metamorph, and Batterskull.
+Both are more SB cards to me than MB. (I used to run 4 metamorph and 2 batterskull MB, so it's not like I didn't try them)
+
+The reasons for metemorph:
+- Metamorph is 4(3ish) CMC; so you want to copy something higher casting cost -> TITAN! or wurmcoil.
+- Against aggro, metamoprh is utterly useless.
+- Against twin? useless; against kodoltha? useless; against infect? same.
+There are too many deck against which this card is gonna rely on what you have out and now what your opponent have.
+May not be bad; but very situational. So I'd rather SBing it rather than MBing it.
+
+Regarding Batterskull:
+- I found out that it's mainlty useful against control.
+- it does look good on paper against aggro... But at the end... it cost too much and arrive too late (and also often get dismembered the turn you played it which leave you dead)
+Again: doesn't feel good enough in general cases to be MBed.... (If only dismember wasn't in EVERY single decks)
+
+I need a better defense against aggro
+-3 spellskite
++3 solemn simulacrum
+
+That is the usually plan right?
+After looking back at my deck, I was happy with the kills... But not with my defense...
+Spellskite is awesome don't take me wrong; but too many time it bugs me that it didn't kill anything.
+
+I felt again that I wanted this card in my SB rather than in my MB.
+Potentially a big mistake... Playtesting will tell me the result.
+
+First half of the decision being made, it was a matter of: what to replace spellskite with.
+What did I wanted to do... Mainly bringing a wall agaisnt aggro decks. Let them feel the impact of their attack a bit more.
+My first thought: I need to replace it by 3 artifacts... I already lost 2 of them can't go lower than that.
+
+My first two initial thoughts were:
+How about: Porcelain Legionnair or hovermyr..
+One will be able to block RDW and the other one can block flying..
+
+Ok, hovermyr was very quikcly out. I mean: I'd be better of with vault skirge at that point
+Porcelain is quite interesting, since I don't run white at all. it's basically a 3/1 first strike for 2 mana and 2 life...
+A nice defensive guy against RDW. On the other hand he has three down sides:
+- I'll have to pay two lifes
+- He doesn't block flying -- almost useless against hawkward
+- He has no defense.. and so will die quickly to any pinger..
+
+So at the end replacing well known useful creature by a half potentially useful creature wasn't too appealing.
+This is where I came back to solemn.
+
+I'm still not sure if it's the right move; I'll just have to try it out.
+
+Some small mana change
+-1 drowned catacomb
++1 everflowing chalice
+
+In order to make solemn more useful; I want to be able to cast him on turn 3 more often
+This is why I opted to replace Drowned Catacomb by a 4th chalice.
+
+the last but not least
+-1 Contagion Engine
++1 Life's Finale
+
+Adding the dismember, removing tezz gambit; I may not be in need for proliferate anymore.
+So instead I choose to switch to Life's Finale.
+
+Removing 3 of their threatening creature is nice; but more importantly (at least to me): you get to look at their entire deck.
+In game1 it's very useful information, since you can prepare you SB for what to expect (including: what to call with Memoricide)
+
+
+
+Regarding the SB
+
+First obvious thing: I need to make room spellskite.
+Also: there is one spell, since I removed it, I felt it was missing: Surgical Extraction.
+
+Some people may say that Surgical Extraction and Memoricide play the same role; I disagree!
+Their impact on your opponent's deck/hand may be the same, but the way to play them is different.
+
+Memoricide is more a way to remove critical threat; where as surgical extractio will more often be used to remove annoyances.
+
+For example:
+Against UW; I would use memorice on Gideon to prevent him from being played completely! Whereas: I will cast surgical extraction to remove their mana leak or an o-ring from the game.
+Of course if a Gideon hits the graveyard, I will prefer choosing it. But I'm not gonna wait to see it in there to cast the extraction spell.
+
+At the end: I'm going to go 2 Memoricide and 2 surgical extraction.
+
+--
+
+Changes that have already been made
+-2 Dismember (->MB)
++1 Phyrexian Metamorph (<-MB)
++1 Batterskull (<-MB)
+
+
+Inserting Surgical Extraction to the SB
+-2 Mental Misstep
++2 Surgical Extraction
+
+With 6 counters main board and 3 hand disruptions; I've been wondering when I would board Mental Misstep. Against quest? Beside that... I think the deck has enough answer to now be in need for this one.
+
+Now Spellskite
+-1 Consume the meek
+-1 Life Finale
++2 Spellskite
+
+Well, there is already 1 life finale in the Main deck; I think that's enough.
+With 2 RB, 1 BSZ to board in against fast aggro; I think there is room for only 1 CTM (which probably's gonna replace LF)
+
+Hey, I don't see Batterskull in the SB
+-1 Batterskull
++1 Sword of Feast and Famine
+
+Well that's true; I've been debating the use of Batterskull; as a 4/4... I'm not impressed.
+Equipping Inkmoth; lovely! But 5 mana is a lot.
+
+Instead of playing with Batterskull in the SB; I'm gonna try to play with the Sword of Feast and Famine instead
 
 
 
