@@ -1,41 +1,38 @@
-Tezz-Control v1.21
+Tezz-Control v1.30
 
 | 0 | 1 |  2 | 3 | 4 | 5 | 6 |
 |---+---+----+---+---+---+---|
 | 6 | 2 | 12 | 3 | 5 | 2 | 5 |
 
-|    | *Planeswalkers: 4*        |           |        |                                                                                                                                                                  |
+|    | *Planeswalkers: 6*        |           |        |                                                                                                                                                                  |
 |  3 | Tezzeret, Agent of Bolas  | 2UB       | plwr 3 | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
 |  1 | Jace, Memory Adept        | 3UU       | plwk 4 | +1: draw, tgt player put top card of lib in graveyard -- 0: mill 10 -- -7: any number of player each draws 20 cards                                              |
+|  2 | Jace Beleren              | 1UU       | plwk 3 | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Control Spells: 12*      |           |        |                                                                                                                                                                  |
+|    | *Control Spells: 17*      |           |        |                                                                                                                                                                  |
 |  4 | Mana Leaks                | 1U        | inst   | Counter tgt spell unless its controller pay 3                                                                                                                    |
 |  2 | Spell Pierce              | U         | inst   | Counter tgt non creat spell unless its controller pays 2                                                                                                         |
 |  3 | Inquisition of Kozilek    | B         | sorc   | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |  3 | Tumble Magnet             | 3         | art    | Comes w/ 3 coutners -- t, rem counter: tap tgt creat                                                                                                             |
 |  2 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
-|  1 | Contagion Engine          | 6         | art    | Put a -1c on each creat opp controls -- 4: proliferate, then proliferate                                                                                         |
+|  1 | Life Finale               | 4BB       | sorc   | Destroy all creatures, search opp lib for up to 3 creats and exile them                                                                                          |
+|  2 | Dismember                 | 1{bp}{bp} | inst   | Tgt creats gets -5/-5                                                                                                                                            |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Draw factor: 7*          |           |        |                                                                                                                                                                  |
+|    | *Draw factor: 5*          |           |        |                                                                                                                                                                  |
 |  2 | Consecrated Sphinx        | 4UU       | 4/6    | Flying -- Whenever an opponent draws, you may draw 2 cards                                                                                                       |
-|  2 | Tezzeret's Gambit         | 3{pu}     | sorc   | Draw 2 cards then proliferate                                                                                                                                    |
 |  3 | Preordain                 | U         | sorc   | Scry 2 then draw                                                                                                                                                 |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Artifacts Creats: 6*     |           |        |                                                                                                                                                                  |
+|    | *Artifacts Creats: 5*     |           |        |                                                                                                                                                                  |
 |  2 | Wurmcoil Engine           | 6         | 6/6    | Deathtouch, Lifelink -- When put to grave: put one 3/3 tok with deathtouch and one 3/3 tok with lifelink into play                                               |
-|  3 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
-|  1 | Phyrexian Metamorth       | 3{up}     | 0/0    | Enter play as a copy of tgt art or creat                                                                                                                         |
+|  3 | Solemn Simulacrum         | 4         | 2/2    | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Equipments: 1*           |           |        |                                                                                                                                                                  |
-|  1 | Batterskull               | 5         | eqp 5  | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
+|    | *Mana Boost: 4*           |           |        |                                                                                                                                                                  |
+|  4 | Everflowing Chalice       | 0         | art    | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                  |
 |    |                           |           |        |                                                                                                                                                                  |
-|    | *Mana Boost: 3*           |           |        |                                                                                                                                                                  |
-|  3 | Everflowing Chalice       | 0         | art    | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                  |
-|    |                           |           |        |                                                                                                                                                                  |
-|    | *Lands: 24*               |           |        |                                                                                                                                                                  |
+|    | *Lands: 23*               |           |        |                                                                                                                                                                  |
 |  4 | Creeping Tar Pit          |           | land   | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                                                 |
 |  4 | Darkslick Shores          |           | land   | enter tapped if u control 3+ land -- t: add U or B                                                                                                               |
-|  4 | Drowned Catacomb          |           | land   | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
+|  3 | Drowned Catacomb          |           | land   | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
 |  4 | Inkmoth Nexus             |           | land   | t: add 1 -- 1: becomes a 1/1 infect art w/ flying                                                                                                                |
 |  2 | Tectonic Edge             |           | land   | t: add 1 -- 1, t, sacr: destroy non basic land (only if opp has 4+ land)                                                                                         |
 |  3 | Swamp                     |           | land   |                                                                                                                                                                  |
@@ -45,19 +42,19 @@ Tezz-Control v1.21
 |  1 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |  2 | Ratchet Bomb              | 2         | art    | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  3 | Torpor Orb                | 2         | art    | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
-|  2 | Mental Misstep            | {up}      | inst   | Counter tgt spell with CMC 1                                                                                                                                     |
+|  2 | Surgical Extraction       | {bp}      | inst   | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
 |  2 | Memoricide                | 3B        | sorc   | Name a non-land card, search hand, lib and graveyard for any number card matching the name and exile them                                                        |
-|  2 | Dismember                 | 1{bp}{bp} | inst   | Tgt creats gets -5/-5                                                                                                                                            |
-|  2 | Consume the Meek          | 3BB       | inst   | Destroy creatures w/ CMC <= 3                                                                                                                                    |
-|  1 | Life Finale               | 4BB       | sorc   | Destroy all creatures, search opp lib for up to 3 creats and exile them                                                                                          |
+|  1 | Consume the Meek          | 3BB       | inst   | Destroy creatures w/ CMC <= 3                                                                                                                                    |
+|  1 | Phyrexian Metamorth       | 3{up}     | 0/0    | Enter play as a copy of tgt art or creat                                                                                                                         |
+|  1 | Sword of Feast and Famine | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
+|  2 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Phyrexia's Core           |           | land   | t: add 1 -- 1, t, sacr an art: you gain 1 life                                                                                                                   |
-|    | Solemn Simulacrum         | 4         | 2/2    | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
 |    | Inquisition of Kozilek    | B         | sorc   | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |    | Vault Skirge              | 1{bp}     | 1/1    | flying, lifelink                                                                                                                                                 |
-|    | Sword of Feast and Famine | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
 |    | Sword of War and Peace    | 3         | eqp 2  | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
-| SB | Surgical Extraction       | {bp}      | inst   | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
+| SB | Batterskull               | 5         | eqp 5  | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
+| SB | Mental Misstep            | {up}      | inst   | Counter tgt spell with CMC 1                                                                                                                                     |
 | SB | Sword of Body and Mind    | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf into play and mill 10 cards                                                      |
 | MB | Prophetic Prism           | 2         | art    | When enter: draw -- 1, t: add 1 mana any color to mana pool                                                                                                      |
 | SB | Doom blade                | 1B        | inst   | Destroy tgt non black creature                                                                                                                                   |
@@ -70,6 +67,31 @@ Tezz-Control v1.21
 |    | Contagious Engine         | 6         | art    | When enter: put -1 on each creat opp control -- 4: proliferate then proliferate                                                                                  |
 |    | Jace Beleren              | 1UU       | plwk 3 | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                                         |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+Post tournament comments:
+--------------------------------------------------
+The deck was really fun to play and felt well balanced.
+
+Regarding the SB, I think it needs a slight update.
+Sword of F&F should leave (if I don't put it the MB there's no reason to put it in the SB)
+I'm still not sure about CtM or RB; A 4th BSZ may be welcome.
+
+
+Changes 1.21 -> 1.30
+--------------------------------------------------
+-1 Contagion Engine
+-2 Tezz Gambit
+-3 Spellskite
+-1 Phyrexian Metamorph
+-1 Batterskull
+-1 Drowned Catacomb
++2 Jace Beleren
++1 Life Finale
++2 Dismember
++3 Solemn Simulacrum
++1 Everflowing Chalice
+
 
 
 
