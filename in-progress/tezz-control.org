@@ -1,4 +1,4 @@
-Tezz-Control v1.30
+Tezz-Control v1.31
 
 | 0 | 1 |  2 | 3 | 4 | 5 | 6 |
 |---+---+----+---+---+---+---|
@@ -39,22 +39,21 @@ Tezz-Control v1.30
 |  3 | Island                    |           | land   |                                                                                                                                                                  |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*               |           |        |                                                                                                                                                                  |
-|  1 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
+|  2 | Black Sun's Zenith        | xBB       | sorc   | Each creats gets X -1/-1c -- Shuffle it to lib                                                                                                                   |
 |  2 | Ratchet Bomb              | 2         | art    | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  3 | Torpor Orb                | 2         | art    | Creatures entering the battlefield don't cause abilities to trigger                                                                                              |
-|  2 | Surgical Extraction       | {bp}      | inst   | Exile tgt card in graveyard, search lib and hand for dup of this cards and exile them                                                                            |
-|  2 | Memoricide                | 3B        | sorc   | Name a non-land card, search hand, lib and graveyard for any number card matching the name and exile them                                                        |
 |  1 | Consume the Meek          | 3BB       | inst   | Destroy creatures w/ CMC <= 3                                                                                                                                    |
 |  1 | Phyrexian Metamorth       | 3{up}     | 0/0    | Enter play as a copy of tgt art or creat                                                                                                                         |
-|  1 | Sword of Feast and Famine | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
-|  2 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
+|  3 | Spellskite                | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
+|  3 | Mental Misstep            | {up}      | inst   | Counter tgt spell with CMC 1                                                                                                                                     |
 |----+---------------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Phyrexia's Core           |           | land   | t: add 1 -- 1, t, sacr an art: you gain 1 life                                                                                                                   |
+|    | Memoricide                | 3B        | sorc   | Name a non-land card, search hand, lib and graveyard for any number card matching the name and exile them                                                        |
 |    | Inquisition of Kozilek    | B         | sorc   | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                |
 |    | Vault Skirge              | 1{bp}     | 1/1    | flying, lifelink                                                                                                                                                 |
+|    | Sword of Feast and Famine | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                                        |
 |    | Sword of War and Peace    | 3         | eqp 2  | Eqp creat gets +2/+2 prot red/white and when deals cmbt damage: u gain life eqp to hand size, opp looses life eqp to his hand size                               |
 | SB | Batterskull               | 5         | eqp 5  | Living weap -- Eqp gets: +4/+4 lifelink, vig -- 3: return batterskull to hand                                                                                    |
-| SB | Mental Misstep            | {up}      | inst   | Counter tgt spell with CMC 1                                                                                                                                     |
 | SB | Sword of Body and Mind    | 3         | eqp 2  | Eqp creat gets +2/+2 prot green/blue and when deals cmbt damage: put a 2/2 wolf into play and mill 10 cards                                                      |
 | MB | Prophetic Prism           | 2         | art    | When enter: draw -- 1, t: add 1 mana any color to mana pool                                                                                                      |
 | SB | Doom blade                | 1B        | inst   | Destroy tgt non black creature                                                                                                                                   |
