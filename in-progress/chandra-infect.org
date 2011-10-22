@@ -1,0 +1,41 @@
+Chandra's infection
+
+
+|    | *Planeswalker: 5*            |       |          |                                                                                                                     |
+|  4 | Chandra, the Firebrand       | 3R    | plwk 3   | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts |
+|  1 | Liliana Veil                 | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one   |
+|    |                              |       |          |                                                                                                                     |
+|    | *Chandra's -2 helper: 9*     |       |          |                                                                                                                     |
+|  3 | Volt Charge                  | 2R    | inst     | Deal 3 damage to tgt creat or player then proliferate                                                               |
+|  3 | Tezzeret Gambit              | 3{up} | sorc     | Draw 2 cards, then proliferate                                                                                      |
+|  3 | Slagstorm                    | 1RR   | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                    |
+|    |                              |       |          |                                                                                                                     |
+|    | *Other kill spell: 9*        |       |          |                                                                                                                     |
+|  1 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
+|  3 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
+|  3 | Virulent Wound               | B     | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                       |
+|  2 | Dismember                    | 1bb   | inst     | Tgt creat gets -5/-5                                                                                                |
+|    |                              |       |          |                                                                                                                     |
+|    | *Creatures: 15*              |       |          |                                                                                                                     |
+|  4 | Phyrexian Crusader           | 1BB   | 2/2      | First strike, infect -- Prot red/white                                                                              |
+|  2 | Skithiryx, the Blight Dragon | 3BB   | 4/4 fly  | infect -- B: gain hast -- BB: regenerate                                                                            |
+|  4 | Necropede                    | 2     | 1/1      | infect -- When dies: u may put a -1c on tgt creature                                                                |
+|  4 | Plague Myr                   | 2     | 1/1      | infect -- t: add 1 to mana pool                                                                                     |
+|    |                              |       |          |                                                                                                                     |
+|    | *Land: 23*                   |       |          |                                                                                                                     |
+|  4 | Inkmoth Nexus                |       | land     | t: add 1 -- 1: becomes a 1/1 flying infect                                                                          |
+|  4 | Blackcleave Cliff            |       | Land     | t: add R or B -- Comes tapped unless u control 2 or less other lands                                                |
+|  4 | Dragonskull Summit           |       | Land     | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                    |
+|  1 | Drowned Catacomb             |       | land     | t: add B or U -- Comes tapped unless u control Swamp or Island                                                      |
+|  1 | Woodland Cemetary            |       | land     | t: add B or G -- Comes tapped unless u control Swamp or Forest                                                      |
+|  1 | Sulfur Falls                 |       | land     | t: add U or R -- Comes tapped unless u control Island or Mountain                                                   |
+|  5 | Swamp                        |       | Bas Land |                                                                                                                     |
+|  3 | Mountain                     |       | Bas Land |                                                                                                                     |
+|----+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
+|  2 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
+|  2 | Hex Parasite                 | 1     | 1/1      | x{bp}: Remove up to X counter from tgt perm, he gets +X/0                                                           |
+|  3 | Ancient Grudge               | 1R    | inst     | Flashback G -- Destroy tgt art                                                                                      |
+|  2 | Black Sun's Zenith           | xBB   | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                      |
+|  3 | Tribute to Hunger            | 2B    | inst     | Tgt opp sacr a creat -- You gain life equals to its toughness                                                       |
+|  3 | Nihil Spellbomb              | 1     | art      | t, sacr it: exile all cards from tgt player graveyard (when put to grave, u may pay B if u do, draw)                |
+|----+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
