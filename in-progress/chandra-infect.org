@@ -2,8 +2,8 @@ Chandra's infection
 
 
 |    | *Planeswalker: 5*            |       |          |                                                                                                                     |
-|  4 | Chandra, the Firebrand       | 3R    | plwk 3   | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts |
-|  1 | Liliana Veil                 | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one   |
+|  3 | Chandra, the Firebrand       | 3R    | plwk 3   | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts |
+|  2 | Liliana Veil                 | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one   |
 |    |                              |       |          |                                                                                                                     |
 |    | *Chandra's -2 helper: 9*     |       |          |                                                                                                                     |
 |  3 | Volt Charge                  | 2R    | inst     | Deal 3 damage to tgt creat or player then proliferate                                                               |
