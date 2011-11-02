@@ -1,0 +1,82 @@
+Ghost-Blade v1.0
+
+
+|   | *Creatures: 11*           |      |          |                                                                                                                                           |
+| 2 | Sun Titan                 | 4WW  | 6/6 vig  | When enter or attacks: return tgt perm w/ CMC <3 from grave to play                                                                       |
+| 3 | Geist of Saint Traft      | 1UW  | 2/2      | hexproof -- when attack: Put a 4/4 angel flying token attacking, exile the token at end of combat                                         |
+| 3 | Snapcaster Mage           | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                |
+| 2 | Consecrated Sphinx        | 4UU  | 4/6 fly  | When opp draw, u may draw 2                                                                                                               |
+| 1 | Phantasmal Image          | 1U   | 0/0      | Enter as a copy of creature --- When targetted: sacr it.                                                                                  |
+|   |                           |      |          |                                                                                                                                           |
+|   | *Planeswalkers: 2*        |      |          |                                                                                                                                           |
+| 2 | Gideon Jura               | 3WW  | pl-wkr 6 | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him |
+|   |                           |      |          |                                                                                                                                           |
+|   | *Control Spells: 13*      |      |          |                                                                                                                                           |
+| 3 | Mana leak                 | 1U   | inst     | Counter tgt spell unless its controller pays 3                                                                                            |
+| 3 | Dissipate                 | 1UU  | inst     | Counter tgt spell, exile it.                                                                                                              |
+| 3 | Day of Judgement          | 2WW  | sorc     | Destroy all creatures                                                                                                                     |
+| 2 | Oblivion Ring             | 2W   | ench     | When enter: exile tgt perm -- When leave: return tgt perm to play                                                                         |
+| 2 | Surgical Extraction       | {bu} | inst     | Exile target card and all cards w/ same name from hand and lib                                                                            |
+|   |                           |      |          |                                                                                                                                           |
+|   | *Fetcher 6*               |      |          |                                                                                                                                           |
+| 4 | Think twice               | 1U   | inst     | Draw a card -- Flashback: 2U                                                                                                              |
+| 2 | Forbidden Alchemy         | 2U   | inst     | Look top 4 cards, put one in hand, rest in graveyard -- Flashback: 6B                                                                     |
+|   |                           |      |          |                                                                                                                                           |
+|   | *Sword / Aura 4*          |      |          |                                                                                                                                           |
+| 2 | Sword of Feast and Famine | 3    | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                 |
+| 2 | Angelic Destiny           | 2WW  | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                       |
+|   |                           |      |          |                                                                                                                                           |
+|   | *Lands 24*                |      |          |                                                                                                                                           |
+| 4 | Seachrome Coast           |      | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                      |
+| 4 | Glacial Fortress          |      | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
+| 2 | Drowned Catacomb          |      | land     | comes tapped unless u control a island or a swamp -- t: add U or B                                                                        |
+| 3 | Ghost Quarter             |      | land     | t: add 1 -- t, sacr it: destroy tgt land, it's owner search basic land and put it into play                                               |
+| 4 | Plain                     |      | bas land |                                                                                                                                           |
+| 7 | Island                    |      | bas land |                                                                                                                                           |
+|---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Sideboard*               |      |          |                                                                                                                                           |
+| 2 | Nihil Spellbomb           | 1    | art      | t, sacr it: exile tgt player's graveyard -- when put to graveyard, u may pay B if u do, draw                                              |
+| 2 | Flash freeze              | 1U   | inst     | Counter tgt red or green spell                                                                                                            |
+| 1 | Angelic Destiny           | 2WW  | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                       |
+| 2 | Spirit Mantle             | 1W   | aura     | Eqp gets +1/+1 and prot creatures                                                                                                         |
+| 2 | Disperse                  | 1U   | inst     | Return tgt non land perm to owner's hand                                                                                                  |
+| 2 | Timely Reinforcement      | 2W   | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                               |
+| 2 | Ratchet Bomb              | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
+| 2 | Mental Misstep            | {up} | inst     | Counter tgt spell with CMC 1                                                                                                              |
+|---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
+
+Note regarding the SB:
+
+| Cards to add            | Cards to remove                            | Against?               |
+| +2 Nihil Spellbomb      | -2 fetcher/counter spell                   | Solar Flare            |
+| +2 Flash Freeze         | -2 counter spell                           | Wolf Run               |
+| +3 Angelic Destiny      | -2 Spirit Mantle -1 think twice (probably) | Wolf Run               |
+| +2 Disperse             | -2 Surgical Extraction                     | Aggro                  |
+| +2 Timely Reinforcement | -2 O-Ring                                  | GW-Tok / RDW / W-Human |
+| +2 Ratchet Bomb         | -2 O-Ring                                  | GW-Tok / RDW / W-Human |
+| +2 Mental Misstep       | -2 fetcher/counter spell                   | Solar Flare / MBC / WH |
+
+
+
+
+
+
+
+
+|---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Day of Judgement          | 2WW  | sorc     | Destroy all creatures                                                                                                                           |
+| 2 | Divine Offering           | 1W   | inst     | Destroy tgt artifact, u gain life equal to its CMC                                                                                              |
+|   |                           |      |          |                                                                                                                                                 |
+| 2 | Surgical Extraction       | {bu} | inst     | Exile target card and all cards w/ same name from hand and lib                                                                                  |
+| 2 | Leonin Arbiter            | 1W   | 2/2      | Player can't search -- any players may pay 2 to ignore this effect                                                                              |
+| 1 | Sword of War and Peace    | 3    | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
+| 1 | Divine Reckoning          | 2WW  | sorc     | Each player choose a creat / sacr the rest -- Flashback: 5WW                                                                                    |
+| 3 | Ponder                    | U    | inst     | Look top 3 cards, put back in any order, u may shuffle your lib, then draw                                                                      |
+| 2 | Venser the Sojourner      | 3WU  | pl-wkr 3 | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                        |
+|   |                           |      |          |                                                                                                                                                 |
+| 2 | Unburial Rites            | 5B   | sorc     | Return tgt creat from graveyard to play -- Flashback 4W                                                                                         |
+| 2 | Altar's Reap              | 1B   | inst     | Add cost: sacr a creat -- Draw 2 cards                                                                                                          |
+| 1 | Grimgrin, Corpse-Born     | 3UB  | 5/5 leg  | Enter tapped -- Sacr another creat: untap him, puit--                                                                                           |
+| 2 | Evil Twin                 | 2UB  | 0/0      | Enter the battlefield as a copy of another creat and gain: "UB, t: destroy tgt creature w/ the same name"                                       |
+| 2 | Liliana of the Veil       | 1BB  | pl-wkr 3 | +1: Each player discard -- -2: Tgt player sacr a creat -- -6: Separate all perm of tgt player into two piles, he chooses 1 pile, sacr the other |
+|---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
