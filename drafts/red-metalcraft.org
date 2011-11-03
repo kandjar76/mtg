@@ -1,0 +1,25 @@
+| 1 | Koth of the Hammer       | 2RR  | pln wlkr (3)  | +1: untap mountain, becomes a 4/4 until eot -- -2: add R for each mountain -- -5: each mountain can ping |
+| 1 | Mox Opal                 | 0    | art           | metalcraft: t: add 1 mana any color to mana pool                                                         |
+|   |                          |      |               |                                                                                                          |
+| 2 | Bloodshot Trainee        | 3R   | 2/3           | t: deal 4 damage (need to be at least 4 in power)                                                        |
+| 2 | Spikeshot Elder          | R    | 1/1           | 1RR: deals damage equal to its power                                                                     |
+| 3 | Iron Myr                 | 2    | 1/1 art       | t: add R to mana pool                                                                                    |
+| 2 | Etched Champion          | 3    | 2/2           | metalcraft: prot from all colors                                                                         |
+| 2 | Linewire Lash            | 2    | eqp 2         | eqp creats gets +2/0 and "whenever becomes tgt spell -> deals two damage"                                |
+| 2 | Ember Smith              | 1R   | 2/1           | whenever u play an art, u may pay 1 to deal 1 damage                                                     |
+| 3 | Darksteel Axe            | 1    | eqp 2         | eqp creats gets +2/0                                                                                     |
+| 2 | Arc Trail                | 1R   | sorc          | deals 2 damage and 1 damage to two different tgt creats and/or player                                    |
+| 3 | Galvanic Blast           | R    | inst          | deals 2 damage -- metalcraft: deals 4 damage                                                             |
+| 3 | Assault Strobe           | R    | sorc          | tgt creats gain double strike                                                                            |
+| 2 | Blade-Tribe Bersekers    | 3R   | 3/3           | metalcraft: gain +3/+3 and haste                                                                         |
+|   |                          |      |               |                                                                                                          |
+| 1 | Kudotha Phoenix          | 2RRR | 4/4 fly haste | metalcraft: 4: return him to play from graveyard, use only during upkeep                                 |
+|   |                          |      |               |                                                                                                          |
+| + | Some infect spells/crats |      |               |                                                                                                          |
+
+Too many thing in one deck:
+ - infect has to go (already making a black deck with it)
+ - I need to decide if I go for metalcraft or ping...
+ - I'm thinking about going red / instant ping/damage deck
+
+Maybe the best way to go is: sacrifice artifact/red deck
