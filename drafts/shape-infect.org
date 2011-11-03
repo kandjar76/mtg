@@ -1,0 +1,40 @@
+|    | *Gets the combo ready 8*   |    |          |                                                                                                                 |
+|  4 | Shape Anew                 | 3U | sorc     | The controller of tgt art sacr it, then reveals cards from top of lib until he reveals an art. Put it into play |
+|  4 | Trinket Mage               | 2U | 2/2      | When enter, search lib for an art which cost 1 or less, put into hand.                                          |
+|    |                            |    |          |                                                                                                                 |
+|    | *Way to shuffle BC back 8* |    |          |                                                                                                                 |
+|  4 | Enclave Cryptologist       | U  | 0/1      | levelup(1U) -- [1-2] 0/1 t: draw and discard -- 0/1 [3+]: draw                                                  |
+|  4 | See Beyond                 | 1U | sorc     | Draw two cards, then shuffle one into lib                                                                       |
+|    |                            |    |          |                                                                                                                 |
+|    | *Draws 8*                  |    |          |                                                                                                                 |
+|  3 | Sea Gate Oracle            | 2U | 1/3      | When enter, look top 2 cards, put one in hand, one on the bottom of lib                                         |
+|  3 | Preordain                  | U  | sorc     | Scry 2 then draw                                                                                                |
+|    |                            |    |          |                                                                                                                 |
+|    | *Finisher*                 |    |          |                                                                                                                 |
+|  2 | Distortion Strike          | U  | sorc     | Rebound -- Tgt creat gets +1/0 and is unblocklable                                                              |
+|    |                            |    |          |                                                                                                                 |
+|    | *Counter Spell 14*         |    |          |                                                                                                                 |
+|  4 | Spell Pierce               | U  | inst     | Counter tgt non creat spell unless its controller pays 2                                                        |
+|  3 | Turn aside                 | U  | inst     | Counter tgt spell that tgt a perm u control                                                                     |
+|  3 | Negate                     | 1U | inst     | Counter tgt non creat spell                                                                                     |
+|  4 | Mana leak                  | 1U | inst     | Counter tgt spell unless controller pays 3                                                                      |
+|    |                            |    |          |                                                                                                                 |
+|    | *Artifact 2*               |    |          |                                                                                                                 |
+|  1 | Brightsteel Colossus       | 12 | 11/11    | Indestructible, trample, infect -- If put to graveyard: shuffle into lib                                        |
+|  1 | Everflowing Chalice        | 0  | art      | Multikick 2 -- Enter with X charges (kicked X times) -- t: add X to mana pool                                   |
+|    |                            |    |          |                                                                                                                 |
+|    | *Land*                     |    |          |                                                                                                                 |
+|  4 | Inkmoth Nexus              |    | land     | t: add 1 -- 1: becomes a 1/1 flying art w/ infect                                                               |
+| 12 | Island                     |    | bas land | t: add U                                                                                                        |
+|  4 | Tectonite Edge             |    | land     | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                            |
+|----+----------------------------+----+----------+-----------------------------------------------------------------------------------------------------------------|
+|  1 | Expedition Map             | 1  | art      | 2,t: sacr it, gain 5 life, then shuffle graveyard into lib                                                      |
+|  1 | Darksteel Axe              | 1  | eqp 2    | Indestructible -- Equip creats gets +2/0                                                                        |
+|  4 | Dispel                     | U  | inst     | Counter tgt instant spell                                                                                       |
+|  4 | Flashfreeze                | 1U | inst     | Counter tgt green or red spell                                                                                  |
+|  4 | Steel Sabotage             | U  | inst     | Choose one: Counter tgt art spell or return tgt art to hand                                                     |
+|----+----------------------------+----+----------+-----------------------------------------------------------------------------------------------------------------|
+
+
+Dispell: use against control deck to prevent getting countered.
+Flashfreeze: gain time against ramp deck
