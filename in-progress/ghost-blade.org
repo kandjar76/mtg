@@ -31,30 +31,30 @@ Ghost-Blade v1.0
 | 4 | Glacial Fortress          |      | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                          |
 | 2 | Drowned Catacomb          |      | land     | comes tapped unless u control a island or a swamp -- t: add U or B                                                                        |
 | 3 | Ghost Quarter             |      | land     | t: add 1 -- t, sacr it: destroy tgt land, it's owner search basic land and put it into play                                               |
-| 4 | Plain                     |      | bas land |                                                                                                                                           |
-| 7 | Island                    |      | bas land |                                                                                                                                           |
+| 5 | Plain                     |      | bas land |                                                                                                                                           |
+| 6 | Island                    |      | bas land |                                                                                                                                           |
 |---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*               |      |          |                                                                                                                                           |
 | 2 | Nihil Spellbomb           | 1    | art      | t, sacr it: exile tgt player's graveyard -- when put to graveyard, u may pay B if u do, draw                                              |
 | 2 | Flash freeze              | 1U   | inst     | Counter tgt red or green spell                                                                                                            |
 | 1 | Angelic Destiny           | 2WW  | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                       |
 | 2 | Spirit Mantle             | 1W   | aura     | Eqp gets +1/+1 and prot creatures                                                                                                         |
+| 2 | Midnight Haunting         | 2W   | inst     | Put two 1/1 spirit flying token into play                                                                                                 |
 | 2 | Disperse                  | 1U   | inst     | Return tgt non land perm to owner's hand                                                                                                  |
-| 2 | Timely Reinforcement      | 2W   | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                               |
 | 2 | Ratchet Bomb              | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                        |
 | 2 | Mental Misstep            | {up} | inst     | Counter tgt spell with CMC 1                                                                                                              |
 |---+---------------------------+------+----------+-------------------------------------------------------------------------------------------------------------------------------------------|
 
 Note regarding the SB:
 
-| Cards to add            | Cards to remove                            | Against?               |
-| +2 Nihil Spellbomb      | -2 fetcher/counter spell                   | Solar Flare            |
-| +2 Flash Freeze         | -2 counter spell                           | Wolf Run               |
-| +3 Angelic Destiny      | -2 Spirit Mantle -1 think twice (probably) | Wolf Run               |
-| +2 Disperse             | -2 Surgical Extraction                     | Aggro                  |
-| +2 Timely Reinforcement | -2 O-Ring                                  | GW-Tok / RDW / W-Human |
-| +2 Ratchet Bomb         | -2 O-Ring                                  | GW-Tok / RDW / W-Human |
-| +2 Mental Misstep       | -2 fetcher/counter spell                   | Solar Flare / MBC / WH |
+| Cards to add         | Cards to remove           | Against?               |
+| +2 Nihil Spellbomb   | -2 fetcher/counter spell  | Solar Flare            |
+| +2 Flash Freeze      | -2 counter spell          | Wolf Run               |
+| +1 Angelic Destiny   | -1 think twice (probably) | Wolf Run               |
+| +2 Disperse          | -2 Surgical Extraction    | Aggro                  |
+| +2 Ratchet Bomb      | -2 O-Ring                 | GW-Tok / RDW / W-Human |
+| +2 Mental Misstep    | -2 fetcher/counter spell  | Solar Flare / MBC / WH |
+| +2 Midnight Haunting | -2 ???                    | MBC / Solar Flare      |
 
 
 
@@ -67,6 +67,7 @@ Note regarding the SB:
 | 1 | Day of Judgement          | 2WW  | sorc     | Destroy all creatures                                                                                                                           |
 | 2 | Divine Offering           | 1W   | inst     | Destroy tgt artifact, u gain life equal to its CMC                                                                                              |
 |   |                           |      |          |                                                                                                                                                 |
+| 2 | Timely Reinforcement      | 2W   | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                               |
 | 2 | Surgical Extraction       | {bu} | inst     | Exile target card and all cards w/ same name from hand and lib                                                                                  |
 | 2 | Leonin Arbiter            | 1W   | 2/2      | Player can't search -- any players may pay 2 to ignore this effect                                                                              |
 | 1 | Sword of War and Peace    | 3    | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
