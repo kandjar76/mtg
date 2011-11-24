@@ -1,0 +1,42 @@
+|   | *Main Threat*          |           |         |                                                                                                                     |
+| 3 | Phyrexian Obliterator  | BBBB      | 5/5     | Trample, when dealt damage, its source controller sacrifice that many permanent                                     |
+| 3 | Vampire Hexmage        | BB        | 2/1     | First strike -- sacr it: remove all coutners from tgt perm                                                          |
+| 4 | Abyssal Persecutor     | 2BB       | 6/6 fly | Trample -- you can't win, your opps can't loose                                                                     |
+|   |                        |           |         |                                                                                                                     |
+|   | *Sacrifice*            |           |         |                                                                                                                     |
+| 4 | Gatekeeper of Malakir  | BB        | 2/2     | Kicker B -- When kicked: tgt player sacr a creat                                                                    |
+| 2 | Consuming Vapors       | 3B        | sorc    | Rebound -- Tgt player sacr a creat                                                                                  |
+| 3 | Fling                  | 1R        | inst    | Additional cost: sacrifice a creature -- Fling deal damage to tgt creat or player eq to power of sacr creat         |
+|   |                        |           |         |                                                                                                                     |
+|   | *Hand Disruption*      |           |         |                                                                                                                     |
+| 2 | Doom Blade             | 1R        | inst    | Destroy tgt non black creat                                                                                         |
+| 2 | Go for the Throat      | 1B        | inst    | Destroy non artifact creature                                                                                       |
+|   |                        |           |         |                                                                                                                     |
+|   | *Instance Spells*      |           |         |                                                                                                                     |
+| 3 | Tezzeret Gambit        | 3{up}     | sorc    | Draw 2 cards, then proliferate                                                                                      |
+| 4 | Lightning Bolt         | B         | inst    | Deal 3 damage to tgt creat or player                                                                                |
+|   |                        |           |         |                                                                                                                     |
+|   | *Mass Removal*         |           |         |                                                                                                                     |
+|   |                        |           |         |                                                                                                                     |
+|   |                        |           |         |                                                                                                                     |
+|   | *Planeswalker*         |           |         |                                                                                                                     |
+|   |                        |           |         |                                                                                                                     |
+|---+------------------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------|
+|   | *Sideboard*            |           |         |                                                                                                                     |
+| 3 | Act of Aggression      | 3{rp}{rp} | inst    | Gain control of tgt creat an opp control, untap it, gain haste until eot                                            |
+| 3 | Surgical Extraction    | {bp}      | inst    | Exile tgt card in a graveyard from hand/lib/graveyard                                                               |
+| 3 | Inquisition of Kozilek | B         | sorc    | Tgt opp reveal hamd -- Choose a 3CMC non land card, he discards it                                                  |
+| 3 | Manic Vandal           | 2R        | 2/2     | When enter, destroy tgt art                                                                                         |
+| 3 | Vampire Knighthawk     | 1BB       | 2/3 fly | Lifelink, deathtouch                                                                                                |
+|---+------------------------+-----------+---------+---------------------------------------------------------------------------------------------------------------------|
+|   | Slagstorm              | 1RR       | sorc    | Choose one - Deals 3 damage to each creats or 3 damage to each player                                               |
+| 3 | Black Sun's Zenith     | xBB       | sorc    | Put X -1c on each creatures                                                                                         |
+| 2 | Marrow                 | {pw}      | inst    | Deals 1 damage to each attacking creatures                                                                          |
+| 3 | Chandra, the Firebrand | 3R        | plwk 3  | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts |
+|   |                        |           |         |                                                                                                                     |
+|   | Arc Trail              | 1U        | sorc    | Deals 2 damage to tgt creat/player and 1 damage to another creat/player                                             |
+|   |                        |           |         |                                                                                                                     |
+| 3 | Doom blade             | 1B        | inst    | Destroy tgt non black creature                                                                                      |
+| 3 | Inquisition of Kozilek | B         | sorc    | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                   |
+| 3 | Bloodghast             | 1B        | 2/1     | Landfall: come back to play -- Has haste if opp's life <= 10 -- Can't block                                         |
+|   | Geth's Verdict         | BB        | inst    | Tgt player sacr a creats and looses 1 life                                                                          |
