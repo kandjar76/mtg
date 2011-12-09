@@ -1,5 +1,53 @@
 Milleana v1.0
 
+UB version:
+
+|     | *Key cards 6*           |       |              |                                                                                                                                               |
+| 3*3 | Jace, Memory Adept      | 3UU   | plnwk 4      | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                                       |
+| 1*3 | Sword of Body and Mind  | 3     | eqp 2        | Eqp creats gets +2/+2 and pro green/blue -- When deals damage: mill 10 and put a 2/2 Wolf into play                                           |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Draw 6*                |       |              |                                                                                                                                               |
+|   3 | Think Twice             | 1U    | inst         | Flash 2U -- Draw a card                                                                                                                       |
+|   2 | Forbidden Alchemy       | 2U    | inst         | Look at top 4 cards: put one in hand, the rest in the graveyard -- Flashback: 6B                                                              |
+|   1 | Blue Sun's Zenith       | xUUU  | inst         | Draw X cards                                                                                                                                  |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Mass Removal 3*        |       |              |                                                                                                                                               |
+|   3 | Black Sun Zenith        | xBB   | sorc         | Put X -1c on each creatures -- Shuffle it in owner's lib                                                                                      |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Control 10*            |       |              |                                                                                                                                               |
+| 4*4 | Mana Leaks              | 1U    | inst         | Counter tgt spell unless its controller pays 3                                                                                                |
+|   2 | Disperse                | 1UU   | inst         | Counter tgt spell                                                                                                                             |
+|   4 | Doom Blade              | 1U    | inst         | Destroy tgt non black creats                                                                                                                  |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Creatures: 9*          |       |              |                                                                                                                                               |
+|   4 | Invisible Stalker       | 1U    | 1/1          | Hexproof, unblockable                                                                                                                         |
+|   2 | Undead Alchemist        | 3U    | 4/2 zombie   | When zombie deals damage to player instead: mill -- When creats put to graveyard from anywhere: put a 2/2 zombie into play                    |
+|   1 | Grimgrin, Corpse-Born   | 3UB   | 5/5 zombie   | Enter tapped, doesn't untap -- sacr a creat: untap him -- when attack destroy tgt creatures                                                   |
+|   2 | Skinrender              | 2BB   | 3/3 zombie   | When enter: put 3 -1/-1c on tgt creats                                                                                                        |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Graveyard control: 2*  |       |              |                                                                                                                                               |
+|   2 | Nihil Spellbomb         | 1     | art          | t, sacr it: exile tgt player graveyard -- when put to graveyard from play: u may pay B to draw a card                                         |
+|     |                         |       |              |                                                                                                                                               |
+|     | *Land: 24*              |       |              |                                                                                                                                               |
+|   4 | Darkslick Shores        |       | land         | enter tapped if u control 3+ land -- t: add U or B                                                                                            |
+|   4 | Drowned Catacomb        |       | land         | enter tapped unless u control swamp or island -- t: add U or B                                                                                |
+|   3 | Nephalia Drownyard      |       | land         | t: add 1 -- 1UB: mill 3                                                                                                                       |
+|   7 | Island                  |       | bas land     |                                                                                                                                               |
+|   6 | Swamp                   |       | bas land     |                                                                                                                                               |
+|-----+-------------------------+-------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|   2 | Nihil Spellbomb         | 1     | art          | t, sacr it: exile tgt player graveyard -- when put to graveyard from play: u may pay B to draw a card                                         |
+|   2 | Surgical Extraction     | {bu}  | inst         | Exile target card and all cards w/ same name from hand and lib                                                                                |
+|   2 | Ratchet Bomb            | 2     | art          | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                            |
+|   3 | Go for the throat       | 1U    | inst         | Destroy non art creatures                                                                                                                     |
+|   2 | Moan of the Unhallowed  | 2BB   | sorc         | Put two 2/2 black zombie into play -- Flashback: 5BB                                                                                          |
+|   3 | Tribute to Hunger       | 2B    | inst         | Tgt opp sacr a creat, u gain life equal to its toughness                                                                                      |
+|   1 | Life's Finale           | 4BB   | sorc         | Destroy all creatures, search lib for up to 3 creats and put them into its owner's graveyard.                                                 |
+|-----+-------------------------+-------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+UG version:
+
 |   4 | Invisible Stalker       | 1U    | 1/1          | Hexproof, unblockable                                                                                                                         |
 |   1 | Wurmcoil Engine         | 6     | 6/6          | lifelink, deathtouch -- When dies: split into 3/3 deathtouch and 3/3 likelink                                                                 |
 |   3 | Birds of Paradise       | G     | 0/1 fly      | t: add 1 mana any color to mana pool                                                                                                          |
