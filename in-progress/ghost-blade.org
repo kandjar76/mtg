@@ -1,26 +1,25 @@
-Ghost-Blade v2.1
+Ghost-Blade v2.3
 
 
-|   | *Creatures: 13*           |           |          |                                                                                                                                                 |
+|   | *Creatures: 10*           |           |          |                                                                                                                                                 |
 | 3 | Geist of Saint Traft      | 1UW       | 2/2      | hexproof -- when attack: Put a 4/4 angel flying token attacking, exile the token at end of combat                                               |
 | 3 | Snapcaster Mage           | 1U        | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                      |
 | 3 | Doomed Traveler           | W         | 1/1      | When die: put a 1/1 flying spirit token into play                                                                                               |
-| 4 | Midnight Haunting         | 2W        | inst     | Put two 1/1 spirit flying token into play                                                                                                       |
 |   |                           |           |          |                                                                                                                                                 |
-|   | *Planeswalker 2*          |           |          |                                                                                                                                                 |
-| 2 | Elspeth Tirel             | 3WW       | plwk 4   | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                          |
-|   |                           |           |          |                                                                                                                                                 |
-|   | *Control Spells: 11*      |           |          |                                                                                                                                                 |
+|   | *Control Spells: 12*      |           |          |                                                                                                                                                 |
 | 4 | Mana leak                 | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                                                  |
 | 2 | Dissipate                 | 1UU       | inst     | Counter tgt spell, exile it.                                                                                                                    |
-| 3 | Oblivion Ring             | 2W        | ench     | When enter: exile tgt perm -- When leave: return tgt perm to play                                                                               |
+| 2 | Oblivion Ring             | 2W        | ench     | When enter: exile tgt perm -- When leave: return tgt perm to play                                                                               |
+| 3 | Day of Judgement          | 2WW       | sorc     | Destroy all creatures                                                                                                                           |
+| 2 | Mortapod                  | 2         | eqp 2    | Living Weapon -- eqp creat get +0/+1 and sacr: deal 1 damage to tgt creat or player                                                             |
 |   |                           |           |          |                                                                                                                                                 |
-|   | *Helper*                  |           |          |                                                                                                                                                 |
+|   | *Helper 8*                |           |          |                                                                                                                                                 |
 | 2 | Surgical Extraction       | {bu}      | inst     | Exile target card and all cards w/ same name from hand and lib                                                                                  |
-| 3 | Honor of the Pure         | 1W        | ench     | White creats u control get +1/+1                                                                                                                |
+| 4 | Midnight Haunting         | 2W        | inst     | Put two 1/1 spirit flying token into play                                                                                                       |
+| 2 | Doom Blade                | 1B        | inst     | Destroy target non black creature                                                                                                               |
 |   |                           |           |          |                                                                                                                                                 |
-|   | *Fetcher 4*               |           |          |                                                                                                                                                 |
-| 4 | Think twice               | 1U        | inst     | Draw a card -- Flashback: 2U                                                                                                                    |
+|   | *Fetcher 3*               |           |          |                                                                                                                                                 |
+| 3 | Think twice               | 1U        | inst     | Draw a card -- Flashback: 2U                                                                                                                    |
 |   |                           |           |          |                                                                                                                                                 |
 |   | *Sword / Aura 4*          |           |          |                                                                                                                                                 |
 | 2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
@@ -28,22 +27,29 @@ Ghost-Blade v2.1
 |   |                           |           |          |                                                                                                                                                 |
 |   | *Lands 23*                |           |          |                                                                                                                                                 |
 | 4 | Seachrome Coast           |           | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                            |
+| 4 | Darkslick Shore           |           | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                            |
 | 4 | Glacial Fortress          |           | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                                |
-| 2 | Drowned Catacomb          |           | land     | comes tapped unless u control a island or a swamp -- t: add U or B                                                                              |
-| 2 | Ghost Quarter             |           | land     | t: add 1 -- t, sacr it: destroy tgt land, it's owner search basic land and put it into play                                                     |
+| 1 | Drowned Catacomb          |           | land     | comes tapped unless u control a island or a swamp -- t: add U or B                                                                              |
+| 1 | Moorland Haunt            |           | land     | t: add 1 -- UW, t: exile 2 creatures from your graveyard and put a 1/1 flying token into play                                                   |
 | 5 | Plain                     |           | bas land |                                                                                                                                                 |
-| 6 | Island                    |           | bas land |                                                                                                                                                 |
+| 4 | Island                    |           | bas land |                                                                                                                                                 |
 |---+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*               |           |          |                                                                                                                                                 |
-| 3 | Day of Judgement          | 2WW       | sorc     | Destroy all creatures                                                                                                                           |
-| 2 | Timely Reinforcement      | 2W        | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                                     |
-| 1 | Surgical Extraction       | {bu}      | inst     | Exile target card and all cards w/ same name from hand and lib                                                                                  |
+| 3 | Timely Reinforcement      | 2W        | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                                     |
 | 2 | Gut shot                  | {pr}      | inst     | Deal 1 damage to tgt creat or player                                                                                                            |
 | 1 | Angelic Destiny           | 2WW       | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                             |
 | 2 | Ratchet Bomb              | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                              |
 | 2 | Mental Misstep            | {up}      | inst     | Counter tgt spell with CMC 1                                                                                                                    |
 | 2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
+| 1 | Day of Judgement          | 2WW       | sorc     | Destroy all creatures                                                                                                                           |
+| 1 | Celestial Purge           | 1W        | inst     | Exile black or red pernanent                                                                                                                    |
+| 1 | Revoke Existence          | 1W        | sorc     | Exile tgt artifact or enchantment                                                                                                               |
 |---+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Azure Mage                | 1U        | 2/1      | 3U: draw a card                                                                                                                                 |
+| 2 | Honor of the Pure         | 1W        | ench     | White creats u control get +1/+1                                                                                                                |
+| 2 | Elspeth Tirel             | 3WW       | plwk 4   | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                          |
+| 1 | Surgical Extraction       | {bu}      | inst     | Exile target card and all cards w/ same name from hand and lib                                                                                  |
+| 2 | Ghost Quarter             |           | land     | t: add 1 -- t, sacr it: destroy tgt land, it's owner search basic land and put it into play                                                     |
 | 3 | Delver of Secrets         | U         | 1/1      | Beg upk: u may reveal top card, if sorc/inst -> transform -> 3/2 flying                                                                         |
 | 1 | Divine Reckoning          | 2WW       | sorc     | Each player choose a creat / sacr the rest -- Flashback: 5WW                                                                                    |
 | 2 | Dismember                 | 1{bp}{bp} | inst     | Tgt creats gets -5/-5                                                                                                                           |
@@ -60,6 +66,35 @@ Ghost-Blade v2.1
 |   |                           |           |          |                                                                                                                                                 |
 |   | *Planeswalkers: 2*        |           |          |                                                                                                                                                 |
 | 2 | Gideon Jura               | 3WW       | pl-wkr 6 | +2: creats opp control must attack gideon next turn; -2: destroy tgt tapped creats; 0: becomes a 6/6 until eot, prevent all damage to him       |
+
+Changes for version 3.0
+-------------------------
++2 Doom Blade
+-2 Vapor Snag
+-1 Mana Leak
+-1 Oblivion Ring
++2 Mortapod
+
+Changes for version 2.3
+-------------------------
+MB:
++3 Day fo Judgement
+-2 Elpeth Tirel
+-3 Honor of the Pure
++2 Vapor Snag
+SB:
++1 Revoke Existence
++1 Celestial Purge
+-2 Day of Judgement
+
+Changes for version 2.2
+-------------------------
+-2 Ghost Quarter
++2 Moorland Haunt
+-1 Think Twice
++1 Azure Mage
+-1 Surgical Extraction
++1 Timely Reinforcement
 
 Changes for version 2.1
 -------------------------
