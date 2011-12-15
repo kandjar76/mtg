@@ -1,0 +1,40 @@
+This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release state of the deck)
+
+|    | *Big threats: 8*         |      |          |                                                                                                                                               |
+|  1 | Inkwell Leviathan        | 7UU  | 7/11 art | Islandwalk, trample, shroud                                                                                                                   |
+|  1 | Verdant Force            | 5GGG | 7/7      | Beg upk: put a 1/1 green sapro token into play                                                                                                |
+|  1 | Twisted Abomination      | 5B   | 5/3      | B: regen -- 2: swamp cycling                                                                                                                  |
+|  1 | Sphinx of the Steel Wind | 5WUB | 6/6 art  | Flying, first strk, vig, lifelink, pro red, pro green                                                                                         |
+|  1 | Crosis, the Purger       | 3UBR | 6/6 leg  | Flying -- When deals damage, u may pay 2B, if so: choose a color, tgt opp reveal hand discard all cards of the choosen color                  |
+|  1 | Blazing Archon           | 6WWW | 5/6      | Flying -- Creats can't attack you                                                                                                             |
+|  1 | Terrastodon              | 6GG  | 9/9      | When enter, destroy up to 3 perm, for each perm destroy, its controller puts a 3/3 beast token into play                                      |
+|  1 | Avatar of Woe            | 6BB  | 6/5      | Cost 6 less if there are 10+ creats in all graveyard -- fear -- t: destroy tgt creats it can't be regen                                       |
+|    |                          |      |          |                                                                                                                                               |
+|    | *From lib to grave: 3*   |      |          |                                                                                                                                               |
+|  2 | Buried Alive             | 2B   | sorc     | Search lib for up to 3 creats, put them in the graveyard                                                                                      |
+|  1 | Entomb                   | B    | inst     | Search lib for a card and put it into your graveyard                                                                                          |
+|    |                          |      |          |                                                                                                                                               |
+|    | *From hand to grave: 9*  |      |          |                                                                                                                                               |
+|  2 | Hidden Horror            | 1BB  | 4/4      | When enter, sacr it unless u discard                                                                                                          |
+|  1 | Zombie infestation       | 1B   | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
+|  2 | Putrid Imp               | B    | 1/1      | Discard a card: gain flying -- Threshold: gets +1/+1 and can't block                                                                          |
+|  2 | Last Rites               | 2B   | sorc     | Discard X cards. Tgt player reveal his hand, choose X non land cards, that player discards them                                               |
+|  2 | Sickening Dreams         | 1B   | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
+|    |                          |      |          |                                                                                                                                               |
+|    | *From grave to play: 11* |      |          |                                                                                                                                               |
+|  1 | Reanimate                | B    | sorc     | Put tgt creat from a graveyard into play -- u loose life equal to its CMC                                                                     |
+|  3 | Animated Dead            | 1B   | aura     | Ench creat in graveyard: bringing it back to play -- enchant creats gets -1/0                                                                 |
+|  3 | Exhume                   | 1B   | sorc     | Each player puts a creats from his graveyard back to play                                                                                     |
+|  2 | Diabolic Serviture       | 3B   | ench     | As enter: return tgt creat from graveyard to play -- if creat die: exile it, return diab serv to hand -- if diab leave: exile returned creats |
+|  2 | Dread Return             | 2BB  | sorc     | Return tgt creat from graveyard to play -- Flashback: sacr 3 creats                                                                           |
+|    |                          |      |          |                                                                                                                                               |
+|    | *A bit of control: 5*    |      |          |                                                                                                                                               |
+|  1 | Cabal Therapy            | B    | sorc     | Name a nonland card, tgt player reveal hand and discard all named cards -- Flashback: sacr a creat                                            |
+|  3 | Duress                   | B    | sorc     | Tgt opp reveal hand, choose non creat non land from it, he discards it                                                                        |
+|  1 | Faceless Butcher         | 2BB  | 2/3      | When enter: exile tgt creats -- When leave: return exiled creats to play                                                                      |
+|    |                          |      |          |                                                                                                                                               |
+|    | *Land: 25*               |      |          |                                                                                                                                               |
+|  1 | Crystal Vein             |      | land     | t: add 1 -- t, sacr it: add 2                                                                                                                 |
+|  1 | Ebon Stronghold          |      | land     | Enter tapped -- t: add B -- t, sacr it: add BB                                                                                                |
+|  1 | Polluted Mire            |      | land     | Enter tapped -- t: add B -- cycling 2                                                                                                         |
+| 21 | Swamp                    |      | bas land |                                                                                                                                               |
