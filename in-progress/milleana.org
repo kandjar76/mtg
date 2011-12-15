@@ -53,35 +53,40 @@ UG version:
 |   3 | Birds of Paradise       | G     | 0/1 fly      | t: add 1 mana any color to mana pool                                                                                                          |
 |     |                         |       |              |                                                                                                                                               |
 | 3*3 | Jace, Memory Adept      | 3UU   | plnwk 4      | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                                       |
+|   1 | Karn Liberated          | 7     | plnwk 6      | +4: tgt player exile a cards from his or her hand -- -3: exile tgt perm -- -14: restart the game, put exiled perm under ur control            |
 |   1 | Garuuk Relentless       | 3G    | plnwk 3      | 0: deal 3 damage to tgt creat, it deals damage back -- 0: put a 2/2 wolf -- when loyalty < 3: flip it                                         |
 |     |                         |       |              |                                                                                                                                               |
 | 1*3 | Sword of Body and Mind  | 3     | eqp 2        | Eqp creats gets +2/+2 and pro green/blue -- When deals damage: mill 10 and put a 2/2 Wolf into play                                           |
 |     |                         |       |              |                                                                                                                                               |
-|   1 | Mindcrank               | 2     | art          | When opp loose life, mill that many cards.                                                                                                    |
+| 4*4 | Rise of Flourishing     | 2G    | ench         | Beg each upk: player draw add card -- Each player may play an add land                                                                        |
 |     |                         |       |              |                                                                                                                                               |
-|   3 | Think Twice             | 1U    | inst         | Flash 2U -- Draw a card                                                                                                                       |
-|   2 | Visions of Beyond       | U     | inst         | Draw a card, if a player has 20+ card in his graveyard, draw 3 instead                                                                        |
+|   2 | Gitaxian Probe          | {pu}  | inst         | Look at tgt player's hand -- draw a card                                                                                                      |
 |   1 | Blue Sun's Zenith       | xUUU  | inst         | Draw X cards                                                                                                                                  |
 |     |                         |       |              |                                                                                                                                               |
-| 4*4 | Mana Leaks              | 1U    | inst         | Counter tgt spell unless its controller pays 3                                                                                                |
+| 3*3 | Mana Leaks              | 1U    | inst         | Counter tgt spell unless its controller pays 3                                                                                                |
 |   2 | Disperse                | 1UU   | inst         | Counter tgt spell                                                                                                                             |
+|   2 | Negate                  | 1U    | inst         | Counter tgt non creat spell                                                                                                                   |
 |     |                         |       |              |                                                                                                                                               |
 |   4 | Fog                     | G     | inst         | Prevent all damage dealt this turn                                                                                                            |
-|   2 | Beast Within            | 2G    | inst         | Destroy tgt perm, its controller puts a 3/3 beast token into play                                                                             |
 |   2 | Moonmist                | 1G    | inst         | Transform all humans, prevent all combat damage deals by non-werewolf, non-wolf creatures                                                     |
 |     |                         |       |              |                                                                                                                                               |
 | 1*4 | Hinterland Harbor       |       | land         | Enters tapped unless u control Forest or Island -- t: add G or U to mana pool                                                                 |
 |   8 | Forest                  |       | basic land   |                                                                                                                                               |
 |  12 | Island                  |       | basic land   |                                                                                                                                               |
 |-----+-------------------------+-------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|   2 | Beast Within            | 2G    | inst         | Destroy tgt perm, its controller puts a 3/3 beast token into play                                                                             |
 |   3 | Autumn's Veil           | G     | inst         | Spells you control can't be counter by blue or black spell this turn; creats u control can't be targetted by blue or black spells             |
 |   3 | Naturalize              | 1G    | inst         | Destroy tgt art or enchantment                                                                                                                |
 |   2 | Moonmist                | 1G    | inst         | Transform all humans, prevent all combat damage deals by non-werewolf, non-wolf creatures                                                     |
 |   3 | Nihil Spellbomb         | 1     | art          | t, sacr it: exile tgt player graveyard -- when put to graveyard, if you pay B, draw a card                                                    |
-|   2 | Disperse                | 1U    | inst         | Return tgt non land perm to owner's hand                                                                                                      |
+|   2 | Surgical Extraction     | {bu}  | inst         | Exile target card and all cards w/ same name from hand and lib                                                                                |
 | 2*2 | Ratchet Bomb            | 2     | art          | t: add a counter -- t, sacr it: destroy each non land perm with CMC = #counters                                                               |
 |-----+-------------------------+-------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|   2 | Disperse                | 1U    | inst         | Return tgt non land perm to owner's hand                                                                                                      |
+|   2 | Think Twice             | 1U    | inst         | Flash 2U -- Draw a card                                                                                                                       |
 |-----+-------------------------+-------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|   2 | Visions of Beyond       | U     | inst         | Draw a card, if a player has 20+ card in his graveyard, draw 3 instead                                                                        |
+|   1 | Mindcrank               | 2     | art          | When opp loose life, mill that many cards.                                                                                                    |
 | 2*2 | Beast Within            | 2G    | inst         | Destroy tgt perm, its controller puts a 3/3 beast token into play                                                                             |
 |   3 | Ambush Viper            | 1G    | 2/1          | Flash, deathtouch                                                                                                                             |
 |   2 | Whichbane Orb           | 4     | art          | You have hexproof, destroy all curses attached to you.                                                                                        |
