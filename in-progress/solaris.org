@@ -1,0 +1,82 @@
+Solaris deck: v1.1
+
+
+Mana Curve
+
+|       | 1 |  2 |  3 | 4 | 5 | 6 | 7 | Sum | Exc |
+|-------+---+----+----+---+---+---+---+-----+-----|
+| Total | 2 | 13 | 10 | 3 | 2 | 3 | 1 |  34 |     |
+|-------+---+----+----+---+---+---+---+-----+-----|
+| Blue  | 2 | 10 |  7 |   |   | 4 |   |  23 | 19  |
+| Black |   |  3 |  6 |   | 2 |   |   |  11 | 11  |
+| White |   |    |  2 | 6 |   | 2 | 2 |  12 | 8   |
+Exc: 6CMC+ excluded, since there are other way to cast them!
+
+| From Sum0: | From Exc: |
+| 13  U      | 13 U      |
+| 6.2 B      | 7.5 B ~8  |
+| 6.8 W      | 5.5 W ~5  |
+
+13 U -> 4 UB2, 3 UW2, 6 U
+8 B  -> 2 UBd, 4 B,   2 UW
+5 W  -> 3 UWd, 2 W
+
+
+|   | *Creatures: 8*             |      |          |                                                                                                                              |
+| 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
+| 1 | Elesh Norn, Grand Cenobite | 5WW  | 4/7 leg  | Vigilance -- Other creats gets +2/+2 -- Creats u opp control gets -2/-2                                                      |
+| 2 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
+| 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enter or attack: return tgt perm w/ CMC < 4 from graveyard to play                                         |
+| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+|   |                            |      |          |                                                                                                                              |
+|   | *Planeswalker: 3*          |      |          |                                                                                                                              |
+| 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
+|   |                            |      |          |                                                                                                                              |
+|   | *Control: 15*              |      |          |                                                                                                                              |
+| 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
+| 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
+| 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
+| 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
+| 3 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
+| 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
+| 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
+|   |                            |      |          |                                                                                                                              |
+|   | *Draw spells: 6*           |      |          |                                                                                                                              |
+| 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
+| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
+|   |                            |      |          |                                                                                                                              |
+|   | *Graveyard: 7*             |      |          |                                                                                                                              |
+| 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
+|   |                            |      |          |                                                                                                                              |
+|   | *Lands: 26*                |      |          |                                                                                                                              |
+| 4 | Darkslick Shore            |      | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                         |
+| 3 | Seachrome Coast            |      | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                         |
+| 2 | Drowned Catacomb           |      | land     | comes tapped unless u control an island or a swamp -- t: add U or B                                                          |
+| 2 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
+| 3 | Glacial Fortress           |      | land     | comes tapped unless u control a plain or an island -- t: add W or U                                                          |
+| 4 | Swamp                      |      | bas land |                                                                                                                              |
+| 6 | Island                     |      | bas land |                                                                                                                              |
+| 2 | Plain                      |      | bas land |                                                                                                                              |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
+| 3 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
+| 3 | Surgical Extraction        | {pb} | inst     | Exile tgt card in a graveyard from graveyard, hand and lib                                                                   |
+| 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
+| 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
+| 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
+| 3 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
+
+Toward v1.1:
+---------------------------------
+-1 Mana Leak
+-1 Forbidden Alchemy
+-1 Doom Blade
++3 Think Twice
+
+-1 Seachrome Coast
+-1 Drowned Catacomb
+-1 Isolated Chapel
+
++3 Island
++1 Swamp
+-1 White
