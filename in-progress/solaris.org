@@ -25,7 +25,8 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   | *Creatures: 8*             |      |          |                                                                                                                              |
 | 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
 | 1 | Elesh Norn, Grand Cenobite | 5WW  | 4/7 leg  | Vigilance -- Other creats gets +2/+2 -- Creats u opp control gets -2/-2                                                      |
-| 2 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
+| 1 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
+| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
 | 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enter or attack: return tgt perm w/ CMC < 4 from graveyard to play                                         |
 | 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 |   |                            |      |          |                                                                                                                              |
@@ -45,7 +46,7 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
 | 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 |   |                            |      |          |                                                                                                                              |
-|   | *Graveyard: 7*             |      |          |                                                                                                                              |
+|   | *Graveyard: 2*             |      |          |                                                                                                                              |
 | 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
 |   |                            |      |          |                                                                                                                              |
 |   | *Lands: 26*                |      |          |                                                                                                                              |
@@ -59,12 +60,54 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Plain                      |      | bas land |                                                                                                                              |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
-| 3 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
-| 3 | Surgical Extraction        | {pb} | inst     | Exile tgt card in a graveyard from graveyard, hand and lib                                                                   |
+| 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
+| 2 | Nihil Spellbomb            | 1    | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
 | 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
 | 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
-| 3 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
+| 2 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
+| 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
+| 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
+| 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
+
+Toward v1.2:
+---------------------------------
+MB:
+-1 Consecrated Sphinx
++1 Rune-Scarred Demon
+
+SB:
+-1 Timely Reinforcement
++1 Pacifism
+-3 Surfical Extraction
++2 Nihil Spellbomb
++1 Spellskite
+
+Thoughts regarding v1.1
+---------------------------------
+Considering SB change:
+-1 Timely Reinforcement
++1 one of:
+ Jace, Memory Adept? -- against control?
+ Ratchet Bomb? -- one more?
+ Divine Offering? 
+ Karn?
+ Spellskite
+
+Also to try MB: 
++1 Rune-Scarred Demon
+-1 Consecrated Sphinx
+(I'm a bit concerned about the extra mana in the cost -- But great to grab the 1-ofs)
+
+Somewhere:
++1 Pacifism?
+Maybe SB with -1 Surfical Extraction
+I don't think I'd want to main board 2 SE, for the same reason that I took out 1 Timely reinforcement...
+
+SB Change to also consider:
+-2 Surgical Extraction
++2 Nihil Spellbomb
+
 
 Toward v1.1:
 ---------------------------------
