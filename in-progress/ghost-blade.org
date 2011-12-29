@@ -1,10 +1,10 @@
-Ghost-Blade v4.0
+Ghost-Blade v4.1
 
 
 |    |                           |           |          |                                                                                                                                                 |
 |    | *Creatures: 17*           |           |          |                                                                                                                                                 |
-|  3 | Doomed Traveler           | W         | 1/1      | When die: put a 1/1 flying spirit token into play                                                                                               |
-|  3 | Invisible Stalker         | 1U        | 1/1      | Hexproof, Unblockable                                                                                                                           |
+|  4 | Champion of the Parish    | W         | 1/1      | Whenever an human enters: put a +1c on champion                                                                                                 |
+|  2 | Grand Abolisher           | WW        | 2/2      | During ur turn ur opp cannot cast spel or ability of artifacts, creats or enchantment                                                           |
 |  3 | Geist of Saint Traft      | 1UW       | 2/2      | hexproof -- when attack: Put a 4/4 angel flying token attacking, exile the token at end of combat                                               |
 |  3 | Mirran Crusader           | 1WW       | 2/2      | Double strike -- pro green, pro black                                                                                                           |
 |  3 | Mentor of the Meek        | 2W        | 2/2      | When a creat w/ pow < 3 enters: u may pay 1 to draw                                                                                             |
@@ -19,43 +19,46 @@ Ghost-Blade v4.0
 |    | *Planeswalker 2*          |           |          |                                                                                                                                                 |
 |  2 | Elspeth Tirel             | 3WW       | plwk 4   | +2: gain 1 life for each creat u control; -2: put 3 1/1 tok; -5: destroy other non token non land perm                                          |
 |    |                           |           |          |                                                                                                                                                 |
-|    | *Control Spells: 6*       |           |          |                                                                                                                                                 |
+|    | *Control Spells: 7*       |           |          |                                                                                                                                                 |
 |  3 | Oblivion Ring             | 2W        | ench     | When enter: exile tgt perm -- When leave: return tgt perm to play                                                                               |
-|  3 | Mana leak                 | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                                                  |
+|  4 | Mana leak                 | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                                                  |
 |    |                           |           |          |                                                                                                                                                 |
-|    | *Sword / Aura 5*          |           |          |                                                                                                                                                 |
-|  1 | Curiosity                 | U         | aura     | When eqp creats deals damage to opp, u may draw a card                                                                                          |
-|  2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
-|  2 | Angelic Destiny           | 2WW       | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                             |
+|    | *Late game finishers: 1*  |           |          |                                                                                                                                                 |
+|  1 | Sun Titan                 | 4WW       | 6/6      | vigilance -- when enters or attack: returns a perm w/ CMC < 4 from grave to play                                                                |
+|    |                           |           |          |                                                                                                                                                 |
+|    | *Sword / Aura 3*          |           |          |                                                                                                                                                 |
+|  3 | Angelic Destiny           | 2WW       | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                             |
 |    |                           |           |          |                                                                                                                                                 |
 |    | *Lands 24*                |           |          |                                                                                                                                                 |
 |  4 | Seachrome Coast           |           | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                                            |
 |  4 | Glacial Fortress          |           | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                                                |
 |  2 | Moorland Haunt            |           | land     | t: add 1 -- UW, t: exile 2 creatures from your graveyard and put a 1/1 flying token into play                                                   |
-| 14 | Plain                     |           | bas land |                                                                                                                                                 |
+| 13 | Plain                     |           | bas land |                                                                                                                                                 |
+|  1 | Island                    |           | bas land |                                                                                                                                                 |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*               |           |          |                                                                                                                                                 |
-|  3 | Gideon's Lawkeeper        | W         | 1/1      | W, t: tap target creature                                                                                                                       |
-|  2 | Grand Abolisher           | WW        | 2/2      | During ur turn ur opp cannot cast spel or ability of artifacts, creats or enchantment                                                           |
-|  3 | Vapor Snag                | U         | inst     | Return tgt creats to owner's hand -- Its controller looses 1 life                                                                               |
-|  2 | Fiend Hunter              | 1WW       | 1/3      | When enter: u may exile tgt creat -- When leave: return that creat to play                                                                      |
-|  3 | Revoke Existence          | 1W        | sorc     | Exile target art or encha                                                                                                                       |
+|  2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
+|  2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
+|  3 | Timely Reinforcements     | 2W        | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                                     |
+|  2 | Vapor Snag                | U         | inst     | Return tgt creats to owner's hand -- Its controller looses 1 life                                                                               |
+|  2 | Revoke Existence          | 1W        | sorc     | Exile target art or encha                                                                                                                       |
+|  2 | Celestial Purge           | 1W        | inst     | Exile black or red pernanent                                                                                                                    |
 |  2 | Gut shot                  | {pr}      | inst     | Deals 1 damage to tgt creats                                                                                                                    |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Fiend Hunter              | 1WW       | 1/3      | When enter: u may exile tgt creat -- When leave: return that creat to play                                                                      |
+|  2 | Gideon's Lawkeeper        | W         | 1/1      | W, t: tap target creature                                                                                                                       |
 |  1 | White Sun's Zenith        | xWWW      | inst     | Put X 2/2 cat creats token onto the battle field -- Shuffle it in the library                                                                   |
+|  4 | Doomed Traveler           | W         | 1/1      | When die: put a 1/1 flying spirit token into play                                                                                               |
 |  3 | Ponder                    | U         | inst     | Look top 3 cards, put back in any order, u may shuffle your lib, then draw                                                                      |
 |  2 | Gideon's Lawkeeper        | W         | 1/1      | W, t: tap target creature                                                                                                                       |
 |  2 | Accorder Paladin          | 1W        | 3/1      | Battlecry                                                                                                                                       |
 |  2 | Day of Judgement          | 2WW       | sorc     | Destroy all creatures                                                                                                                           |
 |  4 | Darkslick Shore           |           | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                            |
-|  3 | Timely Reinforcement      | 2W        | sorc     | If you have less life than opp: gain 6 -- if you have less creat, put 3 1/1 token into play                                                     |
 |  2 | Gut shot                  | {pr}      | inst     | Deal 1 damage to tgt creat or player                                                                                                            |
 |  1 | Angelic Destiny           | 2WW       | aura     | Ench creats gets +4/+4, fly, first strike and is angel -- When dies, return angelic to owner's hand                                             |
 |  2 | Ratchet Bomb              | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                              |
 |  2 | Mental Misstep            | {up}      | inst     | Counter tgt spell with CMC 1                                                                                                                    |
-|  2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
 |  1 | Day of Judgement          | 2WW       | sorc     | Destroy all creatures                                                                                                                           |
-|  1 | Celestial Purge           | 1W        | inst     | Exile black or red pernanent                                                                                                                    |
 |  1 | Revoke Existence          | 1W        | sorc     | Exile tgt artifact or enchantment                                                                                                               |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |  2 | Mortapod                  | 2         | eqp 2    | Living Weapon -- eqp creat get +0/+1 and sacr: deal 1 damage to tgt creat or player                                                             |
