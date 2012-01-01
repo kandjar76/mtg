@@ -1,4 +1,4 @@
-Solaris deck: v1.1
+Solaris deck: v1.5
 
 
 Mana Curve
@@ -25,10 +25,9 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   | *Creatures: 8*             |      |          |                                                                                                                              |
 | 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
 | 1 | Elesh Norn, Grand Cenobite | 5WW  | 4/7 leg  | Vigilance -- Other creats gets +2/+2 -- Creats u opp control gets -2/-2                                                      |
-| 1 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
-| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
-| 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enter or attack: return tgt perm w/ CMC < 4 from graveyard to play                                         |
+| 2 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
 | 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+| 1 | Archon of Justice          | 3WW  | 4/4      | Flying -- When die: exile tgt permanent                                                                                      |
 |   |                            |      |          |                                                                                                                              |
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
 | 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
@@ -36,14 +35,13 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   | *Control: 15*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
 | 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
-| 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
+| 3 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
 | 3 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
-| 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
 |   |                            |      |          |                                                                                                                              |
 |   | *Draw spells: 6*           |      |          |                                                                                                                              |
-| 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
+| 4 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
 | 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 |   |                            |      |          |                                                                                                                              |
 |   | *Graveyard: 2*             |      |          |                                                                                                                              |
@@ -55,20 +53,117 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Drowned Catacomb           |      | land     | comes tapped unless u control an island or a swamp -- t: add U or B                                                          |
 | 2 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
 | 3 | Glacial Fortress           |      | land     | comes tapped unless u control a plain or an island -- t: add W or U                                                          |
+| 2 | Nephalia Drownyard         |      | land     | t: add 1 -- 1UB, t: mill 3 cards                                                                                             |
 | 4 | Swamp                      |      | bas land |                                                                                                                              |
-| 6 | Island                     |      | bas land |                                                                                                                              |
-| 2 | Plain                      |      | bas land |                                                                                                                              |
+| 5 | Island                     |      | bas land |                                                                                                                              |
+| 1 | Plain                      |      | bas land |                                                                                                                              |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enter or attack: return tgt perm w/ CMC < 4 from graveyard to play                                         |
 | 1 | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
-| 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
+| 2 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
 | 2 | Nihil Spellbomb            | 1    | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
 | 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
+| 2 | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
+| 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
+| 1 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
+| 1 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
+| 1 | Mimic Vat                  | 3    | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                        |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
+| 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
+| 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
+| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
+| 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
 | 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
 | 2 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
-| 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
-| 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
-| 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
+|   |                            |      |          |                                                                                                                              |
+
+Post tournament with v1.5:
+---------------------------------
+The deck did well against aggro... 
+- Beat wolf run round 1
+- Beat a mono blue deck round 2
+- Tied with Solaris control round 3
+- Lost 1-0 against UW control round 4
+
+Overall the deck is fun, but too slow, and still a bit inconsistent in term of answers.
+I would probably need to readjust the mana a bit: -1 Swamp +1 Plain if I keep the deck as it.
+
+However, I'm considering switching it toward a more tempo deck.
+Laying a early threat (1 CMC turn 1 or 2 CMC turn 4), and attacking with it...
+
+Ironically the deck seems to be lacking Counters.
+Also: I wonder if I should keep Unburial Rites -- I was almost always able to cast the big threats.
+
+
+Thoughts regarding v1.2
+---------------------------------
+Looking at the SB... I'm not satisfied.
+  Wolf Run
+    +1 Spellskite
+    +2 Flash Freeze
+    +1 Doom Blade
+    -2 O-Ring
+    -2 Mental Misstep
+  Township Tokens
+    +2 Ratchet Bomb
+    +1 Day of Judgement
+    -1 O-Ring
+    -2 Mental Misstep
+  Red Deck Wins
+    +1 Doom Blade
+    +2 Celestial Purge
+    +1 Mental Misstep (if posible)
+    +2 Flash Freeze
+    -2 Mana Leak
+    -1 Illusion
+    -3 Liliana
+  MB Infect
+    +2 Celestial Purge
+  UW Control
+    -1 Day of Judgement
+    -2 Mental Misstep
+    +2 Jace MA
+    +1 O-Ring
+  Solar Flare
+    +2 Jace MA
+    +2 Drownyard 
+    -2 Mental Misstep
+    -2 lands
+  Tempered Steel
+    +1 Day of Judgement
+    +2 Ratchet Bomb??
+    +1 Oblivion Ring
+    -2 Mental Misstep
+  RU Illusions
+    +2 Celestial Purge
+    -2 Mental Misstep
+  UW Delver/Illusions
+    +1 Doom Blade
+    +1 Mental Misstep
+    -2 Oblivion Ring
+
+So far:
+ +1 Spellskite
+ +2 Flash Freeze
+ +2 Ratchet Bomb
+ +1 Day of Judgement
+ +1 Doom Blade
+ +2 Celestial Purge
+ +1 Mental Misstep
+ +2 Jace Memory Adept
+ +2 Drownyard
+ +1 Oblivion Ring
+
+No Timely reinforcement.
+No Pacifism
+No Spellbomb either...
+
+Because the deck is already running O-Ring...
+I don't see the point of having the 2 revoke existence in the SB.
+
 
 Toward v1.2:
 ---------------------------------
