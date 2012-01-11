@@ -1,4 +1,4 @@
-Solaris deck: v1.5
+Solaris deck: v2.0
 
 
 Mana Curve
@@ -22,27 +22,31 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 5 W  -> 3 UWd, 2 W
 
 
-|   | *Creatures: 8*             |      |          |                                                                                                                              |
+|   | *Smallies: 4*              |      |          |                                                                                                                              |
 | 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
+| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+|   |                            |      |          |                                                                                                                              |
+|   | *Biggies: 7*               |      |          |                                                                                                                              |
 | 1 | Elesh Norn, Grand Cenobite | 5WW  | 4/7 leg  | Vigilance -- Other creats gets +2/+2 -- Creats u opp control gets -2/-2                                                      |
 | 2 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
-| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 | 1 | Archon of Justice          | 3WW  | 4/4      | Flying -- When die: exile tgt permanent                                                                                      |
+| 1 | Grave Titan                | 4BB  | 6/6      | Trample -- When enters or attacks: put 2 2/2 Zombie into play                                                                |
+| 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enters or attacks: return tgt perm w/ CMC < 4 from graveyard to play                                       |
+| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
 |   |                            |      |          |                                                                                                                              |
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
 | 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |   |                            |      |          |                                                                                                                              |
-|   | *Control: 15*              |      |          |                                                                                                                              |
+|   | *Control: 14*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
-| 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
-| 3 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
+| 3 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
+| 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
 | 3 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 |   |                            |      |          |                                                                                                                              |
-|   | *Draw spells: 6*           |      |          |                                                                                                                              |
+|   | *Draw spells: 4*           |      |          |                                                                                                                              |
 | 4 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
-| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 |   |                            |      |          |                                                                                                                              |
 |   | *Graveyard: 2*             |      |          |                                                                                                                              |
 | 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
@@ -58,27 +62,37 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 5 | Island                     |      | bas land |                                                                                                                              |
 | 1 | Plain                      |      | bas land |                                                                                                                              |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enter or attack: return tgt perm w/ CMC < 4 from graveyard to play                                         |
+|   | *Sideboard: 15*            |      |          |                                                                                                                              |
+| 1 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
 | 1 | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
-| 2 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
 | 2 | Nihil Spellbomb            | 1    | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
-| 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
-| 2 | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
 | 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
 | 1 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
-| 1 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
+| 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
+| 2 | Surgical Extraction        | {pb} | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
+| 2 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
+| 2 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Mimic Vat                  | 3    | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                        |
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
+| 1 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
+| 2 | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
+| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 | 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
 | 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
-| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
 | 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
 | 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
 | 2 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
 |   |                            |      |          |                                                                                                                              |
+
+Toward v2.0
+---------------------------------
+I think the deck needs more creatures...
+Even countered, killed they'll come back through Unburial Rites.
+The deck doesn't have to be so Graveyard reluctant.
+
+Considering: 2 Surgical Extraction in the SB -- Against controls and their swarm of counters...
 
 Post tournament with v1.5:
 ---------------------------------
