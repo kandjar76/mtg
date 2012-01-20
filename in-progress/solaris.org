@@ -1,4 +1,4 @@
-Solaris deck: v2.2
+Solaris deck: v2.3
 
 
 Mana Curve
@@ -22,8 +22,8 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 5 W  -> 3 UWd, 2 W
 
 
-|   | *Smallies: 4*              |      |          |                                                                                                                              |
-| 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
+|   | *Smallies: 2*              |      |          |                                                                                                                              |
+| 1 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
 | 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 |   |                            |      |          |                                                                                                                              |
 |   | *Biggies: 6*               |      |          |                                                                                                                              |
@@ -41,13 +41,14 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 3 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
 | 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
-| 1 | Wring Flesh                | B    | inst     | Tgt creat get -3/-1                                                                                                          |
+| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
 | 2 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 |   |                            |      |          |                                                                                                                              |
-|   | *Draw spells: 4*           |      |          |                                                                                                                              |
-| 4 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
+|   | *Draw spells: 7*           |      |          |                                                                                                                              |
+| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
+| 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
 |   |                            |      |          |                                                                                                                              |
 |   | *Graveyard: 2*             |      |          |                                                                                                                              |
 | 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
@@ -74,9 +75,10 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 | 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
+| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Wring Flesh                | B    | inst     | Tgt creat get -3/-1                                                                                                          |
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
 | 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
@@ -85,13 +87,22 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 1 | Mimic Vat                  | 3    | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                        |
 | 1 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
 | 2 | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
-| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 | 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
 | 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
 | 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
 | 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
 |   |                            |      |          |                                                                                                                              |
 | ? | Dead Weight                | B    | ench     | Ench creats gets -2/-2                                                                                                       |
+
+Toward 2.3:
+---------------------------------
+Deck needs to land mana each turn.... 
+I don't think snappy was actually that good in this deck... Sure it has been useful...
+But: I feel like Think Twice may benefits the deck more.
+
+Between Think Twice and Ponder, I believe ponder is better to search for an answer, but since I'm not going to use snappy... 
+I think TT will be better overall... Because of its flashback
+
 
 Post tournament with v2.2:
 ---------------------------------
