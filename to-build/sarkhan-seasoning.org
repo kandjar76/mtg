@@ -7,63 +7,72 @@ Mana Curve:
 
 
 
-|    | *Key combo cards 7*   |        |          |                                                                                                                                                     |
-|  3 | Doubling Season       | 4G     | ench     | Double effect which put token or counter under your control                                                                                         |
-|  4 | Sarkhan Vol           | 2RG    | plwkr    | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
-|    |                       |        |          |                                                                                                                                                     |
-|    | *Mana boost 8*        |        |          |                                                                                                                                                     |
-|  1 | Sol Ring              | 1      | art      | t: add 2 mana to mana pool                                                                                                                          |
-|  3 | Sakura-Tribe Elder    | 1G     | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
-|  4 | Explore               | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
-|    |                       |        |          |                                                                                                                                                     |
-|    | *Creatures threat 12* |        |          |                                                                                                                                                     |
-|  4 | Dragonmaster Outcast  | R      | 1/1      | Beg upk: if you control 5 or more land, put a 5/5 dragon into play                                                                                  |
-|  3 | Taurean Mauler        | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
-|  3 | Kargan Dragonlord     | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
-|  2 | Dragon Broodmother    | 2RRRG  | 4/4 fly  | Beg upk: put 1 red/green dragon w/ fly and devour 2.                                                                                                |
-|    |                       |        |          |                                                                                                                                                     |
-|    | *Draws 3*             |        |          |                                                                                                                                                     |
-|  3 | Harmonize             | 2GG    | sorc     | Draw 3 cards                                                                                                                                        |
-|    |                       |        |          |                                                                                                                                                     |
-|    | *Some kill spells 6*  |        |          |                                                                                                                                                     |
-|  4 | Lighting Bolt         | R      | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
-|  2 | Fling                 | 1R     | inst     | Add cost: sacr a creat -- Deals damage equals to sacr creat power to tgt creat or player                                                            |
-|    |                       |        |          |                                                                                                                                                     |
-|    | *Land: 24*            |        |          |                                                                                                                                                     |
-|  2 | Raging Ravine         |        | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
-|  2 | Coperline Gorge       |        | land     | Enter tapped unless u control 2 or few other land                                                                                                   |
-|  2 | Fire-Lit Thicket      |        | land     | t: add 1 -- {rg}, t: add RR or RG or GG                                                                                                             |
-|  1 | Scalding Tarn         |        | land     | pay 1 life, sacr it: search mountain or island then put it into play                                                                                |
-|  1 | Verdant Catacombs     |        | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
-|  2 | Stomping Ground       |        | land     | mountain, island -- enter tapped unless u pay 2 life -- t: add R or G                                                                               |
-|  4 | Forest                |        | bas land |                                                                                                                                                     |
-|  8 | Mountain              |        | bas land |                                                                                                                                                     |
-|----+-----------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | *v0.30 -> v0.40*      |        |          |                                                                                                                                                     |
-| +2 | Fling                 | 1R     | inst     | Add cost: sacr a creat -- Deals damage equals to sacr creat power to tgt creat or player                                                            |
-| +1 | Sarkhan Vol           | 2RG    | plwkr    | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
-| +4 | Explore               | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
-| -2 | Steel Hellkite        | 6      | 5/5 fly  | 2: gets +1 until eot -- X: destroy each non land perm with CMC = X, activate only if player was dealt combat damage by spellskite                   |
-| -2 | Crucible of Fire      | 3R     | ench     | Dragon u control gets +3/+3                                                                                                                         |
-| -3 | Cultivate             | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
-|----+-----------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | *v0.20 -> v0.30*      |        |          |                                                                                                                                                     |
-| +3 | Sakura-Tribe Elder    | 1G     | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
-| -2 | Explore               | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
-| -1 | Cultivate             | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
-|----+-----------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | *v0.10 -> v0.20*      |        |          |                                                                                                                                                     |
-| -3 | Dragonspeaker Shaman  | 1RR    | 2/2      | Dragon spell cost 2 less to cast                                                                                                                    |
-| -3 | Worldly Tutor         | G      | inst     | Search lib for a creat reveal it, put it on top                                                                                                     |
-| +3 | Taurean Mauler        | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
-| +1 | Cultivate             | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
-| +2 | Crucible of Fire      | 3R     | ench     | Dragon u control gets +3/+3                                                                                                                         |
-|----+-----------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | Green spell to draw!  |        |          |                                                                                                                                                     |
-|    | Deus of Calamity      | {rg}x5 | 6/6      | Trample -- When deals 6+ damage to an opp, you may destroy tgt land                                                                                 |
-|  1 | Swamp                 |        |          |                                                                                                                                                     |
-|  2 | Momentous Fall        | 2GG    | inst     | Add cost: sacr a creat -- Draw card equal to power, gain life equals to toughness                                                                   |
-|  2 | Broodmate Dragon      | 3BRG   | 4/4 fly  | When enter, put a 4/4 red dragopn w/ flying into play                                                                                               |
+|    | *Key combo cards 7*       |        |          |                                                                                                                                                     |
+|  3 | Doubling Season           | 4G     | ench     | Double effect which put token or counter under your control                                                                                         |
+|  4 | Sarkhan Vol               | 2RG    | plwkr    | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *Mana boost 8*            |        |          |                                                                                                                                                     |
+|  1 | Sol Ring                  | 1      | art      | t: add 2 mana to mana pool                                                                                                                          |
+|  3 | Sakura-Tribe Elder        | 1G     | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
+|  4 | Explore                   | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *Creatures threat 12*     |        |          |                                                                                                                                                     |
+|  4 | Dragonmaster Outcast      | R      | 1/1      | Beg upk: if you control 5 or more land, put a 5/5 dragon into play                                                                                  |
+|  3 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
+|  3 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
+|  1 | Dragon Broodmother        | 2RRRG  | 4/4 fly  | Beg upk: put 1 red/green dragon w/ fly and devour 2.                                                                                                |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *Draws 3*                 |        |          |                                                                                                                                                     |
+|  3 | Harmonize                 | 2GG    | sorc     | Draw 3 cards                                                                                                                                        |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *Some kill spells 6*      |        |          |                                                                                                                                                     |
+|  4 | Lighting Bolt             | R      | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
+|  2 | Fling                     | 1R     | inst     | Add cost: sacr a creat -- Deals damage equals to sacr creat power to tgt creat or player                                                            |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *Land: 24*                |        |          |                                                                                                                                                     |
+|  2 | Raging Ravine             |        | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
+|  2 | Coperline Gorge           |        | land     | Enter tapped unless u control 2 or few other land                                                                                                   |
+|  2 | Fire-Lit Thicket          |        | land     | t: add 1 -- {rg}, t: add RR or RG or GG                                                                                                             |
+|  1 | Scalding Tarn             |        | land     | pay 1 life, sacr it: search mountain or island then put it into play                                                                                |
+|  1 | Verdant Catacombs         |        | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
+|  2 | Stomping Ground           |        | land     | mountain, island -- enter tapped unless u pay 2 life -- t: add R or G                                                                               |
+|  5 | Forest                    |        | bas land |                                                                                                                                                     |
+|  9 | Mountain                  |        | bas land |                                                                                                                                                     |
+|----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *To Consider*             |        |          |                                                                                                                                                     |
+|  ? | Lord of Shatterskull Pass | 3R     | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
+|  ? | Avoid Fate                | G      | inst     | Counter tgt instant or aura spell which target a perm u control                                                                                     |
+|  ? | Garruk, Primal Hunter     | 2GGG   | plwk 3   | +1: put a 3/3 token into play - -3: draw cards eq to greatest power amongst creats u control -- -6: put a 6/6 green wurm for each land u control    |
+|----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *v0.40 -> v0.41*          |        |          |                                                                                                                                                     |
+| -1 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
+| +1 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
+|    |                           |        |          |                                                                                                                                                     |
+|    | *v0.30 -> v0.40*          |        |          |                                                                                                                                                     |
+| +2 | Fling                     | 1R     | inst     | Add cost: sacr a creat -- Deals damage equals to sacr creat power to tgt creat or player                                                            |
+| +1 | Sarkhan Vol               | 2RG    | plwkr    | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
+| +4 | Explore                   | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
+| -2 | Steel Hellkite            | 6      | 5/5 fly  | 2: gets +1 until eot -- X: destroy each non land perm with CMC = X, activate only if player was dealt combat damage by spellskite                   |
+| -2 | Crucible of Fire          | 3R     | ench     | Dragon u control gets +3/+3                                                                                                                         |
+| -3 | Cultivate                 | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
+|----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *v0.20 -> v0.30*          |        |          |                                                                                                                                                     |
+| +3 | Sakura-Tribe Elder        | 1G     | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
+| -2 | Explore                   | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
+| -1 | Cultivate                 | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
+|----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *v0.10 -> v0.20*          |        |          |                                                                                                                                                     |
+| -3 | Dragonspeaker Shaman      | 1RR    | 2/2      | Dragon spell cost 2 less to cast                                                                                                                    |
+| -3 | Worldly Tutor             | G      | inst     | Search lib for a creat reveal it, put it on top                                                                                                     |
+| +3 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
+| +1 | Cultivate                 | 2G     | sorc     | Search lib to up to two basic land, put one into play tapped, one in hand                                                                           |
+| +2 | Crucible of Fire          | 3R     | ench     | Dragon u control gets +3/+3                                                                                                                         |
+|----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Green spell to draw!      |        |          |                                                                                                                                                     |
+|    | Deus of Calamity          | {rg}x5 | 6/6      | Trample -- When deals 6+ damage to an opp, you may destroy tgt land                                                                                 |
+|  1 | Swamp                     |        |          |                                                                                                                                                     |
+|  2 | Momentous Fall            | 2GG    | inst     | Add cost: sacr a creat -- Draw card equal to power, gain life equals to toughness                                                                   |
+|  2 | Broodmate Dragon          | 3BRG   | 4/4 fly  | When enter, put a 4/4 red dragopn w/ flying into play                                                                                               |
 
 --
 
