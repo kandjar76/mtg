@@ -1,4 +1,4 @@
-Solaris deck: v2.3
+Solaris deck: v2.4
 
 
 Mana Curve
@@ -22,8 +22,8 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 5 W  -> 3 UWd, 2 W
 
 
-|   | *Smallies: 2*              |      |          |                                                                                                                              |
-| 1 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
+|   | *Smallies: 4               |      |          |                                                                                                                              |
+| 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
 | 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 |   |                            |      |          |                                                                                                                              |
 |   | *Biggies: 6*               |      |          |                                                                                                                              |
@@ -36,7 +36,7 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
 | 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |   |                            |      |          |                                                                                                                              |
-|   | *Control: 14*              |      |          |                                                                                                                              |
+|   | *Control: 15*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
 | 3 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
 | 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
@@ -46,12 +46,11 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 |   |                            |      |          |                                                                                                                              |
-|   | *Draw spells: 7*           |      |          |                                                                                                                              |
-| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
+|   | *Draw spells: 3*           |      |          |                                                                                                                              |
 | 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
 |   |                            |      |          |                                                                                                                              |
-|   | *Graveyard: 2*             |      |          |                                                                                                                              |
-| 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
+|   | *Graveyard: 3*             |      |          |                                                                                                                              |
+| 3 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
 |   |                            |      |          |                                                                                                                              |
 |   | *Lands: 26*                |      |          |                                                                                                                              |
 | 4 | Darkslick Shore            |      | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                         |
@@ -70,14 +69,16 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Nihil Spellbomb            | 1    | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
 | 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
 | 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
-| 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 2 | Surgical Extraction        | {pb} | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
-| 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 | 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
+| 2 | Black Sun's Zenith         | xBB  | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                               |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
+| 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
+| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
 | 1 | Wring Flesh                | B    | inst     | Tgt creat get -3/-1                                                                                                          |
 | 1 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
