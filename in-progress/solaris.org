@@ -1,4 +1,4 @@
-Solaris deck: v2.4
+Solaris deck: v2.5
 
 
 Mana Curve
@@ -22,9 +22,8 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 5 W  -> 3 UWd, 2 W
 
 
-|   | *Smallies: 4               |      |          |                                                                                                                              |
+|   | *Smallies: 3*              |      |          |                                                                                                                              |
 | 3 | Snapcaster Mage            | 1U   | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                   |
-| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 |   |                            |      |          |                                                                                                                              |
 |   | *Biggies: 6*               |      |          |                                                                                                                              |
 | 1 | Elesh Norn, Grand Cenobite | 5WW  | 4/7 leg  | Vigilance -- Other creats gets +2/+2 -- Creats u opp control gets -2/-2                                                      |
@@ -38,19 +37,19 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   |                            |      |          |                                                                                                                              |
 |   | *Control: 15*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
-| 3 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
+| 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
 | 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
-| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
 | 2 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 |   |                            |      |          |                                                                                                                              |
-|   | *Draw spells: 3*           |      |          |                                                                                                                              |
-| 3 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
+|   | *Draw spells: 7*           |      |          |                                                                                                                              |
+| 4 | Forbidden Alchemy          | 2U   | inst     | Flashback: 6U -- Look at top 4 card, put 1 in hand, the rest in graveyard                                                    |
+| 3 | Ponder                     | U    | sorc     | Look top 3 cards; put back in any order then draw                                                                            |
 |   |                            |      |          |                                                                                                                              |
-|   | *Graveyard: 3*             |      |          |                                                                                                                              |
-| 3 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
+|   | *Graveyard: 2*             |      |          |                                                                                                                              |
+| 2 | Unburial Rites             | 4B   | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                      |
 |   |                            |      |          |                                                                                                                              |
 |   | *Lands: 26*                |      |          |                                                                                                                              |
 | 4 | Darkslick Shore            |      | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                         |
@@ -76,6 +75,8 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Black Sun's Zenith         | xBB  | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                               |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
 | 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
 | 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
@@ -94,6 +95,24 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
 |   |                            |      |          |                                                                                                                              |
 | ? | Dead Weight                | B    | ench     | Ench creats gets -2/-2                                                                                                       |
+
+
+Toward 2.5:
+---------------------------------
+Well I'm not sure about Unburial rites....
+Let's try w/ Ponder instead.
+-1 Phantasmal Image
+-1 Unburial Rites
+-1 Virulent Wound
+-1 Dissipate
++1 Forbidden Alchemy
++3 Ponder
+
+Version 2.4:
+---------------------------------
+Back to the source...
+Removing think twice, putting snappy back in the deck...
+Trying 1 more unburial rites...
 
 Toward 2.3:
 ---------------------------------
