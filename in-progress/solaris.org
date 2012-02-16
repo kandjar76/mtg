@@ -1,4 +1,4 @@
-Solaris deck: v2.5
+Solaris deck: v2.6
 
 
 Mana Curve
@@ -35,12 +35,12 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
 | 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |   |                            |      |          |                                                                                                                              |
-|   | *Control: 15*              |      |          |                                                                                                                              |
+|   | *Control: 13*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
 | 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
 | 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
-| 2 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
+| 2 | Black Sun's Zenith         | xBB  | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                               |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 |   |                            |      |          |                                                                                                                              |
@@ -70,12 +70,11 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
 | 2 | Surgical Extraction        | {pb} | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
-| 1 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
-| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
-| 2 | Black Sun's Zenith         | xBB  | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                               |
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
 | 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
 | 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
 | 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
