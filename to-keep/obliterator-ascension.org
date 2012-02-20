@@ -1,0 +1,39 @@
+Obliterator's Ascension:
+
+|    | *Creatures: 18*       |           |        |                                                                                                                              |
+|  4 | Gravecrawler          | B         | 2/1    | Can't block -- Can be cast from graveyard if a zombie is in play                                                             |
+|  4 | Diregraf Ghoul        | B         | 2/2    | Enter battlefield tapped                                                                                                     |
+|  4 | Geralf's Messenger    | BBB       | 3/2    | Undying -- When enter: tgt player looses 2 life                                                                              |
+|  4 | Phyrexian Obliterator | BBBB      | 5/5    | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                          |
+|  2 | Cemetery Reaper       | 1BB       | 2/2    | Other zomb gets +1/+1 -- 2B, t: exile tgt creats from a graveyard, put a 2/2 black zombie into play                          |
+|    |                       |           |        |                                                                                                                              |
+|    | *Planeswalker: 4*     |           |        |                                                                                                                              |
+|  4 | Liliana of the Veil   | 1BB       | plwr 3 | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
+|    |                       |           |        |                                                                                                                              |
+|    | *Control Spells: 14*  |           |        |                                                                                                                              |
+|  4 | Geith's Verdict       | BB        | inst   | Tgt player sacrifice a creature and looses 1 life                                                                            |
+|  2 | Doom blade            | 1B        | inst   | Destroy tgt non black creatures                                                                                              |
+|  4 | Distress              | BB        | sorc   | Tgt reveal hand: choose non land card from it -- He discards it.                                                             |
+|  4 | Tragic Slip           | B         | inst   | Tgt creats gets -1/-1 -- Morbid: gets -13/-13 instead                                                                        |
+|    |                       |           |        |                                                                                                                              |
+|    | *Draw spells: 2*      |           |        |                                                                                                                              |
+|  2 | Altar Geist           | 1B        | inst   | Add cost: sacr a creat -- Draw 2 cards                                                                                       |
+|    |                       |           |        |                                                                                                                              |
+|    | *Lands: 22*           |           |        |                                                                                                                              |
+| 22 | Swamp                 |           |        |                                                                                                                              |
+|----+-----------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*           |           |        |                                                                                                                              |
+|  1 | Phyrexian Metamorth   | 3{up}     | 0/0    | Enter play as a copy of tgt art or creat                                                                                     |
+|  2 | Victim of Night       | BB        | inst   | Destroy tgt non vamp, non werefolv, non zombie creature.                                                                     |
+|  2 | Dismember             | 1{bp}{bp} | inst   | Tgt creats gets -5/-5                                                                                                        |
+|  2 | Sorin's Thirst        | BB        | inst   | Deals 2 damage to tgt creat, and u gain 2 life                                                                               |
+|  3 | Spellskite            | 2         | 0/4    | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
+|  2 | Black Sun's Zenith    |           |        |                                                                                                                              |
+|  2 | Nihil Spellbomb       | 1         | art    | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
+|  1 | Ratchet Bomb          | 2         | art    | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
+|    |                       |           |        |                                                                                                                              |
+|----+-----------------------+-----------+--------+------------------------------------------------------------------------------------------------------------------------------|
+|    |                       |           |        |                                                                                                                              |
+|  2 | Grave Titan           | 4BB       | 6/6    | Deathtouch -- When enters or attacks: put two 2/2 zombie into play                                                           |
+|  1 | Go for the throat     | 1B        | inst   | Destroy tgt non art creatures                                                                                                |
+|    |                       |           |        |                                                                                                                              |
