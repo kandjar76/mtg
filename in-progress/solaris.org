@@ -1,4 +1,4 @@
-Solaris deck: v2.6
+Solaris deck: v2.7
 
 
 Mana Curve
@@ -30,16 +30,16 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Consecrated Sphinx         | 4UU  | 4/6 fly  | When opp draw: u may draw two cards                                                                                          |
 | 1 | Grave Titan                | 4BB  | 6/6      | Trample -- When enters or attacks: put 2 2/2 Zombie into play                                                                |
 | 1 | Sun Titan                  | 4WW  | 6/6      | Vigilance -- When enters or attacks: return tgt perm w/ CMC < 4 from graveyard to play                                       |
-| 1 | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
+| 1 | Drogskol Reaver            | 5UW  | 3/5      | Double strike; Lifelink; Flying -- When u gain life, draw a card                                                             |
 |   |                            |      |          |                                                                                                                              |
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
 | 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |   |                            |      |          |                                                                                                                              |
 |   | *Control: 13*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
-| 2 | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
 | 2 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
 | 1 | Go For the Throat          | 1B   | inst     | Destroy tgt non art creats                                                                                                   |
+| 2 | Tragic Slip                | B    | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                              |
 | 2 | Black Sun's Zenith         | xBB  | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                               |
 | 2 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
@@ -55,11 +55,11 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 4 | Darkslick Shore            |      | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                         |
 | 3 | Seachrome Coast            |      | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                         |
 | 2 | Drowned Catacomb           |      | land     | comes tapped unless u control an island or a swamp -- t: add U or B                                                          |
-| 2 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
+| 3 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
 | 3 | Glacial Fortress           |      | land     | comes tapped unless u control a plain or an island -- t: add W or U                                                          |
 | 2 | Nephalia Drownyard         |      | land     | t: add 1 -- 1UB, t: mill 3 cards                                                                                             |
 | 3 | Swamp                      |      | bas land |                                                                                                                              |
-| 5 | Island                     |      | bas land |                                                                                                                              |
+| 4 | Island                     |      | bas land |                                                                                                                              |
 | 2 | Plain                      |      | bas land |                                                                                                                              |
 |---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard: 15*            |      |          |                                                                                                                              |
@@ -67,33 +67,83 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 2 | Divine Offering            | 1W   | inst     | Destroy tgt art -- You gain life equal to its CMC                                                                            |
 | 2 | Nihil Spellbomb            | 1    | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
 | 2 | Celestial Purge            | 1W   | inst     | Exile tgt black or red permanent                                                                                             |
-| 1 | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
-| 2 | Surgical Extraction        | {pb} | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
 | 1 | Ratchet Bomb               | 2    | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 | 2 | Day of Judgement           | 2WW  | sorc     | Destroy all creatures                                                                                                        |
-| 1 | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
-| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Virulent Wound             | B    | inst     | Tgt creat gets -1/-1, if put to grave this turn, owners gets a poison counter                                                |
+| 2 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
 | 1 | Negate                     | 1U   | inst     | Counter tgt non creat spell                                                                                                  |
-| 1 | Doom Blade                 | 1B   | inst     | Destroy tgt non black creats                                                                                                 |
-| 3 | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
-| 1 | Wring Flesh                | B    | inst     | Tgt creat get -3/-1                                                                                                          |
-| 1 | Oblivion Ring              | 2W   | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                         |
-| 1 | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
-| 1 | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
-| 1 | Archon of Justice          | 3WW  | 4/4      | Flying -- When die: exile tgt permanent                                                                                      |
-| ? | Feeling of Dread           | 1W   | inst     | Flashback 1U -- Tap two target creatures                                                                                     |
-| 1 | Mimic Vat                  | 3    | art      | imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                        |
-| 1 | Tribute to Hunger          | 2B   | inst     | Tgt opp sacr a creat, u gain life equal to its toughness                                                                     |
-| 2 | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
-| 1 | Pacifism                   | 1W   | aura     | Echanted creats can't attack or defend                                                                                       |
-| 2 | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
-| 2 | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
-| 2 | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
+| 1 | White Sun Zenith           | xWWW | inst     | Put X 2/2 cat into play then shuffle it back to lib                                                                          |
+| 1 | Bloodline Keeper           | 2BB  | 3/3 fly  | t: spawn a 2/2 fly vamp -- B: transform it if u control 5+ vamp // 5/5 - other vamps gets +2/+2 -- t: spawn a 2/2 fly vamp   |
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|---+----------------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|   | Havengul Lich              | 3UB  | 4/4      | 1: You may cast tgt creat from a graveyard -- it gains its activated abilities                                               |
+|   | Archon of Justice          | 3WW  | 4/4      | Flying -- When die: exile tgt permanent                                                                                      |
+|   | Wurmcoil Engine            | 6    | 6/6 art  | Deathtouch, lifelink -- When die: split into a 3/3 deathtouch and a 3/3 lifelink                                             |
+|   | Dissipate                  | 1UU  | inst     | Counter tgt spell, if counter: exile it                                                                                      |
+|   | Spellskite                 | 2    | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                            |
+|   | Phantasmal Image           | 1U   | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
+|   | Surgical Extraction        | {pb} | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
+|   | Think Twice                | 1U   | inst     | Flashback 2U -- Draw a card                                                                                                  |
+|   | Jace, Memory Adept         | 3UU  | plnwk 4  | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                      |
+|   | Rune-Scarred Demon         | 5BB  | 6/6 fly  | When enter: search your deck for a card and put it into your hand                                                            |
+|   | Flash freeze               | 1U   | inst     | Counter tgt red or green spell                                                                                               |
+|   | Mental Misstep             | {pu} | inst     | Counter tgt spell w/ CMC = 1                                                                                                 |
+|   | Timely Reinforcement       | 2W   | sorc     | If life < opp -> Gain 6 life -- If #creats < opp -> put 3 1/1 soldier into play                                              |
+|   | Revoke Existence           | 1W   | sorc     | Exile tgt ench or art                                                                                                        |
 |   |                            |      |          |                                                                                                                              |
-| ? | Dead Weight                | B    | ench     | Ench creats gets -2/-2                                                                                                       |
+
+
+Toward v2.7:
+---------------------------------
+Going a bit less counter-spell oriented since most control/tempo deck will out-race this deck in term of counter spells.
+Keeping the number of creature low is on the other hand much more important (for lili's performance).
+
+Another thing I'd like to remove is surgical extraction.
+It's great when it works.. But you cannot rely on it. (due to mental mistep)
+Where as Nihil Spellbomb is actually a cantrip at the very lease.
+
+Main board:
+-2 Dissipate
++2 Tragic Slip
+
+Sideboard:
+-1 Virulent Wound (replaced by Tragic Slip)
+-1 Phantasmal Image (no room for it)
+-1 Spellskite (never sb in -- maybe against Wolf Run... But so far, I'd rather a kill spell than that)
+-2 Surgical Extraction
++1 White Sun Zenith (against control)
++1 Archon of Justice
++1 Negate
++2 Tribute to Hunger (against dekvers)
+
+Note that I'm gonna try Archon again (sb option); I'm still debating with the Havengul Lich.
+Since I did like it when I first played with it; I'm going to stick wth it.
+
+--
+
+Post reflection, that could be really bad if my opponent cast Phantasmal Image and copy it.
+Alright, back to Havengul Lich then.
+-1 Archon of Justice
++1 Havengul Lich
+
+Change of SB again:
+-1 Havengul Lich
++1 Bloodline Keeper
+If I'm going to play with the lich it needs to be MB.
+Going to try the bloodline keeper instead; I like the idea of spawning 2/2 every turn...
+
+--
+
+Finally land readjustment: since I remove dissipate; I don't need 2/3 blue very early on...
+However I felt a lack of white mana... 
+-1 Island
++1 Isolated Chapel
+Also: with the previous mana base; I don't even know if 'even' one WSZ was viable.
+
+
+Version 2.6:
+---------------------------------
+Running BSZ main deck is actually a lot better than DoJ against most decks.
+You often needs to wrath on turn 3 to be safe... and 1 -1c is also usually enough to clear the board.
 
 
 Toward 2.5:
