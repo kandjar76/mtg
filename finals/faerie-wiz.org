@@ -1,40 +1,34 @@
-23 creature spells
-16 other spells
-21 lands
 
-Creatures:
-
-| 4 | Mistbind Clique     | 3U   | 4/4 flash fly champ | faerie wiz | When a faerie is champ by it, tap all lands tgt play controls                                                                   |
-| 4 | Scion of Oona       | 2U   | 1/1 flash fly       | faerie sol | Other faerie u control gets +1/+1 and have shroud                                                                               |
-| 4 | Sower of Temptation | 2UU  | 2/2 fly             | faerie wiz | When enter battlefield, gain ctrl of tgt creat as long as it remains on battlefield                                             |
-| 4 | Spellstutter Sprite | 1U   | 1/1 flash fly       | faerie wiz | When enter battlefield, ctr spell with conv mana cost X or less where X is num of faeries u control                             |
-| 2 | Vendilion Clique    | 1UU  | 3/1 leg flash fly   | faerie wiz | When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
-| 4 | Faerie Harbinger    | 3U   | 2/2 flash fly       | faerie wiz | When enter battlefield, search faerie, put on top of library                                                                    |
-| 3 | Oona's Gatewarden   | {bu} | 2/1 fly def         | faerie sol | Wither                                                                                                                          |
-
-Other spells:
-
-| 4 | Bitterblossom   | 1B   | Ench | faerie | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield                    |
-| 4 | Cryptic Command | 1UUU | Inst |        | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card |
-| 3 | Familiar's Ruse | UU   | Inst |        | Add cost: return creat u control to ur hand -- counter tgt spell                                       |
-| 3 | Peppersmoke     | B    | Inst | faerie | tgt creat gets -1/-1 until eot; if u control a faerie draw a card.                                     |
-
-
-Lands:
-
-| 11 | Island        |                                                      |
-|  5 | Swamp         |                                                      |
-|  4 | Secluded Glen | Comes tapped unless reveal a faerie -- t: add U or B |
-|  1 | Sunken Ruin   | t: add 1 -- {ub}: Add UB or UU or BB                 |
-
-Side decks:
-
-| 3 | Ego Erasure               | 2U   | Inst        | shapeshift | Creates tgt players controls gets -2/-0 and lose all creat types until eot                                |
-| 3 | Syphon Life               | 1BB  | Sorc        |            | Tgt player looses 2 life, u gain 2; retrace                                                               |
-| 3 | Disperse                  | 1U   | Inst        |            | Return non land permanent to its owner's hand                                                             |
-| 3 | Faerie Trickery           | 1UU  | Inst        | faerie     | Counter non faerie spell, exile it instead of putting into its owner graveyard                            |
-| 1 | Oona, queen of the faerie | 3bbb | 5/5 leg fly | faerie wiz | Xb: chose a color, tgt opp exiles top X cards, put a 1/1 faerie rog w/ fly for each card of choosen color |
-| 2 | Banishing Knack           | U    | Inst        |            | Until eot: tgt creat has: t: return tgt non land perm to owner's hand                                     |
+|    | *Creatures: 21*           |      |                     |            |                                                                                                                                 |
+|  4 | Mistbind Clique           | 3U   | 4/4 flash fly champ | faerie wiz | When a faerie is champ by it, tap all lands tgt play controls                                                                   |
+|  4 | Scion of Oona             | 2U   | 1/1 flash fly       | faerie sol | Other faerie u control gets +1/+1 and have shroud                                                                               |
+|  4 | Sower of Temptation       | 2UU  | 2/2 fly             | faerie wiz | When enter battlefield, gain ctrl of tgt creat as long as it remains on battlefield                                             |
+|    |                           |      |                     |            |                                                                                                                                 |
+|  4 | Spellstutter Sprite       | 1U   | 1/1 flash fly       | faerie wiz | When enter battlefield, ctr spell with conv mana cost X or less where X is num of faeries u control                             |
+|  2 | Vendilion Clique          | 1UU  | 3/1 leg flash fly   | faerie wiz | When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
+|  2 | Faerie Harbinger          | 3U   | 2/2 flash fly       | faerie wiz | When enter battlefield, search faerie, put on top of library                                                                    |
+|  3 | Oona's Gatewarden         | {bu} | 2/1 fly def         | faerie sol | Wither                                                                                                                          |
+|    |                           |      |                     |            |                                                                                                                                 |
+|    | *Other spells: 16*        |      |                     |            |                                                                                                                                 |
+|  4 | Bitterblossom             | 1B   | Ench                | faerie     | beg upkeep: loose 1 life, put a 1/1 blk faerie rogue w/ flying onto the battlefield                                             |
+|  4 | Cryptic Command           | 1UUU | Inst                |            | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                          |
+|  3 | Familiar's Ruse           | UU   | Inst                |            | Add cost: return creat u control to ur hand -- counter tgt spell                                                                |
+|  3 | Peppersmoke               | B    | Inst                | faerie     | tgt creat gets -1/-1 until eot; if u control a faerie draw a card.                                                              |
+|    |                           |      |                     |            |                                                                                                                                 |
+|    | *Lands: 23*               |      |                     |            |                                                                                                                                 |
+| 11 | Island                    |      | basic land          |            |                                                                                                                                 |
+|  5 | Swamp                     |      | basic land          |            |                                                                                                                                 |
+|  4 | Secluded Glen             |      |                     |            | Comes tapped unless reveal a faerie -- t: add U or B                                                                            |
+|  3 | Sunken Ruin               |      |                     |            | t: add 1 -- {ub}: Add UB or UU or BB                                                                                            |
+|----+---------------------------+------+---------------------+------------+---------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*               |      |                     |            |                                                                                                                                 |
+|  3 | Ego Erasure               | 2U   | Inst                | shapeshift | Creates tgt players controls gets -2/-0 and lose all creat types until eot                                                      |
+|  3 | Disperse                  | 1U   | Inst                |            | Return non land permanent to its owner's hand                                                                                   |
+|  3 | Faerie Trickery           | 1UU  | Inst                | faerie     | Counter non faerie spell, exile it instead of putting into its owner graveyard                                                  |
+|    |                           |      |                     |            |                                                                                                                                 |
+|  3 | Syphon Life               | 1BB  | Sorc                |            | Tgt player looses 2 life, u gain 2; retrace                                                                                     |
+|  1 | Oona, queen of the faerie | 3bbb | 5/5 leg fly         | faerie wiz | Xb: chose a color, tgt opp exiles top X cards, put a 1/1 faerie rog w/ fly for each card of choosen color                       |
+|  2 | Banishing Knack           | U    | Inst                |            | Until eot: tgt creat has: t: return tgt non land perm to owner's hand                                                           |
 
 Other cards:
 |   | Oona's Blackguard       | 1B  | 1/1 fly         | faerie rog  | each rog comes into play with a +1/+1 counter, when creat with counter deals damage to player, that player discard a card |
