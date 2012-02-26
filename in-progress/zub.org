@@ -1,12 +1,11 @@
-Zub Deck v1.0:
+Zub Deck v1.1:
 
 --
 
 Currently missing: 
-3 Lili
-3 Ratchet Bomb
-1 Go for the throat
-
+2 Lili
+2 Phantasmal Image
+1 Black Sun's Zenith
 --
 
 |    | *Creatures: 22*       |           |          |                                                                                                                              |
@@ -15,37 +14,42 @@ Currently missing:
 |  4 | Geralf's Messenger    | BBB       | 3/2      | Undying -- When enter: tgt player looses 2 life                                                                              |
 |  4 | Diregraf Captain      | 1UB       | 2/2      | Deathtouch -- Other zomb gets +1/1 -- When a zomb dies: opp looses 1 life                                                    |
 |  3 | Fume Spitter          | B         | 1/1      | Sacr: put a -1/-1c on tgt creats.                                                                                            |
-|  1 | Phantasmal Image      | 1U        | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
-|  2 | Black Cat             | 1B        | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                 |
+|  3 | Phantasmal Image      | 1U        | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                         |
 |    |                       |           |          |                                                                                                                              |
-|    | *Planeswalker: 4*     |           |          |                                                                                                                              |
-|  4 | Liliana of the Veil   | 1BB       | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
+|    | *Planeswalker: 3*     |           |          |                                                                                                                              |
+|  3 | Liliana of the Veil   | 1BB       | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |    |                       |           |          |                                                                                                                              |
-|    | *Control Spells: 8*   |           |          |                                                                                                                              |
+|    | *Control Spells: 11*  |           |          |                                                                                                                              |
 |  4 | Geith's Verdict       | BB        | inst     | Tgt player sacrifice a creature and looses 1 life                                                                            |
 |  4 | Tragic Slip           | B         | inst     | Tgt creats gets -1/-1 -- Morbid: gets -13/-13 instead                                                                        |
+|  3 | Mortapod              | 2         | eqp 2    | Living Weapon -- Eqp creat gets +0/1 and "sacr it: deal 1 damage to tgt creat/player"                                        |
 |    |                       |           |          |                                                                                                                              |
-|    | *Draw spells: 4*      |           |          |                                                                                                                              |
-|  4 | Altar Geist           | 1B        | inst     | Add cost: sacr a creat -- Draw 2 cards                                                                                       |
+|    | *Draw spells: 3*      |           |          |                                                                                                                              |
+|  3 | Altar Geist           | 1B        | inst     | Add cost: sacr a creat -- Draw 2 cards                                                                                       |
 |    |                       |           |          |                                                                                                                              |
-|    | *Lands: 22*           |           |          |                                                                                                                              |
+|    | *Lands: 21*           |           |          |                                                                                                                              |
 |  4 | Darkslick Shores      |           | land     | enter tapped if u control 3+ land -- t: add U or B                                                                           |
 |  4 | Drowned Catacomb      |           | land     | enter tapped unless u control swamp or island -- t: add U or B                                                               |
 |  1 | Island                |           | bas land |                                                                                                                              |
-| 13 | Swamp                 |           | bas land |                                                                                                                              |
+| 12 | Swamp                 |           | bas land |                                                                                                                              |
 |----+-----------------------+-----------+----------+------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*           |           |          |                                                                                                                              |
-|  3 | Ratchet Bomb          | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
-|  2 | Black Sun's Zenith    |           |          |                                                                                                                              |
+|  3 | Corrosive Gate        | x{gp}     | sorc     | Deal X damage to each creats w/ flying                                                                                       |
+|  3 | Black Sun's Zenith    |           |          |                                                                                                                              |
+|  3 | Phyrexian Obliterator | BBBB      | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                          |
+|  3 | Surgical Extraction   | {pb}      | inst     | Exile tgt card from graveyard, hand and lib                                                                                  |
+|  3 | Steel Sabotage        | U         | inst     | Choose 1: counter tgt art or return tgt art to owner's hand                                                                  |
+|----+-----------------------+-----------+----------+------------------------------------------------------------------------------------------------------------------------------|
+|  3 | Disperse              | 1U        | inst     |                                                                                                                              |
+|  2 | Vapor Snag            | U         | inst     | Return tgt creat to owner's hand -- Its controller looses 1 life                                                             |
+|  1 | Black Cat             | 1B        | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                 |
 |  1 | Skaab Ruinator        | 1UU       | 5/6      | Add cost: remove 3 creat from your graveyard -- You may cast him from the graveyard                                          |
-|  2 | Phyrexian Obliterator | BBBB      | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                          |
-|  2 | Hex Parasite          | 1         | art      | x{bp}: Remove up to X counters from tgt perm -- he gets +1/0 for each counter removed                                        |
 |  1 | Doom Blade            | 1B        | inst     | Destroy tgt non black creature                                                                                               |
 |  1 | Go for the throat     | 1B        | inst     | Destroy tgt non art creature                                                                                                 |
+|  2 | Hex Parasite          | 1         | art      | x{bp}: Remove up to X counters from tgt perm -- he gets +1/0 for each counter removed                                        |
 |  1 | Victim of Night       | BB        | inst     | Destroy tgt non vamp, non werefolv, non zombie creature.                                                                     |
 |  2 | Sorin's Thirst        | BB        | inst     | Deals 2 damage to tgt creat, and u gain 2 life                                                                               |
-|    |                       |           |          |                                                                                                                              |
-|    |                       |           |          |                                                                                                                              |
+|  3 | Ratchet Bomb          | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                           |
 |  2 | Nihil Spellbomb       | 1         | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                     |
 |  2 | Skirsdag High Priest  | 1B        | 1/2      | Morbid: t, tap 2 untap creatures u control: put a 5/5 flying black demon token into play                                     |
 |  2 | Phyrexian Metamorth   | 3{up}     | 0/0      | Enter play as a copy of tgt art or creat                                                                                     |
