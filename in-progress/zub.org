@@ -1,4 +1,4 @@
-Zub Deck v1.3:
+Zub Deck v1.36:
 
 --
 
@@ -37,8 +37,7 @@ Currently missing:
 |    | *Sideboard*               |           |          |                                                                                                                                                 |
 |  2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
 |  3 | Corrosive Gale            | x{gp}     | sorc     | Deal X damage to each creats w/ flying                                                                                                          |
-|  1 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
-|  1 | Geth's Verdict            | BB        | inst     | Tgt player sacrifice a creature and looses 1 life                                                                                               |
+|  2 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
 |  2 | Phyrexian Obliterator     | BBBB      | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                                             |
 |  2 | Ratchet Bomb              | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                              |
 |  2 | Surgical Extraction       | {pb}      | inst     | Exile tgt card from graveyard, hand and lib                                                                                                     |
