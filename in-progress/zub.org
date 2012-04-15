@@ -1,10 +1,11 @@
-Zub Deck v1.36:
+Zub Deck v1.42:
 
 --
 
 Currently missing: 
 1 Lili
-2 Phantasmal Image
+4 Darkslick Shored
+1 Drowned Catacomb
 2 Ratchet Bomb
 --
 
@@ -15,7 +16,6 @@ Currently missing:
 |  4 | Diregraf Captain          | 1UB       | 2/2      | Deathtouch -- Other zomb gets +1/1 -- When a zomb dies: opp looses 1 life                                                                       |
 |  3 | Fume Spitter              | B         | 1/1      | Sacr: put a -1/-1c on tgt creats.                                                                                                               |
 |  3 | Phantasmal Image          | 1U        | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                            |
-|  2 | Skirsdag High Priest      | 1B        | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                          |
 |    |                           |           |          |                                                                                                                                                 |
 |    | *Planeswalker: 2*         |           |          |                                                                                                                                                 |
 |  2 | Liliana of the Veil       | 1BB       | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                    |
@@ -26,8 +26,11 @@ Currently missing:
 |  2 | Mortarpod                 | 2         | eqp 2    | Living Weapon -- Eqp creat gets +0/1 and "sacr it: deal 1 damage to tgt creat/player"                                                           |
 |  1 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
 |    |                           |           |          |                                                                                                                                                 |
+|    | *Draw spells: 2*          |           |          |                                                                                                                                                 |
+|  2 | Altar's Reap              | 1B        | inst     | Add cost: sacr a creat -- Draw 2 cards                                                                                                          |
+|    |                           |           |          |                                                                                                                                                 |
 |    | *Swords: 2*               |           |          |                                                                                                                                                 |
-|  2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
+|  2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
 |    |                           |           |          |                                                                                                                                                 |
 |    | *Lands: 22*               |           |          |                                                                                                                                                 |
 |  4 | Darkslick Shores          |           | land     | enter tapped if u control 3+ land -- t: add U or B                                                                                              |
@@ -35,16 +38,20 @@ Currently missing:
 | 14 | Swamp                     |           | bas land |                                                                                                                                                 |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*               |           |          |                                                                                                                                                 |
-|  2 | Sword of War and Peace    | 3         | eqp 2    | Eqp creat gets +2/+2 prot white/red and when deals damage, u gain life equap to cards in hand - def player takes damage equals to cards in hand |
-|  3 | Corrosive Gale            | x{gp}     | sorc     | Deal X damage to each creats w/ flying                                                                                                          |
-|  2 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
+|  2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
+|  2 | Corrosive Gale            | x{gp}     | sorc     | Deal X damage to each creats w/ flying                                                                                                          |
+|  1 | Black Sun's Zenith        | xBB       | sorc     | Each creats gets X -1c -- Shuffle it back to lib                                                                                                |
+|  1 | Phantasmal Image          | 1U        | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                            |
+|  1 | Cemetary Reaper           | 1BB       | 2/2      | Other zombie gets +1/+1 -- 2B, t: exile tgt creat from a graveyard and put a 2/2 zombie into play                                               |
 |  2 | Phyrexian Obliterator     | BBBB      | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                                             |
 |  2 | Ratchet Bomb              | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                              |
-|  2 | Surgical Extraction       | {pb}      | inst     | Exile tgt card from graveyard, hand and lib                                                                                                     |
+|  2 | Nihil Spellbomb           | 1         | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                        |
 |  2 | Steel Sabotage            | U         | inst     | Choose 1: counter tgt art or return tgt art to owner's hand                                                                                     |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
+|  2 | Skirsdag High Priest      | 1B        | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                          |
+|  2 | Surgical Extraction       | {pb}      | inst     | Exile tgt card from graveyard, hand and lib                                                                                                     |
 |  3 | Black Sun's Zenith        | xBB       | sorc     | Each creats gets X -1c -- Shuffle it back to lib                                                                                                |
-|  3 | Altar's Reap              | 1B        | inst     | Add cost: sacr a creat -- Draw 2 cards                                                                                                          |
 |  1 | Skaab Ruinator            | 1UU       | 5/6      | Add cost: remove 3 creat from your graveyard -- You may cast him from the graveyard                                                             |
 |  3 | Disperse                  | 1U        | inst     |                                                                                                                                                 |
 |  2 | Vapor Snag                | U         | inst     | Return tgt creat to owner's hand -- Its controller looses 1 life                                                                                |
@@ -54,11 +61,40 @@ Currently missing:
 |  2 | Hex Parasite              | 1         | art      | x{bp}: Remove up to X counters from tgt perm -- he gets +1/0 for each counter removed                                                           |
 |  1 | Victim of Night           | BB        | inst     | Destroy tgt non vamp, non werefolv, non zombie creature.                                                                                        |
 |  2 | Sorin's Thirst            | BB        | inst     | Deals 2 damage to tgt creat, and u gain 2 life                                                                                                  |
-|  2 | Nihil Spellbomb           | 1         | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                        |
 |  2 | Skirsdag High Priest      | 1B        | 1/2      | Morbid: t, tap 2 untap creatures u control: put a 5/5 flying black demon token into play                                                        |
 |  2 | Phyrexian Metamorth       | 3{up}     | 0/0      | Enter play as a copy of tgt art or creat                                                                                                        |
 |  2 | Dismember                 | 1{bp}{bp} | inst     | Tgt creats gets -5/-5                                                                                                                           |
 |    |                           |           |          |                                                                                                                                                 |
+
+Version 1.42:
+-------------
+-2 Skirsdag High Priest
++2 Altar's Reap
+Swap the swords between SB and MB -- W&P seems more appropriate.
+
+Version 1.41:
+-------------
+SB changes:
+-1 Negate
++1 Phantasmal Image
+
+Against some of the match up I really want to have 4 image on board
+
+
+Post FNM:
+---------
+The deck did really well in the FNM.  I won the tournament.
+Round 1 against Heartless Summoning: 2-1
+Round 2 against Mono black Zombie 2-1
+Round 3 against UW delver/spirit 2-1
+Round 4 against RW humans 2-0
+Round 5 against UW mage-blade 2-0
+
+
+Version v1.4:
+-------------
+3 Corrosive Gale may be too much; Down to 2 replacing the third one by a BSZ
+Also going to remove 1 Negate for a Reaper; in some match up; it may becomes useful to extract creature from their graveyard
 
 
 Version v1.3:
