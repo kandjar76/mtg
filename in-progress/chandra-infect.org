@@ -1,4 +1,4 @@
-Chandra's contagious infection v2.0
+Chandra's contagious infection v2.1
 
 
 |   | *Planeswalker: 5*            |       |          |                                                                                                                     |
@@ -43,13 +43,16 @@ Chandra's contagious infection v2.0
 | 1 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
 | 1 | Slagstorm                    | 1RR   | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                    |
 | 1 | Whipflare                    | 1R    | sorc     | Deals 2 damage to each non-artifact creatures                                                                       |
-| 3 | Ancient Grudge               | 1R    | inst     | Flashback G -- Destroy tgt art                                                                                      |
-| 2 | Black Sun's Zenith           | xBB   | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                      |
-| 3 | Tribute to Hunger            | 2B    | inst     | Tgt opp sacr a creat -- You gain life equals to its toughness                                                       |
+| 2 | Ancient Grudge               | 1R    | inst     | Flashback G -- Destroy tgt art                                                                                      |
+| 2 | Tribute to Hunger            | 2B    | inst     | Tgt opp sacr a creat -- You gain life equals to its toughness                                                       |
 | 2 | Nihil Spellbomb              | 1     | art      | t, sacr it: exile all cards from tgt player graveyard (when put to grave, u may pay B if u do, draw)                |
 | 1 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
+| 1 | Curse of Death's Hold        | 4B    | ench pl  | Creature enchanted player control gets -1/-1                                                                        |
+| 2 | Ratchet Bomb                 | 2     | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                  |
+| 1 | Sever the Bloodline          | 3B    | sorc     | Exile target creat and all creats w/ the same name -- Flashback 5BB.                                                |
 |---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
 |   |                              |       |          |                                                                                                                     |
+| 2 | Black Sun's Zenith           | xBB   | sorc     | Each creats gets X -1/-1c -- Shuffle it to lib                                                                      |
 | 2 | Hex Parasite                 | 1     | 1/1      | x{bp}: Remove up to X counter from tgt perm, he gets +X/0                                                           |
 | 2 | Dismember                    | 1bb   | inst     | Tgt creat gets -5/-5                                                                                                |
 |---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
