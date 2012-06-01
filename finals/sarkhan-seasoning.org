@@ -5,22 +5,22 @@ Mana Curve:
 |---+---+---+---+---+---|
 | 9 | 5 | 7 | 8 | 3 | 4 |
 
+Sol Ring is a side-able card to be replace by a 4th Sakura-Tribe in order to make the deck modern.
 
-
-|    | *Key combo cards 7*       |        |          |                                                                                                                                                     |
+|    | *Key combo cards 8*       |        |          |                                                                                                                                                     |
 |  3 | Doubling Season           | 4G     | ench     | Double effect which put token or counter under your control                                                                                         |
-|  4 | Sarkhan Vol               | 2RG    | plwkr    | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
+|  4 | Sarkhan Vol               | 2RG    | plwkr 4  | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
+|  1 | Garruk, Primal Hunter     | 2GGG   | plwr 3   | +1: Put a 3/3 beast token into play -- -3: draw cards eq to greatest power of creat u control -- -6: Put a 6/6 green wurm tok for each land u ctrl  |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Mana boost 8*            |        |          |                                                                                                                                                     |
-|  1 | Sol Ring                  | 1      | art      | t: add 2 mana to mana pool                                                                                                                          |
+|  1 | Sol Ring (*)              | 1      | art      | t: add 2 mana to mana pool                                                                                                                          |
 |  3 | Sakura-Tribe Elder        | 1G     | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
 |  4 | Explore                   | 1G     | sorc     | You may play an add land -- draw a card                                                                                                             |
 |    |                           |        |          |                                                                                                                                                     |
-|    | *Creatures threat 12*     |        |          |                                                                                                                                                     |
+|    | *Creatures threat 11*     |        |          |                                                                                                                                                     |
 |  4 | Dragonmaster Outcast      | R      | 1/1      | Beg upk: if you control 5 or more land, put a 5/5 dragon into play                                                                                  |
 |  3 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
-|  3 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
-|  1 | Dragon Broodmother        | 2RRRG  | 4/4 fly  | Beg upk: put 1 red/green dragon w/ fly and devour 2.                                                                                                |
+|  4 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Draws 3*                 |        |          |                                                                                                                                                     |
 |  3 | Harmonize                 | 2GG    | sorc     | Draw 3 cards                                                                                                                                        |
@@ -35,7 +35,7 @@ Mana Curve:
 |  2 | Fire-Lit Thicket          |        | land     | t: add 1 -- {rg}, t: add RR or RG or GG                                                                                                             |
 |  1 | Scalding Tarn             |        | land     | pay 1 life, sacr it: search mountain or island then put it into play                                                                                |
 |  1 | Verdant Catacombs         |        | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
-|  2 | Stomping Ground           |        | land     | mountain, island -- enter tapped unless u pay 2 life -- t: add R or G                                                                               |
+|  2 | Stomping Ground           |        | land     | mountain, forest -- enter tapped unless u pay 2 life -- t: add R or G                                                                               |
 |  5 | Forest                    |        | bas land |                                                                                                                                                     |
 |  9 | Mountain                  |        | bas land |                                                                                                                                                     |
 |----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,10 +43,13 @@ Mana Curve:
 |  ? | Lord of Shatterskull Pass | 3R     | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
 |  ? | Avoid Fate                | G      | inst     | Counter tgt instant or aura spell which target a perm u control                                                                                     |
 |  ? | Garruk, Primal Hunter     | 2GGG   | plwk 3   | +1: put a 3/3 token into play - -3: draw cards eq to greatest power amongst creats u control -- -6: put a 6/6 green wurm for each land u control    |
+|  ? | Vexing Shusher            | {rg}x2 | 2/2      | Can't be countered -- {rg}: tgt spell can't be countered by spells or abilities                                                                     |
 |----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *v0.40 -> v0.41*          |        |          |                                                                                                                                                     |
 | -1 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
 | +1 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
+| -1 | Dragon Broodmother        | 2RRRG  | 4/4 fly  | Beg upk: put 1 red/green dragon w/ fly and devour 2.                                                                                                |
+| +1 | Garruk, Primal Hunter     | 2GGG   | plwr 3   | +1: Put a 3/3 beast token into play -- -3: draw cards eq to greatest power of creat u control -- -6: Put a 6/6 green wurm tok for each land u ctrl  |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *v0.30 -> v0.40*          |        |          |                                                                                                                                                     |
 | +2 | Fling                     | 1R     | inst     | Add cost: sacr a creat -- Deals damage equals to sacr creat power to tgt creat or player                                                            |
