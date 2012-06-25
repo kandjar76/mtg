@@ -1,13 +1,13 @@
-Chandra's contagious infection v2.3
+Chandra's contagious infection v2.4
 
 
 |   | *Planeswalker: 5*            |       |          |                                                                                                                     |
 | 3 | Chandra, the Firebrand       | 3R    | plwk 3   | +1: deals 1 damage to tgt creat or player -- -2: copy next inst or sorc u cast -- -6: deal 6 damage to up to 6 tgts |
 | 2 | Liliana Veil                 | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one   |
 |   |                              |       |          |                                                                                                                     |
-|   | *Proliferate spells: 6*      |       |          |                                                                                                                     |
+|   | *Proliferate spells: 7*      |       |          |                                                                                                                     |
 | 3 | Volt Charge                  | 2R    | inst     | Deal 3 damage to tgt creat or player then proliferate                                                               |
-| 3 | Tezzeret Gambit              | 3{up} | sorc     | Draw 2 cards, then proliferate                                                                                      |
+| 4 | Tezzeret Gambit              | 3{up} | sorc     | Draw 2 cards, then proliferate                                                                                      |
 |   |                              |       |          |                                                                                                                     |
 |   | *Mass removals: 5*           |       |          |                                                                                                                     |
 | 3 | Slagstorm                    | 1RR   | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                    |
@@ -15,23 +15,23 @@ Chandra's contagious infection v2.3
 |   |                              |       |          |                                                                                                                     |
 |   | *Other kill spell: 8*        |       |          |                                                                                                                     |
 | 3 | Virulent Wound               | B     | inst     | Tgt creat gets -1/-1 counter, if put to grave this turn, owners gets a poison counter                               |
-| 3 | Tragic Slip                  | B     | inst     | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                      |
+| 2 | Tragic Slip                  | B     | inst     | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                      |
 | 1 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
-| 1 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
+| 2 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
 | 1 | Contagion Clasp              | 2     | art      | When enter: put a -1c on tgt creature -- 4, t: proliferate                                                          |
 | 2 | Pillar of Flame              | R     | sorc     | Deals 2 damage to tgt creature or player -- If creature damaged by it die this turn: exile it                       |
 |   |                              |       |          |                                                                                                                     |
-|   | *Infect Creatures: 10*       |       |          |                                                                                                                     |
+|   | *Infect Creatures: 8*        |       |          |                                                                                                                     |
 | 4 | Phyrexian Crusader           | 1BB   | 2/2      | First strike, infect -- Prot red/white                                                                              |
-| 4 | Plague Myr                   | 2     | 1/1      | infect -- t: add 1 to mana pool                                                                                     |
+| 2 | Vector Asp                   | 1     | 1/1      | B: gain infect                                                                                                      |
 |   |                              |       |          |                                                                                                                     |
 |   | *Copy cat: 1*                |       |          |                                                                                                                     |
 | 1 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
 |   |                              |       |          |                                                                                                                     |
-|   | *Finishing Spell*            |       |          |                                                                                                                     |
+|   | *Finishing Spell: 1*         |       |          |                                                                                                                     |
 | 1 | Caress of Phyrexia           | 3BB   | sorc     | Tgt player draws 3 cards, looses 3 lifes and gets 3 poison counters.                                                |
 |   |                              |       |          |                                                                                                                     |
-|   | *Land: 23*                   |       |          |                                                                                                                     |
+|   | *Land: 24*                   |       |          |                                                                                                                     |
 | 4 | Inkmoth Nexus                |       | land     | t: add 1 -- 1: becomes a 1/1 flying infect                                                                          |
 | 4 | Blackcleave Cliff            |       | Land     | t: add R or B -- Comes tapped unless u control 2 or less other lands                                                |
 | 4 | Dragonskull Summit           |       | Land     | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                    |
@@ -39,7 +39,7 @@ Chandra's contagious infection v2.3
 | 1 | Woodland Cemetary            |       | land     | t: add B or G -- Comes tapped unless u control Swamp or Forest                                                      |
 | 1 | Sulfur Falls                 |       | land     | t: add U or R -- Comes tapped unless u control Island or Mountain                                                   |
 | 5 | Swamp                        |       | Bas Land |                                                                                                                     |
-| 3 | Mountain                     |       | Bas Land |                                                                                                                     |
+| 4 | Mountain                     |       | Bas Land |                                                                                                                     |
 |---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*                  |       |          |                                                                                                                     |
 | 1 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
@@ -53,6 +53,7 @@ Chandra's contagious infection v2.3
 | 2 | Sever the Bloodline          | 3B    | sorc     | Exile target creat and all creats w/ the same name -- Flashback 5BB.                                                |
 | 1 | Witchbane orb                | 4     | art      | When enter: destroy all curses -- You have hexproof                                                                 |
 |---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
+| 4 | Plague Myr                   | 2     | 1/1      | infect -- t: add 1 to mana pool                                                                                     |
 | 2 | Necropede                    | 2     | 1/1      | infect -- When dies: u may put a -1c on tgt creature                                                                |
 | 2 | Tribute to Hunger            | 2B    | inst     | Tgt opp sacr a creat -- You gain life equals to its toughness                                                       |
 | 1 | Skithiryx, the Blight Dragon | 3BB   | 4/4 fly  | infect -- B: gain hast -- BB: regenerate                                                                            |
