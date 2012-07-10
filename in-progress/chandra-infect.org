@@ -1,4 +1,4 @@
-Chandra's contagious infection v2.4
+Chandra's contagious infection v2.5
 
 
 |   | *Planeswalker: 5*            |       |          |                                                                                                                     |
@@ -18,15 +18,14 @@ Chandra's contagious infection v2.4
 | 2 | Tragic Slip                  | B     | inst     | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                      |
 | 1 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
 | 2 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
-| 1 | Contagion Clasp              | 2     | art      | When enter: put a -1c on tgt creature -- 4, t: proliferate                                                          |
-| 2 | Pillar of Flame              | R     | sorc     | Deals 2 damage to tgt creature or player -- If creature damaged by it die this turn: exile it                       |
+| 2 | Contagion Clasp              | 2     | art      | When enter: put a -1c on tgt creature -- 4, t: proliferate                                                          |
+| 2 | Incinerate                   | 1R    | inst     | Deals 3 damage to tgt creat/player, creature dealt damage by it can't be regenerated this turn                      |
 |   |                              |       |          |                                                                                                                     |
-|   | *Infect Creatures: 8*        |       |          |                                                                                                                     |
+|   | *Infect Creatures: 4*        |       |          |                                                                                                                     |
 | 4 | Phyrexian Crusader           | 1BB   | 2/2      | First strike, infect -- Prot red/white                                                                              |
-| 2 | Vector Asp                   | 1     | 1/1      | B: gain infect                                                                                                      |
 |   |                              |       |          |                                                                                                                     |
-|   | *Copy cat: 1*                |       |          |                                                                                                                     |
-| 1 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
+|   | *Copy cat: 2*                |       |          |                                                                                                                     |
+| 2 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
 |   |                              |       |          |                                                                                                                     |
 |   | *Finishing Spell: 1*         |       |          |                                                                                                                     |
 | 1 | Caress of Phyrexia           | 3BB   | sorc     | Tgt player draws 3 cards, looses 3 lifes and gets 3 poison counters.                                                |
@@ -53,6 +52,10 @@ Chandra's contagious infection v2.4
 | 2 | Sever the Bloodline          | 3B    | sorc     | Exile target creat and all creats w/ the same name -- Flashback 5BB.                                                |
 | 1 | Witchbane orb                | 4     | art      | When enter: destroy all curses -- You have hexproof                                                                 |
 |---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
+| 1 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
+| 2 | Surgical Extraction          | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                         |
+| 2 | Vector Asp                   | 1     | 1/1      | B: gain infect                                                                                                      |
+| 2 | Pillar of Flame              | R     | sorc     | Deals 2 damage to tgt creature or player -- If creature damaged by it die this turn: exile it                       |
 | 4 | Plague Myr                   | 2     | 1/1      | infect -- t: add 1 to mana pool                                                                                     |
 | 2 | Necropede                    | 2     | 1/1      | infect -- When dies: u may put a -1c on tgt creature                                                                |
 | 2 | Tribute to Hunger            | 2B    | inst     | Tgt opp sacr a creat -- You gain life equals to its toughness                                                       |
