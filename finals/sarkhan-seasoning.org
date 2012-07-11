@@ -27,6 +27,7 @@ Sol Ring is a side-able card to be replace by a 4th Sakura-Tribe in order to mak
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Some kill spells 6*      |        |          |                                                                                                                                                     |
 |  3 | Lighting Bolt             | R      | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
+|  3 | Pyroclasm                 | 1R     | sorc     | Deals 2 damage to each creatures                                                                                                                    |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Land: 24*                |        |          |                                                                                                                                                     |
 |  2 | Raging Ravine             |        | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
