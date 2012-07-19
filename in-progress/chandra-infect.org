@@ -1,4 +1,4 @@
-Chandra's contagious infection v2.5
+Chandra's contagious infection v2.6
 
 
 |   | *Planeswalker: 5*            |       |          |                                                                                                                     |
@@ -15,9 +15,8 @@ Chandra's contagious infection v2.5
 |   |                              |       |          |                                                                                                                     |
 |   | *Other kill spell: 8*        |       |          |                                                                                                                     |
 | 3 | Virulent Wound               | B     | inst     | Tgt creat gets -1/-1 counter, if put to grave this turn, owners gets a poison counter                               |
-| 2 | Tragic Slip                  | B     | inst     | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                      |
-| 1 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
-| 2 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
+| 2 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
+| 3 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
 | 2 | Contagion Clasp              | 2     | art      | When enter: put a -1c on tgt creature -- 4, t: proliferate                                                          |
 | 2 | Incinerate                   | 1R    | inst     | Deals 3 damage to tgt creat/player, creature dealt damage by it can't be regenerated this turn                      |
 |   |                              |       |          |                                                                                                                     |
@@ -43,16 +42,17 @@ Chandra's contagious infection v2.5
 |   | *Sideboard*                  |       |          |                                                                                                                     |
 | 1 | Go for the throat            | 1B    | inst     | Destroy tgt non artifact creature                                                                                   |
 | 1 | Doom Blade                   | 1B    | inst     | Destroy tgt non black creature                                                                                      |
+| 2 | Tragic Slip                  | B     | inst     | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                      |
 | 1 | Slagstorm                    | 1RR   | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                    |
 | 1 | Whipflare                    | 1R    | sorc     | Deals 2 damage to each non-artifact creatures                                                                       |
 | 2 | Ratchet Bomb                 | 2     | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                  |
 | 2 | Ancient Grudge               | 1R    | inst     | Flashback G -- Destroy tgt art                                                                                      |
 | 2 | Nihil Spellbomb              | 1     | art      | t, sacr it: exile all cards from tgt player graveyard (when put to grave, u may pay B if u do, draw)                |
-| 2 | Curse of Death's Hold        | 4B    | ench pl  | Creature enchanted player control gets -1/-1                                                                        |
 | 2 | Sever the Bloodline          | 3B    | sorc     | Exile target creat and all creats w/ the same name -- Flashback 5BB.                                                |
-| 1 | Witchbane orb                | 4     | art      | When enter: destroy all curses -- You have hexproof                                                                 |
-|---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
 | 1 | Phyrexian Metamorph          | 3{pu} | 0/0      | You may have it enter as a copy of a creature or art in play -- it's a stayed as an artifact                        |
+|---+------------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------|
+| 1 | Witchbane orb                | 4     | art      | When enter: destroy all curses -- You have hexproof                                                                 |
+| 2 | Curse of Death's Hold        | 4B    | ench pl  | Creature enchanted player control gets -1/-1                                                                        |
 | 2 | Surgical Extraction          | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                         |
 | 2 | Vector Asp                   | 1     | 1/1      | B: gain infect                                                                                                      |
 | 2 | Pillar of Flame              | R     | sorc     | Deals 2 damage to tgt creature or player -- If creature damaged by it die this turn: exile it                       |
