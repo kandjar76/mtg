@@ -1,4 +1,4 @@
-Tezzeret's Memorial v1.1
+Tezzeret's Memorial v1.1b
 
 |   | *Planeswalker: 3*        |       |         |                                                                                                                                                                  |
 | 3 | Tezzeret, Agent of Bolas | 2UB   | plwr 3  | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
@@ -33,9 +33,10 @@ Tezzeret's Memorial v1.1
 | 7 | Island                   |       |         |                                                                                                                                                                  |
 |---+--------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*              |       |         |                                                                                                                                                                  |
-| 3 | Nihil Spellbomb          | 1     | art     | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                                         |
+| 2 | Surgical Extraction      | {pb}  | inst    | Exile tgt card from graveyard, hand and lib                                                                                                                      |
+| 2 | Nihil Spellbomb          | 1     | art     | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                                         |
 | 2 | Ratchet Bomb             | 2     | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
-| 3 | Phyrexian Metamorth      | 3{up} | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
+| 2 | Phyrexian Metamorth      | 3{up} | 0/0     | Enter play as a copy of tgt art or creat                                                                                                                         |
 | 3 | Spelskite                | 2     | 0/4     | {pu}: redirect spell to him                                                                                                                                      |
 | 1 | Black Sun's Zenith       | xBB   | sorc    | Each creats gets -1/-1c                                                                                                                                          |
 | 3 | Doom Blade               | 1B    | inst    | Destroy tgt non black creats                                                                                                                                     |
