@@ -1,4 +1,4 @@
-Sarkhan's Seasoning v0.50
+Sarkhan's Seasoning v0.60
 
 Mana Curve:
 | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -19,15 +19,15 @@ Sol Ring is a side-able card to be replace by a 4th Sakura-Tribe in order to mak
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Creatures threat 11*     |        |          |                                                                                                                                                     |
 |  4 | Dragonmaster Outcast      | R      | 1/1      | Beg upk: if you control 5 or more land, put a 5/5 dragon into play                                                                                  |
-|  3 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
 |  4 | Kargan Dragonlord         | RR     | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
+|  2 | Lord of Shatterskull Pass | 3R     | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Draws 3*                 |        |          |                                                                                                                                                     |
 |  3 | Harmonize                 | 2GG    | sorc     | Draw 3 cards                                                                                                                                        |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Some kill spells 6*      |        |          |                                                                                                                                                     |
 |  3 | Lighting Bolt             | R      | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
-|  3 | Pyroclasm                 | 1R     | sorc     | Deals 2 damage to each creatures                                                                                                                    |
+|  4 | Slagstorm                 | 1RR    | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                                                    |
 |    |                           |        |          |                                                                                                                                                     |
 |    | *Land: 24*                |        |          |                                                                                                                                                     |
 |  2 | Raging Ravine             |        | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
@@ -40,11 +40,16 @@ Sol Ring is a side-able card to be replace by a 4th Sakura-Tribe in order to mak
 |  9 | Mountain                  |        | bas land |                                                                                                                                                     |
 |----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To Consider*             |        |          |                                                                                                                                                     |
-|  ? | Lord of Shatterskull Pass | 3R     | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
 |  ? | Avoid Fate                | G      | inst     | Counter tgt instant or aura spell which target a perm u control                                                                                     |
 |  ? | Garruk, Primal Hunter     | 2GGG   | plwk 3   | +1: put a 3/3 token into play - -3: draw cards eq to greatest power amongst creats u control -- -6: put a 6/6 green wurm for each land u control    |
 |  ? | Vexing Shusher            | {rg}x2 | 2/2      | Can't be countered -- {rg}: tgt spell can't be countered by spells or abilities                                                                     |
 |----+---------------------------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *v0.50 -> v0.60*          |        |          |                                                                                                                                                     |
+| +4 | Slagstorm                 | 1RR    | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                                                    |
+| +2 | Lord of Shatterskull Pass | 3R     | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
+| -3 | Taurean Mauler            | 2R     | 2/2      | Changeling -- When opp cast a spell: put a +1/+1c on him                                                                                            |
+| -3 | Pyroclasm                 | 1R     | sorc     | Deals 2 damage to each creatures                                                                                                                    |
+|    |                           |        |          |                                                                                                                                                     |
 |    | *v0.41 -> v0.50*          |        |          |                                                                                                                                                     |
 | +2 | Pyroclasm                 | 1R     | sorc     | Deals 3 damage to each creatures                                                                                                                    |
 | -1 | Lighting Bolt             | R      | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
