@@ -1,56 +1,58 @@
-Architect's Memorial v1.2
+Architect's Memorial v1.3
 
-
-|    | *Creature Helper: 10*    |       |         |                                                                                                                         |
-|  3 | Grand Architect          | 1UU   | 1/3     | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab  |
-|  3 | Snapcaster Mage          | 1U    | 2/1     | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                              |
-|  2 | Phantasmal Illusion      |       |         |                                                                                                                         |
-|  2 | Treasure Mage            | 2U    | 2/2     | When enter: search art w/ CMC 6+ and put it into hand                                                                   |
-|    |                          |       |         |                                                                                                                         |
-|    | *Artifacts: 6*           |       |         |                                                                                                                         |
-|  3 | Wurmcoil Engine          | 6     | 6/6 art | Deathtouch, Lifelink -- When dies: put a 3/3 deathtouch and a 3/3 lifelink into play                                    |
-|  2 | Staff of Nim             | 6     | art     | Beg upk: draw -- t: deals 1 damage to tgt creat/player                                                                  |
-|  1 | Akroma's Memorial        | 7     | art     | Creats u control have flying, first strk, vig, trample, haste and pro black/red                                         |
-|    |                          |       |         |                                                                                                                         |
-|    | *Control Spells: 20*     |       |         |                                                                                                                         |
-|  4 | Ponder                   | U     | sorc    | Look top 3 cards, put back any order, you may shuffle, then draw                                                        |
-|  3 | Black Sun's Zenith       | xBB   | sorc    | Each creats gets -1/-1c -- Shuffle it back to library                                                                   |
-|  4 | Mana Leak                | 1U    | inst    | Counter tgt spell unless its controller pay 3                                                                           |
-|  4 | Duress                   | B     | sorc    | Tgt player reveals hand, choose non land non creat cards; he discards it                                                |
-|  1 | Doom Blade               | 1B    | inst    | Destroy tgt non black creats                                                                                            |
-|  3 | Go For the Throat        | 1B    | inst    | Destroy tgt non art creats                                                                                              |
-|  1 | Blue Sun's Zenith        | xUUU  | inst    | Draw X cards -- Shuffle it back to library                                                                              |
-|    |                          |       |         |                                                                                                                         |
-|    | *Land: 24*               |       |         |                                                                                                                         |
-|  2 | Phyrexia's Core          |       | land    | t: add 1 -- 1, t, sacr an art: u gain 1 life                                                                            |
-|  4 | Darkslick Shores         |       | land    | enter tapped if u control 3+ land -- t: add U or B                                                                      |
-|  4 | Drowned Catacomb         |       | land    | enter tapped unless u control swamp or island -- t: add U or B                                                          |
-|  2 | Cavern of Souls          |       | land    | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered |
-|  5 | Swamp                    |       |         |                                                                                                                         |
-|  9 | Island                   |       |         |                                                                                                                         |
-|----+--------------------------+-------+---------+-------------------------------------------------------------------------------------------------------------------------|
-|    | *Sideboard*              |       |         |                                                                                                                         |
-|  2 | Surgical Extraction      | {pb}  | inst    | Exile tgt card from graveyard, hand and lib                                                                             |
-|  2 | Nihil Spellbomb          | 1     | art     | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                |
-|  2 | Ratchet Bomb             | 2     | art     | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                    |
-|  2 | Spelskite                | 2     | 0/4     | {pu}: redirect spell to him                                                                                             |
-|  2 | Liliana Veil             | 1BB   | plwr 3  | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one       |
-|  3 | Negate                   | 1U    | inst    | Counter non creat spell                                                                                                 |
-|  1 | Black Sun's Zenith       | xBB   | sorc    | Each creats gets -1/-1c                                                                                                 |
-|----+--------------------------+-------+---------+-------------------------------------------------------------------------------------------------------------------------|
-|    |                          |       |         |                                                                                                                         |
-|  2 | Tragic Slip              | B     | inst    | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                         |
-| SB | Tezzeret, Agent of Bolas |       |         |                                                                                                                         |
-|  2 | Phyrexian Metamorth      | 3{up} | 0/0     | Enter play as a copy of tgt art or creat                                                                                |
-|  1 | Black Sun's Zenith       | xBB   | sorc    | Each creats gets -1/-1c                                                                                                 |
-|  3 | Doom Blade               | 1B    | inst    | Destroy tgt non black creats                                                                                            |
-|  1 | Spine of Ish Sah         | 7     | art     | When enter, or put to graveyard: destroy tgt perm                                                                       |
-|  2 | Outwit                   | U     | inst    | Counter tgt spell that target a player                                                                                  |
-|  3 | Despise                  | B     | sorc    | Tgt player reveal hand -- Choose creat or planeswalker from it, he discards it.                                         |
-|  2 | Turn aside               | U     | inst    | Counter tgt spell that tgt perm u control                                                                               |
-|  2 | Steel Sabotage           | U     | inst    | Choose 1: counter tgt art or return tgt art to owner's hand                                                             |
-|----+--------------------------+-------+---------+-------------------------------------------------------------------------------------------------------------------------|
-|  3 | Tragic Slip              | B     | inst    | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                         |
+|    | *Planeswalker: 2*        |       |          |                                                                                                                                                                  |
+|  2 | Tamiyo, the Moon Sage    | 3UU   | plnwkr 4 | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead" |
+|    |                          |       |          |                                                                                                                                                                  |
+|    | *Creature Helper: 8*     |       |          |                                                                                                                                                                  |
+|  3 | Grand Architect          | 1UU   | 1/3      | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                           |
+|  3 | Snapcaster Mage          | 1U    | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                       |
+|  2 | Phantasmal Illusion      |       |          |                                                                                                                                                                  |
+|    |                          |       |          |                                                                                                                                                                  |
+|    | *Artifacts: 6*           |       |          |                                                                                                                                                                  |
+|  3 | Wurmcoil Engine          | 6     | 6/6 art  | Deathtouch, Lifelink -- When dies: put a 3/3 deathtouch and a 3/3 lifelink into play                                                                             |
+|  2 | Staff of Nim             | 6     | art      | Beg upk: draw -- t: deals 1 damage to tgt creat/player                                                                                                           |
+|  1 | Akroma's Memorial        | 7     | art      | Creats u control have flying, first strk, vig, trample, haste and pro black/red                                                                                  |
+|    |                          |       |          |                                                                                                                                                                  |
+|    | *Control Spells: 20*     |       |          |                                                                                                                                                                  |
+|  4 | Ponder                   | U     | sorc     | Look top 3 cards, put back any order, you may shuffle, then draw                                                                                                 |
+|  3 | Black Sun's Zenith       | xBB   | sorc     | Each creats gets -1/-1c -- Shuffle it back to library                                                                                                            |
+|  4 | Mana Leak                | 1U    | inst     | Counter tgt spell unless its controller pay 3                                                                                                                    |
+|  4 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                         |
+|  1 | Doom Blade               | 1B    | inst     | Destroy tgt non black creats                                                                                                                                     |
+|  3 | Go For the Throat        | 1B    | inst     | Destroy tgt non art creats                                                                                                                                       |
+|  1 | Blue Sun's Zenith        | xUUU  | inst     | Draw X cards -- Shuffle it back to library                                                                                                                       |
+|    |                          |       |          |                                                                                                                                                                  |
+|    | *Land: 24*               |       |          |                                                                                                                                                                  |
+|  2 | Phyrexia's Core          |       | land     | t: add 1 -- 1, t, sacr an art: u gain 1 life                                                                                                                     |
+|  4 | Darkslick Shores         |       | land     | enter tapped if u control 3+ land -- t: add U or B                                                                                                               |
+|  4 | Drowned Catacomb         |       | land     | enter tapped unless u control swamp or island -- t: add U or B                                                                                                   |
+|  2 | Cavern of Souls          |       | land     | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered                                          |
+|  4 | Swamp                    |       |          |                                                                                                                                                                  |
+|  8 | Island                   |       |          |                                                                                                                                                                  |
+|----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*              |       |          |                                                                                                                                                                  |
+|  2 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
+|  2 | Nihil Spellbomb          | 1     | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                                         |
+|  2 | Ratchet Bomb             | 2     | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
+|  2 | Spelskite                | 2     | 0/4      | {pu}: redirect spell to him                                                                                                                                      |
+|  2 | Liliana Veil             | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one                                                |
+|  3 | Negate                   | 1U    | inst     | Counter non creat spell                                                                                                                                          |
+|  1 | Black Sun's Zenith       | xBB   | sorc     | Each creats gets -1/-1c                                                                                                                                          |
+|----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |                          |       |          |                                                                                                                                                                  |
+|  2 | Treasure Mage            | 2U    | 2/2      | When enter: search art w/ CMC 6+ and put it into hand                                                                                                            |
+|  2 | Tragic Slip              | B     | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                  |
+| SB | Tezzeret, Agent of Bolas |       |          |                                                                                                                                                                  |
+|  2 | Phyrexian Metamorth      | 3{up} | 0/0      | Enter play as a copy of tgt art or creat                                                                                                                         |
+|  1 | Black Sun's Zenith       | xBB   | sorc     | Each creats gets -1/-1c                                                                                                                                          |
+|  3 | Doom Blade               | 1B    | inst     | Destroy tgt non black creats                                                                                                                                     |
+|  1 | Spine of Ish Sah         | 7     | art      | When enter, or put to graveyard: destroy tgt perm                                                                                                                |
+|  2 | Outwit                   | U     | inst     | Counter tgt spell that target a player                                                                                                                           |
+|  3 | Despise                  | B     | sorc     | Tgt player reveal hand -- Choose creat or planeswalker from it, he discards it.                                                                                  |
+|  2 | Turn aside               | U     | inst     | Counter tgt spell that tgt perm u control                                                                                                                        |
+|  2 | Steel Sabotage           | U     | inst     | Choose 1: counter tgt art or return tgt art to owner's hand                                                                                                      |
+|----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  3 | Tragic Slip              | B     | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                  |
 
 
 
