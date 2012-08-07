@@ -1,13 +1,7 @@
-Zub Deck v1.42:
+Zub Deck v1.50:
 
 --
 
-Currently missing: 
-1 Lili
-4 Darkslick Shored
-1 Drowned Catacomb
-2 Ratchet Bomb
---
 
 |    | *Creatures: 24*           |           |          |                                                                                                                                                 |
 |  4 | Gravecrawler              | B         | 2/1      | Can't block -- Can be cast from graveyard if a zombie is in play                                                                                |
@@ -38,15 +32,16 @@ Currently missing:
 | 14 | Swamp                     |           | bas land |                                                                                                                                                 |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*               |           |          |                                                                                                                                                 |
-|  2 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
+|  1 | Sword of Feast and Famine | 3         | eqp 2    | Eqp creat gets +2/+2 prot green/black and when deals cmbt damage: untap all lands and def discards a card                                       |
 |  2 | Corrosive Gale            | x{gp}     | sorc     | Deal X damage to each creats w/ flying                                                                                                          |
-|  1 | Black Sun's Zenith        | xBB       | sorc     | Each creats gets X -1c -- Shuffle it back to lib                                                                                                |
+|  1 | Sever the Bloodline       | 3B        | sorc     | Flashback 5BB -- Exile target creature and all others creats w/ the same name                                                                   |
 |  1 | Phantasmal Image          | 1U        | 0/0      | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                            |
 |  1 | Cemetary Reaper           | 1BB       | 2/2      | Other zombie gets +1/+1 -- 2B, t: exile tgt creat from a graveyard and put a 2/2 zombie into play                                               |
 |  2 | Phyrexian Obliterator     | BBBB      | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                                                             |
 |  2 | Ratchet Bomb              | 2         | art      | t: put charge -- t, sacr: destroy all non lan perm w/ CMC = charge                                                                              |
 |  2 | Nihil Spellbomb           | 1         | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                        |
 |  2 | Steel Sabotage            | U         | inst     | Choose 1: counter tgt art or return tgt art to owner's hand                                                                                     |
+|  1 | Phyrexian Metamorth       | 3{up}     | 0/0      | Enter play as a copy of tgt art or creat                                                                                                        |
 |----+---------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Negate                    | 1U        | inst     | Counter tgt non creat spell                                                                                                                     |
 |  2 | Skirsdag High Priest      | 1B        | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                          |
@@ -62,9 +57,16 @@ Currently missing:
 |  1 | Victim of Night           | BB        | inst     | Destroy tgt non vamp, non werefolv, non zombie creature.                                                                                        |
 |  2 | Sorin's Thirst            | BB        | inst     | Deals 2 damage to tgt creat, and u gain 2 life                                                                                                  |
 |  2 | Skirsdag High Priest      | 1B        | 1/2      | Morbid: t, tap 2 untap creatures u control: put a 5/5 flying black demon token into play                                                        |
-|  2 | Phyrexian Metamorth       | 3{up}     | 0/0      | Enter play as a copy of tgt art or creat                                                                                                        |
 |  2 | Dismember                 | 1{bp}{bp} | inst     | Tgt creats gets -5/-5                                                                                                                           |
 |    |                           |           |          |                                                                                                                                                 |
+
+Version 1.50:
+-------------
+Update of the sideboard:
+-1 Sword of Feast and Famine
+-1 Black Sun's Zenith
++1 Sever the Bloodline
++1 Phyrexian Metamorph
 
 Version 1.42:
 -------------
