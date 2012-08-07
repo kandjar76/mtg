@@ -2,14 +2,20 @@
 
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
 |-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
+| Aether Vial             | $15   |     1 | U?         | Darksteel         | Beg upk: put charge counter on it; t: put a creat from hand to play with CMC = #counters                                       |
+| High Tide               | $.5   |     4 | ???        | Fallen Empire     | If you tap an island for mana, add an extra U to mana pool                                                                     |
+|                         |       |       |            |                   |                                                                                                                                |
+| Fauna Shaman            | $5.5  |     4 | ???        | M11               | G, t, discard a creature card, search your library for a creature card and put it into your hand                               |
+| Aggravated Assault      | $.50  |   1-4 | ???        | Onslaught         | 3RR: get another attack phase + main phase                                                                                     |
+|                         |       |       |            |                   |                                                                                                                                |
 | Dragon Broodmother      | $3    |     4 | Doubling   | Shard of Alara    | Flying -- beg upk: put a 1/1 dragon w/ devour 2 on the battlefield                                                             |
 | Mycoloth                | $1.5  |     4 | Doubling   | Shard of Alara    | Devour 2 (when enter, sacr creats to put 2 +1c on him) -- Beg upk: put a 1/1 token for each +1c he has on him.                 |
 |                         |       |       |            |                   |                                                                                                                                |
 | Swans of Bryn Argoll    | $1.5  |     4 | UR or WR   | Shadowmoor        | 4/3 fly -- Prevent damage dealt to him its controller draws cards equals to damage prevented this way                          |
 | Volcanic Fallout        | $1    |     4 | UR or WR   | Conflux           | Can't be countered -- Deals 2 damage to each creats / player                                                                   |
 |                         |       |       |            |                   |                                                                                                                                |
-| Damping Engine          |       |       |            |                   | artifact -- a player who controls more pem than other can't cast art creat or ench (that player may sac a perm to ignore this) |
-| Nightcreep              |       |       |            |                   | instant -- all creats becomes black, all land becomes swamp                                                                    |
+| Damping Engine          | $.5   |       |            |                   | artifact -- a player who controls more pem than other can't cast art creat or ench (that player may sac a perm to ignore this) |
+| Nightcreep              | $.2   |       |            |                   | instant -- all creats becomes black, all land becomes swamp                                                                    |
 |                         |       |       |            |                   |                                                                                                                                |
 | Master Transmuter       | $2.5  |     4 | artifact   | Conflux           | U, t: swap tgt art u control with 1 in ur hand                                                                                 |
 | Intruder Alarm          | $2.5  |     4 | merfolk    | VIII edition      | Creats don't untap -- when creat comes into play: untap all                                                                    |
