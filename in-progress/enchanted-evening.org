@@ -1,3 +1,23 @@
+Setup of the base line:
+- Currently: 23 cards (+ 24 lands) => 17 open slots.
+- Three colors UWG -> Should it be two?  Only U creatures is the predator.
+- Still needs draws / mana boost / way to slow the game down.
+- More instants!
+
+| 3 | Yavimaya Enchantress | 2G        | 2/2     | gets +1/+1 for each enchn on the battlefield                                                               |
+| 3 | Academy Rector       | 3W        | 1/2     | When put to graveyard, search enchant and put that card on the battlefield                                 |
+| 3 | Soltari Visionary    | 1WW       | 2/2     | shadow -- when deals damage to a player, destr tgt ench that player control                                |
+| 3 | Trygon Predator      | 1GU       | 2/3 fly | When deals combat damage, destroy tgt ench or art that player control                                      |
+|   |                      |           |         |                                                                                                            |
+| 3 | Idyllic Tutor        | 2W        | inst    | Search ur library for an ench and put it in your hand                                                      |
+|   |                      |           |         |                                                                                                            |
+| 2 | Enchanted Evening    | 3{WU}{WU} | ench    | All permantents are enchantment in addition to their other types                                           |
+| 3 | Sterling Grove       | GW        | ench    | Other ench have shroud -- 1, sacr: search for an ench put it on top of the library                         |
+|   |                      |           |         |                                                                                                            |
+| 2 | Scour                | 2WW       | inst    | Remove tgt enchant from the game, search graveyard, lib, remove all enchantment w/ same name from the game |
+| 1 | Calming Verse        | 3G        | sorc    | Destroy all enchantment you don't control then destroy the one you control unless all your land are tapped |
+|   |                      |           |         |                                                                                                            |
+
 Initial Playtesting Report:
 ---------------------------
 
@@ -7,6 +27,7 @@ When it gets the perfect hands -> awesome.
 Otherwise, the deck do a butt load of nothingness waiting for the round to be over.
 
 Deck needs draws and/or way to generate tempo.
+Considering how mana heavy the deck is: 24 lands seems a requirement.
 
 --
 
@@ -38,8 +59,6 @@ Card wise:
 |                      |        |       |                                                                                      |
 
 
-so far: 38 spells!
-12 + 6 + 12 + 8
 
 Search for the ench:
 | $7  | 3 | Academy Rector       | 3W        | 1/2     | When put to graveyard, search enchant and put that card on the battlefield                                 |
