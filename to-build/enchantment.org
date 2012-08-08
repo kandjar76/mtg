@@ -1,3 +1,43 @@
+Initial Playtesting Report:
+---------------------------
+
+Note: overall... failed.
+The deck is clearly not balanced at all
+When it gets the perfect hands -> awesome. 
+Otherwise, the deck do a butt load of nothingness waiting for the round to be over.
+
+Deck needs draws and/or way to generate tempo.
+
+--
+
+Card wise:
+| Name                 | Rating | Count | Comments                                                                             |
+|----------------------+--------+-------+--------------------------------------------------------------------------------------|
+| Academy Rector       | xxx..  | 3-    | Pretty good. No more than 3                                                          |
+| Idyllic Tutor        | xxx..  | 2/3   | Instant speed is awesome but need more instant in the deck                           |
+| Lost Autamancer      | x....  | 0/1   | It needs to vanish to be useful!!! Too conditional                                   |
+|                      |        |       |                                                                                      |
+| Enchanted Evening    | xxxxx  | 2?    | Really fun card!!! But doesn't do anything by itself.                                |
+| Humility             | x....  | 0/1s  | Great cards BUT the deck is relying too much on the creats ability to be useful here |
+| Sterling Grove       | xxxx.  | 2/3   | Loved it! In combinaison with Enchanted Evening it's just awesome!                   |
+| Aura Shards          | x....  | 0     | Too conditional.  Could be use in a token making deck, but not here.                 |
+|                      |        |       |                                                                                      |
+| Yavimaya Enchantress | xxxxx  | 3/4   | Awesome cards... Really fun when Enchanted Evening is on the table.                  |
+| Ancestral Mask       | ???..  | 1/2   | Haven't seen it in play yet.                                                         |
+| Soltari Visionary    | xxxx.  | 3/4   | Invasion, combo really well w/ the deck                                              |
+| Trygon Predator      | xxxx.  | 3/4   | Same as above! + Take care of annoying artifact!                                     |
+|                      |        |       |                                                                                      |
+| Scour                | xxx..  | 2     | Helpful utility -- But not good enough if Enchanted Evening isn't out already        |
+| Spring Cleaning      | x....  | 0     | Not good enough -- Not fun when it works.                                            |
+| Cleansing Meditation | x....  | 0     | Same as above. Pass.                                                                 |
+|                      |        |       |                                                                                      |
+| Yavimaya Elder       | xx...  | 0     | Doesn't accelerate the mana, cost too much.                                          |
+|                      |        |       |                                                                                      |
+|----------------------+--------+-------+--------------------------------------------------------------------------------------|
+| Calming Veerse       | ???..  | 1-of  | Coult be a game finisher.                                                            |
+|                      |        |       |                                                                                      |
+
+
 so far: 38 spells!
 12 + 6 + 12 + 8
 
