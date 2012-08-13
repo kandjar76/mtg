@@ -1,22 +1,74 @@
+Enchanted Evening v1.0
+
+|   | *Key Enchantment: 2*  |           |      |                                                                                                            |
+| 2 | Enchanted Evening     | 3{WU}{WU} | ench | All permantents are enchantment in addition to their other types                                           |
+|   |                       |           |      |                                                                                                            |
+|   | *Mana Boost: 1*       |           |      |                                                                                                            |
+| 1 | Sol Ring              | 1         | art  | t: add 2 mana to mana pool                                                                                 |
+|   |                       |           |      |                                                                                                            |
+|   | *Defenders: 9*        |           |      |                                                                                                            |
+| 3 | Carven Caryatid       | 1GG       | 2/5  | Defender -- When enter: Draw a card                                                                        |
+| 3 | Overgrown Battlement  | 1G        | 0/4  | Defender -- t: add G for each defender u control                                                           |
+| 3 | Wall of Omens         | 1W        | 0/4  | Defender -- When enter: draw a card                                                                        |
+|   |                       |           |      |                                                                                                            |
+|   | *Combo creatures: 12* |           |      |                                                                                                            |
+| 4 | Academy Rector        | 3W        | 1/2  | When put to graveyard, search enchant and put that card on the battlefield                                 |
+| 4 | Soltari Visionary     | 1WW       | 2/2  | Shadow -- If deal damage to player; destroy tgt enchantment that player controls                           |
+| 4 | Yavimaya Enchantress  | 2G        | 2/2  | Gets +1/+1 for each enchant in play                                                                        |
+|   |                       |           |      |                                                                                                            |
+|   | *Other Helpers: 12*   |           |      |                                                                                                            |
+| 3 | Sterling Grove        | GW        | ench | Other ench have shroud -- 1, sacr: search for an ench put it on top of the library                         |
+| 3 | Rancor                | G         | aura | Ench creats gets +2/0 and trample -- When put to grave from play: return it to hand                        |
+| 2 | Scour                 | 2WW       | inst | Remove tgt enchant from the game, search graveyard, lib, remove all enchantment w/ same name from the game |
+| 4 | Swords of Plowshares  | W         | inst | Exile tgt creat -- Creats controller gain life equals to the creat's power                                 |
+|   |                       |           |      |                                                                                                            |
+|   | *Crippler Spell: 1*   |           |      |                                                                                                            |
+| 1 | Primeval Light        | 3G        | sorc | Destroy all enchantment tgt player controls                                                                |
+|   |                       |           |      |                                                                                                            |
+|   | *Lands: 23*           |           |      |                                                                                                            |
+| 4 | Forest                |           |      |                                                                                                            |
+| 4 | Plains                |           |      |                                                                                                            |
+| 3 | Marsh Flats           |           | land | pay 1 life, sacr it: search for plain or swamp and put it into play                                        |
+| 2 | Misty Rainforest      |           | land | pay 1 life, sacr it: search for forest or island and put it into play                                      |
+| 4 | Razorverge Thicket    |           | land | enters tapped unless u control 2 or fewer other lands -- t: add G or W                                     |
+| 2 | Stirring Wildwood     |           | land | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                                               |
+| 4 | Temple Garden         |           | land | Enters tapped unless u pay 2 life -- t: add G or W                                                         |
+|---+-----------------------+-----------+------+------------------------------------------------------------------------------------------------------------|
+|   | Wall of Blossoms      | 1G        | 0/4  | When enters: draw a card                                                                                   |
+|   | Wall of Nets          | 1WW       | 0/7  | After block: exile all creats blocked by wall of nets -- Return them to play when Wall of Nets leaves      |
+
+Deck is unfortunately not really fun to play with.
+I even had the "Primeval Light" in hand ready to be used; but refused to use it.
+
+
+--
+
 Setup of the base line:
 - Currently: 23 cards (+ 24 lands) => 17 open slots.
 - Three colors UWG -> Should it be two?  Only U creatures is the predator.
 - Still needs draws / mana boost / way to slow the game down.
 - More instants!
 
-| 3 | Yavimaya Enchantress | 2G        | 2/2     | gets +1/+1 for each enchn on the battlefield                                                               |
-| 3 | Academy Rector       | 3W        | 1/2     | When put to graveyard, search enchant and put that card on the battlefield                                 |
-| 3 | Soltari Visionary    | 1WW       | 2/2     | shadow -- when deals damage to a player, destr tgt ench that player control                                |
-| 3 | Trygon Predator      | 1GU       | 2/3 fly | When deals combat damage, destroy tgt ench or art that player control                                      |
-|   |                      |           |         |                                                                                                            |
-| 3 | Idyllic Tutor        | 2W        | inst    | Search ur library for an ench and put it in your hand                                                      |
-|   |                      |           |         |                                                                                                            |
-| 2 | Enchanted Evening    | 3{WU}{WU} | ench    | All permantents are enchantment in addition to their other types                                           |
-| 3 | Sterling Grove       | GW        | ench    | Other ench have shroud -- 1, sacr: search for an ench put it on top of the library                         |
-|   |                      |           |         |                                                                                                            |
-| 2 | Scour                | 2WW       | inst    | Remove tgt enchant from the game, search graveyard, lib, remove all enchantment w/ same name from the game |
-| 1 | Calming Verse        | 3G        | sorc    | Destroy all enchantment you don't control then destroy the one you control unless all your land are tapped |
-|   |                      |           |         |                                                                                                            |
+| 4 | Yavimaya Enchantress | 2G        | 2/2      | gets +1/+1 for each enchn on the battlefield                                                               |
+| 4 | Academy Rector       | 3W        | 1/2      | When put to graveyard, search enchant and put that card on the battlefield                                 |
+| 4 | Soltari Visionary    | 1WW       | 2/2      | shadow -- when deals damage to a player, destr tgt ench that player control                                |
+|   |                      |           |          |                                                                                                            |
+| 3 | Idyllic Tutor        | 2W        | sorc     | Search ur library for an ench and put it in your hand                                                      |
+|   |                      |           |          |                                                                                                            |
+| 2 | Enchanted Evening    | 3{WU}{WU} | ench     | All permantents are enchantment in addition to their other types                                           |
+| 3 | Sterling Grove       | GW        | ench     | Other ench have shroud -- 1, sacr: search for an ench put it on top of the library                         |
+|   |                      |           |          |                                                                                                            |
+| 2 | Scour                | 2WW       | inst     | Remove tgt enchant from the game, search graveyard, lib, remove all enchantment w/ same name from the game |
+| 1 | Calming Verse        | 3G        | sorc     | Destroy all enchantment you don't control then destroy the one you control unless all your land are tapped |
+|   |                      |           |          |                                                                                                            |
+| 3 | Overgrown Battlement | 1G        | 0/4      | Defender -- t: add G for each creats w/ defender u control                                                 |
+| 3 | Wall of Omen         | 1W        | 0/4      | Defender -- When enter: draw a card                                                                        |
+| 3 | Cavern Caryatid      | 1GG       | 2/5      | Defender -- When enter: draw a card                                                                        |
+| 4 | Abudant Growth       | G         | aura     | Enchant land has: "t: add a mana of any color" --  When enter: draw a card                                 |
+|---+----------------------+-----------+----------+------------------------------------------------------------------------------------------------------------|
+| 3 | Trygon Predator      | 1GU       | 2/3 fly  | When deals combat damage, destroy tgt ench or art that player control                                      |
+|   | Serra's Sanctum      |           | leg land | t: add W for each ench u control                                                                           |
+| 3 | Utopia Sprawl        | G         | aura     | Enchant Forst -- t: add a mana of any color to mana pool                                                   |
 
 Initial Playtesting Report:
 ---------------------------
