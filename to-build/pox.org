@@ -33,6 +33,9 @@
 |  4 | Nihil Spellbomb         | 1   | art             | t, sacr it: exile tgt player's graveyard -- when put to graveyard, u may pay B to draw a card   |
 |  4 | Hymn to Tourach         | BB  | sorc            | Tgt player disc 2 cards at random                                                               |
 |----+-------------------------+-----+-----------------+-------------------------------------------------------------------------------------------------|
+| SB | Game to Phyrexia        | BB  | ench            | Beg upk: u may sacr a creature, if so, destroy tgt artifact                                     |
+| SB | Nevinyrral's Disk       | 4   | art             | 1, t: destroy all art, creat and enchant                                                        |
+|    |                         |     |                 |                                                                                                 |
 |  4 | Reassembling Skeleton   | 1B  | 1/1             | 1B: return him from grave to play tapped.                                                       |
 |  x | Tangle Wire             | 3   | art             | Beg each upk: that player tap creat/art or land for each fading counter on it.                  |
 |  3 | Gatekeeper of Malakir   | BB  | 2/2             | Kicker B -- If kicked: tgt player sacr a creature                                               |
