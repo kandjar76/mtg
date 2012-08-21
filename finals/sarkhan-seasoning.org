@@ -1,54 +1,72 @@
-Sarkhan's Seasoning v0.70
+Sarkhan's Seasoning v0.80
 
 Mana Curve:
 | 1 | 2 | 3 | 4 | 5 | 6 |
 |---+---+---+---+---+---|
 | 9 | 5 | 7 | 8 | 3 | 4 |
 
-Sol Ring is a side-able card to be replace by a 4th Sakura-Tribe in order to make the deck modern.
+Sol Ring is a side-able card to be replace by a 4th Explore in order to make the deck modern.
 
-|    | *Key combo cards 8*          |           |          |                                                                                                                                                     |
+|    | *Key card 3*                 |           |          |                                                                                                                                                     |
 |  3 | Doubling Season              | 4G        | ench     | Double effect which put token or counter under your control                                                                                         |
+|    |                              |           |          |                                                                                                                                                     |
+|    | *Planeswalker: 7*            |           |          |                                                                                                                                                     |
 |  3 | Sarkhan Vol                  | 2RG       | plwkr 4  | +1: creats u control gets +1/+1 and haste -- -2: take control of tgt creat + haste until eot -- -6: put 5 4/4 red dragon token onto the battlefield |
 |  2 | Garruk, Primal Hunter        | 2GGG      | plwr 3   | +1: Put a 3/3 beast token into play -- -3: draw cards eq to greatest power of creat u control -- -6: Put a 6/6 green wurm tok for each land u ctrl  |
+|  2 | Ajani Vengeant               | 2RW       | plwkr 3  | +1: tgt perm doesn't untap during its next untap step -- -2: deals 3 damage to tgt creat/player, gain 3 life -- -7: destroy all land of tgt player  |
 |    |                              |           |          |                                                                                                                                                     |
-|    | *Mana boost 8*               |           |          |                                                                                                                                                     |
-|  1 | Sol Ring (*)                 | 1         | art      | t: add 2 mana to mana pool                                                                                                                          |
+|    | *Mana boost 7*               |           |          |                                                                                                                                                     |
 |  3 | Sakura-Tribe Elder           | 1G        | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
 |  4 | Explore                      | 1G        | sorc     | You may play an add land -- draw a card                                                                                                             |
 |    |                              |           |          |                                                                                                                                                     |
-|    | *Creatures threat 11*        |           |          |                                                                                                                                                     |
-|  4 | Kargan Dragonlord            | RR        | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
-|  2 | Lord of Shatterskull Pass    | 3R        | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
+|    | *Creatures threat 10*        |           |          |                                                                                                                                                     |
+|  3 | Kargan Dragonlord            | RR        | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
 |  4 | Kitchen Finks                | 1{rw}{rw} | 3/2      | Persist -- When enters: gain 2 life                                                                                                                 |
+|  3 | Lotus Cobra                  | 1G        | 2/1      | Landfall: whenever land comes into play, add one color to mana pool                                                                                 |
 |    |                              |           |          |                                                                                                                                                     |
 |    | *Draws 3*                    |           |          |                                                                                                                                                     |
 |  3 | Harmonize                    | 2GG       | sorc     | Draw 3 cards                                                                                                                                        |
 |    |                              |           |          |                                                                                                                                                     |
-|    | *Some kill spells 6*         |           |          |                                                                                                                                                     |
+|    | *Some kill spells 7*         |           |          |                                                                                                                                                     |
 |  3 | Lighting Bolt                | R         | inst     | Deals 3 damage to tgt creature or player                                                                                                            |
 |  4 | Slagstorm                    | 1RR       | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                                                    |
-| -1 | Slagstorm                    | 1RR       | sorc     | Choose 1: deal 3 damage to each creat or 3 damage to each player                                                                                    |
-| +1 | Savage Twister               | xRG       | sorc     | Deals X damage to each creatures                                                                                                                    |
 |    |                              |           |          |                                                                                                                                                     |
-|    | *Land: 24*                   |           |          |                                                                                                                                                     |
-|  2 | Raging Ravine                |           | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
-|  2 | Raging Ravine                |           | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
+|    | *Land: 23*                   |           |          |                                                                                                                                                     |
 |  2 | Coperline Gorge              |           | land     | Enter tapped unless u control 2 or few other land                                                                                                   |
 |  2 | Fire-Lit Thicket             |           | land     | t: add 1 -- {rg}, t: add RR or RG or GG                                                                                                             |
 |  1 | Scalding Tarn                |           | land     | pay 1 life, sacr it: search mountain or island then put it into play                                                                                |
-|  1 | Verdant Catacombs            |           | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
+|  3 | Verdant Catacombs            |           | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
 |  2 | Stomping Ground              |           | land     | mountain, forest -- enter tapped unless u pay 2 life -- t: add R or G                                                                               |
-|  5 | Forest                       |           | bas land |                                                                                                                                                     |
-|  9 | Mountain                     |           | bas land |                                                                                                                                                     |
+|  2 | Temple Garden                |           | land     | forest, plain -- enter tapped unless u pay 2 life -- t: add G or W                                                                                  |
+|  4 | Forest                       |           | bas land |                                                                                                                                                     |
+|  6 | Mountain                     |           | bas land |                                                                                                                                                     |
+|  1 | Plain                        |           | bas land |                                                                                                                                                     |
+|----+------------------------------+-----------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Modern -> Vintage*          |           |          |                                                                                                                                                     |
+| +1 | Sol Ring (*)                 | 1         | art      | t: add 2 mana to mana pool                                                                                                                          |
+| -1 | Explore                      | 1G        | sorc     | You may play an add land -- draw a card                                                                                                             |
 |----+------------------------------+-----------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To Consider*                |           |          |                                                                                                                                                     |
 |  ? | Avoid Fate                   | G         | inst     | Counter tgt instant or aura spell which target a perm u control                                                                                     |
-|  ? | Garruk, Primal Hunter        | 2GGG      | plwk 3   | +1: put a 3/3 token into play - -3: draw cards eq to greatest power amongst creats u control -- -6: put a 6/6 green wurm for each land u control    |
 |  ? | Vexing Shusher               | {rg}x2    | 2/2      | Can't be countered -- {rg}: tgt spell can't be countered by spells or abilities                                                                     |
 |  ? | Krosan Grip                  | 2G        | inst     | Split sec -- Destroy tgt art or ench                                                                                                                |
-|    | Valakut, the Molten Pinnacle |           | land     | Enter tapped -- When a mountain comes into play if u control 5 others mountain: deals 3 damage to tgt creat or player                               |
+|  ? | Savage Twister               | xRG       | sorc     | Deals X damage to each creatures                                                                                                                    |
+|  ? | Valakut, the Molten Pinnacle |           | land     | Enter tapped -- When a mountain comes into play if u control 5 others mountain: deals 3 damage to tgt creat or player                               |
 |----+------------------------------+-----------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *v0.70 -> 0.80*              |           |          |                                                                                                                                                     |
+| -1 | Kargan Dragonlord            | RR        | 2/2      | lvl up R -- [4:7] 4/4 flying -- [8+] 8/8 fly trample w/ firebreathing                                                                               |
+| -2 | Lord of Shatterskull Pass    | 3R        | 3/3      | levelup(1R) -- [1-5]: 6/6 -- [6+] 6/6, when attack: deals 6 damage to each creat tgt player control                                                 |
+| +3 | Lotus Cobra                  | 1G        | 2/1      | Landfall: whenever land comes into play, add one color to mana pool                                                                                 |
+| -1 | Sakura-Tribe Elder           | 1G        | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                                 |
+| -1 | Mountain                     |           | bas land |                                                                                                                                                     |
+| +2 | Ajani Vengeant               | 2RW       | plwkr 3  | +1: tgt perm doesn't untap during its next untap step -- -2: deals 3 damage to tgt creat/player, gain 3 life -- -7: destroy all land of tgt player  |
+| -1 | Forest                       |           | bas land |                                                                                                                                                     |
+| -2 | Mountain                     |           | bas land |                                                                                                                                                     |
+| +1 | Plain                        |           | bas land |                                                                                                                                                     |
+| +2 | Verdant Catacombs            |           | land     | pay 1 life, sacr it: search forest or swamp then put it into play                                                                                   |
+| -2 | Raging Ravine                |           | land     | Enter tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                         |
+| +2 | Temple Garden                |           | land     | forest, plain -- enter tapped unless u pay 2 life -- t: add G or W                                                                                  |
+|    |                              |           |          |                                                                                                                                                     |
 |    | *v0.60 -> v0.70*             |           |          |                                                                                                                                                     |
 | -4 | Dragonmaster Outcast         | R         | 1/1      | Beg upk: if you control 5 or more land, put a 5/5 dragon into play                                                                                  |
 | +4 | Kitchen Finks                | 1{rw}{rw} | 3/2      | Persist -- When enters: gain 2 life                                                                                                                 |
