@@ -1,4 +1,4 @@
-Architect's Memorial v1.3
+Architect's Memorial v1.51
 
 |    | *Planeswalker: 2*        |       |          |                                                                                                                                                                  |
 |  2 | Tamiyo, the Moon Sage    | 3UU   | plnwkr 4 | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead" |
@@ -31,15 +31,14 @@ Architect's Memorial v1.3
 |  8 | Island                   |       |          |                                                                                                                                                                  |
 |----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*              |       |          |                                                                                                                                                                  |
-|  2 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
 |  2 | Nihil Spellbomb          | 1     | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                                         |
 |  2 | Ratchet Bomb             | 2     | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
+|  1 | Phyrexian Metamorph      |       |          |                                                                                                                                                                  |
 |  2 | Spelskite                | 2     | 0/4      | {pu}: redirect spell to him                                                                                                                                      |
-|  2 | Liliana Veil             | 1BB   | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one                                                |
+|  3 | Mental Misstep           |       |          |                                                                                                                                                                  |
 |  3 | Negate                   | 1U    | inst     | Counter non creat spell                                                                                                                                          |
-|  1 | Black Sun's Zenith       | xBB   | sorc     | Each creats gets -1/-1c                                                                                                                                          |
+|  2 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
 |----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    |                          |       |          |                                                                                                                                                                  |
 |  2 | Treasure Mage            | 2U    | 2/2      | When enter: search art w/ CMC 6+ and put it into hand                                                                                                            |
 |  2 | Tragic Slip              | B     | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                  |
 | SB | Tezzeret, Agent of Bolas |       |          |                                                                                                                                                                  |
