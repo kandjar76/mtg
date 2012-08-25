@@ -1,4 +1,4 @@
-Architect's Memorial v1.51
+Architect's Memorial v1.52
 
 |    | *Planeswalker: 2*        |       |          |                                                                                                                                                                  |
 |  2 | Tamiyo, the Moon Sage    | 3UU   | plnwkr 4 | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead" |
@@ -15,9 +15,10 @@ Architect's Memorial v1.51
 |    |                          |       |          |                                                                                                                                                                  |
 |    | *Control Spells: 20*     |       |          |                                                                                                                                                                  |
 |  4 | Ponder                   | U     | sorc     | Look top 3 cards, put back any order, you may shuffle, then draw                                                                                                 |
+|  3 | Think Twice              | 1U    | inst     | Flashback 2U -- Draw a card                                                                                                                                      |
 |  3 | Black Sun's Zenith       | xBB   | sorc     | Each creats gets -1/-1c -- Shuffle it back to library                                                                                                            |
-|  4 | Mana Leak                | 1U    | inst     | Counter tgt spell unless its controller pay 3                                                                                                                    |
-|  4 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                         |
+|  3 | Mana Leak                | 1U    | inst     | Counter tgt spell unless its controller pay 3                                                                                                                    |
+|  2 | Negate                   | 1U    | inst     | Counter non creat spell                                                                                                                                          |
 |  1 | Doom Blade               | 1B    | inst     | Destroy tgt non black creats                                                                                                                                     |
 |  3 | Go For the Throat        | 1B    | inst     | Destroy tgt non art creats                                                                                                                                       |
 |  1 | Blue Sun's Zenith        | xUUU  | inst     | Draw X cards -- Shuffle it back to library                                                                                                                       |
@@ -35,9 +36,10 @@ Architect's Memorial v1.51
 |  2 | Ratchet Bomb             | 2     | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
 |  1 | Phyrexian Metamorph      |       |          |                                                                                                                                                                  |
 |  2 | Spelskite                | 2     | 0/4      | {pu}: redirect spell to him                                                                                                                                      |
-|  3 | Mental Misstep           |       |          |                                                                                                                                                                  |
-|  3 | Negate                   | 1U    | inst     | Counter non creat spell                                                                                                                                          |
-|  2 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
+|  2 | Stuffy Doll              | 5     | 0/1      | When enter: choose a player -- Indestructible -- When dealt damage: deal that much damage to choosen player -- t: deal 1 damage to itself                        |
+|  2 | Mental Misstep           |       |          |                                                                                                                                                                  |
+|  1 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
+|  3 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                         |
 |----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  2 | Treasure Mage            | 2U    | 2/2      | When enter: search art w/ CMC 6+ and put it into hand                                                                                                            |
 |  2 | Tragic Slip              | B     | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                  |
