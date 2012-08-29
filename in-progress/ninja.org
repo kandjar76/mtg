@@ -1,4 +1,4 @@
-Initial Draft for a Ninja deck.
+Ninja deck v1.1
 
 |   | *The Ninja: 15*            |     |         |                                                                                                                                     |
 | 4 | Ninja of the Deep Hours    | 3U  | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                      |
@@ -14,19 +14,20 @@ Initial Draft for a Ninja deck.
 | 3 | Ornithopter                | 0   | 0/2     | Flying                                                                                                                              |
 |   |                            |     |         |                                                                                                                                     |
 |   | *Equipment 3*              |     |         |                                                                                                                                     |
-| 3 | Infiltration Lens          | 1   | eqp 1   | When equip creats is blocked: draw 2 cards                                                                                          |
+| 2 | Infiltration Lens          | 1   | eqp 1   | When equip creats is blocked: draw 2 cards                                                                                          |
 |   |                            |     |         |                                                                                                                                     |
 |   | *Draw/Control: 8*          |     |         |                                                                                                                                     |
 | 3 | Brainstorm                 | U   | inst    | Draw 3 cards, then put 2 back                                                                                                       |
-| 2 | Temporary Mastery          | 3UU | sorc    | Take an extra turn, then exile it -- Miracle: 1U                                                                                    |
 | 3 | Boomerang                  | UU  | inst    | Return target perm to owner's hand                                                                                                  |
+| 3 | Counterspell               | UU  | inst    | Counter target spell                                                                                                                |
 |   |                            |     |         |                                                                                                                                     |
 |   | *Lands: 24*                |     |         |                                                                                                                                     |
 | 4 | Watery Grave               |     | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                  |
 | 4 | Sunken Ruins               |     | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                             |
+| 3 | Drowned Catacomb           |     | land    | Enters tapped unless u control an island or a swamp                                                                                 |
 | 2 | Cavern of the Soul         |     |         | When enter: choose a creat type -- t: add 1 -- t: add 1 any color to cast a creat of the choosen type                               |
 | 6 | Island                     |     |         |                                                                                                                                     |
-| 6 | Swamp                      |     |         |                                                                                                                                     |
+| 3 | Swamp                      |     |         |                                                                                                                                     |
 |   |                            |     |         |                                                                                                                                     |
 |---+----------------------------+-----+---------+-------------------------------------------------------------------------------------------------------------------------------------|
 | 3 | Shuriken                   | 1   | eqp 2   | Eqp creats has: "t, unattach: deals 2 damage to tgt creat -- Creats controller gains control of eqpment unless attached to a Ninja" |
