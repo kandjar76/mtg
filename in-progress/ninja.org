@@ -1,38 +1,48 @@
-Ninja deck v1.1
+Ninja deck v1.2
 
-|   | *The Ninja: 15*            |     |         |                                                                                                                                     |
-| 4 | Ninja of the Deep Hours    | 3U  | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                      |
-| 3 | Sakashima's Student        | 2UU | 0/0     | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                    |
-| 4 | Mistblade Shinobi          | 2U  | 1/1     | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                       |
-| 1 | Ink-Eyes, Servant of Oni   | 4BB | 5/4 leg | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate |
-| 1 | Higure, the Still Wind     | 3UU | 3/4 leg | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable         |
-| 2 | Okiba-Gang Shinobi         | 3BB | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                     |
-|   |                            |     |         |                                                                                                                                     |
-|   | *The Go-Through creat: 10* |     |         |                                                                                                                                     |
-| 3 | Augury Owl                 | 1U  | 1/1     | Flying -- When enters: scry 3                                                                                                       |
-| 4 | Baleful Strix              | UB  | 1/1     | Flying -- When enters: draw a card                                                                                                  |
-| 3 | Ornithopter                | 0   | 0/2     | Flying                                                                                                                              |
-|   |                            |     |         |                                                                                                                                     |
-|   | *Equipment 3*              |     |         |                                                                                                                                     |
-| 2 | Infiltration Lens          | 1   | eqp 1   | When equip creats is blocked: draw 2 cards                                                                                          |
-|   |                            |     |         |                                                                                                                                     |
-|   | *Draw/Control: 8*          |     |         |                                                                                                                                     |
-| 3 | Brainstorm                 | U   | inst    | Draw 3 cards, then put 2 back                                                                                                       |
-| 3 | Boomerang                  | UU  | inst    | Return target perm to owner's hand                                                                                                  |
-| 3 | Counterspell               | UU  | inst    | Counter target spell                                                                                                                |
-|   |                            |     |         |                                                                                                                                     |
-|   | *Lands: 24*                |     |         |                                                                                                                                     |
-| 4 | Watery Grave               |     | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                  |
-| 4 | Sunken Ruins               |     | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                             |
-| 3 | Drowned Catacomb           |     | land    | Enters tapped unless u control an island or a swamp                                                                                 |
-| 2 | Cavern of the Soul         |     |         | When enter: choose a creat type -- t: add 1 -- t: add 1 any color to cast a creat of the choosen type                               |
-| 6 | Island                     |     |         |                                                                                                                                     |
-| 3 | Swamp                      |     |         |                                                                                                                                     |
-|   |                            |     |         |                                                                                                                                     |
-|---+----------------------------+-----+---------+-------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | Shuriken                   | 1   | eqp 2   | Eqp creats has: "t, unattach: deals 2 damage to tgt creat -- Creats controller gains control of eqpment unless attached to a Ninja" |
-| 4 | Counterspell               | UU  | inst    | Counter tgt spell                                                                                                                   |
-| 3 | Skullsnatcher              | 1B  | 2/1     | Ninjutsu B -- When deals damage to a player: exile up to 2 tgt cards from that player's graveyard                                   |
-|   |                            |     |         |                                                                                                                                     |
-| 2 | Ratchet Bomb               |     |         |                                                                                                                                     |
-|   |                            |     |         |                                                                                                                                     |
+|   | *The Ninja: 14*            |      |         |                                                                                                                                           |
+| 4 | Ninja of the Deep Hours    | 3U   | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                            |
+| 2 | Sakashima's Student        | 2UU  | 0/0     | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                          |
+| 1 | Mistblade Shinobi          | 2U   | 1/1     | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                             |
+| 1 | Ink-Eyes, Servant of Oni   | 4BB  | 5/4 leg | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate       |
+| 2 | Higure, the Still Wind     | 3UU  | 3/4 leg | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable               |
+| 4 | Okiba-Gang Shinobi         | 3BB  | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                           |
+|   |                            |      |         |                                                                                                                                           |
+|   | *The Go-Through creat: 10* |      |         |                                                                                                                                           |
+| 2 | Thalakos Seer              | UU   | 1/1     | Shadow -- When leave play: draw a card                                                                                                    |
+| 4 | Baleful Strix              | UB   | 1/1     | Flying -- When enters: draw a card                                                                                                        |
+| 4 | Ornithopter                | 0    | 0/2     | Flying                                                                                                                                    |
+|   |                            |      |         |                                                                                                                                           |
+|   | *Equipment 2*              |      |         |                                                                                                                                           |
+| 2 | Skullclamp                 | 1    | eqp 1   | Eqp creat gets +1/-1 -- When dies: draw 2 carda                                                                                           |
+| 1 | Umezawa's Jitte            | 2    | eqp 2   | When eqp creat deals combat damage, put 2 charge on Jitte -- Remove 1 charge, choose 1: eqp gets +2/+2, tgt creats get -1/-1, gain 2 life |
+|   |                            |      |         |                                                                                                                                           |
+|   | *Draw/Control: 10*         |      |         |                                                                                                                                           |
+| 4 | Brainstorm                 | U    | inst    | Draw 3 cards, then put 2 back                                                                                                             |
+| 3 | Counterspell               | UU   | inst    | Counter target spell                                                                                                                      |
+| 3 | Cryptic Command            | 1UUU | inst    | Choose 2: Counter tgt spell -- Return tgt perm to hand -- Tap all creats tgt player control -- Draw a card                                |
+|   |                            |      |         |                                                                                                                                           |
+|   | *Lands: 23*                |      |         |                                                                                                                                           |
+| 4 | Watery Grave               |      | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                        |
+| 4 | Sunken Ruins               |      | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                   |
+| 3 | Drowned Catacomb           |      | land    | Enters tapped unless u control an island or a swamp                                                                                       |
+| 4 | Misty Rainforest           |      | land    | pay 1 life, sacr it: search for forest or island and put it into play                                                                     |
+| 2 | Creeping Tar Pit           |      | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                          |
+| 2 | Strip Mine                 |      | land    | t: add 1 -- t: destroy tgt land                                                                                                           |
+| 4 | Island                     |      |         |                                                                                                                                           |
+|   |                            |      |         |                                                                                                                                           |
+|---+----------------------------+------+---------+-------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Augury Owl                 | 1U   | 1/1     | Flying -- When enters: scry 3                                                                                                             |
+| 2 | Cloud of Faeries           | 1U   | 1/1 fly | When enters: untap two land -- Cycling 2                                                                                                  |
+| 1 | Sol Ring                   | 1    | art     | t: add 2 mana to mana pool                                                                                                                |
+| 1 | Infiltration Lens          | 1    | eqp 1   | When equip creats is blocked: draw 2 cards                                                                                                |
+| 1 | Saprazzan Heir             | 1U   | 1/1     | When becomes blocked: draw 3 cards                                                                                                        |
+| 1 | Thalakos Seer              | 1U   | 1/1     | Shadow -- When leaves plays draw a card                                                                                                   |
+|   |                            |      |         |                                                                                                                                           |
+| 3 | Boomerang                  | UU   | inst    | Return target perm to owner's hand                                                                                                        |
+| 3 | Shuriken                   | 1    | eqp 2   | Eqp creats has: "t, unattach: deals 2 damage to tgt creat -- Creats controller gains control of eqpment unless attached to a Ninja"       |
+| 4 | Counterspell               | UU   | inst    | Counter tgt spell                                                                                                                         |
+| 3 | Skullsnatcher              | 1B   | 2/1     | Ninjutsu B -- When deals damage to a player: exile up to 2 tgt cards from that player's graveyard                                         |
+|   |                            |      |         |                                                                                                                                           |
+| 2 | Ratchet Bomb               |      |         |                                                                                                                                           |
+|   |                            |      |         |                                                                                                                                           |
