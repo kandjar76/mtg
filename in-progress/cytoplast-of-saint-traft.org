@@ -1,43 +1,50 @@
-Cytoplast of Saint Traft v1.1
+Cytoplast of Saint Traft v1.2
 
-|   | *Planeswalker*             |           |          |                                                                                                                         |
-| 4 | Ajani, Caller of the Pride | 1WW       | plnwkr 4 | +1: put a +1c on up to 1 creat -- -3: tgt creat gain fly, and dble strike -- -8: put X 2/2 wolf where X is ur life      |
+|   | *Planeswalker 5*           |           |          |                                                                                                                         |
+| 3 | Ajani, Caller of the Pride | 1WW       | plnwkr 4 | +1: put a +1c on up to 1 creat -- -3: tgt creat gain fly, and dble strike -- -8: put X 2/2 wolf where X is ur life      |
+| 2 | Jace Beleren               | 1UU       | plwkr 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                |
 |   |                            |           |          |                                                                                                                         |
-|   | *Creatures*                |           |          |                                                                                                                         |
-| 3 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                                                |
+|   | *Creatures 8*              |           |          |                                                                                                                         |
+| 2 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 - Ut: gain control of tgt creat with +1/+1 on it                                                                |
 | 3 | Geist of Saint Traft       | 1WU       | 2/2      | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                 |
-| 2 | Sun Titan                  | 4WW       | 6/6 vig  | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                         |
+| 3 | Sun Titan                  | 4WW       | 6/6 vig  | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                         |
 |   |                            |           |          |                                                                                                                         |
-|   | *Control*                  |           |          |                                                                                                                         |
+|   | *Control 8*                |           |          |                                                                                                                         |
 | 3 | Mana Leak                  | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                          |
 | 2 | Negate                     | 1U        | inst     | Counter tgt non creature spell                                                                                          |
-| 4 | Remand                     | 1U        | inst     | Counter tgt spell (back to hand), draw                                                                                  |
+| 3 | Remand                     | 1U        | inst     | Counter tgt spell (back to hand), draw                                                                                  |
 |   |                            |           |          |                                                                                                                         |
-|   | *Board Cleaner*            |           |          |                                                                                                                         |
+|   | *Board Cleaner* 7          |           |          |                                                                                                                         |
 | 4 | Path to Exile              | W         | inst     | Exile tgt creat, its controller may search his library for a basic land and put it into play tapped                     |
 | 3 | Wrath of God               | 2WW       | sorc     | Destroy all creats, they can't be regen                                                                                 |
 |   |                            |           |          |                                                                                                                         |
-|   | *Draw*                     |           |          |                                                                                                                         |
+|   | *Draw 7*                   |           |          |                                                                                                                         |
 | 4 | Think Twice                | 1U        | inst     | Flashback 2U -- Draw a card                                                                                             |
 | 3 | Serum Vision               | U         | sorc     | Draw, then scry 2                                                                                                       |
 |   |                            |           |          |                                                                                                                         |
-|   | *Mana Boost*               |           |          |                                                                                                                         |
+|   | *Mana Boost 2*             |           |          |                                                                                                                         |
 | 2 | Azorius Signet             | 2         | art      | 1, t: add UW                                                                                                            |
 |   |                            |           |          |                                                                                                                         |
-|   | *Land*                     |           |          |                                                                                                                         |
+|   | *Land 23*                  |           |          |                                                                                                                         |
 | 2 | Cavern of Souls            |           | land     | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered |
 | 2 | Celestial Colonnade        |           | land     | comes tapped -- t: add W or U -- 3WU: becomes a 4/4 white/blue elemental w/ flying and vigilance until eot              |
 | 3 | Glacial Fortress           |           | land     | comes tapped unless u ctrl a plain or an island -- t: add W or U                                                        |
 | 4 | Hallowed Fountain          |           | land     | Enter tapped unless u pay 2 -- t: add W or U                                                                            |
 | 3 | Marsh Flats                |           | land     | pay 1 life, sacr it: search for plain or swamp and put it into play                                                     |
-| 4 | Plains                     |           | bas land |                                                                                                                         |
 | 3 | Seachrome Coast            |           | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                    |
 | 2 | Tectonite Edge             |           | land     | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                    |
+| 1 | Island                     |           | bas land |                                                                                                                         |
+| 3 | Plains                     |           | bas land |                                                                                                                         |
 |---+----------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------|
 | 4 | Telling Time               | 1U        | inst     | Look top 3, put 1 in hand, 1 on top of lib, 1 at bottom of lib                                                          |
 | 3 | Eel Umbra                  | 1U        | aura     | Flash - Ench creats gets +1/+1 -- Totem armor                                                                           |
 | 2 | Mirrorweave                | 2{uw}{uw} | inst     | Each creatures became a copy of tgt non legendary creature                                                              |
 
+
+v1.1:
+-----
+More draw needed!!!
+And Sun Titan is really good in this deck!
 
 v1.0: 
 -----
