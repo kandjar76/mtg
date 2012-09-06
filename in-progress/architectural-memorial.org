@@ -1,11 +1,10 @@
-Architect's Memorial v1.6
+Architect's Memorial v1.70
 
 |    | *Planeswalker: 2*        |       |          |                                                                                                                                                                  |
 |  2 | Tamiyo, the Moon Sage    | 3UU   | plnwkr 4 | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead" |
 |    |                          |       |          |                                                                                                                                                                  |
 |    | *Creature Helper: 8*     |       |          |                                                                                                                                                                  |
-|  2 | Grand Architect          | 1UU   | 1/3      | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                           |
-|  3 | Snapcaster Mage          | 1U    | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                       |
+|  4 | Snapcaster Mage          | 1U    | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                       |
 |  2 | Phantasmal Image         | 1U    | 0/0      | May enters as a copy of another creature, if so: it gets "If targetted, sacrifice it"                                                                            |
 |    |                          |       |          |                                                                                                                                                                  |
 |    | *Artifacts: 6*           |       |          |                                                                                                                                                                  |
@@ -24,7 +23,7 @@ Architect's Memorial v1.6
 |  1 | Blue Sun's Zenith        | xUUU  | inst     | Draw X cards -- Shuffle it back to library                                                                                                                       |
 |    |                          |       |          |                                                                                                                                                                  |
 |    | *Mana Booster*           |       |          |                                                                                                                                                                  |
-|  2 | Pristin Talisman         | 3     | art      | t: add 1 mana to mana pool, gain 1 life                                                                                                                          |
+|  3 | Pristin Talisman         | 3     | art      | t: add 1 mana to mana pool, gain 1 life                                                                                                                          |
 |    |                          |       |          |                                                                                                                                                                  |
 |    | *Land: 24*               |       |          |                                                                                                                                                                  |
 |  2 | Phyrexia's Core          |       | land     | t: add 1 -- 1, t, sacr an art: u gain 1 life                                                                                                                     |
@@ -37,14 +36,17 @@ Architect's Memorial v1.6
 |    | *Sideboard*              |       |          |                                                                                                                                                                  |
 |  2 | Nihil Spellbomb          | 1     | art      | t, sacr it: tgt player exile his graveyard -- when put to graveyard, u may pay B to draw                                                                         |
 |  2 | Ratchet Bomb             | 2     | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                             |
-|  1 | Phyrexian Metamorph      |       |          |                                                                                                                                                                  |
-|  2 | Spelskite                | 2     | 0/4      | {pu}: redirect spell to him                                                                                                                                      |
-|  2 | Stuffy Doll              | 5     | 0/1      | When enter: choose a player -- Indestructible -- When dealt damage: deal that much damage to choosen player -- t: deal 1 damage to itself                        |
-|  2 | Mental Misstep           |       |          |                                                                                                                                                                  |
+|  2 | Trading Post             | 4     | art      | 1, t, discard: gain 4 life -- 1, t, pay 1: put a 0/1 goat into play -- 1, t, sacr creat: return tgt art from grave to hand -- 1, t, sacr art: draw a card        |
+|  1 | Phyrexian Metamorth      | 3{up} | 0/0      | Enter play as a copy of tgt art or creat                                                                                                                         |
+|  2 | Doom Blade               | 1B    | inst     | Destroy tgt non black creats                                                                                                                                     |
+|  2 | Mental Misstep           | {pu}  | inst     | Counter tgt spell w/ CMC = 1                                                                                                                                     |
 |  1 | Surgical Extraction      | {pb}  | inst     | Exile tgt card from graveyard, hand and lib                                                                                                                      |
 |  3 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                         |
 |----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Spelskite                | 2     | 0/4      | {pu}: redirect spell to him                                                                                                                                      |
+|  2 | Stuffy Doll              | 5     | 0/1      | When enter: choose a player -- Indestructible -- When dealt damage: deal that much damage to choosen player -- t: deal 1 damage to itself                        |
 |  2 | Treasure Mage            | 2U    | 2/2      | When enter: search art w/ CMC 6+ and put it into hand                                                                                                            |
+|  2 | Grand Architect          | 1UU   | 1/3      | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                           |
 |  2 | Tragic Slip              | B     | inst     | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                  |
 | SB | Tezzeret, Agent of Bolas |       |          |                                                                                                                                                                  |
 |  2 | Phyrexian Metamorth      | 3{up} | 0/0      | Enter play as a copy of tgt art or creat                                                                                                                         |
