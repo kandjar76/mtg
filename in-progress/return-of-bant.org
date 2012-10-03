@@ -1,0 +1,61 @@
+Return of Bant v1.3
+
+|   | *Creatures: 17*         |          |          |                                                                                                                                   |
+| 3 | Avacyn's Pilgrim        | G        | 1/1      | t: add W to mana pool                                                                                                             |
+| 2 | Snapcaster Mage         | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                        |
+| 4 | Quirion Dryad           | 1G       | 1/1      | When u play a non-green colored spell: put a +1c on it                                                                            |
+| 4 | Geist of Saint Traft    | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                           |
+| 3 | Thragtusk               | 4G       | 5/3      | When enter: gain 5 life, when leaves: put a 3/3 token                                                                             |
+| 1 | Angel of Serenity       | 4WWW     | 5/6 fly  | When enter: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                |
+|   |                         |          |          |                                                                                                                                   |
+|   | *Miracle: 2*            |          |          |                                                                                                                                   |
+| 2 | Entreat the Angels      | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                    |
+|   |                         |          |          |                                                                                                                                   |
+|   | *Defensive 11*          |          |          |                                                                                                                                   |
+| 2 | Rootborn Defense        | 2W       | inst     | Populate, creats u control are indestructible                                                                                     |
+| 2 | Mizsium Skin            | U        | inst     | Overload 1U -- Tgt creats u control gets +0/+1 and hexproof                                                                       |
+| 3 | Cyclonic Rift           | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                           |
+| 4 | Selesnya Charm          | WG       | inst     | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                      |
+|   |                         |          |          |                                                                                                                                   |
+|   | *Ramp 4*                |          |          |                                                                                                                                   |
+| 4 | Farseek                 | 1G       | sorc     | Search for a island, swamp, plain or mountain and put it into play tapped                                                         |
+|   |                         |          |          |                                                                                                                                   |
+|   | *Planeswalker: 2*       |          |          |                                                                                                                                   |
+| 2 | Garruk, Primal Hunter   | 2GGG     | plwk 3   | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control |
+|   |                         |          |          |                                                                                                                                   |
+|   | *Lands 24*              |          |          |                                                                                                                                   |
+| 4 | Hallowed Fountain       |          | land     | Enter tapped unless u pay 2 life -- t: add U or W                                                                                 |
+| 4 | Temple Garden           |          | land     | Enter tapped unless u pay 2 life -- t: add G or W                                                                                 |
+| 4 | Hinterland Harbor       |          | land     | Enter tapped unless u control a forest or an island -- t: add G or U                                                              |
+| 4 | Sunpetal Grove          |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                |
+| 2 | Plain                   |          | bas land |                                                                                                                                   |
+| 3 | Forest                  |          | bas land |                                                                                                                                   |
+| 3 | Gavony Township         |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                            |
+|---+-------------------------+----------+----------+-----------------------------------------------------------------------------------------------------------------------------------|
+|   | *Sideboard*             |          |          |                                                                                                                                   |
+| 2 | Sigarda, Host of Herons | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                               |
+| 3 | Loxodon Smiter          | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                         |
+| 3 | Sundering Growth        | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                             |
+| 3 | Detention Sphere        | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                           |
+| 1 | Rest in Peace           | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                        |
+| 3 | Centaur Healer          | 1GW      | 3/3      | When enter: gain 3 life                                                                                                           |
+|---+-------------------------+----------+----------+-----------------------------------------------------------------------------------------------------------------------------------|
+| 3 | Judge's Familiar        | {bw}     | 1/1 fly  | Sacr it: counter tgt inst or sorcery spells unless its controller pays 1                                                          |
+| 1 | Heroes' Reunion         | GW       | inst     | Target player gain 7 life                                                                                                         |
+| 2 | Sublime Archangel       | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                 |
+| 1 | Alchemist's Refuge      |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                     |
+
+Toward 1.3:
+-----------
+-3 Judge's Familiar
++3 Avacyn's Pilgrim
+-1 Mizzium Skin
++1 Cyclonic Rift
+-1 Alchemist's Reguge
++1 Gavony Township
+
+SB:
+-1 Heroes' Reunion
+-1 Loxodon Smiter
+-1 Rest in Peace
++3 Centaur Healer
