@@ -39,9 +39,9 @@ Return of Bant v1.7
 |  2 | Sigarda, Host of Herons | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                               |
 |  3 | Loxodon Smiter          | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                         |
 |  2 | Detention Sphere        | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                           |
-|  2 | Sundering Growth        | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                             |
 |  2 | Rest in Peace           | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                        |
 |  2 | Terminus                | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                     |
+|  2 | Azorius Charm           | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.             |
 |  1 | Centaur Healer          | 1GW      | 3/3      | When enter: gain 3 life                                                                                                           |
 |  1 | Restoration Angel       | 3W       | 3/4      | Flash -- When enter: blink tgt non-angel creature u control                                                                       |
 |----+-------------------------+----------+----------+-----------------------------------------------------------------------------------------------------------------------------------|
@@ -49,6 +49,7 @@ Return of Bant v1.7
 | SB | Mizsium Skin            | U        | inst     | Overload 1U -- Tgt creats u control gets +0/+1 and hexproof                                                                       |
 | SB | Knight of Glory         | 1W       | 2/1      | Exalted -- Pro black                                                                                                              |
 | ?? | Snapcaster Mage         | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                        |
+| SB | Sundering Growth        | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                             |
 |    |                         |          |          |                                                                                                                                   |
 |    | Call of the Conclave    | GW       | sorc     | Put a 3/3 green token on the battlefield                                                                                          |
 |    | Quirion Dryad           | 1G       | 1/1      | When u play a non-green colored spell: put a +1c on it                                                                            |
@@ -57,6 +58,36 @@ Return of Bant v1.7
 |    | Heroes' Reunion         | GW       | inst     | Target player gain 7 life                                                                                                         |
 |    | Sublime Archangel       | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                 |
 |    | Alchemist's Refuge      |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                     |
+
+v1.70 -> v.171:
+---------------
+Sideboard:
+-2 Sundering Growth
++2 Azorius Charm
+
+Playtest result of 1.70:
+------------------------
+Played against BR aggro: 2/0 -- First games was close, second hand
+Played against GBU control: 1/0 -- After a very long game and very good game :)
+   Restoration Angel definitively a bonus here!!!  Azorius Charm was also really good (unsummon and cancel his draw)
+Played against GWB token deck: 3/0 -- Interresting deck, not too competitive.
+Played against BR vamp: 0/1 -- Game lasted 12 rounds... Drew 1 farseek, 1 azorius charm and 10 lands... (looking at lib: the next two cards were lands... :() -- Then he left b4 game 2 :(
+
+Note for v1.71:
+---------------
+I'm starting to question the need for Sundering Growth.
+So far, it feels like the SB should have:
+-1 Restoration Angel
+-1 Centaur Healer
+-2 Sundering Growth
+
+Should I consider running 1/2 Tamayo?
+
+After tests: 
+  - a 4th Restoration Angel is good against control
+  - a 4th Centaur is great against aggro
+But:
+  I yet have to find a deck against I want ot board Sundering Growth  
 
 
 Toward v1.70:
