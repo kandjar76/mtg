@@ -1,4 +1,4 @@
-Return of Bant v1.7
+Return of Bant v1.71
 
 |    | *Creatures: 13*         |          |          |                                                                                                                                   |
 |  4 | Geist of Saint Traft    | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                           |
@@ -59,6 +59,28 @@ Return of Bant v1.7
 |    | Sublime Archangel       | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                 |
 |    | Alchemist's Refuge      |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                     |
 
+
+v1.71 -> v1.72/1.80:
+--------------------
+Recently, I've rarely sideboarded in Sigarda...
+Should I keep her? -- Need to try her a bit more.
+
+I'm also thinking: -1 Entreat in the MB +1 in the SB.
+Replacing the spell w/ Restoration Angel or Azorius Charm.
+
+
+
+Playtest result of 1.71:
+------------------------
+Played against a fast BR aggro: 2/1 -- Won first game, lost second game (too much land) -- Game3: Azorius Charm gave me 11 life thanks for lifelink which put me out of reach.
+Played against BRW graveborn:   1/0 -- Left after the first game... :(
+Played against UWG Fog/Mill:    2/1 -- I feel I got a bit lucky there...  
+Played against GWb Aggro:       2/1 -- Lost first game, having too much mana -- Won game 2 thankx to farseek and Geist (was mana screweed) -- Game 3: he was mana screwed, and Azorius Charm made him loose a turn.
+Played against RWB Enchan/Lock: 1/0 -- Very long game, my opp had a very unique deck based on enchan including the one forcing me to pay X to attack for each ench he had + graveyard recursion.
+Played against UWB Token..      1/0 -- Won first game then server crashed... :(
+Played against R aggro.         3/2 -- Garruuk saved me big time in G3
+
+
 v1.70 -> v.171:
 ---------------
 Sideboard:
@@ -67,11 +89,12 @@ Sideboard:
 
 Playtest result of 1.70:
 ------------------------
-Played against BR aggro: 2/0 -- First games was close, second hand
-Played against GBU control: 1/0 -- After a very long game and very good game :)
-   Restoration Angel definitively a bonus here!!!  Azorius Charm was also really good (unsummon and cancel his draw)
+Played against BR aggro:       2/0 -- First games was close, second hand
+Played against GBU control:    1/0 -- After a very long game and very good game :) -- Restoration Angel definitively a bonus here!!!  Azorius Charm was also really good (unsummon and cancel his draw)
 Played against GWB token deck: 3/0 -- Interresting deck, not too competitive.
-Played against BR vamp: 0/1 -- Game lasted 12 rounds... Drew 1 farseek, 1 azorius charm and 10 lands... (looking at lib: the next two cards were lands... :() -- Then he left b4 game 2 :(
+Played against BR vamp:        0/1 -- Game lasted 12 rounds... Drew 1 farseek, 1 azorius charm and 10 lands... (looking at lib: the next two cards were lands... :() -- Then he left b4 game 2 :(
+
+
 
 Note for v1.71:
 ---------------
