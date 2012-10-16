@@ -1,72 +1,131 @@
-Return of Bant v1.80
+Return of Bant v2.10
 
-|    | *Creatures: 13*         |          |          |                                                                                                                                   |
-|  4 | Geist of Saint Traft    | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                           |
-|  3 | Restoration Angel       | 3W       | 3/4      | Flash -- When enter: blink tgt non-angel creature u control                                                                       |
-|  3 | Thragtusk               | 4G       | 5/3      | When enter: gain 5 life, when leaves: put a 3/3 token                                                                             |
-|  1 | Angel of Serenity       | 4WWW     | 5/6 fly  | When enter: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                |
-|  3 | Centaur Healer          | 1GW      | 3/3      | When enter: gain 3 life                                                                                                           |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Miracle: 2*            |          |          |                                                                                                                                   |
-|  1 | Entreat the Angels      | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                    |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Defensive 11*          |          |          |                                                                                                                                   |
-|  2 | Rootborn Defense        | 2W       | inst     | Populate, creats u control are indestructible                                                                                     |
-|  3 | Cyclonic Rift           | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                           |
-|  4 | Selesnya Charm          | WG       | inst     | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                      |
-|  2 | Azorius Charm           | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.             |
-|  3 | Supreme Verdict         | 1UWW     | sorc     | Destroy all creatures                                                                                                             |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Hand Refill: 1*        |          |          |                                                                                                                                   |
-|  1 | Sphinx's Revelation     | xWUU     | inst     | Draw X cards and gain X life                                                                                                      |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Ramp 4*                |          |          |                                                                                                                                   |
-|  4 | Farseek                 | 1G       | sorc     | Search for a island, swamp, plain or mountain and put it into play tapped                                                         |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Planeswalker: 2*       |          |          |                                                                                                                                   |
-|  2 | Garruk, Primal Hunter   | 2GGG     | plwk 3   | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control |
-|    |                         |          |          |                                                                                                                                   |
-|    | *Lands 24*              |          |          |                                                                                                                                   |
-|  4 | Hallowed Fountain       |          | land     | Enter tapped unless u pay 2 life -- t: add U or W                                                                                 |
-|  4 | Temple Garden           |          | land     | Enter tapped unless u pay 2 life -- t: add G or W                                                                                 |
-|  4 | Hinterland Harbor       |          | land     | Enter tapped unless u control a forest or an island -- t: add G or U                                                              |
-|  4 | Sunpetal Grove          |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                |
-|  2 | Plain                   |          | bas land |                                                                                                                                   |
-|  3 | Forest                  |          | bas land |                                                                                                                                   |
-|  3 | Gavony Township         |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                            |
-|----+-------------------------+----------+----------+-----------------------------------------------------------------------------------------------------------------------------------|
-|    | *Sideboard*             |          |          |                                                                                                                                   |
-|  2 | Sigarda, Host of Herons | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                               |
-|  3 | Loxodon Smiter          | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                         |
-|  2 | Detention Sphere        | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                           |
-|  2 | Rest in Peace           | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                        |
-|  2 | Terminus                | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                     |
-|  2 | Azorius Charm           | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.             |
-|  1 | Entreat the Angels      | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                    |
-|  1 | Centaur Healer          | 1GW      | 3/3      | When enter: gain 3 life                                                                                                           |
-|----+-------------------------+----------+----------+-----------------------------------------------------------------------------------------------------------------------------------|
-|    | *Cards to consider*     |          |          |                                                                                                                                   |
-| SB | Mizsium Skin            | U        | inst     | Overload 1U -- Tgt creats u control gets +0/+1 and hexproof                                                                       |
-| SB | Knight of Glory         | 1W       | 2/1      | Exalted -- Pro black                                                                                                              |
-| ?? | Snapcaster Mage         | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                        |
-| SB | Sundering Growth        | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                             |
-|    |                         |          |          |                                                                                                                                   |
-|    | Call of the Conclave    | GW       | sorc     | Put a 3/3 green token on the battlefield                                                                                          |
-|    | Quirion Dryad           | 1G       | 1/1      | When u play a non-green colored spell: put a +1c on it                                                                            |
-|    | Avacyn's Pilgrim        | G        | 1/1      | t: add W to mana pool                                                                                                             |
-|    | Judge's Familiar        | {bw}     | 1/1 fly  | Sacr it: counter tgt inst or sorcery spells unless its controller pays 1                                                          |
-|    | Heroes' Reunion         | GW       | inst     | Target player gain 7 life                                                                                                         |
-|    | Sublime Archangel       | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                 |
-|    | Alchemist's Refuge      |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                     |
+|    | *Creatures: 12*            |          |          |                                                                                                                                                                                                                                             |
+|  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
+|  3 | Restoration Angel          | 3W       | 3/4      | Flash -- When enter: blink tgt non-angel creature u control                                                                                                                                                                                 |
+|  3 | Thragtusk                  | 4G       | 5/3      | When enter: gain 5 life, when leaves: put a 3/3 token                                                                                                                                                                                       |
+|  1 | Angel of Serenity          | 4WWW     | 5/6 fly  | When enter: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                                                                                                                          |
+|  3 | Centaur Healer             | 1GW      | 3/3      | When enter: gain 3 life                                                                                                                                                                                                                     |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Miracle: 1*               |          |          |                                                                                                                                                                                                                                             |
+|  1 | Entreat the Angels         | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                                                                                                                              |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Defensive 13*             |          |          |                                                                                                                                                                                                                                             |
+|  1 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
+|  2 | Dramatic Rescue            | UW       | inst     | Return tgt creat to owner's hand, u gain two life                                                                                                                                                                                           |
+|  4 | Selesnya Charm             | WG       | inst     | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                                                                                                                                |
+|  3 | Azorius Charm              | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.                                                                                                                       |
+|  2 | Supreme Verdict            | 1UWW     | sorc     | Destroy all creatures                                                                                                                                                                                                                       |
+|  1 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Hand Refill: 1*           |          |          |                                                                                                                                                                                                                                             |
+|  1 | Sphinx's Revelation        | xWUU     | inst     | Draw X cards and gain X life                                                                                                                                                                                                                |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Ramp: 4*                  |          |          |                                                                                                                                                                                                                                             |
+|  4 | Farseek                    | 1G       | sorc     | Search for a island, swamp, plain or mountain and put it into play tapped                                                                                                                                                                   |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Planeswalkers: 5*         |          |          |                                                                                                                                                                                                                                             |
+|  2 | Garruk, Primal Hunter      | 2GGG     | plwkr 3  | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control                                                                                                           |
+|  3 | Jace, Architect of Thought | 2UU      | plwkr 4  | +1: until next turn when a creat opp controls attack it gets -1/0 -- +2: reveal top 3, opp split in 2 piles, one in hand, the other at bottom of libr -- -8: for each player, search lib for a card, u may cast it w/o paying its mana cost |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | *Lands: 24*                |          |          |                                                                                                                                                                                                                                             |
+|  4 | Hallowed Fountain          |          | land     | Enter tapped unless u pay 2 life -- t: add U or W                                                                                                                                                                                           |
+|  4 | Temple Garden              |          | land     | Enter tapped unless u pay 2 life -- t: add G or W                                                                                                                                                                                           |
+|  4 | Hinterland Harbor          |          | land     | Enter tapped unless u control a forest or an island -- t: add G or U                                                                                                                                                                        |
+|  4 | Sunpetal Grove             |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                                          |
+|  2 | Plain                      |          | bas land |                                                                                                                                                                                                                                             |
+|  3 | Forest                     |          | bas land |                                                                                                                                                                                                                                             |
+|  3 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                                      |
+|----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*                |          |          |                                                                                                                                                                                                                                             |
+|  2 | Sigarda, Host of Herons    | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                                                                                                                                         |
+|  2 | Loxodon Smiter             | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                                                                                                                                   |
+|  2 | Negate                     | 1U       | inst     | Counter tgt non creature spells.                                                                                                                                                                                                            |
+|  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
+|  2 | Rest in Peace              | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                  |
+|  2 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
+|  2 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
+|  1 | Tamiyo, the Moon Sage      | 3UU      | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                            |
+|----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Cards to consider*        |          |          |                                                                                                                                                                                                                                             |
+| SB | Detention Sphere           | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                                                                                                                                     |
+| MB | Rootborn Defense           | 2W       | inst     | Populate, creats u control are indestructible                                                                                                                                                                                               |
+| SB | Entreat the Angels         | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                                                                                                                              |
+| SB | Centaur Healer             | 1GW      | 3/3      | When enter: gain 3 life                                                                                                                                                                                                                     |
+| SB | Azorius Charm              | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.                                                                                                                       |
+| SB | Mizsium Skin               | U        | inst     | Overload 1U -- Tgt creats u control gets +0/+1 and hexproof                                                                                                                                                                                 |
+| SB | Knight of Glory            | 1W       | 2/1      | Exalted -- Pro black                                                                                                                                                                                                                        |
+| ?? | Snapcaster Mage            | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                                                                                                  |
+| SB | Sundering Growth           | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                                                                                                                                       |
+|    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | Call of the Conclave       | GW       | sorc     | Put a 3/3 green token on the battlefield                                                                                                                                                                                                    |
+|    | Quirion Dryad              | 1G       | 1/1      | When u play a non-green colored spell: put a +1c on it                                                                                                                                                                                      |
+|    | Avacyn's Pilgrim           | G        | 1/1      | t: add W to mana pool                                                                                                                                                                                                                       |
+|    | Judge's Familiar           | {bw}     | 1/1 fly  | Sacr it: counter tgt inst or sorcery spells unless its controller pays 1                                                                                                                                                                    |
+|    | Heroes' Reunion            | GW       | inst     | Target player gain 7 life                                                                                                                                                                                                                   |
+|    | Sublime Archangel          | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                                                                                                                           |
+|    | Alchemist's Refuge         |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                                                                               |
 
 
+Note about 2.10:
+----------------
+I'm too often color screwed.
+I need to bump the blue sources.
 
-Toward v1.90:
+
+Playtest results of 2.10:
+-------------------------
+Played against Red Deck Win: 2/0 -- Dramatic Rescue was sooo good!! Amazing! Jace also helped a lot! Giving me time (absorbing damage).
+Played against UR Control:   1/0 -- Jace turn 3 is fantastic! (farseek turn 2), later after trying to cheat a miracle out of his hand, opponent rage quit.
+Played against BR Control:   2/0 -- Game 1: he ws completely mana screwed. Game2: dramatic rune was awesome :)
+Played against UB Hearless:  1/0 -- Turn 2: heartless; Turn 3: I played geist -- He played the 6/6 demon -> Turn 4: I casted Selesnya Charm; he quits.
+Played against BGR Control:  0/2 -- Too many mistakes on my sides... Oh well :)
+
+
+v2.00 -> v2.10:
+---------------
+Mainboard:
+-2 Rootborn Defense
++2 Dramatic Rescue
+
+Sideboard:
+-2 Detention Sphere
++2 Negate
+
+
+Comments about v2.00:
+---------------------
+Playing first game aginat UR aggro was rough :)
+However, gave me incents on the deck: I really like having a 4th Centaur Healer in these match-up.  
+Jace may not be as efficient -- Something maybe to side out.
+
+
+Playtest result of 2.00:
+------------------------
+Played against UR aggro: 1/2 -- Game 1 and 3 were mostly one side game for him; mull down to 5 and mana screwed... no answers drawn... happened :)
+
+
+Toward v2.00:
 -------------
 Jace seems to be a very good option to add to the deck
 Either main or side... 
 
+Mainboard:
+-2 Geist of Saint Traft
+-2 Cyclonic Rift
++1 Azorius Charm
++3 Jace, Architect of Thought
+-1 Supreme Verdict
++1 Terminus
 
+Sideboard:
+-2 Azorius Charm
++2 Geist of Saint Traft
++2 Cyclonic Rift
+-1 Centaur Healer
+-1 Entreat the Angels
+-1 Loxodon Smiter
++1 Tamiyo, the Moon Sage
 
 Playtest result of 1.80:
 ------------------------
