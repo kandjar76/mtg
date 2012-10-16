@@ -1,4 +1,4 @@
-Return of Bant v2.10
+Return of Bant v2.20
 
 |    | *Creatures: 12*            |          |          |                                                                                                                                                                                                                                             |
 |  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
@@ -32,9 +32,10 @@ Return of Bant v2.10
 |  4 | Hallowed Fountain          |          | land     | Enter tapped unless u pay 2 life -- t: add U or W                                                                                                                                                                                           |
 |  4 | Temple Garden              |          | land     | Enter tapped unless u pay 2 life -- t: add G or W                                                                                                                                                                                           |
 |  4 | Hinterland Harbor          |          | land     | Enter tapped unless u control a forest or an island -- t: add G or U                                                                                                                                                                        |
-|  4 | Sunpetal Grove             |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                                          |
-|  2 | Plain                      |          | bas land |                                                                                                                                                                                                                                             |
-|  3 | Forest                     |          | bas land |                                                                                                                                                                                                                                             |
+|  3 | Sunpetal Grove             |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                                          |
+|  3 | Glacial Fortress           |          | land     | Enter tapped unless u control a plain or an island -- t: add U or W                                                                                                                                                                         |
+|  1 | Plain                      |          | bas land |                                                                                                                                                                                                                                             |
+|  2 | Forest                     |          | bas land |                                                                                                                                                                                                                                             |
 |  3 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                                      |
 |----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*                |          |          |                                                                                                                                                                                                                                             |
@@ -71,15 +72,24 @@ Note about 2.10:
 ----------------
 I'm too often color screwed.
 I need to bump the blue sources.
+-1 Sunpetal Grove
+-1 Forest
+-1 Plain
++3 Glacial Fortress
+
+Aside that: very very pleased with Negate!!
+
 
 
 Playtest results of 2.10:
 -------------------------
-Played against Red Deck Win: 2/0 -- Dramatic Rescue was sooo good!! Amazing! Jace also helped a lot! Giving me time (absorbing damage).
-Played against UR Control:   1/0 -- Jace turn 3 is fantastic! (farseek turn 2), later after trying to cheat a miracle out of his hand, opponent rage quit.
-Played against BR Control:   2/0 -- Game 1: he ws completely mana screwed. Game2: dramatic rune was awesome :)
-Played against UB Hearless:  1/0 -- Turn 2: heartless; Turn 3: I played geist -- He played the 6/6 demon -> Turn 4: I casted Selesnya Charm; he quits.
-Played against BGR Control:  0/2 -- Too many mistakes on my sides... Oh well :)
+Played against Red Deck Win:  2/0 -- Dramatic Rescue was sooo good!! Amazing! Jace also helped a lot! Giving me time (absorbing damage).
+Played against UR Control:    1/0 -- Jace turn 3 is fantastic! (farseek turn 2), later after trying to cheat a miracle out of his hand, opponent rage quit.
+Played against BR Control:    2/0 -- Game 1: he ws completely mana screwed. Game2: dramatic rune was awesome :)
+Played against UB Hearless:   1/0 -- Turn 2: heartless; Turn 3: I played geist -- He played the 6/6 demon -> Turn 4: I casted Selesnya Charm; he quits.
+Played against BGR Control:   0/2 -- Too many mistakes on my sides... Oh well :)
+Played against Bant Midrange: 1/0 -- Long game. 
+Played against UWB Tokens:    1/0 -- Almost dies... but Jace, Garruuk and Thragtusk saved me.
 
 
 v2.00 -> v2.10:
