@@ -1,4 +1,4 @@
-Return of Bant v2.20
+0;136;0cReturn of Bant v2.40
 
 |    | *Creatures: 12*            |          |          |                                                                                                                                                                                                                                             |
 |  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
@@ -6,6 +6,7 @@ Return of Bant v2.20
 |  3 | Thragtusk                  | 4G       | 5/3      | When enter: gain 5 life, when leaves: put a 3/3 token                                                                                                                                                                                       |
 |  1 | Angel of Serenity          | 4WWW     | 5/6 fly  | When enter: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                                                                                                                          |
 |  3 | Centaur Healer             | 1GW      | 3/3      | When enter: gain 3 life                                                                                                                                                                                                                     |
+|  1 | New Prahv Guildmage        | WU       | 2/2      | UW: tgt creats gain flying -- 3UW: detain tgt non land perm an opp controls                                                                                                                                                                 |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
 |    | *Miracle: 1*               |          |          |                                                                                                                                                                                                                                             |
 |  1 | Entreat the Angels         | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                                                                                                                              |
@@ -14,7 +15,7 @@ Return of Bant v2.20
 |  1 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
 |  2 | Dramatic Rescue            | UW       | inst     | Return tgt creat to owner's hand, u gain two life                                                                                                                                                                                           |
 |  4 | Selesnya Charm             | WG       | inst     | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                                                                                                                                |
-|  3 | Azorius Charm              | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.                                                                                                                       |
+|  2 | Azorius Charm              | UW       | inst     | Choose one: creats u control gain lifelink OR draw a car OR put tgt blocking/attacking creat on top of its owner lib.                                                                                                                       |
 |  2 | Supreme Verdict            | 1UWW     | sorc     | Destroy all creatures                                                                                                                                                                                                                       |
 |  1 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
@@ -35,18 +36,20 @@ Return of Bant v2.20
 |  3 | Sunpetal Grove             |          | land     | Enter tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                                          |
 |  3 | Glacial Fortress           |          | land     | Enter tapped unless u control a plain or an island -- t: add U or W                                                                                                                                                                         |
 |  1 | Plain                      |          | bas land |                                                                                                                                                                                                                                             |
-|  2 | Forest                     |          | bas land |                                                                                                                                                                                                                                             |
-|  3 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                                      |
+|  1 | Forest                     |          | bas land |                                                                                                                                                                                                                                             |
+|  1 | Island                     |          | bas land |                                                                                                                                                                                                                                             |
+|  2 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                                      |
+|  1 | Cavern of Souls            |          | land     | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered                                                                                                                     |
 |----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*                |          |          |                                                                                                                                                                                                                                             |
 |  2 | Sigarda, Host of Herons    | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                                                                                                                                         |
-|  2 | Loxodon Smiter             | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                                                                                                                                   |
-|  2 | Negate                     | 1U       | inst     | Counter tgt non creature spells.                                                                                                                                                                                                            |
+|  3 | Negate                     | 1U       | inst     | Counter tgt non creature spells.                                                                                                                                                                                                            |
 |  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
 |  2 | Rest in Peace              | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                  |
 |  2 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
 |  2 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
 |  1 | Tamiyo, the Moon Sage      | 3UU      | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                            |
+|  1 | Redirect                   | UU       | inst     | You may choose a new target for target spell.                                                                                                                                                                                               |
 |----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Cards to consider*        |          |          |                                                                                                                                                                                                                                             |
 | SB | Detention Sphere           | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                                                                                                                                     |
@@ -59,6 +62,7 @@ Return of Bant v2.20
 | ?? | Snapcaster Mage            | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                                                                                                  |
 | SB | Sundering Growth           | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                                                                                                                                       |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
+|    | Loxodon Smiter             | 1GW      | 4/4      | Can't be countered -- If opp makes u discard it: put it into play instead                                                                                                                                                                   |
 |    | Call of the Conclave       | GW       | sorc     | Put a 3/3 green token on the battlefield                                                                                                                                                                                                    |
 |    | Quirion Dryad              | 1G       | 1/1      | When u play a non-green colored spell: put a +1c on it                                                                                                                                                                                      |
 |    | Avacyn's Pilgrim           | G        | 1/1      | t: add W to mana pool                                                                                                                                                                                                                       |
@@ -66,6 +70,82 @@ Return of Bant v2.20
 |    | Heroes' Reunion            | GW       | inst     | Target player gain 7 life                                                                                                                                                                                                                   |
 |    | Sublime Archangel          | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                                                                                                                           |
 |    | Alchemist's Refuge         |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                                                                               |
+
+
+v2.30 -> v2.40
+--------------
+Main Board: 
+-1 Azorius Charm
+-1 Gavony Township
++1 Cavern of Soul
++1 New Prahv Guildmage
+
+It feels like 3 Azorius Charm is a bit much, this card turn out to be mostly a cantrip against many decks.
+Trying a 1-of New Prahv Guildmage to see.
+Also: 3 township seems overkill, 1-of Cavern is in study... When casting teh Angel of Serenity, I really want to guarantee its resolution.
+
+SB:
+-2 Loxodon Smiter
++1 Negate
++1 Redirect
+
+The reason behind it: I was not playing Loxodon for its 4/4 stats, rather against Rakdos Return.
+At the end of the day: feels very limited.
+
+Whereas Negate has been good against control matchup.
+I'm still debating about running 4 Negates in the side...
+
+I'm going to try Redirect as a 1-of mostly against Red and Black deck:
+- Redirecting Rakdos, Bonfire, other dispells or direct damage spells is awesome.
+(+ can redirect also: Abrupt Decay :))
+
+
+Playtest results of 2.30:
+-------------------------
+Played against BR Control: 1/1
+
+
+Version 2.30:
+-------------
+-1 Forest
++1 Island
+
+To have one of each basic land.
+
+
+Note about 2.20:
+----------------
+Jace and Dramatic Rescue have been such great addition to the deck.
+It's quite amazing.
+
+Current SB options:
+- Against aggro:
+  +2 Terminus
+- Against Control:
+  +3 Geist / Sigarda
+  +1 Tamiyo
+  +2 Negate
+- Against Zombie:
+  +2 Rest In Peace
+  +2 Terminus
+- Against RB Control:
+  +2 Loxodon Smitter
+  +2 Terminus
+- Against Token/Spirit:
+  +2 Cyclonic Rift
+
+
+Playtest results of 2.20:
+-------------------------
+Played agaisnt UW humans:  1/1 -- Game 1: horrible draws -- no help. Game 2: had the hwole game in control, he gave up after some times.
+Played against UWG humans: 1/1 -- Game 1: I survived as long as I could, didn't get mana fast enough, and no wrath :( -- Game 2: the addition of extra wrath help a lot!
+Played against UW humans:  1/0 -- Much better deck ironically but this time I also had decent had.
+Played against BG Zombie:  1/0 -- Ramp + Garruuk were keys in this game -- I was able to draw 4 cards including: Angel of Serenity.
+Played against 4C Control: 2/0 -- Game2: Negate and Geist didn't left him with a lot of choices.
+Played against BUG Combo:  1/0 -- Interesting combo deck.  However, he didn't put me at risk a single time.  Then Garruuk -3 lead me to victory.
+Played against WGB Ramp:   1/0 -- Jace was clearly the keys!!! Although: his Thragstuk was annoying! :) -- I did made mistake playing Selesnya Charm as 2/2 knights... Intead of waiting for exiling his creatures. 
+Played against WG Ramp:    2/1 -- Game 3: kept a land w/ 2 mana... Could have been a mistake.. Big time mana screwed... But won in the end.
+
 
 
 Note about 2.10:
