@@ -1,12 +1,12 @@
-Ninja deck v1.3
+Ninja deck v1.5
 
-|   | *The Ninja: 14*           |      |         |                                                                                                                                           |
+|   | *The Ninja: 13*           |      |         |                                                                                                                                           |
 | 4 | Ninja of the Deep Hours   | 3U   | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                            |
 | 2 | Sakashima's Student       | 2UU  | 0/0     | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                          |
 | 1 | Mistblade Shinobi         | 2U   | 1/1     | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                             |
 | 1 | Ink-Eyes, Servant of Oni  | 4BB  | 5/4 leg | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate       |
 | 2 | Higure, the Still Wind    | 3UU  | 3/4 leg | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable               |
-| 4 | Okiba-Gang Shinobi        | 3BB  | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                           |
+| 3 | Okiba-Gang Shinobi        | 3BB  | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                           |
 |   |                           |      |         |                                                                                                                                           |
 |   | *The Go-Through creat: 9* |      |         |                                                                                                                                           |
 | 2 | Thalakos Seer             | UU   | 1/1     | Shadow -- When leave play: draw a card                                                                                                    |
@@ -17,10 +17,14 @@ Ninja deck v1.3
 | 2 | Umezawa's Jitte           | 2    | eqp 2   | When eqp creat deals combat damage, put 2 charge on Jitte -- Remove 1 charge, choose 1: eqp gets +2/+2, tgt creats get -1/-1, gain 2 life |
 |   |                           |      |         |                                                                                                                                           |
 |   | *Draw/Control: 12*        |      |         |                                                                                                                                           |
-| 2 | Preordain                 | U    | sorc    | Scry 2 then draw                                                                                                                          |
-| 3 | Brainstorm                | U    | inst    | Draw 3 cards, then put 2 back                                                                                                             |
-| 4 | Counterspell              | UU   | inst    | Counter target spell                                                                                                                      |
-| 3 | Cryptic Command           | 1UUU | inst    | Choose 2: Counter tgt spell -- Return tgt perm to hand -- Tap all creats tgt player control -- Draw a card                                |
+| 3 | Preordain                 | U    | sorc    | Scry 2 then draw                                                                                                                          |
+| 2 | Brainstorm                | U    | inst    | Draw 3 cards, then put 2 back                                                                                                             |
+| 3 | Counterspell              | UU   | inst    | Counter target spell                                                                                                                      |
+| 2 | Cryptic Command           | 1UUU | inst    | Choose 2: Counter tgt spell -- Return tgt perm to hand -- Tap all creats tgt player control -- Draw a card                                |
+| 2 | Damnation                 | 2BB  | sorc    | Destroy all creats -- Can't be regen                                                                                                      |
+|   |                           |      |         |                                                                                                                                           |
+|   | *Mana Boost*              |      |         |                                                                                                                                           |
+| 1 | Sol Ring                  | 1    | art     | t: add 2 to mana pool                                                                                                                     |
 |   |                           |      |         |                                                                                                                                           |
 |   | *Lands: 23*               |      |         |                                                                                                                                           |
 | 4 | Watery Grave              |      | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                        |
