@@ -1,7 +1,6 @@
-Return of Bant v2.40
+Return of Bant v2.50
 
 |    | *Creatures: 12*            |          |          |                                                                                                                                                                                                                                             |
-|  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
 |  3 | Restoration Angel          | 3W       | 3/4      | Flash -- When enter: blink tgt non-angel creature u control                                                                                                                                                                                 |
 |  3 | Thragtusk                  | 4G       | 5/3      | When enter: gain 5 life, when leaves: put a 3/3 token                                                                                                                                                                                       |
 |  1 | Angel of Serenity          | 4WWW     | 5/6 fly  | When enter: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                                                                                                                          |
@@ -9,7 +8,7 @@ Return of Bant v2.40
 |  1 | New Prahv Guildmage        | WU       | 2/2      | UW: tgt creats gain flying -- 3UW: detain tgt non land perm an opp controls                                                                                                                                                                 |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
 |    | *Miracle: 1*               |          |          |                                                                                                                                                                                                                                             |
-|  1 | Entreat the Angels         | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                                                                                                                              |
+|  3 | Entreat the Angels         | xxWWW    | sorc     | Miracle xWW -- Put X 4/4 angel token into play                                                                                                                                                                                              |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
 |    | *Defensive 13*             |          |          |                                                                                                                                                                                                                                             |
 |  1 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
@@ -44,18 +43,18 @@ Return of Bant v2.40
 |    | *Sideboard*                |          |          |                                                                                                                                                                                                                                             |
 |  2 | Sigarda, Host of Herons    | 2GWW     | 5/5 fly  | Hexproof, opp can't force u to sacr                                                                                                                                                                                                         |
 |  3 | Negate                     | 1U       | inst     | Counter tgt non creature spells.                                                                                                                                                                                                            |
-|  2 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
+|  3 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
 |  2 | Rest in Peace              | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                  |
-|  2 | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
 |  2 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
-|  1 | Tamiyo, the Moon Sage      | 3UU      | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                            |
+|  2 | Detention Sphere           | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                                                                                                                                     |
 |  1 | Redirect                   | UU       | inst     | You may choose a new target for target spell.                                                                                                                                                                                               |
 |----+----------------------------+----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Cards in consideration*   |          |          |                                                                                                                                                                                                                                             |
-| SB | Detention Sphere           | 1WU      | ench     | When enter: exile non land perm and all perm w/ same name -- When leave: return all exiled perm to play                                                                                                                                     |
 | SB | Rootborn Defense           | 2W       | inst     | Populate, creats u control are indestructible                                                                                                                                                                                               |
 | SB | Mizsium Skin               | U        | inst     | Overload 1U -- Tgt creats u control gets +0/+1 and hexproof                                                                                                                                                                                 |
 | SB | Sundering Growth           | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                                                                                                                                       |
+| SB | Cyclonic Rift              | 1U       | inst     | Overload 6U -- Return tgt non land perm to owner's hand                                                                                                                                                                                     |
+| ?B | Tamiyo, the Moon Sage      | 3UU      | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                            |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
 |    | Snapcaster Mage            | 1U       | 2/1      | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                                                                                                  |
 |    | Knight of Glory            | 1W       | 2/1      | Exalted -- Pro black                                                                                                                                                                                                                        |
@@ -67,6 +66,25 @@ Return of Bant v2.40
 |    | Heroes' Reunion            | GW       | inst     | Target player gain 7 life                                                                                                                                                                                                                   |
 |    | Sublime Archangel          | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                                                                                                                           |
 |    | Alchemist's Refuge         |          | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                                                                               |
+
+v2.40 -> v2.50:
+--------------
+I found geist to be a burden against aggro decks -- which are very common.
+On the other hand: Entreat the Angeal can be a 2-turn game win if not answered.
+
+Main board:
+-2 Geist of Saint Traft
++2 Entreat the Angel
+
+On the other hand, Geist is really strong against control.
+And I have yet to board Tamiyo in... Easy replacement.
+Also: Detention Sphere is good for removing some board threats... maybe better than Rift
+
+Sideboard:
++1 Geist
++2 Detention Sphere
+-2 Cyclonic Rift
+-1 Tamiyo
 
 
 v2.30 -> v2.40
