@@ -5,10 +5,10 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |  1 | Sphinx of the Steel Wind   | 5WUB  | 6/6 art  | Flying, first strk, vig, lifelink, pro red, pro green                                                                                         |
 |  1 | Blazing Archon             | 6WWW  | 5/6      | Flying -- Creats can't attack you                                                                                                             |
 |  1 | Terrastodon                | 6GG   | 9/9      | When enter, destroy up to 3 non creat perm, for each perm destroy, its controller puts a 3/3 beast token into play                            |
-|  1 | Avatar of Woe              | 6BB   | 6/5      | Cost 6 less if there are 10+ creats in all graveyard -- fear -- t: destroy tgt creats it can't be regen                                       |
 |  1 | Iona, Shield of Emeria     | 6WWW  | 7/7      | Flying -- As enter: name a color -- Opp can't cast spells of the choose color                                                                 |
 |  1 | Sheoldred, Whispering One  | 5BB   | 6/6      | Swampwalk -- Beg upk: return creat from grave to play -- Beg opp upk: he sacr a creat                                                         |
 |  1 | Sharuum the Hegemon        | 3WUB  | 5/5 leg  | Flying -- When enter: return tgt art from graveyard to play                                                                                   |
+|  1 | Akroma, Angel of Wrath     | 5WWW  | 6/6      | Flying, first strike, vig, trample, haste, pro black, pro red                                                                                 |
 |    |                            |       |          |                                                                                                                                               |
 |    | *From lib to grave: 4*     |       |          |                                                                                                                                               |
 |  2 | Buried Alive               | 2B    | sorc     | Search lib for up to 3 creats, put them in the graveyard                                                                                      |
@@ -44,7 +44,7 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |    |                            |       |          |                                                                                                                                               |
 |    | *Change to Consider*       |       |          |                                                                                                                                               |
 | +1 | Elesh Norn, Grand Cenobite | 5WW   | 4/7 leg  | Vig -- Other creats u control gets +2/+2 -- Creats ur opp control gets -2/-2                                                                  |
-| -1 | Avatar of Woe              | 6BB   | 6/5      | Cost 6 less if there are 10+ creats in all graveyard -- fear -- t: destroy tgt creats it can't be regen                                       |
+| -1 | Sheoldred, Whispering One  | 5BB   | 6/6      | Swampwalk -- Beg upk: return creat from grave to play -- Beg opp upk: he sacr a creat                                                         |
 |    |                            |       |          |                                                                                                                                               |
 | -1 | Zombie infestation         | 1B    | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
 | +1 | OOna's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
@@ -52,7 +52,6 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 | ?2 | Sickening Dreams           | 1B    | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
 |----+----------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Creats to Consider*       |       |          |                                                                                                                                               |
-|    | Akroma, Angel of Wrath     | 5WWW  | 6/6      | Flying, first strike, vig, trample, haste, pro black, pro red                                                                                 |
 |    | Angel of Despair           | 3WWBB | 5/5      | Flying -- When enter: destroy tgt perm                                                                                                        |
 |    | Mindleech Mass             | 5UBB  | 6/6      | Trample -- When deal damage to an opp, look at his hand, u may cast a non land card without paying its mana cost                              |
 |    | Pelakka Wurm               | 4GGG  | 7/7      | Trample -- When enter: u gain 7 life -- When dies: draw                                                                                       |
@@ -61,5 +60,6 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |    | Thraximundar               | 4UBR  | 6/6 leg  | Haste -- When attack, def play sacr a creat -- When a player sacr: put a +1c on him                                                           |
 |    | Jin-Gitaxias, Core Augur   | 8UU   | 5/4      | Beg end step: draw 7 card -- Opp max hand size is now 0                                                                                       |
 |----+----------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Avatar of Woe              | 6BB   | 6/5      | Cost 6 less if there are 10+ creats in all graveyard -- fear -- t: destroy tgt creats it can't be regen                                       |
 |    | Shred Memory               | 1B    | inst     | Exile up to 4 cards in tgt opp graveyard -- Transmute 1BB                                                                                     |
 |    | OOna's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
