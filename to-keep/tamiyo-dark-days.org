@@ -1,7 +1,7 @@
 |---+--------------------------+-------+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Planeswalkers: 4*       |       |         |                                                                                                                                                                  |
 | 2 | Tamiyo, the Moon Sage    | 3UU   | plwkr 4 | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead" |
-| 2 | Sorin, Lord of Innistrad | 2BW   | plwkr 3 | +1: Put a 1/1 vampire w/ lifelink -- -2: Emblem "Creats u control gets +2/0" -- -6: destroy up to 3 tgt creat/planwkrs; return them to play under ur control     |
+| 2 | Sorin, Lord of Innistrad | 2BW   | plwkr 3 | +1: Put a 1/1 vampire w/ lifelink -- -2: Emblem "Creats u control gets +1/0" -- -6: destroy up to 3 tgt creat/planwkrs; return them to play under ur control     |
 |   |                          |       |         |                                                                                                                                                                  |
 |   | *Kill Spells: 6*         |       |         |                                                                                                                                                                  |
 | 3 | Tragic Slip              | B     | inst    | Tgt creat gets -1/-1 until eot -- Morbid: gets -13/-13 instead                                                                                                   |
