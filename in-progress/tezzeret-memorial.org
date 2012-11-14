@@ -1,4 +1,4 @@
-Tezzeret's Memorial v1.1b
+Tezzeret's Memorial v1.2
 
 |   | *Planeswalker: 3*        |       |         |                                                                                                                                                                  |
 | 3 | Tezzeret, Agent of Bolas | 2UB   | plwr 3  | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
