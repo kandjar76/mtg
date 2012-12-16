@@ -21,8 +21,8 @@
 |  2 | Tumble Magnet          | 3    | art       | Enter w/ 3 charges -- t, remove a charge: tap tgt creat or artifact                                                                       |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Counters 5*           |      |           |                                                                                                                                           |
-|  4 | Mana leak              | 1U   | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
-|  1 | Spell Pierce           | U    | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
+|  3 | Mana leak              | 1U   | inst      | Counter tgt spell unless its controller pays 3                                                                                            |
+|  2 | Spell Pierce           | U    | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                  |
 |    |                        |      |           |                                                                                                                                           |
 |    | *Titans 2*             |      |           |                                                                                                                                           |
 |  2 | Frost Titan            | 4UU  | 6/6       | Whenever enter or attack: tap tgt perm it doesn't untap during next untap phase -- when opp target it: counter spell unless he pays 2     |
