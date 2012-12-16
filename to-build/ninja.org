@@ -1,18 +1,8 @@
-Ninja deck v1.7
+Ninja deck v1.9
 
-Missing:
-1 Ornithopter
-2 Umezawa's Jitte
-1 Sol Ring
-4 Watery grave
-4 Sunken Ruins
-2 Drowned Catacomb
-2 Misty Rainforest
-2 Strip Mine
-
-Considering:
--1 Ornithopter
-+1 Distortion Strike
+Missing: 
+2 Watery grave
+2 Misty Rainforest -- well two fetch lands :)
 
 |   | *The Ninja: 13*           |       |         |                                                                                                                                              |
 | 4 | Ninja of the Deep Hours   | 3U    | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                               |
@@ -20,8 +10,7 @@ Considering:
 | 1 | Mistblade Shinobi         | 2U    | 1/1     | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                                |
 | 1 | Ink-Eyes, Servant of Oni  | 4BB   | 5/4 leg | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate          |
 | 2 | Higure, the Still Wind    | 3UU   | 3/4 leg | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                  |
-| 2 | Okiba-Gang Shinobi        | 3BB   | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                              |
-| 1 | Silent-Blade Oni          | 3UUBB | 6/5     | Ninjutsu 4UB -- When deals combat damage to player: look at that players hand, u may cast a nonland card from it without paying is mana cost |
+| 3 | Okiba-Gang Shinobi        | 3BB   | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                              |
 |   |                           |       |         |                                                                                                                                              |
 |   | *The Go-Through creat: 9* |       |         |                                                                                                                                              |
 | 4 | Baleful Strix             | UB    | 1/1     | Flying -- When enters: draw a card                                                                                                           |
@@ -34,7 +23,7 @@ Considering:
 |   | *Draw/Control: 12*        |       |         |                                                                                                                                              |
 | 4 | Preordain                 | U     | sorc    | Scry 2 then draw                                                                                                                             |
 | 3 | Counterspell              | UU    | inst    | Counter target spell                                                                                                                         |
-| 2 | Distortion Strike         | U     | sorc    | Tgt creat gets +1/0 and unblockable -- rebound                                                                                               |
+| 3 | Distortion Strike         | U     | sorc    | Tgt creat gets +1/0 and unblockable -- rebound                                                                                               |
 | 3 | Damnation                 | 2BB   | sorc    | Destroy all creats -- Can't be regen                                                                                                         |
 |   |                           |       |         |                                                                                                                                              |
 |   | *Mana Boost*              |       |         |                                                                                                                                              |
@@ -42,14 +31,16 @@ Considering:
 |   |                           |       |         |                                                                                                                                              |
 |   | *Lands: 23*               |       |         |                                                                                                                                              |
 | 4 | Watery Grave              |       | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                           |
-| 4 | Sunken Ruins              |       | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                      |
-| 3 | Drowned Catacomb          |       | land    | Enters tapped unless u control an island or a swamp                                                                                          |
+| 2 | Sunken Ruins              |       | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                      |
+| 4 | Drowned Catacomb          |       | land    | Enters tapped unless u control an island or a swamp                                                                                          |
 | 2 | Misty Rainforest          |       | land    | pay 1 life, sacr it: search for forest or island and put it into play                                                                        |
 | 2 | Creeping Tar Pit          |       | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                             |
-| 2 | Strip Mine                |       | land    | t: add 1 -- t: destroy tgt land                                                                                                              |
 | 4 | Island                    |       |         |                                                                                                                                              |
 | 2 | Swamp                     |       |         |                                                                                                                                              |
+| 2 | Tectonite Edge            |       | land    | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                         |
 |---+---------------------------+-------+---------+----------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Strip Mine                |       | land    | t: add 1 -- t: destroy tgt land                                                                                                              |
+| 1 | Silent-Blade Oni          | 3UUBB | 6/5     | Ninjutsu 4UB -- When deals combat damage to player: look at that players hand, u may cast a nonland card from it without paying is mana cost |
 | 2 | Thalakos Seer             | UU    | 1/1     | Shadow -- When leave play: draw a card                                                                                                       |
 | 2 | Cryptic Command           | 1UUU  | inst    | Choose 2: Counter tgt spell -- Return tgt perm to hand -- Tap all creats tgt player control -- Draw a card                                   |
 | 2 | Brainstorm                | U     | inst    | Draw 3 cards, then put 2 back                                                                                                                |
@@ -67,3 +58,11 @@ Considering:
 |   |                           |       |         |                                                                                                                                              |
 | 2 | Ratchet Bomb              |       |         |                                                                                                                                              |
 |   |                           |       |         |                                                                                                                                              |
+
+v1.8 -> v1.9:
+-------------
+-1 Sunken Ruins
++1 Distortion Strike
+
+I almost always have too many lands in the deck :D
+And I wanted to have 1 more distortion strike as it works sooo well w/ Ninjas!
