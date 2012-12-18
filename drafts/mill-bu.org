@@ -10,4 +10,5 @@
 | 4 | Shadowfeed              | B        | Inst    | Exile tgt card from a graveyard; u gain 3 life                                                                                  |
 | 4 | Blackmail               | B        | Sorc    | Tgt player reveals 3 cards from his hand; discard one                                                                           |
 | 4 | Duress                  | B        | Sorc    | Choose a non creat / non land card from it, discard it!                                                                         |
+|---+-------------------------+----------+---------+---------------------------------------------------------------------------------------------------------------------------------|
 |   | Liliana Vess            | 3UU      | Planes  | +1: tgt player disc a card -- -2: search ur lib for a card and put it on top -- -8: put all creat in all grave under ur control |
