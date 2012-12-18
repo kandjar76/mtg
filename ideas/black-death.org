@@ -1,0 +1,47 @@
+Black Death v0.3
+
+Currently missing:
+3 Liliana.
+
+|    | *Planeswalker 3*      |        |          |                                                                                                                   |
+|  3 | Liliana Veil          | 1BB    | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one |
+|    |                       |        |          |                                                                                                                   |
+|    | *The big ones 14*     |        |          |                                                                                                                   |
+|  4 | Abyssal Persecutor    | 2BB    | 6/6 fly  | Trample -- you can't win, your opps can't loose                                                                   |
+|  4 | Phyrexian Obliterator | BBBB   | 5/5      | Trample -- When dealt damage: defending player has to sacrifice that many permanent                               |
+|  4 | Lashwrithe            | 4      | art      | Living Weapon -- Eqp creats gets +1/+1 for each swamp                                                             |
+|  2 | Phyrexian Metamorth   | 3{up}  | 0/0      | Enter play as a copy of tgt art or creat                                                                          |
+|    |                       |        |          |                                                                                                                   |
+|    |                       |        |          |                                                                                                                   |
+|    | *Draws!!!! 8*         |        |          |                                                                                                                   |
+|  4 | Phyrexian Arena       | 1BB    | ench     | Beg upk: loose a life and draw a card                                                                             |
+|  4 | Sign in Blood         | BB     | sorc     | Tgt player draws 2 cards and looses 2 life                                                                        |
+|    |                       |        |          |                                                                                                                   |
+|    | *Booster 4*           |        |          |                                                                                                                   |
+|  4 | Dark Ritual           | B      | inst     | Add BBB to mana pool                                                                                              |
+|    |                       |        |          |                                                                                                                   |
+|    | *Kill spells 9*       |        |          |                                                                                                                   |
+|  2 | Go for the Throat     | 1B     | inst     | Destroy non art creature                                                                                          |
+|  3 | Unmake                | {bw}x3 | inst     | Exile target creature                                                                                             |
+|  4 | Consuming Vapors      | 3B     | sorc     | Rebound -- Tgt player sacr a creat                                                                                |
+|    |                       |        |          |                                                                                                                   |
+|    | *Lands 22*            |        |          |                                                                                                                   |
+| 22 | Swamp                 |        | bas land |                                                                                                                   |
+|----+-----------------------+--------+----------+-------------------------------------------------------------------------------------------------------------------|
+|  2 | Vampire Nighthawk     | 1BB    | 2/3      | Deathtouch, Lifelink                                                                                              |
+|    |                       |        |          |                                                                                                                   |
+
+v0.3 -> v0.4:
+-------------
+Considering:
+-3 Liliana
++2 Batterskull
++1 Damnation
+
+[So I wouldn't have to buy any card for this deck :P -- Even if turn 1 lili is quite brutal]
+[But Liliana + Phyrexian Arena works sooo great together...]
+
+v0.2 -> v0.3:
+-------------
+-2 Vampire Nighthawk
++2 Phyrexian Metamorph
