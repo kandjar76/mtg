@@ -1,4 +1,4 @@
-Blessing of Vraska v1.62
+Blessing of Vraska v1.80
 
 |    | *Mana boost: 8*          |          |          |                                                                                                                                                                                                                                                                                                              |
 |  4 | Avacyn's Pilgrim         | G        | 1/1      | t: add W to mana pool                                                                                                                                                                                                                                                                                        |
@@ -20,7 +20,8 @@ Blessing of Vraska v1.62
 |    |                          |          |          |                                                                                                                                                                                                                                                                                                              |
 |    | *Planeswalkers: 5*       |          |          |                                                                                                                                                                                                                                                                                                              |
 |  2 | Vraska the Unseen        | 3BG      | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game"                                                                                         |
-|  3 | Garruk Relentless        | 3G       | plwkr 3  | 0: deals 3 damage to tgt creats, that creats deals damage back; 0: put a 2/2 wolf -- when less than 3 loy ctr: flip it // +1: put a 1/1 black wolf w/ death touch into play -- -1, sacr a creat: search creat put in hand -- -3: creats u control gain trample and +X/+X where X is # creats in ur graveyard |
+|  2 | Sorin, Lord of Innistrad | 2BW      | plwkr 3  | +1: Put a 1/1 vampire w/ lifelink -- -2: Emblem "Creats u control gets +1/0" -- -6: destroy up to 3 tgt creat/planwkrs; return them to play under ur control                                                                                                                                                 |
+|  1 | Garruk Relentless        | 3G       | plwkr 3  | 0: deals 3 damage to tgt creats, that creats deals damage back; 0: put a 2/2 wolf -- when less than 3 loy ctr: flip it // +1: put a 1/1 black wolf w/ death touch into play -- -1, sacr a creat: search creat put in hand -- -3: creats u control gain trample and +X/+X where X is # creats in ur graveyard |
 |    |                          |          |          |                                                                                                                                                                                                                                                                                                              |
 |    | *Lands: 24*              |          |          |                                                                                                                                                                                                                                                                                                              |
 |  4 | Overgrown Catacomp       |          | land     | Enter tapped unless u pay 2 life -- t: add B or G                                                                                                                                                                                                                                                            |
@@ -34,21 +35,41 @@ Blessing of Vraska v1.62
 |  1 | Swamp                    |          | bas land |                                                                                                                                                                                                                                                                                                              |
 |----+--------------------------+----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*              |          |          |                                                                                                                                                                                                                                                                                                              |
-|  3 | Golgari Charm            | BG       | inst     | Choose 1: all creats gets -1/-1 until eot -- destroy tgt ench -- Regen each creat u control                                                                                                                                                                                                                  |
+|  2 | Golgari Charm            | BG       | inst     | Choose 1: all creats gets -1/-1 until eot -- destroy tgt ench -- Regen each creat u control                                                                                                                                                                                                                  |
 |  3 | Blood Artist             | 1B       | 0/1      | Whenever him or another creats is put to grave, gain 1 life, tgt player looses 1 life                                                                                                                                                                                                                        |
 |  3 | Sever the Bloodline      | 3B       | sorc     | Exile tgt creat and all other creats w/ same name -- Flashback 5BB                                                                                                                                                                                                                                           |
 |  2 | Deathrite Shaman         | {bg}     | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                                                                                                                       |
 |  2 | Sundering Growth         | {gw}{gw} | inst     | Destroy tgt art or ench then populate                                                                                                                                                                                                                                                                        |
-|  2 | Murder
+|  3 | Tragic Slip              | B        | inst     | Tgt creats gets -1/-1 -- Morbid: gets -13/-13 instead                                                                                                                                                                                                                                                        |
 |----+--------------------------+----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To Consider*            |          |          |                                                                                                                                                                                                                                                                                                              |
 | SB | Oblivion Ring            | 2W       | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                                                                                                                                                                                                         |
 | SB | Rest in Peace            | 1W       | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                                                                                   |
 |    |                          |          |          |                                                                                                                                                                                                                                                                                                              |
+|    | Murder                   |          |          |                                                                                                                                                                                                                                                                                                              |
 |  2 | Rootborn Defense         | 2W       | inst     | Populate, creats u control are indestructible                                                                                                                                                                                                                                                                |
 |    | Curse of Death's Hold    |          | ench     | Creats ur opp control gets -1/-1                                                                                                                                                                                                                                                                             |
 |    | Liliana of the Veil      | 1BB      | plnwkr 3 | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                                                                                                                 |
-|    | Sorin, Lord of Innistrad | 2BW      | plwkr 3  | +1: Put a 1/1 vampire w/ lifelink -- -2: Emblem "Creats u control gets +2/0" -- -6: destroy up to 3 tgt creat/planwkrs; return them to play under ur control                                                                                                                                                 |
+
+Version 1.80:
+-------------
+-1 Sorin, Lord of Innistrad 
++1 Collective Blessing
+I miss Collective Blessing in v1.70; adding it back.
+I'm still unsure if 2 Sorin is the way to go... Garruk is quite nice in the deck.
+
+
+Version 1.70:
+-------------
+Main Board:
+-2 Garruk Relentless
++3 Sorin, Lord of Innistrad 
+-1 Collective Blessing
+
+Sideboard:
+-2 Murder
++3 Tragic Slip
+-1 Golgari Charm
 
 Version 1.62:
 -------------
