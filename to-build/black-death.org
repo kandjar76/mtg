@@ -1,7 +1,7 @@
 Black Death v0.3
 
 Currently missing:
-3 Liliana.
+- 3 Liliana.
 
 |    | *Planeswalker 3*      |        |          |                                                                                                                   |
 |  3 | Liliana Veil          | 1BB    | plwr 3   | +1: everybody discards -- -2: tgt player sacr a creat -- -6: split perm of tgt player into two piles, he sacr one |
@@ -31,8 +31,8 @@ Currently missing:
 |  2 | Vampire Nighthawk     | 1BB    | 2/3      | Deathtouch, Lifelink                                                                                              |
 |    |                       |        |          |                                                                                                                   |
 
-v0.3 -> v0.4:
--------------
+v0.3 -> v0.4 [cancelled]:
+-------------------------
 Considering:
 -3 Liliana
 +2 Batterskull
