@@ -1,4 +1,4 @@
-Cytoplast of Saint Traft v1.2
+Cytoplast of Saint Traft v1.3
 
 |   | *Planeswalker 5*           |           |          |                                                                                                                         |
 | 3 | Ajani, Caller of the Pride | 1WW       | plnwkr 4 | +1: put a +1c on up to 1 creat -- -3: tgt creat gain fly, and dble strike -- -8: put X 2/2 wolf where X is ur life      |
@@ -10,7 +10,7 @@ Cytoplast of Saint Traft v1.2
 | 3 | Sun Titan                  | 4WW       | 6/6 vig  | Whenever enter or attack, u may return a perm w/ CMC <= 3 from the graveyard to the battlefield                         |
 |   |                            |           |          |                                                                                                                         |
 |   | *Control 8*                |           |          |                                                                                                                         |
-| 3 | Mana Leak                  | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                          |
+| 3 | Cryptic Command            | 1UUU      | inst     | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                  |
 | 2 | Negate                     | 1U        | inst     | Counter tgt non creature spell                                                                                          |
 | 3 | Remand                     | 1U        | inst     | Counter tgt spell (back to hand), draw                                                                                  |
 |   |                            |           |          |                                                                                                                         |
@@ -33,13 +33,22 @@ Cytoplast of Saint Traft v1.2
 | 3 | Marsh Flats                |           | land     | pay 1 life, sacr it: search for plain or swamp and put it into play                                                     |
 | 3 | Seachrome Coast            |           | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                    |
 | 2 | Tectonite Edge             |           | land     | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                    |
-| 1 | Island                     |           | bas land |                                                                                                                         |
-| 3 | Plains                     |           | bas land |                                                                                                                         |
+| 2 | Island                     |           | bas land |                                                                                                                         |
+| 2 | Plains                     |           | bas land |                                                                                                                         |
 |---+----------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------|
+| 3 | Mana Leak                  | 1U        | inst     | Counter tgt spell unless its controller pays 3                                                                          |
 | 4 | Telling Time               | 1U        | inst     | Look top 3, put 1 in hand, 1 on top of lib, 1 at bottom of lib                                                          |
 | 3 | Eel Umbra                  | 1U        | aura     | Flash - Ench creats gets +1/+1 -- Totem armor                                                                           |
 | 2 | Mirrorweave                | 2{uw}{uw} | inst     | Each creatures became a copy of tgt non legendary creature                                                              |
 
+
+
+v1.2:
+-----
+Deck is now really fun!
+But has weakness against some permanent (art, ench) which are already in place...
+-> Mana leak -> Cryptic command
+Which implies a minor readjustment of the land
 
 v1.1:
 -----
