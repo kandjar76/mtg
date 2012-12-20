@@ -2,7 +2,8 @@
 
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
 |-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
-| Aether Vial             | $15   |     1 | U?         | Darksteel         | Beg upk: put charge counter on it; t: put a creat from hand to play with CMC = #counters                                       |
+| Periloua Research       | 1U    |     4 | ???        | Coldsnap          | Draw two cards, then sacrifice a permanent                                                                                     |
+|                         |       |       |            |                   |                                                                                                                                |
 | High Tide               | $.5   |     4 | ???        | Fallen Empire     | If you tap an island for mana, add an extra U to mana pool                                                                     |
 |                         |       |       |            |                   |                                                                                                                                |
 | Fauna Shaman            | $5.5  |     4 | ???        | M11               | G, t, discard a creature card, search your library for a creature card and put it into your hand                               |
@@ -52,7 +53,6 @@
 | Murkfiend Liege         | $3    |     4 | Hydra      | Lorwyn/Shadowmoor |                                                                                                                                |
 | Mirror Entity           | $2    |     4 | Merfolk SB | Lorwin/Shadowmoor |                                                                                                                                |
 | Mystic Gate             | $3.5  |     4 | Merfolk    | Lorwyn/Shadowmoor |                                                                                                                                |
-| Jace Belleren           | $7    |     2 | Merfolk    | Lorwyn/Shadowmoor |                                                                                                                                |
 | Graypelt Refuge         | $.25  |     4 | Landfall   | Zendikar          |                                                                                                                                |
 |                         |       |       |            |                   |                                                                                                                                |
 | Everlasting Torment     | $2    |     4 |            | Lorwyn/Shadowmoor |                                                                                                                                |
