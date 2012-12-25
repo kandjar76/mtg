@@ -1,4 +1,4 @@
-Return of Bant v3.10
+Return of Bant v3.11
 
 |    | *Creatures: 9*             |          |          |                                                                                                                                                                                                                                             |
 |  3 | Restoration Angel          | 3W       | 3/4      | Flash -- When enter: blink tgt non-angel creature u control                                                                                                                                                                                 |
@@ -43,8 +43,7 @@ Return of Bant v3.10
 |  3 | Geist of Saint Traft       | 1WU      | 2/2 leg  | Hexproof -- When attack: put a 4/4 Angel token into play, exile it at the end of combat                                                                                                                                                     |
 |  1 | Curse of Echoes            | 4U       | ench     | Echant player -- When enchanted player cast a sorc of inst.. each other play may copy it and choose new target for it                                                                                                                       |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
-|  1 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
-|  1 | Supreme Verdict            | 1UWW     | sorc     | Destroy all creatures                                                                                                                                                                                                                       |
+|  2 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at bottom of lib.                                                                                                                                                                                               |
 |  1 | Oblivion Ring              | 2W       | ench     | When enter: exile tgt perm -- When leave: return exiled perm to play                                                                                                                                                                        |
 |    |                            |          |          |                                                                                                                                                                                                                                             |
 |  1 | Tamiyo, the Moon Sage      | 3UU      | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                            |
@@ -84,10 +83,21 @@ Return of Bant v3.10
 |    | Heroes' Reunion            | GW       | inst     | Target player gain 7 life                                                                                                                                                                                                                   |
 |    | Sublime Archangel          | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                                                                                                                           |
 
+v3.10 -> v3.11
+--------------
+-1 Supreme Verdict
++1 Terminus
+
+If I play against aggro, an extra terminus may be better than an extra verdict.
+
+
 v3.02 -> v3.10
 --------------
 -3 Centaur Healer
 +3 Loxodon Smitter
+
+The non-counterable, the 4 body, and the discard-to-play ability make him worth it to replace healer.
+
 
 v3.01 -> v3.02
 --------------
