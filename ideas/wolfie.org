@@ -1,4 +1,4 @@
-Wolfie v0.1
+Wolfie v0.2
 
 |    | *Planeswalker*          |     |         |                                                                                                                                                                                                                                                                                                              |
 |  2 | Garruk Relentless       | 3G  | plwkr 3 | 0: deals 3 damage to tgt creats, that creats deals damage back; 0: put a 2/2 wolf -- when less than 3 loy ctr: flip it // +1: put a 1/1 black wolf w/ death touch into play -- -1, sacr a creat: search creat put in hand -- -3: creats u control gain trample and +X/+X where X is # creats in ur graveyard |
@@ -8,17 +8,17 @@ Wolfie v0.1
 |  4 | Wolfbitten Captive      | G   | 1/1     | 1G: gets +2/+2, only once a turn // 2/2 -- 3G: gets +4/+4, only once a turn                                                                                                                                                                                                                                  |
 |  4 | Mayor of Avabruck       | 1G  | 1/1     | Other humans gets +1/+1 // 3/3 -- Other werewolves and wolves gets +1/+1, beg end step: put a 2/2 wolf into play                                                                                                                                                                                             |
 |  2 | Daybreak Ranger         | 2G  | 2/2     | t: deals 2 damage to tgt creats w/ flying // 4/4 -- R, t: fight tgt creatures                                                                                                                                                                                                                                |
-|  3 | Kruin Outlaw            | 1RR | 2/2     | First strike // 3/3 -- Double strike                                                                                                                                                                                                                                                                         |
+|  2 | Kruin Outlaw            | 1RR | 2/2     | First strike // 3/3 -- Double strike                                                                                                                                                                                                                                                                         |
 |  2 | Huntmaster of the Fells | 2RG | 2/2     | When enter or transf: gain 2 life, put a 2/2 wolf into play // 4/4 trample -- When transform: deals 2 damage to tgt creat an opp control and to player                                                                                                                                                       |
 |  3 | Instigator Gang         | 3R  | 2/3     | Attacking creats gets +1/0 // 5/5 -- Trample, Attacking Creatures gets +3/0.                                                                                                                                                                                                                                 |
+|  1 | Mondronen Shaman        | 3R  | 3/2     | // 5/5 -- Whenever an opp cast a spell: she deals 2 damage to him                                                                                                                                                                                                                                            |
 |    |                         |     |         |                                                                                                                                                                                                                                                                                                              |
 |    | *Other creatures*       |     |         |                                                                                                                                                                                                                                                                                                              |
-|  4 | Immerwolf               | 1RG | 2/2     | Intimidate -- Other wolf and werewolf creats gets +1/+1, Non-Human u control can't transform                                                                                                                                                                                                                 |
-|  1 | Deranged Outcast        | 1G  | 2/1     | 1G, sacr a human: put 2 +1c on tgt creature                                                                                                                                                                                                                                                                  |
+|  3 | Immerwolf               | 1RG | 2/2     | Intimidate -- Other wolf and werewolf creats gets +1/+1, Non-Human u control can't transform                                                                                                                                                                                                                 |
 |    |                         |     |         |                                                                                                                                                                                                                                                                                                              |
 |    | *Protection/Helpers*    |     |         |                                                                                                                                                                                                                                                                                                              |
-|  2 | Full Moon's Rise        | 1G  | ench    | Werewolves gets +1/0 -- Sacr it: regen all werewolves u control                                                                                                                                                                                                                                              |
-|  3 | Moonmist                | 1G  | inst    | Transform all humans -- Prevent combat damage not dealt by werewolves or wolves this turn                                                                                                                                                                                                                    |
+|  3 | Full Moon's Rise        | 1G  | ench    | Werewolves gets +1/0 -- Sacr it: regen all werewolves u control                                                                                                                                                                                                                                              |
+|  4 | Moonmist                | 1G  | inst    | Transform all humans -- Prevent combat damage not dealt by werewolves or wolves this turn                                                                                                                                                                                                                    |
 |    |                         |     |         |                                                                                                                                                                                                                                                                                                              |
 |    | *Kill spells*           |     |         |                                                                                                                                                                                                                                                                                                              |
 |  4 | Brimstone Volley        | 2R  | inst    | Deals 3 damage to tgt creat or player -- Morbid: 5 damage instead                                                                                                                                                                                                                                            |
@@ -26,5 +26,42 @@ Wolfie v0.1
 |    | *Lands*                 |     |         |                                                                                                                                                                                                                                                                                                              |
 |  2 | Cavern of Souls         |     | land    | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered                                                                                                                                                                                      |
 |  1 | Kessig Wolf Run         |     | land    | t: add 1 -- xGR, t: tgt creat gets +X/0 and trample                                                                                                                                                                                                                                                          |
-|  9 | Forest                  |     |         |                                                                                                                                                                                                                                                                                                              |
-| 10 | Mountain                |     |         |                                                                                                                                                                                                                                                                                                              |
+|  4 | Copperline Gorge        |     | land    | Enters tapped if u control 3 or more other lands -- t: add G or R                                                                                                                                                                                                                                            |
+|  4 | Rootbound Crag          |     | land    | Enters tapped unless u control a forest or a mountain -- t: add G or R                                                                                                                                                                                                                                       |
+|  5 | Forest                  |     |         |                                                                                                                                                                                                                                                                                                              |
+|  6 | Mountain                |     |         |                                                                                                                                                                                                                                                                                                              |
+|----+-------------------------+-----+---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ?? | Momentous Fall          | 2GG | inst    | Add cost:sacr a creat -- draw card equal to pow, gain life eq to its toughness                                                                                                                                                                                                                               |
+
+
+v0.1 -> v0.2:
+-------------
+Moonmist is a must! Need 4-of!
+
+Changes:
+
+-4 Forest
+-4 Mountain
++4 Copperline Gorge
++4 Rootbound Crag 
+
++1 Full Moon's Rise
++1 Moonmist
+-1 Immerwolf
+-1 Deranged Outcast
+
+-3 Immerwolf
+-4 Brimstone Valley
++4 Lightning Bolt
++3 Incinerate
+
+To try:
+-1 Kruin Outlaw
++1 Moondronen Shaman
+
+
+
+After inital try-out:
+---------------------
+Deck seems to have something to it.
+Not quite fun yet... but not bad enough to just toss it out.
