@@ -1,4 +1,4 @@
-Skeet shooting
+Skeet shooting v0.1
 
 |   | *Key Archer: 3*           |      |                 |                      |                                                                                                                          |
 | 3 | Greatbow Doyen            | 4G   | 2/4             | elf archer           | other archer: +1/+1 -- when archer deals damage to creat -> it deals damage to its controller too                        |
