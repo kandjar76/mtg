@@ -40,6 +40,11 @@ Version 0.3:
 The scry2 ability provided by magma set is a huge help!
 I'm actually wondering if I should not increase the count ot it.
 
+Some artifacts:
+- Engineered Explosives
+- Ratchet Bomb
+Are brutal against this deck... :(
+I'm wondering the best way to stop those... (and if any are maindeckable...)
 
 v0.2 -> v0.3:
 -------------
