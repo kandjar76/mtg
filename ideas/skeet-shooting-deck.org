@@ -1,9 +1,5 @@
-Skeet shooting v0.2
+Skeet shooting v0.3
 
-|   | *Planeswakers: 4*        |     |                |                                                                                                                          |
-| 2 | Elspeth Knight Errant    | 2WW | plwr 4         | +1: put a 1/1 soldier -- +1: tgt creat get +3/+3 and flying -- -8: for rest of the game, perm u control are indestruct   |
-| 2 | Garruk Wildspeaker       | 2GG | plwk 3         | +1: untap 2 land; -1: put a 3/3 tok; -4: creats u control gets +3/+3 and trample                                         |
-|   |                          |     |                |                                                                                                                          |
 |   | *Key Archer: 11*         |     |                |                                                                                                                          |
 | 3 | Greatbow Doyen           | 4G  | 2/4 archer     | other archer: +1/+1 -- when archer deals damage to creat -> it deals damage to its controller too                        |
 | 3 | Scattershot Archer       | G   | 1/2 archer     | t: deals 1 damage to each creat w/ flying                                                                                |
@@ -11,7 +7,7 @@ Skeet shooting v0.2
 | 3 | Brigid Hero of Kinsbaile | 2WW | 2/3 archer     | frist strike -- t: deals 2 damage to each attacking or blocking creat tgt player controls                                |
 |   |                          |     |                |                                                                                                                          |
 |   | *Alternative Helper: 2*  |     |                |                                                                                                                          |
-| 2 | Raking Canopy            | 1GG | ench           | When creat w/ flying attacks u, it deals 4 damage to it                                                                  |
+| 3 | Raking Canopy            | 1GG | ench           | When creat w/ flying attacks u, it deals 4 damage to it                                                                  |
 |   |                          |     |                |                                                                                                                          |
 |   | *Skeet Shooting: 6*      |     |                |                                                                                                                          |
 | 4 | Evolution Charm          | 1G  | inst           | Choose one: search lib for bas land put to hand -- return tgt creat from grave to hand -- tgt creat gains flying         |
@@ -20,23 +16,27 @@ Skeet shooting v0.2
 |   | *Support: 10*            |     |                |                                                                                                                          |
 | 3 | Selesnya Charm           | WG  | inst           | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig             |
 | 4 | Swords of Plowshares     | W   | inst           | Exile tgt creat -- Creats controller gain life equals to the creat's power                                               |
-| 3 | Qasali Pridemage         | GW  | 2/2            | Exalted -- 1, sacr him: destroy tgt art or enchantment                                                                   |
+| 4 | Qasali Pridemage         | GW  | 2/2            | Exalted -- 1, sacr him: destroy tgt art or enchantment                                                                   |
+| 1 | Green Sun'z Zenith       | xG  | sorc           | Search for a green creat w/ CMC = X and put it into play                                                                 |
+| 2 | Basilisk Collar          | 1   | eqp 2          | Eqp creats has deathtouch and lifelink                                                                                   |
 |   |                          |     |                |                                                                                                                          |
 |   | *Mana Boost: 4*          |     |                |                                                                                                                          |
 | 3 | Farseek                  | 1G  | sorc           | Search for a island, swamp, plain or mountain and put it into play tapped                                                |
 | 1 | Sol Ring                 | 1   | art            | t: add 2 mana to mana pool                                                                                               |
 |   |                          |     |                |                                                                                                                          |
-|   | *Lands: 23*              |     |                |                                                                                                                          |
+|   | *Lands: 22*              |     |                |                                                                                                                          |
 | 4 | Forest                   |     |                |                                                                                                                          |
 | 4 | Plains                   |     |                |                                                                                                                          |
-| 3 | Marsh Flats              |     | land           | pay 1 life, sacr it: search for plain or swamp and put it into play                                                      |
-| 2 | Misty Rainforest         |     | land           | pay 1 life, sacr it: search for forest or island and put it into play                                                    |
+| 4 | Sunpetal Grove           |     | land           | comes tapped unless u ctrl a plain or forest -- t: add G or W                                                            |
 | 4 | Razorverge Thicket       |     | land           | enters tapped unless u control 2 or fewer other lands -- t: add G or W                                                   |
 | 2 | Stirring Wildwood        |     | land           | comes tapped -- t: add G or W -- 1GW: becomes a 3/4 w/ reach                                                             |
 | 4 | Temple Garden            |     | land           | Enters tapped unless u pay 2 life -- t: add G or W                                                                       |
 |---+--------------------------+-----+----------------+--------------------------------------------------------------------------------------------------------------------------|
+| 2 | Marsh Flats              |     | land           | pay 1 life, sacr it: search for plain or swamp and put it into play                                                      |
+| 2 | Misty Rainforest         |     | land           | pay 1 life, sacr it: search for forest or island and put it into play                                                    |
 |   |                          |     |                |                                                                                                                          |
-| 2 | Basilisk Collar          | 1   | eqp 2          | Eqp creats has deathtouch and lifelink                                                                                   |
+| 2 | Elspeth Knight Errant    | 2WW | plwr 4         | +1: put a 1/1 soldier -- +1: tgt creat get +3/+3 and flying -- -8: for rest of the game, perm u control are indestruct   |
+| 2 | Garruk Wildspeaker       | 2GG | plwk 3         | +1: untap 2 land; -1: put a 3/3 tok; -4: creats u control gets +3/+3 and trample                                         |
 | 3 | Mirror Entity            | 2W  | 1/1 changeling | X: creats u control become X/X and gain all creat types until eot                                                        |
 | 3 | Matsu-Tribe Sniper       | 1G  | 1/1 archer     | t: deals 1 damage to tgt creat w/ flying -- whenever it deals damage to a creat, tap it, and stays tap for an extra turn |
 |   | Power Matrix             | 4   |                | t: tgt creat gains flying, first strike, and trample until eot                                                           |
@@ -63,6 +63,25 @@ Skeet shooting v0.2
 |   | Chameleon Colossus       | 2GG | 4/4 Shapeshifter  | Protection from black -- 2GG: it gets X/X where X is it's power                                                          |
 |   | Kinsbaile Balloonist     | 3W  | 2/2 fly           | When it attacks u may have tgt creat gain flying                                                                         |
 
+v0.3 -> v0.4:
+-------------
+-1 Green Sun's Zenith
++1 Basilisk Colar
+
+v0.2 -> v0.3:
+-------------
++1 Raqking Canopy
++2 Green Sun's Zenith
++1 Qasily Pridemage
++1 Basilisk Colar 
+-2 Elspeth Knight Errant
+-2 Garruk Wildspeaker
+-1 Marsh Flat
+
+-2 Marsh Flat
+-2 Misty Rainforst
++4 Sunpetal Grove
+
 Version 0.2 Post play-test:
 ---------------------------
 Much more fun than the original version.
@@ -72,3 +91,4 @@ Suggestion to add:
 - Basilisk Collar + Probably some fetch artifact
 - Green sun Zenith.
 - Maybe more creatures...
+- More Raking Canopy
