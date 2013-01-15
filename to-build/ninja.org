@@ -1,8 +1,7 @@
-Ninja deck v2.0
+Ninja deck v2.1
 
 Missing: 
 2 Watery grave
-2 Darkslick Shore
 
 |   | *The Ninjas: 13*              |       |         |                                                                                                                                              |
 | 4 | Ninja of the Deep Hours       | 3U    | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                               |
@@ -10,7 +9,8 @@ Missing:
 | 1 | Mistblade Shinobi             | 2U    | 1/1     | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                                |
 | 1 | Ink-Eyes, Servant of Oni      | 4BB   | 5/4 leg | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate          |
 | 2 | Higure, the Still Wind        | 3UU   | 3/4 leg | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                  |
-| 3 | Okiba-Gang Shinobi            | 3BB   | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                              |
+| 2 | Okiba-Gang Shinobi            | 3BB   | 3/2     | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                              |
+| 1 | Throat Slitter                | 4B    | 2/2     | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                       |
 |   |                               |       |         |                                                                                                                                              |
 |   | *The Go-Through Creatures: 9* |       |         |                                                                                                                                              |
 | 4 | Baleful Strix                 | UB    | 1/1     | Flying -- When enters: draw a card                                                                                                           |
@@ -20,7 +20,7 @@ Missing:
 |   | *Equipments: 2*               |       |         |                                                                                                                                              |
 | 2 | Umezawa's Jitte               | 2     | eqp 2   | When eqp creat deals combat damage, put 2 charge on Jitte -- Remove 1 charge, choose 1: eqp gets +2/+2, tgt creats get -1/-1, gain 2 life    |
 |   |                               |       |         |                                                                                                                                              |
-|   | *Draw/Control: 12*            |       |         |                                                                                                                                              |
+|   | *Draw/Control: 13*            |       |         |                                                                                                                                              |
 | 4 | Preordain                     | U     | sorc    | Scry 2 then draw                                                                                                                             |
 | 3 | Counterspell                  | UU    | inst    | Counter target spell                                                                                                                         |
 | 3 | Distortion Strike             | U     | sorc    | Tgt creat gets +1/0 and unblockable -- rebound                                                                                               |
@@ -29,10 +29,10 @@ Missing:
 |   | *Mana Boost: 1*               |       |         |                                                                                                                                              |
 | 1 | Sol Ring                      | 1     | art     | t: add 2 to mana pool                                                                                                                        |
 |   |                               |       |         |                                                                                                                                              |
-|   | *Lands: 23*                   |       |         |                                                                                                                                              |
+|   | *Lands: 22*                   |       |         |                                                                                                                                              |
 | 4 | Watery Grave                  |       | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                           |
 | 2 | Sunken Ruins                  |       | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                      |
-| 4 | Darkslick Shore               |       | land    | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                         |
+| 2 | Darkslick Shore               |       | land    | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                         |
 | 4 | Drowned Catacomb              |       | land    | Enters tapped unless u control an island or a swamp                                                                                          |
 | 2 | Creeping Tar Pit              |       | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                             |
 | 4 | Island                        |       |         |                                                                                                                                              |
@@ -47,7 +47,6 @@ Missing:
 | 2 | Brainstorm                    | U     | inst    | Draw 3 cards, then put 2 back                                                                                                                |
 | 2 | Skullclamp                    | 1     | eqp 1   | Eqp creat gets +1/-1 -- When dies: draw 2 carda                                                                                              |
 | 2 | Cloud of Faeries              | 1U    | 1/1 fly | When enters: untap two land -- Cycling 2                                                                                                     |
-| 1 | Sol Ring                      | 1     | art     | t: add 2 mana to mana pool                                                                                                                   |
 | 1 | Infiltration Lens             | 1     | eqp 1   | When equip creats is blocked: draw 2 cards                                                                                                   |
 | 1 | Saprazzan Heir                | 1U    | 1/1     | When becomes blocked: draw 3 cards                                                                                                           |
 | 1 | Thalakos Seer                 | 1U    | 1/1     | Shadow -- When leaves plays draw a card                                                                                                      |
@@ -59,6 +58,11 @@ Missing:
 |   |                               |       |         |                                                                                                                                              |
 | 2 | Ratchet Bomb                  |       |         |                                                                                                                                              |
 |   |                               |       |         |                                                                                                                                              |
+
+v2.0 -> v2.1:
+-------------
+-1 Okiba-Gang Shinobi
++1 Throat Slitter
 
 v1.9 -> v2.0:
 -------------
