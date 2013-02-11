@@ -1,0 +1,73 @@
+
+
+|   | *Main artifact*          |       |      |                                                                                                                                                            |
+| 4 | Spellweaver Helix        | 3     | art  | Imprint: when enters, exile two tgt sorcery from a single graveyard -- Wheneer an exiled card is play, you may copy the other one w/o paying its mana cost |
+|   |                          |       |      |                                                                                                                                                            |
+|   | *Combo cards*            |       |      |                                                                                                                                                            |
+| 3 | Enter the Infinite       | 8UUUU | sorc | Draw the entire library, the put 1 back. Until next turn, you have no maximum size.                                                                        |
+| 3 | Unexpected Results       | 2GU   | sorc | Shuffle lib, then reveal top: if it's a land, put it into play then return ~ to hand -- Otherwise, u may cast it w/o paying it's mana cost                 |
+| 3 | Laboratory Maniac        | 2U    | 2/2  | If you would draw and the library has no card, u win the game                                                                                              |
+|   |                          |       |      |                                                                                                                                                            |
+|   | *Graveyard manipulation* |       |      |                                                                                                                                                            |
+| 3 | Dream Twist              | U     | inst | Flashback 1U -- Tgt player mills 3 cards                                                                                                                   |
+| 4 | Forbidden Alchemy        | 2U    | inst | Flashback 6B -- Look top 4 cards of lib, put 1 in hand, rest in the graveyard                                                                              |
+| 3 | Life from the Loam       | 1U    | sorc | Dredge 3 -- Return up to 3 tgt lands from grave to hand                                                                                                    |
+|   |                          |       |      |                                                                                                                                                            |
+|   | *Some controls*          |       |      |                                                                                                                                                            |
+| 4 | Remand                   | 1U    | inst | Counter tgt spells                                                                                                                                         |
+| 3 | Foil                     | 2UU   | inst | Counter tgt spell -- U may discard a island and another card instead of paying its mana cost                                                               |
+|   |                          |       |      |                                                                                                                                                            |
+|   | *Global Gelper*          |       |      |                                                                                                                                                            |
+| 4 | Brainstorm               | U     | inst | Draw 3, then put 2 back                                                                                                                                    |
+| 1 | Memory's Journey         | 1U    | inst | Flashback G -- Tgt player shuffle up to 3 cards from his graveyard to his lib                                                                              |
+| 3 | Moment Peace             | 1G    | inst | Flashback 2G -- Prevent all combat damage dealt to you this turn                                                                                           |
+|   |                          |       |      |                                                                                                                                                            |
+|   | *Lands 22*               |       |      |                                                                                                                                                            |
+| 4 | Tranquil Thicket         |       | land | Cycling G -- Enters tapped -- t: add G to mana pool                                                                                                        |
+| 4 | Lonely Sandbar           |       | land | Cycling U -- Enters tapped -- t: add U to mana pool                                                                                                        |
+| 2 | Dakmor Salvage           |       | land | Dredge 2 -- Enters tapped -- t: add B to mana pool                                                                                                         |
+| 2 | Misty Rainforest (???)   |       | land | Pay 1 life, t, sacr it: search lib for a forest or an island                                                                                               |
+| 2 | Forest                   |       | land |                                                                                                                                                            |
+| 8 | Island                   |       | land |                                                                                                                                                            |
+
+
+Post try-out:
+-------------
+Idea is fun.
+Foil is a big FAIL
+Probably:
+  Blue hideway land
+  Gift Ungiven
+
+
+
+The initial proposal seems too slow...
+I'd like a way to get it to work really fast!
+More oriented to fast milling.
+
+
+
+Proposal 1:
+
+36 spells
+| 4 | Spellweaver Helix         | 3     | art       | Imprint: when enters, exile two tgt sorcery from a single graveyard -- Wheneer an exiled card is play, you may copy the other one w/o paying its mana cost |
+|   |                           |       |           |                                                                                                                                                            |
+|   | *Combo cards*             |       |           |                                                                                                                                                            |
+| 4 | Enter the Infinite        | 8UUUU | sorc      | Draw the entire library, the put 1 back. Until next turn, you have no maximum size.                                                                        |
+| 4 | Unexpected Results        | 2GU   | sorc      | Shuffle lib, then reveal top: if it's a land, put it into play then return ~ to hand -- Otherwise, u may cast it w/o paying it's mana cost                 |
+|   |                           |       |           |                                                                                                                                                            |
+|   | *Combo part 2*            |       |           |                                                                                                                                                            |
+| 2 | Laboratory Maniac         | 2U    | 2/2       | If you would draw and the library has no card, u win the game                                                                                              |
+| 1 | Emrakul, the Aeons Torn   | 15    | 15/15 fly | Annihilator 6 -- when cast: extra turn -- prot from colored spells -- graveyard -> lib                                                                     |
+| 1 | Ulamog, the Infinite Gyre | 11    | 10/10     | Annihilator 4 -- when cast: destr tgt perm -- indestructible -- graveyard -> lib                                                                           |
+|   |                           |       |           |                                                                                                                                                            |
+|   | *Protection*              |       |           |                                                                                                                                                            |
+| 2 | Spellpierce               | U     | inst      | Counter tgt non creat spell unless its controller pays 2                                                                                                   |
+| 3 | Mana leak                 | 1U    | inst      | Counter tgt spell unless it's controller pay 3                                                                                                             |
+| 4 | Remand                    | 1U    | inst      | Bounce tgt spell, draw a card                                                                                                                              |
+| 3 | Foil                      | 2UU   | inst      | Counter tgt spell -- U may discard a island and another card instead of paying its mana cost                                                               |
+|   |                           |       |           |                                                                                                                                                            |
+|   |                           |       |           |                                                                                                                                                            |
+|   | *Graveyard Filler*        |       |           |                                                                                                                                                            |
+| 4 | Forbidden Alchemy         | 2U    | inst      | Flashback 6B -- Look top 4 cards of lib, put 1 in hand, rest in the graveyard                                                                              |
+| 4 | Preordain                 |       |           |                                                                                                                                                            |
