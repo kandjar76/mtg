@@ -13,27 +13,36 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |    | *From lib to grave: 4*     |       |          |                                                                                                                                               |
 |  2 | Buried Alive               | 2B    | sorc     | Search lib for up to 3 creats, put them in the graveyard                                                                                      |
 |  3 | Entomb                     | B     | inst     | Search lib for a card and put it into your graveyard                                                                                          |
+| +1 | Entomb                     | B     | inst     | Search lib for a card and put it into your graveyard                                                                                          |
 |    |                            |       |          |                                                                                                                                               |
 |    | *From hand to grave: 8*    |       |          |                                                                                                                                               |
 |  1 | Zombie infestation         | 1B    | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
 |  2 | Putrid Imp                 | B     | 1/1      | Discard a card: gain flying -- Threshold: gets +1/+1 and can't block                                                                          |
 |  2 | Last Rites                 | 2B    | sorc     | Discard X cards. Tgt player reveal his hand, choose X non land cards, that player discards them                                               |
 |  2 | Sickening Dreams           | 1B    | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
+| -2 | Sickening Dreams           | 1B    | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
 |    |                            |       |          |                                                                                                                                               |
 |    | *From grave to play: 11*   |       |          |                                                                                                                                               |
 |  2 | Reanimate                  | B     | sorc     | Put tgt creat from a graveyard into play -- u loose life equal to its CMC                                                                     |
+| +2 | Reanimate                  | B     | sorc     | Put tgt creat from a graveyard into play -- u loose life equal to its CMC                                                                     |
 |  3 | Animated Dead              | 1B    | aura     | Ench creat in graveyard: bringing it back to play -- enchant creats gets -1/0                                                                 |
 |  4 | Exhume                     | 1B    | sorc     | Each player puts a creats from his graveyard back to play                                                                                     |
 |  2 | Dread Return               | 2BB   | sorc     | Return tgt creat from graveyard to play -- Flashback: sacr 3 creats                                                                           |
+| -2 | Dread Return               | 2BB   | sorc     | Return tgt creat from graveyard to play -- Flashback: sacr 3 creats                                                                           |
 |    |                            |       |          |                                                                                                                                               |
 |    | *A bit of control: 5*      |       |          |                                                                                                                                               |
 |  1 | Cabal Therapy              | B     | sorc     | Name a nonland card, tgt player reveal hand and discard all named cards -- Flashback: sacr a creat                                            |
+| +3 | Cabal Therapy              | B     | sorc     | Name a nonland card, tgt player reveal hand and discard all named cards -- Flashback: sacr a creat                                            |
 |  3 | Duress                     | B     | sorc     | Tgt opp reveal hand, choose non creat non land from it, he discards it                                                                        |
+| +1 | Duress                     | B     | sorc     | Tgt opp reveal hand, choose non creat non land from it, he discards it                                                                        |
 |  1 | Faceless Butcher           | 2BB   | 2/3      | When enter: exile tgt creats -- When leave: return exiled creats to play                                                                      |
+| -1 | Faceless Butcher           | 2BB   | 2/3      | When enter: exile tgt creats -- When leave: return exiled creats to play                                                                      |
 |    |                            |       |          |                                                                                                                                               |
 |    | *Land: 24*                 |       |          |                                                                                                                                               |
 |  1 | Crystal Vein               |       | land     | t: add 1 -- t, sacr it: add 2                                                                                                                 |
+| -1 | Crystal Vein               |       | land     | t: add 1 -- t, sacr it: add 2                                                                                                                 |
 |  1 | Ebon Stronghold            |       | land     | Enter tapped -- t: add B -- t, sacr it: add BB                                                                                                |
+| -1 | Ebon Stronghold            |       | land     | Enter tapped -- t: add B -- t, sacr it: add BB                                                                                                |
 |  1 | Polluted Mire              |       | land     | Enter tapped -- t: add B -- cycling 2                                                                                                         |
 | 21 | Swamp                      |       | bas land |                                                                                                                                               |
 |----+----------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +56,7 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 | -1 | Sheoldred, Whispering One  | 5BB   | 6/6      | Swampwalk -- Beg upk: return creat from grave to play -- Beg opp upk: he sacr a creat                                                         |
 |    |                            |       |          |                                                                                                                                               |
 | -1 | Zombie infestation         | 1B    | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
-| +1 | OOna's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
+| +1 | Oona's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
 |    |                            |       |          |                                                                                                                                               |
 | ?2 | Sickening Dreams           | 1B    | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
 |----+----------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -62,4 +71,4 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |----+----------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Avatar of Woe              | 6BB   | 6/5      | Cost 6 less if there are 10+ creats in all graveyard -- fear -- t: destroy tgt creats it can't be regen                                       |
 |    | Shred Memory               | 1B    | inst     | Exile up to 4 cards in tgt opp graveyard -- Transmute 1BB                                                                                     |
-|    | OOna's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
+|    | Oona's Prowler             | 1B    | 3/1      | Flying -- discard a card: she gets -2/0 (any player may actuvate this ab)                                                                     |
