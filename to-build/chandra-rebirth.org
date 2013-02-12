@@ -1,0 +1,45 @@
+Chandra's Rebirth v0.3
+
+|    | *Planeswalker: 6*            |               |          |                                                                                                                                                    |
+|  3 | Chandra Nalaar               | 3RR           | plwkr 6  | +1: deals 1 damage to tgt player -- -X: deals X damage to tgt creat -- -8: deals 10 damage to tgt player and each creats he controls               |
+|  2 | Koth of the Hammer           | 2RR           | plnwr 3  | +1: untap mountain, becomes a 4/4 until eot -- -2: add R for each mountain -- -5: each mountain can ping                                           |
+|  1 | Ajani Vengeant               | 2RW           | plwkr 3  | +1: tgt perm doesn't untap during its next untap step -- -2: deals 3 damage to tgt creat/player, gain 3 life -- -7: destroy all land of tgt player |
+|    |                              |               |          |                                                                                                                                                    |
+|    | *Creatures: 12*              |               |          |                                                                                                                                                    |
+|  4 | Chandra's Phoenix            | 1RR           | 2/2 fly  | Haster -- When opp is dealt damage by red inst/sorc/planeswalker, return ~ from grave to hand                                                      |
+|  **4   | Chandra's Spitfire           | 2R            | 1/3 fly  | WHen opp is deals non-combat damage, ~ gets +3/0                                                                                                   |
+|  2 | Balefire Liege               | 2{rw}{rw}{rw} | 2/4      | Other red, other white gets +1/+1 -- when u cast a red spell: it deals 3 damage to tgt player -- when u cast a white spell: gain 3 life            |
+|    |                              |               |          |                                                                                                                                                    |
+|    | *Burn: 16*                   |               |          |                                                                                                                                                    |
+|  4 | Seal of Fire                 | R             | ench     | Sacr it: deals 2 damage to tgt creat or player                                                                                                     |
+|  *4    | Lightning Bolt               | R             | inst     | Deals 3 damage to tgt creat/player                                                                                                                 |
+|  4     | Lightning Helix              | RW            | inst     | Deals 3 damage to tgt creat/player, u gain 3 life                                                                                                  |
+|  2 | Magma Jet                    | 1R            | inst     | Deals 2 damage to tgt creat/player, scry 2                                                                                                         |
+|  2 | Demonfire                    | xR            | sorc     | Deals X damage to tgt creat or player, if creats dies, exile it -- Hellbent: can't be countered                                                    |
+|    |                              |               |          |                                                                                                                                                    |
+|    | *Draw: 4*                    |               |          |                                                                                                                                                    |
+| *4  | Faithless Looting            | R             | sorc     | Draw 2 cards, then discard 2 -- Flashback 2R                                                                                                       |
+|    |                              |               |          |                                                                                                                                                    |
+|    | *Lands: 24*                  |               |          |                                                                                                                                                    |
+| **4  | Sacred Foundry               |               | land     | Enters tapped unless u pay 2 life -- t: add W or R                                                                                                 |
+|  4 | Clifftop Retreat             |               | land     | Enters tapped unless u control a plain or mountain -- t: add W or R                                                                                |
+|  2 | Valakut, the Molten Pinnacle |               | land     | Enters tapped -- t: add R -- When a mountain enters, if u control at least 5 others, it deals 3 damage to tgt creats or player                     |
+| 12 | Mountain                     |               | bas land |                                                                                                                                                    |
+|  2 | Plain                        |               | bas land |                                                                                                                                                    |
+|    |                              |               |          |                                                                                                                                                    |
+|----+------------------------------+---------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Slagstorm                    | 1RR           | sorc     | Choose 1: deals 3 damage to eech creats or 3 damage to each player                                                                                 |
+|  1 | Firemane Angel               | 3RWW          | 4/3 fly  | First strike -- At beg upk, if in grave: u may gain 1 life -- 6RRWW: return ~ from grave to play (only during upk)                                 |
+|  1 | Brion Stoutarm               | 2RW           | 4/4      | Lifelink -- R, t, sacr a creat other than him: it deals damage to tgt player equals to that creat's power                                          |
+|  1 | Assemble the Legion          | 3RW           | ench     | Beg upk: put a charge counter on it, then put a 1/1 red soldier w/ haste for each charge counter                                                   |
+
+v0.2 -> v0.3
+------------
+-2 Fireman Angel
++2 Demonfire
+
+v0.1 -> v0.2:
+-------------
+-1 Assemble the Legion
+-1 Brion Stoutarm
++2 Magma Jet
