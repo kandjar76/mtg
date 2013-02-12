@@ -1,8 +1,5 @@
 Ninja deck v2.1
 
-Missing: 
-2 Watery grave
-
 |   | *The Ninjas: 13*              |       |         |                                                                                                                                              |
 | 4 | Ninja of the Deep Hours       | 3U    | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                               |
 | 2 | Sakashima's Student           | 2UU   | 0/0     | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                             |
