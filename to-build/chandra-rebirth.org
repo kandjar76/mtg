@@ -1,12 +1,5 @@
 Chandra's Rebirth v0.3
 
-Missing:
---------
-2 Chandra's Spitfire
-1 Lightning Bolt
-1 Faithless Looting
-2 Sacred Foundry
-
 |    | *Planeswalker: 6*            |               |          |                                                                                                                                                    |
 |  3 | Chandra Nalaar               | 3RR           | plwkr 6  | +1: deals 1 damage to tgt player -- -X: deals X damage to tgt creat -- -8: deals 10 damage to tgt player and each creats he controls               |
 |  2 | Koth of the Hammer           | 2RR           | plnwr 3  | +1: untap mountain, becomes a 4/4 until eot -- -2: add R for each mountain -- -5: each mountain can ping                                           |
