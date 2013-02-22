@@ -12,8 +12,8 @@ Scapeshift v0.8
 |   |                              |     |          |                                                                                                                                                  |
 |   | *Control*                    |     |          |                                                                                                                                                  |
 | 2 | Vendilion Clique             | 1UU | 3/1 leg  | Flying, flash -- When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library |
-| 3 | Dispell                      | U   | inst     | Counter tgt inst spell                                                                                                                           |
 | 4 | Remand                       | 1U  | inst     | Counter tgt spell, return it to its owners hand instead of the graveyard -- Draw a card                                                          |
+| 3 | Spell Pierce                 | U   | inst     | Counter tgt non creat spell unless they pay 2                                                                                                    |
 | 2 | Wipe Away                    | 1UU | inst     | Split second -- Return tgt perm to its owner's hand                                                                                              |
 | 2 | Pyroclasm                    | 1R  | sorc     | Deals 2 damage to each creatures                                                                                                                 |
 | 4 | Izzet Charm                  | UR  | inst     | Choose one: deals 2 damage to tgt creats OR counter non creat spell unless its controller pays 2 OR draw 2 cards then discard 2 cards            |
@@ -31,18 +31,26 @@ Scapeshift v0.8
 | 4 | Valakut, the Molten Pinnacle |     | land     | Enters tapped -- t: add R -- When a mountain enters, if u control at least 5 others, it deals 3 damage to tgt creats or player                   |
 |---+------------------------------+-----+----------+--------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*                  |     |          |                                                                                                                                                  |
-| 3 | Rest in Peace                | 1W  | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                       |
-| 2 | Ancient Grudge               | 1R  | inst     | Flashback G -- Destroy tgt art                                                                                                                   |
+| 3 | Obstinate Baloth             | 2GG | 4/4      | When enters: gain 4 life -- If spell or ab cause u to discard: put it into play instead                                                          |
+| 2 | Leyline of Sanctity          | 2WW | ench     | You have hexproof                                                                                                                                |
+| 2 | Rest in Peace                | 1W  | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                       |
+| 1 | Ancient Grudge               | 1R  | inst     | Flashback G -- Destroy tgt art                                                                                                                   |
 | 2 | Krosan Grip                  | 2G  | inst     | Split sec -- Destroy tgt art or ench                                                                                                             |
-| 3 | Mindbreak Trap               | 2UU | inst     | Cost 0 if ur opp cast 3 or more spells this turn -- Counter tgt spells                                                                           |
-| 1 | Sudden Shock                 | 1R  | inst     | Split sec -- Deals 2 damage to tgt creat or player                                                                                               |
-| 1 | Pyroclasm                    | 1R  | sorc     | Deals 2 damage to each creatures                                                                                                                 |
+| 2 | Mindbreak Trap               | 2UU | inst     | Cost 0 if ur opp cast 3 or more spells this turn -- Counter tgt spells                                                                           |
 | 3 | Sowing Salt                  | 2RR | sorc     | Remove tgt non basic land from the game -- Search lib, grave and hand for all copy of lands and exile them                                       |
 |---+------------------------------+-----+----------+--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Pyroclasm                    | 1R  | sorc     | Deals 2 damage to each creatures                                                                                                                 |
+| 1 | Sudden Shock                 | 1R  | inst     | Split sec -- Deals 2 damage to tgt creat or player                                                                                               |
 | 4 | Peer Through Depths          | 1U  | inst     | Look at top 5 cards, u may reveal inst or sorc and put into ur hand, put the rest at the bottom in any order                                     |
+| 3 | Dispell                      | U   | inst     | Counter tgt inst spell                                                                                                                           |
 | 2 | Khalni Heart Expedition      | 1G  | ench     | Landfall: put a quest counter on it -- Remove 3 quest counters, sacr it:  search for up to two basic lands and put them into play tapped         |
 | 3 | Think twice                  | 1U  | inst     | Flashback 2U -- Draw a card                                                                                                                      |
 | 4 | Serum Visions                | U   | sorc     | Draw then scry 2                                                                                                                                 |
+
+Toward v0.9:
+------------
+Considering removing 1 spell pierce for 1 more Wipe Away, this spell is SOOOOO good!
+Sideboard wise, I'd like to add 1 or 2 Sudden Shock (against infect)
 
 v0.7 -> v0.8:
 -------------
@@ -52,10 +60,7 @@ Mainboard:
 -3 Dispell
 +3 Spell Pierce
 
-Sideboard:
--1 Sudden Shock
-+1 Rest in peace
-+2 Leyline of Sanctity
+Sideboard redone.
 
 v0.6 -> v0.7:
 -------------
