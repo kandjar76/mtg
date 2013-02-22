@@ -1,12 +1,12 @@
-Scapeshift v0.4
+Scapeshift v0.8
 
 |   | *Mana boost*                 |     |          |                                                                                                                                                  |
+| 3 | Primeval Titan               | 4GG | 6/6      | When enters or attacks: search lib for 2 lands, and put them into play tapped                                                                    |
 | 4 | Sakura-Tribe Elder           | 1G  | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                              |
-| 2 | Khalni Heart Expedition      | 1G  | ench     | Landfall: put a quest counter on it -- Remove 3 quest counters, sacr it:  search for up to two basic lands and put them into play tapped         |
 | 4 | Search for Tomorrow          | 2G  | sorc     | Suspend 2: G -- Search for basic land and put it into play                                                                                       |
 |   |                              |     |          |                                                                                                                                                  |
 |   | *Combo*                      |     |          |                                                                                                                                                  |
-| 4 | Realmwright                  | U   | 1/1      | When enters: choose a basic land type -- Lands u control are the choosen type in addition to their other types                                   |
+| 3 | Realmwright                  | U   | 1/1      | When enters: choose a basic land type -- Lands u control are the choosen type in addition to their other types                                   |
 | 2 | Prismatic Omen               | 1G  | ench     | Lands you control are every basic land type in additions to their own types                                                                      |
 | 3 | Scapeshift                   | 2GG | sorc     | Sacr any number of lands, search lib for that many lands and put them into play tapped                                                           |
 |   |                              |     |          |                                                                                                                                                  |
@@ -16,27 +16,65 @@ Scapeshift v0.4
 | 4 | Remand                       | 1U  | inst     | Counter tgt spell, return it to its owners hand instead of the graveyard -- Draw a card                                                          |
 | 2 | Wipe Away                    | 1UU | inst     | Split second -- Return tgt perm to its owner's hand                                                                                              |
 | 2 | Pyroclasm                    | 1R  | sorc     | Deals 2 damage to each creatures                                                                                                                 |
-|   |                              |     |          |                                                                                                                                                  |
-|   | *Search*                     |     |          |                                                                                                                                                  |
-| 4 | Peer Through Depths          | 1U  | inst     | Look at top 5 cards, u may reveal inst or sorc and put into ur hand, put the rest at the bottom in any order                                     |
+| 4 | Izzet Charm                  | UR  | inst     | Choose one: deals 2 damage to tgt creats OR counter non creat spell unless its controller pays 2 OR draw 2 cards then discard 2 cards            |
 |   |                              |     |          |                                                                                                                                                  |
 |   | *Lands*                      |     |          |                                                                                                                                                  |
 | 2 | Boseiju, Who Shelters All    |     | leg land | Enters tapped -- t, pay 2 life: add 1, if that mana is spend on inst or sorcery, that spell can't be countered                                   |
 | 3 | Misty Rainforest             |     | land     | pay 1 life, sacr it: search for forest or island and put it into play                                                                            |
 | 2 | Breeding Pools               |     | land     | Forest, Island -- enter tapped unless u pay 2 life -- t: add G or U                                                                              |
 | 2 | Steam Vent                   |     | land     | Mountain, Island -- enter tapped unless u pay 2 life -- t: add R or U                                                                            |
-| 2 | Stomping Ground              |     | land     | Mountain, Forest -- enter tapped unless u pay 2 life -- t: add R or G                                                                            |
-| 3 | Forest                       |     | bas land |                                                                                                                                                  |
+| 3 | Stomping Ground              |     | land     | Mountain, Forest -- enter tapped unless u pay 2 life -- t: add R or G                                                                            |
+| 2 | Forest                       |     | bas land |                                                                                                                                                  |
 | 1 | Island                       |     | bas land |                                                                                                                                                  |
 | 3 | Mountain                     |     | bas land |                                                                                                                                                  |
 | 2 | Plain                        |     | bas land |                                                                                                                                                  |
 | 4 | Valakut, the Molten Pinnacle |     | land     | Enters tapped -- t: add R -- When a mountain enters, if u control at least 5 others, it deals 3 damage to tgt creats or player                   |
 |---+------------------------------+-----+----------+--------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*                  |     |          |                                                                                                                                                  |
+| 3 | Rest in Peace                | 1W  | ench     | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                       |
 | 2 | Ancient Grudge               | 1R  | inst     | Flashback G -- Destroy tgt art                                                                                                                   |
-| 2 | Boros Charm                  | WR  | inst     | Choose one: Deals 4 damage to tgt player OR Perms u control are indestructible until eot OR tgt creats gain double strike                        |
 | 2 | Krosan Grip                  | 2G  | inst     | Split sec -- Destroy tgt art or ench                                                                                                             |
 | 3 | Mindbreak Trap               | 2UU | inst     | Cost 0 if ur opp cast 3 or more spells this turn -- Counter tgt spells                                                                           |
-| 2 | Sudden Shock                 | 1R  | inst     | Split sec -- Deals 2 damage to tgt creat or player                                                                                               |
+| 1 | Sudden Shock                 | 1R  | inst     | Split sec -- Deals 2 damage to tgt creat or player                                                                                               |
 | 1 | Pyroclasm                    | 1R  | sorc     | Deals 2 damage to each creatures                                                                                                                 |
-| 3 | Sowing Salt                  | 2RR | sorc     | Remove tgt non basic land from the game -- Search lib, grave and hand for all copy of lands and exile them                                                |
+| 3 | Sowing Salt                  | 2RR | sorc     | Remove tgt non basic land from the game -- Search lib, grave and hand for all copy of lands and exile them                                       |
+|---+------------------------------+-----+----------+--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 | Peer Through Depths          | 1U  | inst     | Look at top 5 cards, u may reveal inst or sorc and put into ur hand, put the rest at the bottom in any order                                     |
+| 2 | Khalni Heart Expedition      | 1G  | ench     | Landfall: put a quest counter on it -- Remove 3 quest counters, sacr it:  search for up to two basic lands and put them into play tapped         |
+| 3 | Think twice                  | 1U  | inst     | Flashback 2U -- Draw a card                                                                                                                      |
+| 4 | Serum Visions                | U   | sorc     | Draw then scry 2                                                                                                                                 |
+
+v0.7 -> v0.8:
+-------------
+Mainboard:
+-4 Serum Visions
++4 Izzet Charm
+-3 Dispell
++3 Spell Pierce
+
+Sideboard:
+-1 Sudden Shock
++1 Rest in peace
++2 Leyline of Sanctity
+
+v0.6 -> v0.7:
+-------------
++1 Primeval Titan
++4 Serum Visions
+-2 Khalni Heart Expedition
+-3 Think twice
+
+v0.5 -> v0.6:
+-------------
+Mainboard:
++2 Primeval Titan
++3 Think twice
+-1 Realmwright
+-4 Peer Through Depths
+
+v0.4 -> v0.5:
+------------
+Sideboard updateL
+-2 Boros Charm
+-1 Sudden Shock
++3 Rest in Peace
