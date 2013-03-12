@@ -18,12 +18,12 @@ Simic Fathom v0.8
 | 3 | Into the Roil              | 1U        | inst     | Kicker 1U -- Return tgt non land perm to hand, if kicked: draw                                                            |
 |   |                            |           |          |                                                                                                                           |
 |   | *More draws 2*             |           |          |                                                                                                                           |
-| 3 | Fact of Fiction            | 3U        | isnt     | Reveal top 5 cards, opp separetes them into two piles, put one in hand, the other on ur graveyard                         |
+| 3 | Fact or Fiction            | 3U        | isnt     | Reveal top 5 cards, opp separetes them into two piles, put one in hand, the other on ur graveyard                         |
 |   |                            |           |          |                                                                                                                           |
 |   | *Lands 23*                 |           |          |                                                                                                                           |
 | 4 | Llanowar Reborn            |           | land     | Enters tapped -- Graft 1 -- t: add G                                                                                      |
-| 2 | Oran-Rief, the Vasstwood   |           | land     | Enters tapped -- t: add G -- t: put a +1c on each green greats that enter the battlefield this turn.                      |
-| 4 | Breeding Pools             |           | land     | Forest, Island -- enter tapped unless u pay 2 life -- t: add G or U                                                       |
+| 2 | Oran-Rief, the Vastwood    |           | land     | Enters tapped -- t: add G -- t: put a +1c on each green greats that enter the battlefield this turn.                      |
+| 4 | Breeding Pool              |           | land     | Forest, Island -- enter tapped unless u pay 2 life -- t: add G or U                                                       |
 | 4 | Forest                     |           | bas land |                                                                                                                           |
 | 9 | Island                     |           | bas land |                                                                                                                           |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------|
