@@ -1,4 +1,4 @@
-Blood of Grixis v0.2
+Blood of Grixis v0.3
 
 |   | *Planeswalkers*            |     |         |                                                                                                                                                                                                                                             |
 | 3 | Liliana of the Veil        | 1BB | plwr 3  | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                                                |
@@ -18,7 +18,7 @@ Blood of Grixis v0.2
 |   |                            |     |         |                                                                                                                                                                                                                                             |
 |   | *Control Spells*           |     |         |                                                                                                                                                                                                                                             |
 | 3 | Tragic Slip                | B   | inst    | Tgt creat gets -1/-1 -- Morbid: -13/-13 instead                                                                                                                                                                                             |
-| 3 | Ultimate Price             | 1B  | inst    | Destroy tgt monocolored creature                                                                                                                                                                                                            |
+| 3 | Dissipate                  | 1UU | inst    | Counter tgt spell, if counter: exile it                                                                                                                                                                                                     |
 | 2 | Pillar of Flame            | R   | sorc    | Deal two damage to tgt creature, if dead: exile it                                                                                                                                                                                          |
 | 2 | Dreadbore                  | BR  | sorc    | Destroy tgt creature or planeswalker                                                                                                                                                                                                        |
 | 3 | Rakdos Return              | xBR | sorc    | Tgt player discards X cards and takes X damage                                                                                                                                                                                              |
@@ -44,7 +44,35 @@ Blood of Grixis v0.2
 | 2 | Sever the Bloodline        | 3B  | sorc    | Exile target creat and all creats w/ the same name -- Flashback 5BB.                                                                                                                                                                        |
 | 4 | Slaughter Game             | 2BR | sorc    | Can't be countered -- Name a card: look tgt player hand, grave and lib, and exile any number of the named cards                                                                                                                             |
 |---+----------------------------+-----+---------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | Ultimate Price             | 1B  | inst    | Destroy tgt monocolored creature                                                                                                                                                                                                            |
 | 2 | Curse of Death's Hold      |     |         |                                                                                                                                                                                                                                             |
+
+v0.3 -> v0.4:
+-------------
+Mainboard:
+-1 Olivia Voldaren
+-1 Zealous Conscript
++2 Izzet Static Caster
+
+Sideboard:
+-1 Rakdos Return
+-1 Slaughter Game
++1 Izzet Static Caster
++1 Zealous Conscript
+
+Also to be considered:
+Mizzium Mortar (1 or 2 of)
+
+v0.2 -> v0.3:
+-------------
+-3 Ultimate Price
++3 Dissipate
+
+Post play-test with v0.2:
+-------------------------
+Deck is ok...
+BUT: It clearly lacks counters for a control deck!
+
 
 v0.1 -> v0.2:
 -------------
