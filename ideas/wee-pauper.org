@@ -1,0 +1,77 @@
+Wee Paupy v0.2
+
+|    | *Creatures: 12*  |      |         |                                                                                             |
+|  4 | Delver of Secret | U    | 1/1     | Beg upk: look top card of lib, u may reveal it, if instant or sorc: transform // 3/2 flying |
+|  4 | Wee Dragonauts   | 1UR  | 1/3 fly | Gain +2/0 every time you cast an instant or a sorcery                                       |
+|  4 | Kiln Fiend       | 1R   | 1/2     | Gain +3/0 every time you cast an instant or a sorcery                                       |
+|    |                  |      |         |                                                                                             |
+|    | *Invasion: 6*    |      |         |                                                                                             |
+|  2 | Artful Dodge     | U    | sorc    | Tgt creats is unblockable -- Flashback U                                                    |
+|  4 | Shadow Rift      | U    | inst    | Target creature gain shadow until eot -- Draw a card                                        |
+|    |                  |      |         |                                                                                             |
+|    | *Helper: 13*     |      |         |                                                                                             |
+|  4 | Lighting Bolt    | R    | inst    | Deals 3 damage to tgt creature or player                                                    |
+|  4 | Turn Aside       | U    | inst    | Counter tgt spell that tgt a perm u control                                                 |
+|  3 | Assault Strobe   | R    | sorc    | Tgt creats gain double strike                                                               |
+|  2 | Electrickery     | R    | inst    | Deals 1 damage to tgt creat u don't control -- Overload 1R                                  |
+|    |                  |      |         |                                                                                             |
+|    | *Can Trip: 11*   |      |         |                                                                                             |
+|  4 | Gitaxian Probe   | {up} | sorc    | Look at tgt player's hand -- draw a card                                                    |
+|  4 | Preordain        | U    | sorc    | Scry 2 then draw                                                                            |
+|  3 | Crimson wisps    | R    | inst    | Tgt creat becomes red, gain haste -- Draw a card                                            |
+|    |                  |      |         |                                                                                             |
+|    | *Lands 18*       |      |         |                                                                                             |
+| 11 | Island           |      |         |                                                                                             |
+|  8 | Mountain         |      |         |                                                                                             |
+|----+------------------+------+---------+---------------------------------------------------------------------------------------------|
+|    | *Sideboard*      |      |         |                                                                                             |
+|  3 | Echoing Truth    | 1U   | inst    | Return tgt nonland perm and all other perm w/ same name to owner's hands                    |
+|  3 | Dispell          | U    | inst    | Counter tgt instant spell                                                                   |
+|  1 | Flaring Pain     | 1R   | inst    | Damage can't be prevented -- Flashback R                                                    |
+|  3 | Vapor Snag       | U    | inst    | Return tgt creat to its contoller hand, its controller looses 1 life                        |
+|----+------------------+------+---------+---------------------------------------------------------------------------------------------|
+|  1 | Gush             | 4U   | inst    | U may return two islands to hand instead of paying its mana cost -- Draw 2 cards            |
+
+v0.2 -> v0.3:
+-------------
+-4 Turn aside
++4 Dispell
+-2 Artful Dodge
++2 Terramorphic expance
+-1 Assault Probe
+-2 Wee Dragonauts
++3 Brainstorm
+
+
+Version 0.2:
+------------
+Boring...
+Ironically, I've been either land screwed or land flooded.
+Thinking about going back to 20 lands... still
+Also: too many cards which are creature dependent...
+
+
+v0.1 -> v0.2:
+-------------
+-3 Echoing Truth
++2 Electrickery
++1 Turn Aside
+-3 Fling
+-3 Distortion Strike
++2 Artful Dodge
++4 Lightning Bolt
+-2 Island
+-2 Mountain
++4 Delver of Secrets
+
+Comments on v0.1:
+-----------------
+The original version did have a clear lack of creatures...
+The addition of delver should help.
+
+Replaceing Echoing Truth main board by some lightning bolt, as well as electrickery... 
+Distortion strike is good... but the rebound is rarely effective.... -> Artful Dodge seems more appropriate.
+
+Fling is quite useless... Much better to have more spells...
+
+The deck seems to have way too much lands...
