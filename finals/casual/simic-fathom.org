@@ -1,8 +1,8 @@
-Simic Fathom v0.8
+Simic Fathom v0.9
 
 |   | *Creatures 19*             |           |          |                                                                                                                           |
 | 4 | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                            |
-| 3 | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
+| 3 | Primordial Hydra           | xGG       | 0/0      | Enters w/ X +1c -- Beg upk: double its counters -- It has trample when it has 10 or more counters.                        |
 | 2 | Zameck Guildmage           | GU        | 2/2      | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card           |
 | 3 | Plaxcaster Frogling        | 1GU       | 0/0      | Graft 3 -- 2: tgt creats w/ +1c on it gain shroud                                                                         |
 | 2 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 -- Ut: gain control of tgt creat with +1/+1 on it                                                                 |
@@ -27,6 +27,7 @@ Simic Fathom v0.8
 | 4 | Forest                     |           | bas land |                                                                                                                           |
 | 9 | Island                     |           | bas land |                                                                                                                           |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------|
+| 3 | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
 | 1 | Novijen, Heart of Progress |           | land     | t: add 1 -- GU, t: put a +1c on each creat w/ enter play this turn                                                        |
 | 1 | Experiment Kraj            | 2GGUU     | 4/6 leg  | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                   |
 | 1 | Evolution Vat              | 3         | art      | 3, t: tap tgt creat and put a +1c on it, the creatures has: "2GU: double the number of counter on it"                     |
@@ -36,9 +37,22 @@ Simic Fathom v0.8
 | 3 | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
 | 2 | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
 
+Version 0.9:
+------------
+Primordial Hydra made such a difference!!! WoW... 
+Which now makes me question the use of Zameck Guildmage.
 
-Note toward v0.9:
------------------
+Note: I tried Simic Charm instead -> not really good.
+Guildmage is quite good as it will potentially draw me cards if they tried to kill one of my creature :)
+Also: I can gain control of their creature and draw cards from it OR reduce the Fathom Mage power to guarantee a evolve trigger.
+
+v0.8 -> v0.9:
+-------------
+-3 Protean Hydra
++3 Primordial Hydra
+
+Version 0.8:
+------------
 I'm wondering if Simic Charm would not be better than 'Into the Roil'
 It's true that Into the Roil will bounce planeswalker, and other non pleasant art/ench....
 But Simic Charm can protect and beef up creatures.
@@ -48,7 +62,6 @@ In the future, if I can get another playset of Hinterland Harbor:
 -1 Forest
 -3 Island
 +4 Hinterland Harbor
-
 
 v0.7 -> v0.8:
 -------------
