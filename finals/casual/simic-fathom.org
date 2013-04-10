@@ -27,15 +27,17 @@ Simic Fathom v0.9
 | 4 | Forest                     |           | bas land |                                                                                                                           |
 | 9 | Island                     |           | bas land |                                                                                                                           |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------|
-| 3 | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
-| 1 | Novijen, Heart of Progress |           | land     | t: add 1 -- GU, t: put a +1c on each creat w/ enter play this turn                                                        |
-| 1 | Experiment Kraj            | 2GGUU     | 4/6 leg  | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                   |
-| 1 | Evolution Vat              | 3         | art      | 3, t: tap tgt creat and put a +1c on it, the creatures has: "2GU: double the number of counter on it"                     |
-| 3 | Snakeform                  | 2{gu}     | inst     | Tgt creats becomes a 1/1 and loose all abilities until eot -- Draw a card                                                 |
-| 3 | Cytoshape                  | 1GU       | inst     | Choose non legendary create, tgt creat becomes a copy of that creat until eot                                             |
-| 2 | Jace's Ingenuity           | 3UU       | inst     | Draw 3 cards                                                                                                              |
-| 3 | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
-| 2 | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
+|   | Power Conduit              | 2         | art      | t: remove counter from permanent u control, put a +1c on creats u control, or put a charge counter on art                 |
+|   |                            |           |          |                                                                                                                           |
+|   | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
+|   | Novijen, Heart of Progress |           | land     | t: add 1 -- GU, t: put a +1c on each creat w/ enter play this turn                                                        |
+|   | Experiment Kraj            | 2GGUU     | 4/6 leg  | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                   |
+|   | Evolution Vat              | 3         | art      | 3, t: tap tgt creat and put a +1c on it, the creatures has: "2GU: double the number of counter on it"                     |
+|   | Snakeform                  | 2{gu}     | inst     | Tgt creats becomes a 1/1 and loose all abilities until eot -- Draw a card                                                 |
+|   | Cytoshape                  | 1GU       | inst     | Choose non legendary create, tgt creat becomes a copy of that creat until eot                                             |
+|   | Jace's Ingenuity           | 3UU       | inst     | Draw 3 cards                                                                                                              |
+|   | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
+|   | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
 
 Version 0.9:
 ------------
