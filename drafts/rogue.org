@@ -1,9 +1,0 @@
-| 4 | Oona's Prowler    | 1B  | 3/1 Flying  | Discard a card: she gets -2/0; any player may pay that cost                                      |
-| 4 | Bitterblossom     | 1B  | Ench Faer   | Beg upk: looses 1 life, put a 1/1 black faerie rogue w. fly into play                            |
-| 4 | Oona's Blackguard | 1B  | 1/1 Fly Rog | Each rogue enters w/ a +1c on it; when a creat w/ +1 deals damage to a player he discards a card |
-|   |                   |     |             |                                                                                                  |
-| 3 | Morsel Theft      | 2BB | Sorc Rogue  | Prowl 1B -- Tgt player looses 3 life, u gain 3, if prowled: draw a card                          |
-| 3 | Noggin Whack      | 2BB | Sorc Rogue  | Prowl 1B -- Tgt player reveal 3 cards, choose 2 -- he discards them                              |
-| 4 | Thieves' Fortune  | 2U  | Inst Rogue  | Prowl U -- Look top 4 card, 1 in hand, rest bottom                                               |
-| 2 | Cloak and Dagger  | 2   | Eqp 3 Rogue | Eqp creat gets +2/0 and shroud -- When a rogue enter: u may attack to it                         |
-|   |                   |     |             |                                                                                                  |

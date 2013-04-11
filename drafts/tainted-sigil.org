@@ -1,2 +1,0 @@
-| 4 | Tainted Sigil | 1WB | art | t, sacr it: you gain life equal to the total life lost by all player this turn |
-|   |               |     |     |
