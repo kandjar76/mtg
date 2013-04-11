@@ -1,18 +1,16 @@
 Dragon Master v0.3
 
-
 |    | *The Dragons*         |      |          |                                                                                                                                                                                                       |
 |  1 | Archwing Dragon       | 2RR  | 4/4      | Flying, haste -- At the beginning of the end step, return Archwing Dragon to its owner's hand.                                                                                                        |
-|  1 | Kilnmouth Dragon      | 5RR  | 5/5      | Amplify 3, Flying -- t: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or playe                                                                         |
-|  1 | Mordant Dragon        | 3RRR | 5/5      | Flying -- 1R: Mordant Dragon gets +1/+0 until end of turn. -- Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls. |
-|  1 | Utvara Hellkite       | 6RR  | 6/6      | Flying -- Whenever a Dragon you control attacks, put a 6/6 red Dragon creature token with flying onto the battlefield.                                                                                |
-|  3 | Steel Hellkite        | 6    | 5/5      | Flying -- 2: Steel Hellkite gets +1/+0 until eot -- X: Destroy each nonland permanent with CMC X whose controller was dealt combat damage by Steel Hellkite this turn. Only once each turn.           |
-|  1 | Thunder Dragon        | 5RR  | 5/5      | Flying -- When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.                                                                                              |
-|  2 | Mudbutton Torchrunner | 2R   | 1/1      | When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.                                                                                                                      |
-|  1 | Hoard-Smelter Dragon  | 4RR  | 5/5      | Flying -- 3R: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.                                                             |
 |  2 | Dragon Whelp          | 2RR  | 2/3      | Flying -- R: gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice it at the beginning of the next end step.                                       |
-|  1 | Bogardan Hellkite     | 6RR  | 5/5      | Flash, Flying -- When ~ enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.                                                          |
+|  3 | Steel Hellkite        | 6    | 5/5      | Flying -- 2: Steel Hellkite gets +1/+0 until eot -- X: Destroy each nonland permanent with CMC X whose controller was dealt combat damage by Steel Hellkite this turn. Only once each turn.           |
+|  1 | Hoard-Smelter Dragon  | 4RR  | 5/5      | Flying -- 3R: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.                                                             |
+|  1 | Mordant Dragon        | 3RRR | 5/5      | Flying -- 1R: Mordant Dragon gets +1/+0 until end of turn. -- Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls. |
+|  1 | Kilnmouth Dragon      | 5RR  | 5/5      | Amplify 3, Flying -- t: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or playe                                                                         |
+|  1 | Thunder Dragon        | 5RR  | 5/5      | Flying -- When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.                                                                                              |
 |  1 | Shivan Hellkite       | 5RR  | 5/5      | Flying -- 1R: Shivan Hellkite deals 1 damage to target creature or player.                                                                                                                            |
+|  1 | Utvara Hellkite       | 6RR  | 6/6      | Flying -- Whenever a Dragon you control attacks, put a 6/6 red Dragon creature token with flying onto the battlefield.                                                                                |
+|  1 | Bogardan Hellkite     | 6RR  | 5/5      | Flash, Flying -- When ~ enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.                                                          |
 |    |                       |      |          |                                                                                                                                                                                                       |
 |    | *Mana booster*        |      |          |                                                                                                                                                                                                       |
 |  4 | Dragonspeaker Shaman  | 1RR  | 2/2      | Dragon spells you cast cost {2} less to cast.                                                                                                                                                         |
@@ -30,9 +28,21 @@ Dragon Master v0.3
 |  1 | Breath of Darigaaz    | 1R   | sorc     | Kicker 2 -- Breath of Darigaaz deals 1 damage to each creature without flying and each player. If kicked, it deals 4 damage to each creature without flying and each player instead.                  |
 |    |                       |      |          |                                                                                                                                                                                                       |
 |    | *Helper*              |      |          |                                                                                                                                                                                                       |
+|  2 | Mudbutton Torchrunner | 2R   | 1/1      | When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.                                                                                                                      |
 |  1 | Captive Flame         | 2R   | ench     | R: Target creature gets +1/+0 until end of turn.                                                                                                                                                      |
 |    |                       |      |          |                                                                                                                                                                                                       |
 |    | *Lands*               |      |          |                                                                                                                                                                                                       |
 | 24 | Mountain              |      | bas land |                                                                                                                                                                                                       |
 
 
+v0.3 -> v0.4:
+-------------
++4 Lightning Bolt
+-1 Breath of Darigaaz
+-1 Spitting Earth
+-1 Ghostfire
+-1 Seismic Strike
+
+Version 0.3:
+------------
+Mmm... The deck is fun; but I think the killspell needs to be updated.
