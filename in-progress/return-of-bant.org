@@ -83,8 +83,59 @@ Return of Bant v3.11
 |    | Heroes' Reunion            | GW       | inst     | Target player gain 7 life                                                                                                                                                                                                                   |
 |    | Sublime Archangel          | 2WW      | 4/3 fly  | Exalted -- Other creatures u control gain exalted                                                                                                                                                                                           |
 
+
+Note: Reverting deck to v3.11
+It was the most enoyable version of this deck.
+Time to retire it from the competition...
+
+
+v3.3 -> v3.31:
+--------------
+Sideboard:
+-1 Simic Charm
+-1 Curse of Echoes
++2 Trostani, Selesnya's Voice
++1 Blind Obedience
+-1 Selesnya Charm 
+
+v3.2 -> v3.3:
+-------------
+Main:
+-2 Jace, Architect of Thought
++1 Feeling of Dread
++1 Angel of Serenity
+
+Sideboard:
+-3 Geist of Saint Traft
++3 Simic Charm
+
+
+Version 3.2:
+------------
+Prime Speaker is really a fun card in this deck!
+Even as a 2/2 draw 2, she's decent (but not quite mana efficient)
+
+Thinking:
+-2 Jace, Architect of Thought
++1 Feeling of Dread
++1 Angel of Serenity
+
+Also sideboard wise, I'm not sure Geist deserve a spot here for now... 
+As aggro is so present...
+
+
+v3.11 -> v3.2:
+--------------
+Main:
+-2 Jace, Architect of Thought
+-2 Entreat the Angel
++2 Prime Speaker Zegana
++1 Loxodon Smitter
++1 Restoration Angel
+
 v3.10 -> v3.11
 --------------
+Sideboard:
 -1 Supreme Verdict
 +1 Terminus
 
