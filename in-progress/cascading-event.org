@@ -1,0 +1,70 @@
+Cascading Event v0.4
+
+|   | *The Waterfall triggers: 14* |           |          |                                                                                                                                                                                 |
+| 4 | Shardless Agent              | 1GU       | 2/2      | Cascade                                                                                                                                                                         |
+| 4 | Broodbraid Elf               | 2RG       | 3/2      | Cascade -- Haste                                                                                                                                                                |
+| 2 | Etherium-Horn Sorcerer       | 4UR       | 3/6      | Cascade -- 1UR: Return ~ to hand                                                                                                                                                |
+| 2 | Maelstrom Wanderer           | 5URG      | 7/5      | Cascade, cascade -- Creatures you control have haste.                                                                                                                           |
+| 2 | Deny Reality                 | 3UB       | sorc     | Cascade -- Return tgt perm to its owner hand                                                                                                                                    |
+|   |                              |           |          |                                                                                                                                                                                 |
+|   | *Color fixer: 2*             |           |          |                                                                                                                                                                                 |
+| 2 | Prismatic Omen               | 1G        | ench     | Lands u control are every basic land type in addition to their other types                                                                                                      |
+|   |                              |           |          |                                                                                                                                                                                 |
+|   | *Mana Booster 6*             |           |          |                                                                                                                                                                                 |
+| 4 | Explore                      | 1G        | sorc     | Draw a card -- You may play an additional land this turn                                                                                                                        |
+| 2 | Cultivate                    | 2G        | sorc     | Search lib for 2 basic land, put one into play, one in hand                                                                                                                     |
+|   |                              |           |          |                                                                                                                                                                                 |
+|   | *Cascade target: 5*          |           |          |                                                                                                                                                                                 |
+| 3 | Beck // Call                 | GU // 4WU | sorc     | Fuse -- Beck = whenever a creatures enters: draw a card // Call: put 4 1/1 bird w/ flying into play                                                                             |
+| 2 | Last Stand                   | WUBRG     | sorc     | Tgt opp looses 2 life per swamp -- Deals damage to tgt creat per mountain -- Put 1/1 green sapro per forest -- Gain 2 life per plains -- Draw then discard X card, X = #islands |
+|   |                              |           |          |                                                                                                                                                                                 |
+|   | *Helper: 9*                  |           |          |                                                                                                                                                                                 |
+| 4 | Beast Within                 | 2G        | inst     | Destroy tgt perm - Its controller put a 3/3 green beast into play                                                                                                               |
+| 2 | Arc Trail                    | 1R        | sorc     | Deals 2 damage to tgt creat/player and 1 damage to another tgt creat/player                                                                                                     |
+| 2 | See Beyond                   | 1U        | sorc     | Draw 2 then shuffle one card from hand to lib                                                                                                                                   |
+| 1 | Ancestral Vision             | .         | sorc     | ~ is blue -- Suspend 4: U -- Draw 3 cards                                                                                                                                       |
+|   |                              |           |          |                                                                                                                                                                                 |
+|   | *Lands 24*                   |           |          |                                                                                                                                                                                 |
+| 1 | Exotic Orchard               |           | land     | t: add one mana of any color a land ur opp controls could produce                                                                                                               |
+| 1 | Savage Lands                 |           | land     | Enters tapped -- t: add B, R or G                                                                                                                                               |
+| 1 | Terramorphic Expanse         |           | land     | t, sacr it: search lib for a bas land and put it into play tapped                                                                                                               |
+| 1 | Vivid Creek                  |           | land     | Enters tapped w/ 2 charges counters -- t: add U -- t, rem counter: add 1 mana of any color                                                                                      |
+| 2 | Raging Ravine                |           | land     | Enters tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                                                    |
+| 1 | Pillar of the Paruns         |           | land     | t: add 1 mana any color (spend only for multicolor spells)                                                                                                                      |
+| 1 | Steam Vent                   |           | land     | Enters tapped unless u pay 2 life -- t: add R or U                                                                                                                              |
+| 6 | Forest                       |           | bas land |                                                                                                                                                                                 |
+| 3 | Island                       |           | bas land |                                                                                                                                                                                 |
+| 3 | Mountain                     |           | bas land |                                                                                                                                                                                 |
+| 2 | Plains                       |           | bas land |                                                                                                                                                                                 |
+| 2 | Swamp                        |           | bas land |                                                                                                                                                                                 |
+|---+------------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Shimmering Grotto            |           | land     | t: add 1 -- 1, t: add 1 mana of any color                                                                                                                                       |
+| 1 | Rupture Spire                |           | land     | Enters tapped -- When enters: sacr it unless u pay 1 -- t: add 1 mana any color                                                                                                 |
+|   |                              |           |          |                                                                                                                                                                                 |
+
+v0.3 -> v0.4:
+-------------
+-2 Shimmering Grotto
+-1 Rupture Spire
+-1 Mountain
++2 Raging Ravine
++1 Pillar of the Parums
++1 Steam Vent
+
+Version 0.3:
+------------
+Without G in the starting hand; it's a real gamble...
+I think some better lands should be added. :)
+Aka: rav duals.
+
+
+v0.2 -> v0.3:
+-------------
+-2 Island
++2 Forst
+
+Version 0.2:
+------------
+The deck is a pure blast!
+Beck // Call is fantastic!
+However, need more green mana source...
