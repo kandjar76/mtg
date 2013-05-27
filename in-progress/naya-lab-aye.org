@@ -1,0 +1,210 @@
+Naya lab-aye v0.71
+
+|    | *Creatures 16*          |          |         |                                                                                                                                                                                                                                                                                                              |
+|  4 | Dryad Militant          | {gw}     | 2/1     | Whenever a inst or sorc is put to the graveyard from anywhere; exile it                                                                                                                                                                                                                                      |
+|  4 | Voice of Resurgence     | GW       | 2/2     | When dies or when an opp plays a spell on ur turn: put a "X/X elem token with X = #creats u control"                                                                                                                                                                                                         |
+|  3 | Huntmaster of the Fells | 2RG      | 2/2     | When enter or transf: gain 2 life, put a 2/2 wolf into play // 4/4 trample -- When transform: deals 2 damage to tgt creat an opp control and to player                                                                                                                                                       |
+|  3 | Boros Reckoner          | {rw}x3   | 3/3     | When dealt damage, it deals that much damage to tgt creat or player -- {rw}: gain first strike                                                                                                                                                                                                               |
+|  2 | Thundermaw Hellkite     | 3RR      | 5/5     | Flying, haste -- When enters: deals 1 damage to each flying creatures; tap these creatures                                                                                                                                                                                                                   |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+|    | *Planeswalkers 3*       |          |         |                                                                                                                                                                                                                                                                                                              |
+|  3 | Garruk Relentless       | 3G       | plwkr 3 | 0: deals 3 damage to tgt creats, that creats deals damage back; 0: put a 2/2 wolf -- when less than 3 loy ctr: flip it // +1: put a 1/1 black wolf w/ death touch into play -- -1, sacr a creat: search creat put in hand -- -3: creats u control gain trample and +X/+X where X is # creats in ur graveyard |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+|    | *Burn 10*               |          |         |                                                                                                                                                                                                                                                                                                              |
+|  3 | Pillar of Flame         | R        | sorc    | Deals 2 damage to tgt creats, if dies: exile it instead                                                                                                                                                                                                                                                      |
+|  3 | Warleader's Helix       | 2RW      | inst    | Deals 4 damage to tgt creat/player u gain 4 life                                                                                                                                                                                                                                                             |
+|  3 | Bonfire of the Damned   | xxR      | sorc    | Miracle: xR -- Deals X damage to tgt player abd each creats he controls                                                                                                                                                                                                                                      |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+|    | *Helpers: 7*            |          |         |                                                                                                                                                                                                                                                                                                              |
+|  2 | Advent of the Wurm      | 1GGW     | inst    | Put a 5/5 gren wurm token into play w/ trample                                                                                                                                                                                                                                                               |
+|  4 | Boros Charm             | RW       | inst    | Choose one: perm u control are indestructible OR deals 4 damage to tgt player OR tgt creat gain double strike until eot                                                                                                                                                                                      |
+|  2 | Mizzium Mortar          | 1R       | sorc    | Deals 4 damage to tgt creat opp control -- Overload 3RRR                                                                                                                                                                                                                                                     |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+|    | *Lands 24*              |          |         |                                                                                                                                                                                                                                                                                                              |
+|  4 | Temple Garden           |          | land    | Enters tapped unless u pay 2 life -- t: add G or W                                                                                                                                                                                                                                                           |
+|  4 | Sacred Foundry          |          | land    | Enters tapped unless u pay 2 life -- t: add R or W                                                                                                                                                                                                                                                           |
+|  4 | Stomping Ground         |          | land    | Enters tapped unless u pay 2 life -- t: add G or R                                                                                                                                                                                                                                                           |
+|  3 | Sunpetal Grove          |          | land    | Enters tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                                                                                                          |
+|  2 | Clifftop Retreat        |          | land    | Enters tapped unless u control a plain or mountain -- t: add W or R                                                                                                                                                                                                                                          |
+|  2 | Rootbound Crag          |          | land    | Enters tapped unless u control a forest or a mountain -- t: add G or R                                                                                                                                                                                                                                       |
+|  2 | Slayers' Stronghold     |          | land    | t: add 1 -- RW, t: tgt creats gets +2/0, vigilance and haste                                                                                                                                                                                                                                                 |
+|  1 | Forest                  |          |         |                                                                                                                                                                                                                                                                                                              |
+|  1 | Mountain                |          |         |                                                                                                                                                                                                                                                                                                              |
+|  1 | Plains                  |          |         |                                                                                                                                                                                                                                                                                                              |
+|----+-------------------------+----------+---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Sideboard*             |          |         |                                                                                                                                                                                                                                                                                                              |
+|  2 | Ruric Thar, the Unbowed | 4GR      | 6/6     | Vigilance, Reach -- Must attack each turn if able -- Whenever a player casts a non-creat spells, it deals 6 damage to him                                                                                                                                                                                    |
+|  2 | Rest in Peace           | 1W       | ench    | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                                                                                   |
+|  3 | Selesnya Charm          | WG       | inst    | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                                                                                                                                                                                                 |
+|  4 | Skullcrack              | 1R       | inst    | Deals 3 damage to tgt player - that player cannot gain life this turn                                                                                                                                                                                                                                        |
+|  2 | Sundering Growth        | {gw}{gw} | inst    | Destroy tgt art or enchantment then populate                                                                                                                                                                                                                                                                 |
+|  1 | Paraselene              | 2W       | sorc    | Destroy all ench. You gain 1 life for each ench destroy this way                                                                                                                                                                                                                                             |
+|  1 | Mizzium Mortar          | 1R       | sorc    | Deals 4 damage to tgt creat opp control -- Overload 3RRR                                                                                                                                                                                                                                                     |
+|----+-------------------------+----------+---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Renounce The Guilds     | 1W       | inst    | Each player sacr a multicolor perm                                                                                                                                                                                                                                                                           |
+|  2 | Rootborn Defenses       | 2W       | inst    | Creats u control are indestructible until eot, populate                                                                                                                                                                                                                                                      |
+|  2 | Gruul Charm             | GR       | inst    | Choose one: Creats w/o flying can't block OR gain control of perms u own OR deals 3 damage to each creats w/ flying                                                                                                                                                                                          |
+|  1 | Boros Charm             | RW       | inst    | Choose one: perm u control are indestructible OR deals 4 damage to tgt player OR tgt creat gain double strike until eot                                                                                                                                                                                      |
+|  2 | Sigarda, Host of Herons | 2GWW     | 5/5 fly | Hexproof, opp can't force u to sacr                                                                                                                                                                                                                                                                          |
+|  2 | Searing Spear           | 1R       | inst    | Deals 3 damage to tgt creat or player                                                                                                                                                                                                                                                                        |
+|  3 | Restoration Angel       | 3W       | 3/4     | Flash -- When enter: blink tgt non-angel creature u control                                                                                                                                                                                                                                                  |
+|  4 | Avacyn's Pilgrim        | G        | 1/1     | t: add W to mana pool                                                                                                                                                                                                                                                                                        |
+|  2 | Zealous Conscripts      | 4R       | 3/3     | Haste -- When enter: gain control of target perm,  untap it, it gains haste until eot.                                                                                                                                                                                                                       |
+|  3 | Purify the Grave        | W        | inst    | Flashback W -- Exile tgt card from a graveyard                                                                                                                                                                                                                                                               |
+|  2 | Ground Seal             | 1G       | ench    | Cards in the graveyard can't be the target of spell or ability -- Draw a card                                                                                                                                                                                                                                |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+| MB | Ghor-Clam Rampager      | 2RG      | 4/4     | Trmaple -- Bloodrush RG                                                                                                                                                                                                                                                                                      |
+| MB | Aurelia. the War Leader | 2RRWW    | 3/4 leg | Flying, Vigilance, Haste -- When attacks; if first time this turn, untap ur creats there's a second attack phase                                                                                                                                                                                             |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+| SB | Assemble the Legion     | 3RW      | ench    | Beg upk: put a counter on it then put 1/1 red/white soldier w/ haster for each counter                                                                                                                                                                                                                       |
+| SB | Wear // Tear            | 1R / W   | inst    | Fuse -- Destroy tgt artigact // Destroy tgt ench                                                                                                                                                                                                                                                             |
+|    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+
+v0.7 -> v0.71:
+-------------
+-2 Renounce the guild
++1 Selesnya Charm
++1 Paraselene
+
+v0.6 -> v0.7:
+-------------
+Main board:
+-1 Advent of the Wurm
+-1 Warleader's Helix
++2 Boros Charm
+
+Sideboard:
+-2 Rootborn Defense
++1 Mizzium Mortar
++2 Renounce The Guild
+-1 Selesnya Charm
+
+v0.6 -> v0.61:
+--------------
+-2 Ground Seal
++2 Rest in Peace
+
+
+v0.52 -> v0.6:
+--------------
+Mainboard:
+-2 Rootborn Defense
++2 Mizzium Mortar
+
+Sideboard:
++2 Rootborn Defense
+-2 Mizzium Mortar
+
+v0.51 -> v0.52:
+---------------
+Sideboard update:
+-2 Gruul Charm
++2 Mizzium Mortar
+
+
+v0.5 -> v5.1:
+-------------
+   I'm not convinced by Assemble the Legion...
+   Going to try the gruul charm as it will get rid of swarm of spirits :) And also hits Olivia and other flying vampire (Nighthawk)
+-2 Assemble the legion
++2 Gruul Charm
+
+v0.4 -> v0.5:
+--------------
+Mainboard:
+
+   Going to try Thundermaw over Aurelia, 1 more toughness and 1 less mana to cast it.
+-2 Aurelia, the War Leader
++2 Thundermaw Hellkite
+
+   Reverting the option back to what it was.. I like the option to deal with planeswalkers.
+-2 Selesnya Charm
++2 Boros Charm
+
+   I like Zealous, but he's now always useful; I feel I should still have one in the side potentially
+-2 Zealous Conscript
++1 Bonfire of the Damned
++1 Dryad Militant
+
+Sideboard changes:
+
+   I'd like to try Ruric against control, if he lands, it could be very difficult to get rid of him
++2 Ruric Thar, the Unbowed
+-1 Boros Charm
+-1 Ground Seal
+
+
+Version 0.4: 
+------------
+Very pleased with Bonfire already.
+Should consider increasing the count to 3 MB.
+
+Boros is also great to take care of planeswalkers.
+
+
+v0.3 -> v0.4:
+-------------
+-2 Ghor-Clam
++2 Bonfire of the Damned
+
+Version 0.3:
+------------
+I really like Dryad Militant; she does put a nice pressure on the opponent at a very cheap cost + hose snapcaster.
+Ghor-Clam has been a wash.
+Not convinced by Aurelia... Her 4 toughness put her at great risk...
+Still unsure about the choice of Charm mainboard.
+
+v0.2 -> v0.3:
+-------------
+Mainboard updates: 
+
+   I'd like to try a more aggressive version, less dependent on the mana ramp.
+-4 Avacyn's Pilgrim
++3 Dryad Militant 
+-3 Restoration Angel 
++2 Ghor-Clam Rampager
++2 Aurelia, the War Leader
+
+   This land could be great either late games or when u create tokens
++2 Slayer's Stronghold
+-1 Rootborn Craig
+-1 Cliftop Retreat
+
+   I want to try more selesnya main board -- I didn't use Boros charm that much.
++2 Selesnya Charm
+-2 Boros Charm
+
+Sideboard changes:
+-2 Selesnya Charm
++2 Boros Charm
+
+-3 Purify the Grave
++3 Ground Seal
+
+-2 Sigarda, Host of Herons
++2 Sundering Growth
+
+-2 Searing Spears
++2 Assemble the Legion
+
+
+Version v0.2:
+-------------
+Deck is fun!!!
+The sideboard clearly needs some works
+One of the deck main weakness so far: the reanimator decks...
+
+After initial playtesting:
++++ Voice of resurgence is insanely good!
++   Advent of the Wurm is OK, especially after populate BUT currently the deck depends too much on him to win... 
++++ Huntmaster is awesome! Especially in combinaison with with Voice of Resurgence :)
+-   Restoration Angel isn't so useful here...
+++  Boros Reckoner is really good to block early aggression
++++ Zealous Conscript is AWESOME! Always need to steal a threat OR a planeswalker.. -- Sadly, It doesn't kill the threat.. 
+~   Avacyn's Pilgrim is a '???' type of cards, it does help BUT at the same time can hurt if u really on him and it gets killed.
+
+++  Garruk Relentless has been really good; being able to kill 3 toughness creature is a real bonus here -- The creature tutoring ab has also been really really good.
+++  Pillar of Flame is your best friends against Zombie OR Voice of Resurgence
++++ Warleader's Helix has save my butt so many times... A MUST!
++   Boros Charm is neat... But I need to try it a bit more...
+++  Rootborn Defense does wonders; the deck has enough tokens to populate to turn any kill attempt into a backfired trick :)
