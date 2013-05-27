@@ -1,5 +1,11 @@
 Wee Paupy v0.31
 
+Missing:
+4 Lightning bolt
+3 Hydroblast
+1 Flarin Pain
+3 Fury charm
+
 |    | *Creatures: 10*      |      |         |                                                                                             |
 |  4 | Delver of Secret     | U    | 1/1     | Beg upk: look top card of lib, u may reveal it, if instant or sorc: transform // 3/2 flying |
 |  2 | Wee Dragonauts       | 1UR  | 1/3 fly | Gain +2/0 every time you cast an instant or a sorcery                                       |
