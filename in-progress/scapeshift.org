@@ -1,5 +1,16 @@
 Scapeshift v0.8
 
+Missing:
+2 Vendillion Clique (can be borrowed from the Faerie deck)
+3 Misty Rainforest (can be borrowed from the landfall deck--and replaced)
+2 Breeding Pool
+3 Stomping Ground
+-
+2 Leyline of Sanctity
+2 Krosan Grip
+2 Mindbreak Trap (?)
+
+
 |   | *Mana boost*                 |     |          |                                                                                                                                                  |
 | 3 | Primeval Titan               | 4GG | 6/6      | When enters or attacks: search lib for 2 lands, and put them into play tapped                                                                    |
 | 4 | Sakura-Tribe Elder           | 1G  | 1/1      | sacr it: Search basic land, put it into play tapped                                                                                              |
