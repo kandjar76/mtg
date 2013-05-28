@@ -4,7 +4,7 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |  1 | Inkwell Leviathan          | 7UU   | 7/11 art | Islandwalk, trample, shroud                                                                                                                   |
 |  1 | Sphinx of the Steel Wind   | 5WUB  | 6/6 art  | Flying, first strk, vig, lifelink, pro red, pro green                                                                                         |
 |  1 | Blazing Archon             | 6WWW  | 5/6      | Flying -- Creats can't attack you                                                                                                             |
-|  1 | Terrastodon                | 6GG   | 9/9      | When enter, destroy up to 3 non creat perm, for each perm destroy, its controller puts a 3/3 beast token into play                            |
+|  1 | Terastodon                 | 6GG   | 9/9      | When enter, destroy up to 3 non creat perm, for each perm destroy, its controller puts a 3/3 beast token into play                            |
 |  1 | Iona, Shield of Emeria     | 6WWW  | 7/7      | Flying -- As enter: name a color -- Opp can't cast spells of the choose color                                                                 |
 |  1 | Sheoldred, Whispering One  | 5BB   | 6/6      | Swampwalk -- Beg upk: return creat from grave to play -- Beg opp upk: he sacr a creat                                                         |
 |  1 | Sharuum the Hegemon        | 3WUB  | 5/5 leg  | Flying -- When enter: return tgt art from graveyard to play                                                                                   |
@@ -16,7 +16,7 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 | +1 | Entomb                     | B     | inst     | Search lib for a card and put it into your graveyard                                                                                          |
 |    |                            |       |          |                                                                                                                                               |
 |    | *From hand to grave: 8*    |       |          |                                                                                                                                               |
-|  1 | Zombie infestation         | 1B    | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
+|  1 | Zombie Infestation         | 1B    | ench     | Discard 2 cards: put a 2/2 zombie into play                                                                                                   |
 |  2 | Putrid Imp                 | B     | 1/1      | Discard a card: gain flying -- Threshold: gets +1/+1 and can't block                                                                          |
 |  2 | Last Rites                 | 2B    | sorc     | Discard X cards. Tgt player reveal his hand, choose X non land cards, that player discards them                                               |
 |  2 | Sickening Dreams           | 1B    | sorc     | Add cost: discard X card -- it deals X damage to each creats and each player                                                                  |
@@ -25,7 +25,7 @@ This deck is based on the pre-release WoTC Graveborn deck (v1.0 is the release s
 |    | *From grave to play: 11*   |       |          |                                                                                                                                               |
 |  2 | Reanimate                  | B     | sorc     | Put tgt creat from a graveyard into play -- u loose life equal to its CMC                                                                     |
 | +2 | Reanimate                  | B     | sorc     | Put tgt creat from a graveyard into play -- u loose life equal to its CMC                                                                     |
-|  3 | Animated Dead              | 1B    | aura     | Ench creat in graveyard: bringing it back to play -- enchant creats gets -1/0                                                                 |
+|  3 | Animate Dead               | 1B    | aura     | Ench creat in graveyard: bringing it back to play -- enchant creats gets -1/0                                                                 |
 |  4 | Exhume                     | 1B    | sorc     | Each player puts a creats from his graveyard back to play                                                                                     |
 |  2 | Dread Return               | 2BB   | sorc     | Return tgt creat from graveyard to play -- Flashback: sacr 3 creats                                                                           |
 | -2 | Dread Return               | 2BB   | sorc     | Return tgt creat from graveyard to play -- Flashback: sacr 3 creats                                                                           |
