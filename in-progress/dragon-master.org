@@ -1,4 +1,4 @@
-Dragon Master v0.6
+Dragon Master v0.7
 
 |    | *The Dragons*         |      |          |                                                                                                                                                                                                                                                      |
 |  1 | Archwing Dragon       | 2RR  | 4/4      | Flying, haste -- At the beginning of the end step, return Archwing Dragon to its owner's hand.                                                                                                                                                       |
@@ -26,7 +26,7 @@ Dragon Master v0.6
 |    |                       |      |          |                                                                                                                                                                                                                                                      |
 |    | *Battlefield Cleaner* |      |          |                                                                                                                                                                                                                                                      |
 |  4 | Terminate             | BR   | inst     | Destroy tgt creature                                                                                                                                                                                                                                 |
-|  3 | Bonfire of the Damned | xxR  | sorc     | Miracle: xR -- Deals X damage to tgt player and each creat he controls                                                                                                                                                                               |
+|  3 | Magmaquake            | xRR  | inst     | Deals X damage to each non flying creatures and each planeswalkers                                                                                                                                                                                   |
 |    |                       |      |          |                                                                                                                                                                                                                                                      |
 |    | *Lands*               |      |          |                                                                                                                                                                                                                                                      |
 |  4 | Blood Crypt           |      | land     | Enters tapped unless u pay 2 life -- t: add R or B                                                                                                                                                                                                   |
@@ -34,6 +34,7 @@ Dragon Master v0.6
 |  3 | Swamp                 |      | bas land |                                                                                                                                                                                                                                                      |
 | 13 | Mountain              |      | bas land |                                                                                                                                                                                                                                                      |
 |----+-----------------------+------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  3 | Bonfire of the Damned | xxR  | sorc     | Miracle: xR -- Deals X damage to tgt player and each creat he controls                                                                                                                                                                               |
 |  1 | Punishing Fire        | 1R   | inst     | Deals 2 damage to target creature or player. -- Whenever an opponent gains life, you may pay R. If you do, return Punishing Fire from your graveyard to your hand.                                                                                   |
 |  1 | Captive Flame         | 2R   | ench     | R: Target creature gets +1/+0 until end of turn.                                                                                                                                                                                                     |
 |  2 | Pyroclasm             | 1R   | sorc     | Pyroclasm deals 2 damage to each creature.                                                                                                                                                                                                           |
@@ -45,6 +46,21 @@ Dragon Master v0.6
 |  1 | Spitting Earth        | 1R   | sorc     | Spitting Earth deals damage to target creature equal to the number of Mountains you control.                                                                                                                                                         |
 |  1 | Breath of Darigaaz    | 1R   | sorc     | Kicker 2 -- Breath of Darigaaz deals 1 damage to each creature without flying and each player. If kicked, it deals 4 damage to each creature without flying and each player instead.                                                                 |
 |    |                       |      |          |                                                                                                                                                                                                                                                      |
+
+v0.6 -> v0.7:
+-------------
+-3 Bonfire of the Damned
++3 Magmaquake
+
+Towards v0.7:
+-------------
+The deck is mostly worried about swarming land creatures... and potentially planeswalkers.
+Replacing Bonfire by Magmaquake seems a very interesting option.
+No more Miracle drawbacks AND instant speed effeect.
+
+The two downsides:
+. it will hits the Dragonspeaker shaman... and potentially Sarkhan
+. it doesn't touch flying creatures -> BUT the dragons should be able to take care of that.
 
 v0.5 -> v0.6:
 -------------
