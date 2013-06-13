@@ -47,6 +47,11 @@ Dragon Master v0.7
 |  1 | Breath of Darigaaz    | 1R   | sorc     | Kicker 2 -- Breath of Darigaaz deals 1 damage to each creature without flying and each player. If kicked, it deals 4 damage to each creature without flying and each player instead.                                                                 |
 |    |                       |      |          |                                                                                                                                                                                                                                                      |
 
+Version v0.7:
+-------------
+Magmaquake is really nice.
+The instant speed effect is really worth it.
+
 v0.6 -> v0.7:
 -------------
 -3 Bonfire of the Damned
