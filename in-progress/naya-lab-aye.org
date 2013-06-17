@@ -1,10 +1,11 @@
-Naya lab-aye v0.90
+Naya lab-aye v1.01
 
 |    | *Creatures: 16*         |          |         |                                                                                                                                                                                                                                                                                                              |
 |  4 | Dryad Militant          | {gw}     | 2/1     | Whenever a inst or sorc is put to the graveyard from anywhere; exile it                                                                                                                                                                                                                                      |
 |  4 | Voice of Resurgence     | GW       | 2/2     | When dies or when an opp plays a spell on ur turn: put a "X/X elem token with X = #creats u control"                                                                                                                                                                                                         |
 |  3 | Huntmaster of the Fells | 2RG      | 2/2     | When enter or transf: gain 2 life, put a 2/2 wolf into play // 4/4 trample -- When transform: deals 2 damage to tgt creat an opp control and to player                                                                                                                                                       |
 |  3 | Boros Reckoner          | {rw}x3   | 3/3     | When dealt damage, it deals that much damage to tgt creat or player -- {rw}: gain first strike                                                                                                                                                                                                               |
+|  2 | Restoration Angel       | 3W       | 3/4     | Flash -- When enter: blink tgt non-angel creature u control                                                                                                                                                                                                                                                  |
 |  2 | Thundermaw Hellkite     | 3RR      | 5/5     | Flying, haste -- When enters: deals 1 damage to each flying creatures; tap these creatures                                                                                                                                                                                                                   |
 |    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
 |    | *Planeswalkers: 3*      |          |         |                                                                                                                                                                                                                                                                                                              |
@@ -16,7 +17,6 @@ Naya lab-aye v0.90
 |  3 | Bonfire of the Damned   | xxR      | sorc    | Miracle: xR -- Deals X damage to tgt player abd each creats he controls                                                                                                                                                                                                                                      |
 |    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
 |    | *Helpers: 9*            |          |         |                                                                                                                                                                                                                                                                                                              |
-|  2 | Advent of the Wurm      | 1GGW     | inst    | Put a 5/5 gren wurm token into play w/ trample                                                                                                                                                                                                                                                               |
 |  4 | Boros Charm             | RW       | inst    | Choose one: perm u control are indestructible OR deals 4 damage to tgt player OR tgt creat gain double strike until eot                                                                                                                                                                                      |
 |  3 | Mizzium Mortar          | 1R       | sorc    | Deals 4 damage to tgt creat opp control -- Overload 3RRR                                                                                                                                                                                                                                                     |
 |    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
@@ -33,14 +33,16 @@ Naya lab-aye v0.90
 |  1 | Plains                  |          |         |                                                                                                                                                                                                                                                                                                              |
 |----+-------------------------+----------+---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Sideboard*             |          |         |                                                                                                                                                                                                                                                                                                              |
-|  2 | Ruric Thar, the Unbowed | 4GR      | 6/6     | Vigilance, Reach -- Must attack each turn if able -- Whenever a player casts a non-creat spells, it deals 6 damage to him                                                                                                                                                                                    |
 |  2 | Rest in Peace           | 1W       | ench    | When enter: exile all cards from graveyards -- When a card is put to grave from anywhere, exile it instead                                                                                                                                                                                                   |
 |  3 | Selesnya Charm          | WG       | inst    | Choose one: tgt creats gets +2/+2 and trample OR exile tgt creats w/ pow 5+ OR put a 2/2 white knight w/ vig                                                                                                                                                                                                 |
 |  4 | Skullcrack              | 1R       | inst    | Deals 3 damage to tgt player - that player cannot gain life this turn                                                                                                                                                                                                                                        |
 |  2 | Sundering Growth        | {gw}{gw} | inst    | Destroy tgt art or enchantment then populate                                                                                                                                                                                                                                                                 |
-|  1 | Paraselene              | 2W       | sorc    | Destroy all ench. You gain 1 life for each ench destroy this way                                                                                                                                                                                                                                             |
 |  1 | Sigarda, Host of Herons | 2GWW     | 5/5 fly | Hexproof, opp can't force u to sacr                                                                                                                                                                                                                                                                          |
+|  3 | Blasphemous Act         | 8R       | sorc    | Cost 1 less for each creat on the battlefield -- Deals 13 damage to each creatures                                                                                                                                                                                                                           |
 |----+-------------------------+----------+---------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Paraselene              | 2W       | sorc    | Destroy all ench. You gain 1 life for each ench destroy this way                                                                                                                                                                                                                                             |
+|    | Ruric Thar, the Unbowed | 4GR      | 6/6     | Vigilance, Reach -- Must attack each turn if able -- Whenever a player casts a non-creat spells, it deals 6 damage to him                                                                                                                                                                                    |
+|    | Advent of the Wurm      | 1GGW     | inst    | Put a 5/5 gren wurm token into play w/ trample                                                                                                                                                                                                                                                               |
 |    | Pillar of Flame         | R        | sorc    | Deals 2 damage to tgt creats, if dies: exile it instead                                                                                                                                                                                                                                                      |
 |    | Renounce The Guilds     | 1W       | inst    | Each player sacr a multicolor perm                                                                                                                                                                                                                                                                           |
 |    | Rootborn Defenses       | 2W       | inst    | Creats u control are indestructible until eot, populate                                                                                                                                                                                                                                                      |
@@ -58,6 +60,36 @@ Naya lab-aye v0.90
 | SB | Assemble the Legion     | 3RW      | ench    | Beg upk: put a counter on it then put 1/1 red/white soldier w/ haster for each counter                                                                                                                                                                                                                       |
 | SB | Wear // Tear            | 1R / W   | inst    | Fuse -- Destroy tgt artigact // Destroy tgt ench                                                                                                                                                                                                                                                             |
 |    |                         |          |         |                                                                                                                                                                                                                                                                                                              |
+
+
+v1.00 -> v1.01:
+---------------
+Sideboard:
+-2 Pillar of Flame
++1 Skullcrack
++1 Blasphemous Act
+
+
+Version 1.0:
+------------
+Replacing Advent of the Wurm by Restoration Angel has been a great Win!
+Also Blasphemous Act did wonder against decks which out creatures this one.
+I haven't felt the need to add more Pillar (or Spear) BUT I also felt like 3 skullcrack wasn't enough.
+The same goes for Blasphemous Act... 
+
+
+v0.9 -> v1.0:
+-------------
+Mainboard:
+-2 Advent of the Wurm
++2 Restoration Angel
+
+Sideboard:
+-2 Ruric Thar, the Unbowed
+-1 Paraselene
+-1 Skullcrack
++2 Blasphemous Act
++2 Pillar of Flame (Searing Spear?)
 
 
 v0.8 -> v0.9:
