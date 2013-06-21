@@ -29,12 +29,12 @@ Ninja deck v2.1
 |   | *Lands: 22*                   |       |         |                                                                                                                                              |
 | 4 | Watery Grave                  |       | land    | Enters tapped unless u pay 2 life -- t: add U or B                                                                                           |
 | 2 | Sunken Ruins                  |       | land    | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                      |
-| 2 | Darkslick Shore               |       | land    | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                         |
+| 2 | Darkslick Shores              |       | land    | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                         |
 | 4 | Drowned Catacomb              |       | land    | Enters tapped unless u control an island or a swamp                                                                                          |
 | 2 | Creeping Tar Pit              |       | land    | enter tapped -- t: add U, or B -- 1UB: becomes a 3/2 unblockable                                                                             |
 | 4 | Island                        |       |         |                                                                                                                                              |
 | 2 | Swamp                         |       |         |                                                                                                                                              |
-| 2 | Tectonite Edge                |       | land    | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                         |
+| 2 | Tectonic Edge                 |       | land    | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                         |
 |---+-------------------------------+-------+---------+----------------------------------------------------------------------------------------------------------------------------------------------|
 | 2 | Misty Rainforest              |       | land    | pay 1 life, sacr it: search for forest or island and put it into play                                                                        |
 | 2 | Strip Mine                    |       | land    | t: add 1 -- t: destroy tgt land                                                                                                              |
