@@ -1,4 +1,4 @@
-Cascading Event v0.4
+Cascading Event v0.5
 
 |   | *The Waterfall triggers: 14* |           |          |                                                                                                                                                                                 |
 | 4 | Shardless Agent              | 1GU       | 2/2      | Cascade                                                                                                                                                                         |
@@ -27,20 +27,37 @@ Cascading Event v0.4
 |   | *Lands 24*                   |           |          |                                                                                                                                                                                 |
 | 1 | Exotic Orchard               |           | land     | t: add one mana of any color a land ur opp controls could produce                                                                                                               |
 | 1 | Savage Lands                 |           | land     | Enters tapped -- t: add B, R or G                                                                                                                                               |
-| 1 | Terramorphic Expanse         |           | land     | t, sacr it: search lib for a bas land and put it into play tapped                                                                                                               |
 | 1 | Vivid Creek                  |           | land     | Enters tapped w/ 2 charges counters -- t: add U -- t, rem counter: add 1 mana of any color                                                                                      |
+| 2 | Vivid Grove                  |           | land     | Enters tapped w/ 2 charges counters -- t: add G -- t, rem counter: add 1 mana of any color                                                                                      |
+| 1 | Vivid Grag                   |           | land     | Enters tapped w/ 2 charges counters -- t: add R -- t, rem counter: add 1 mana of any color                                                                                      |
 | 2 | Raging Ravine                |           | land     | Enters tapped -- t: add R or G -- 2RG: becomes a 3/3 elem with: when attacks put a +1c on it                                                                                    |
-| 1 | Pillar of the Paruns         |           | land     | t: add 1 mana any color (spend only for multicolor spells)                                                                                                                      |
-| 1 | Steam Vent                   |           | land     | Enters tapped unless u pay 2 life -- t: add R or U                                                                                                                              |
 | 6 | Forest                       |           | bas land |                                                                                                                                                                                 |
 | 3 | Island                       |           | bas land |                                                                                                                                                                                 |
 | 3 | Mountain                     |           | bas land |                                                                                                                                                                                 |
 | 2 | Plains                       |           | bas land |                                                                                                                                                                                 |
 | 2 | Swamp                        |           | bas land |                                                                                                                                                                                 |
 |---+------------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Steam Vent                   |           | land     | Enters tapped unless u pay 2 life -- t: add R or U                                                                                                                              |
+| 1 | Terramorphic Expanse         |           | land     | t, sacr it: search lib for a bas land and put it into play tapped                                                                                                               |
 | 2 | Shimmering Grotto            |           | land     | t: add 1 -- 1, t: add 1 mana of any color                                                                                                                                       |
 | 1 | Rupture Spire                |           | land     | Enters tapped -- When enters: sacr it unless u pay 1 -- t: add 1 mana any color                                                                                                 |
+| 1 | Pillar of the Paruns         |           | land     | t: add 1 mana any color (spend only for multicolor spells)                                                                                                                      |
 |   |                              |           |          |                                                                                                                                                                                 |
+
+v0.4 -> 0.5:
+------------
+-1 Terramorphic Expanse
++1 Vivid Grove
+-1 Pillar of the Parums
++1 Vivid Grag
+-1 Steam Vent
++1 Vivid Grove
+
+Version 0.4:
+------------
+Land to consider:
+- Tendo Ice Bridge
+
 
 v0.3 -> v0.4:
 -------------
