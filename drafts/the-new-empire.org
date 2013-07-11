@@ -34,3 +34,12 @@
 | 4 | Watery Grave             |     | land     | Enters tapped unless u pay 2 life -- t: add U or B                                                                                                               |
 | 5 | Island                   |     |          |                                                                                                                                                                  |
 | 5 | Swamp                    |     |          |                                                                                                                                                                  |
+
+Version 0.1:
+------------
+Well; I tested a deck a bit and:
+- the empire cards are way too slow to work here...
+- Blightsteel is too good.
+Kuldotha -> Blightsteel is way too strong...
+
+Overall: NOT FUN.
