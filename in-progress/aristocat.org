@@ -1,4 +1,4 @@
-Version 0.10
+Aristocat - Version 0.11:
 
 |   | *Creatures 24*           |      |          |                                                                                                                                                                                                                      |
 | 4 | Blood Artist             | 1B   | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                                                                  |
@@ -25,17 +25,30 @@ Version 0.10
 | 4 | Woodland Cemetery        |      | land     | Enters tapped unless u control a swamp or a forest -- t: add B or G                                                                                                                                                  |
 | 3 | Sunpetal Grove           |      | land     | Enters tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                  |
 | 2 | Vault of the Archangel   |      | land     | t: add 1 -- 2WB, t: creats u control gain lifelink and deathtouch                                                                                                                                                    |
-| 1 | Plain                    |      | bas land |                                                                                                                                                                                                                      |
+| 1 | Plains                   |      | bas land |                                                                                                                                                                                                                      |
 | 1 | Swamp                    |      | bas land |                                                                                                                                                                                                                      |
 |---+--------------------------+------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*              |      |          |                                                                                                                                                                                                                      |
-| 2 | Ratchet Bomb             | 2    | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 | 2 | Blood Baron of Vizkopa   | 3WB  | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have 30+ life AND opp has 10 or less life                                                                                                        |
 | 2 | Lifebane Zombie          | 1BB  | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
 | 3 | Sin Collector            | 1WB  | 2/1      | When enters: tgt opp reveals his hand; choose an inst or sorc and exile it                                                                                                                                           |
 | 1 | Underground Connections  | 1BB  | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
+| 2 | Ray of Revelation        | 1W   | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
 | 2 | Vraska the Unseen        | 3BG  | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game" |
 | 3 | Duress                   | B    | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                                                                             |
 |---+--------------------------+------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Ratchet Bomb             | 2    | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 | 2 | Black Cat                | 1B   | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
 |   |                          |      |          |                                                                                                                                                                                                                      |
+
+Version v0.11:
+--------------
+The deck works really well so far.
+I'm still concern about Control match up.
+Currently considering updating the sideboard...
+
+v0.1 -> v0.11:
+--------------
+Sideboard:
+-2 Ratchet Bomb
++2 Ray of Revelation
