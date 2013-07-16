@@ -1,4 +1,4 @@
-Aristocat - Version 0.11:
+Aristocat - Version 0.12:
 
 |   | *Creatures 24*           |      |          |                                                                                                                                                                                                                      |
 | 4 | Blood Artist             | 1B   | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                                                                  |
@@ -29,7 +29,8 @@ Aristocat - Version 0.11:
 | 1 | Swamp                    |      | bas land |                                                                                                                                                                                                                      |
 |---+--------------------------+------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*              |      |          |                                                                                                                                                                                                                      |
-| 2 | Blood Baron of Vizkopa   | 3WB  | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have 30+ life AND opp has 10 or less life                                                                                                        |
+| 1 | Blood Baron of Vizkopa   | 3WB  | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have 30+ life AND opp has 10 or less life                                                                                                        |
+| 1 | Deathrite Shaman         | {bg} | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
 | 2 | Lifebane Zombie          | 1BB  | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
 | 3 | Sin Collector            | 1WB  | 2/1      | When enters: tgt opp reveals his hand; choose an inst or sorc and exile it                                                                                                                                           |
 | 1 | Underground Connections  | 1BB  | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
@@ -40,6 +41,12 @@ Aristocat - Version 0.11:
 | 2 | Ratchet Bomb             | 2    | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 | 2 | Black Cat                | 1B   | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
 |   |                          |      |          |                                                                                                                                                                                                                      |
+
+v0.11 -> v0.12:
+---------------
+Sideboard:
+-1 Blood Baron of Vizkopa
++1 Deathrite Shaman
 
 Version v0.11:
 --------------
