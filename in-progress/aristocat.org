@@ -1,4 +1,4 @@
-Aristocat - Version 0.13:
+Aristocat - Version 0.20:
 
 
 |   | *Creatures 24*           |      |          |                                                                                                                                                                                                                      |
@@ -12,7 +12,8 @@ Aristocat - Version 0.13:
 |   |                          |      |          |                                                                                                                                                                                                                      |
 |   | *Controllish 7*          |      |          |                                                                                                                                                                                                                      |
 | 3 | Doom Blade               | 1B   | inst     | Destroy tgt creatures                                                                                                                                                                                                |
-| 4 | Abrupt Decay             | BG   | inst     | Can't be countered -- Destroy tgt perm w/ CMC 3 or less                                                                                                                                                              |
+| 3 | Abrupt Decay             | BG   | inst     | Can't be countered -- Destroy tgt perm w/ CMC 3 or less                                                                                                                                                              |
+| 1 | Putrefy                  | 1BG  | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
 |   |                          |      |          |                                                                                                                                                                                                                      |
 |   | *Planeswalker 5*         |      |          |                                                                                                                                                                                                                      |
 | 2 | Liliana of the Veil      | 1BB  | plwk 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                         |
@@ -33,18 +34,64 @@ Aristocat - Version 0.13:
 | 1 | Blood Baron of Vizkopa   | 3WB  | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have 30+ life AND opp has 10 or less life                                                                                                        |
 | 1 | Deathrite Shaman         | {bg} | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
 | 3 | Lifebane Zombie          | 1BB  | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
-| 2 | Devour Flesh             | 1B   | inst     | Tgt player sacrifice a creature and gain life equal to its toughness                                                                                                                                                 |
 | 1 | Underwold Connections    | 1BB  | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
-| 2 | Ray of Revelation        | 1W   | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
+| 1 | Ray of Revelation        | 1W   | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
+| 1 | Putrefy                  | 1BG  | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
+| 2 | Oblivion Ring            | 2W   | ench     | When enter, exile target permanent -- When leave, return it to play                                                                                                                                                  |
 | 2 | Vraska the Unseen        | 3BG  | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game" |
 | 3 | Duress                   | B    | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                                                                             |
 |---+--------------------------+------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Devour Flesh             | 1B   | inst     | Tgt player sacrifice a creature and gain life equal to its toughness                                                                                                                                                 |
 | 3 | Sin Collector            | 1WB  | 2/1      | When enters: tgt opp reveals his hand; choose an inst or sorc and exile it                                                                                                                                           |
 |   | Grim Return              | 2B   | inst     | Return tgt creat card from grave to play under ur control that was put there this turn                                                                                                                               |
 |   | Vile Rebirth             | B    | inst     | Exile tgt creat from a greaveyard. Put a 2/2 black zombie into play                                                                                                                                                  |
 |   |                          |      |          |                                                                                                                                                                                                                      |
 |   | Ratchet Bomb             | 2    | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 |   | Black Cat                | 1B   | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
+
+
+v0.13 -> v0.20:
+---------------
+Mainboard:
+-1 Abrupt Decay
++1 Putrefy
+
+Sideboard:
+-2 Devour Flesh
+-1 Ray of Revelation
++1 Putrefy
++2 Oblivion Ring
+
+Version v0.13:
+--------------
+One potential issue with this deck:
+The deck cannot deal with black creature over 3CMC (aside from Lilina)
+
+This include (but is not limited to):
+- Blood Baron of Vizkopa: 
+- Obzedat, Ghost Council
+- Falkenrath Aristocrat
+- Olivia Voldaren
+- Sire of Insanity
+- Vampire Nocturnus
+(also:)
+- Corpsejack Menace
+- Bloodline Keeper
+- Desecration Demon
+- Griselbrand
+- Master of Cruelties
+- Mikaeus, the Unhallowed 
+- Necropolis Regent
+- Shadowborn Demon
+
+The sideboard should be updated for it.
+Option:
+- Tragic Slip
+- Oblivion Ring
+- Putrefy
+- Orzhov Charm (with potentially high cost)
+- Plummet (for flying)
+(Note: No easy way to take care of Blood Baron)
 
 
 v0.12 -> v0.13:
