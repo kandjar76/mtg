@@ -1,4 +1,4 @@
-Aristocat - Version 0.20:
+Aristocat - Version 0.21:
 
 
 |   | *Creatures 24*           |      |          |                                                                                                                                                                                                                      |
@@ -38,16 +38,31 @@ Aristocat - Version 0.20:
 | 1 | Ray of Revelation        | 1W   | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
 | 1 | Putrefy                  | 1BG  | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
 | 2 | Oblivion Ring            | 2W   | ench     | When enter, exile target permanent -- When leave, return it to play                                                                                                                                                  |
-| 2 | Vraska the Unseen        | 3BG  | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game" |
 | 3 | Duress                   | B    | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                                                                             |
+| 2 | Gaze of Granite          | xBBG | sorc     | Destroy each non land permanent w/ converted mana cost X or less                                                                                                                                                     |
 |---+--------------------------+------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2 | Devour Flesh             | 1B   | inst     | Tgt player sacrifice a creature and gain life equal to its toughness                                                                                                                                                 |
-| 3 | Sin Collector            | 1WB  | 2/1      | When enters: tgt opp reveals his hand; choose an inst or sorc and exile it                                                                                                                                           |
+|   | Vraska the Unseen        | 3BG  | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game" |
+|   | Devour Flesh             | 1B   | inst     | Tgt player sacrifice a creature and gain life equal to its toughness                                                                                                                                                 |
+|   | Sin Collector            | 1WB  | 2/1      | When enters: tgt opp reveals his hand; choose an inst or sorc and exile it                                                                                                                                           |
 |   | Grim Return              | 2B   | inst     | Return tgt creat card from grave to play under ur control that was put there this turn                                                                                                                               |
 |   | Vile Rebirth             | B    | inst     | Exile tgt creat from a greaveyard. Put a 2/2 black zombie into play                                                                                                                                                  |
 |   |                          |      |          |                                                                                                                                                                                                                      |
 |   | Ratchet Bomb             | 2    | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 |   | Black Cat                | 1B   | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
+
+v0.20 -> v0.21:
+---------------
+Sideboard change:
+-2 Vraska the Unseen
++2 Gaze of Granite
+
+
+Version 0.20:
+-------------
+Well... I just face an elf decks... 
+And boy it's really hard...
+I think the deck needs some board sweep in the side...
+Like: Gaze of Granite
 
 
 v0.13 -> v0.20:
