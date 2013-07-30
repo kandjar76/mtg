@@ -1,0 +1,85 @@
+|   | *Potential Creatures* |              |         |                                                                                                             |
+|   | Wall of Blossom       | 1G           | 0/4     | When enters: draw                                                                                           |
+|   | Elvish Visionary      | 1G           | 1/1     | When enters: draw                                                                                           |
+|   | Coiling Oracle        | UG           | 1/1     | When enters: reveal top of lib: if land, put it into play otherwise in hand                                 |
+|   |                       |              |         |                                                                                                             |
+|   | Cavern Cayatid        | 1GG          | 2/5     | defender -- When enters: draw                                                                               |
+|   | Wirewood Savage       | 2G           | 2/2     | When enters: draw                                                                                           |
+|   | Wistful Selkie        | {gu}{gu}{gu} | 2/2     | When enters: draw                                                                                           |
+|   | Sea Gate Oracle       | 2U           | 1/3     | When enters: look top 2 cards, one in hand, the other one at bottom of lib                                  |
+|   |                       |              |         |                                                                                                             |
+|   | Shardless Agent       | 1GU          | 2/2     | Cascade                                                                                                     |
+|   |                       |              |         |                                                                                                             |
+|   | Mulldrifter           | 4U           | 2/2 fly | When enters: draw 2 cards -- Evoke 2U                                                                       |
+|   | Pelakka Wurm          | 4GGG         | 7/7     | Trample -- When enters: gain 7 life, when dies: draw                                                        |
+|   | Regal Force           | 4GGG         | 5/5     | When enters: draw a card for each green creat u control                                                     |
+|   | Prime Speaker Zegana  | 2GGUU        | 1/1     | When enters: put X +1c where X is biggest power amongst creats u control then draw cards equal to her power |
+|   | Masked Admirer        | 2GG          | 3/2     | When enters: draw -- When u cast a creat, you may pay GG to return ~ from grave to hand                     |
+|   |                       |              |         |                                                                                                             |
+|   | Lorescale Coatl       | 1GB          | 2/2     | When u draw, put a +1/+1 on him                                                                             |
+|   |                       |              |         |                                                                                                             |
+|   | *Draw Combo*          |              |         |                                                                                                             |
+|   | Fathom Mage           | 2GU          | 1/1     | Evolve -- When a +1c is put on her, draw a card                                                             |
+|   | Lorescale Coatl       | 1GU          | 2/2     | When draw: put a +1/+1 counter on it                                                                        |
+|   |                       |              |         |                                                                                                             |
+|   | *Spells*              |              |         |                                                                                                             |
+|   | Snakeform             | 2{gu}        | inst    | Tgt creatures becomes a 1/1 until eot and loose all ab -- Draw                                              |
+|   | Remand                | 1U           | inst    | Counter tgt spell, if counter, return it to hand -- Draw a card                                             |
+
+
+Hey guys,
+
+One thing I think everybody loves are cantrip spells...
+So why not building a 'casual' deck around this idea :)
+
+After some research, it would seems that UG should be the main colors of the deck with potentially splashing white.
+
+I starting listing what I feel could be a good starting point for htis deck
+
+
+As a 2 CMC creature spells we have: 
+* [c]Wall of Blossom[/c]   (Really good to slow down aggro decks)
+* [c]Elvish Visionary[/c]
+* [c]Coiling Oracle[/c] (indirect draw)
+
+Going to 3 CMC creature spells:
+* [c]Cavern Cayatid[/c]  One of the best wall; can kill creature and draw...
+* [c]Wistful Selfie[/c]
+* [c]Sea Gate Oracle[/c] (another indirect draw)
+* [c]Shardless Agent[/c] (not technically a draw... But if u hit a 2 CMC creatures, you will draw...)
+
+Well and technically, there's also:
+* [c]Vendillion Clique[/c] with which if you target yourself let you draw a card after sinking another one... BUT: I'm don't feel dropping $200 for it... :)
+
+Then for the 4 CMC+ creature spells:
+* [c]Mulldrifter[/c] -- Draw two cards w/ potentially a 2/2 flyer for late game; me liking it
+* [c]Pelakka Wurm[/c] - A delay draw... and a life boost on a stick.
+* [c]Regal Force[/c] -- At the very least you'll draw one card..
+* [c]Prime Speaker Zegana[/c] -- To fully benefit from her, you need big creatures
+* [c]Jungle Barrier[/c] -- Another wall... but more expensive than Ball of Blossom and Cavern Cayatid
+* [c]Masked Admirers[/c] -- Hard to get rid of type of creatures... 
+* [c]Solemn Simulacrum[/c] -- Another delayed draw...
+
+
+And to close the creature list, I think one specific creature deserve a place in this list, even if it doesn't draw anything:
+* Lorescales Coatl -- I don't think there is anything else which can benefits from draws better than this one.
+
+
+That give already a nice decent set of creatures to use...
+
+
+
+Now let's have a look at some non creatures spells which also have draw benetifs,
+and that list can be really really long :) So I'm just going to select a few here...
+
+* Explore -- Mana ramp w/ draw... It's almost 'take an extra turn' type of card!
+* Remand -- How about delaying whatever your opponent does?
+* Snakeform -- I love watching the fact of my opponent every time they attack and I turn their creature into useless 1/1 :)
+* Spreading Seas -- If you face a lot of annoying lands :) -- but works better in Venser based deck.
+* Into the roil -- Always nice to bounce stuff which turn into a mid game cantrip
+* Ground Seal -- More of a sideboard cards...
+* Jace Beleren -- Well JTMS is clearly better but also 10x more expensive :)
+* Dream fracture
+...
+
+
