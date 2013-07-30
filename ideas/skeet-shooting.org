@@ -44,24 +44,28 @@ Skeet shooting v0.3
 | 2 | Jagged-Scar Archers      | 1GG | */* archer     | pow/tough = # elf u control -- t: deals damage equal to its pow to tgt creat w/ flying                                   |
 |   | Magnus of the Moat       | 2WW | 0/3            | Creatures w/o flying can't attack                                                                                        |
 
-|   | Ana Disciple             | G   | 1/1               | U, t: tgt creat gains flying                                                                                             |
-|   | Bant Battlemage          | 2W  | 2/2               | G, t: tgt creat gains trample -- U, t: tgt creat gains flying                                                            |
-|   | Caller of Gales          | U   | 1/1               | 1U, t: tgt creat gains flying                                                                                            |
-|   | Disciple of Kangee       | 2W  | 2/2               | U, t: tgt creat gains flying and becomes blue                                                                            |
-| 2 | Elspeth Knight Errant    | 2WW | 4                 | +1: put a 1/1 soldier -- +1: tgt creat get +3/+3 and flying -- -8: for rest of the game, perm u control are indestruct   |
-|   | Flying Carpet            | 4   |                   | 2, t: tgt creat gains flying                                                                                             |
-| 4 | Merror Levitator         | 3U  | 2/3               | t: tgt creat gains flying -- when u play a blue spell, untap it                                                          |
-|   |                          |     |                   |                                                                                                                          |
-|   |                          |     |                   |                                                                                                                          |
-|   |                          |     |                   |                                                                                                                          |
-|   |                          |     |                   |                                                                                                                          |
-| 4 | Crib Swap                | 2W  | inst Shapeshifter | Exile tgt creat, it's controller gets a 1/1 shapeshifter                                                                 |
-| 4 | Oblivion Ring            | 2W  | ench              | Remove tgt perm from the game, bring back when this card leave                                                           |
-| 4 | Surge of Thoughtweft     | 1W  | inst Kithkin      | Creat u control gets +1/+1, if u control a kithkin, draw a card                                                          |
-|   |                          |     |                   |                                                                                                                          |
-|   | Lys Alana Blowmaster     | 2G  | 2/2 Archer        | Reach -- When an elf comes into plau, 2 damage to tgt creat w/ flying                                                    |
-|   | Chameleon Colossus       | 2GG | 4/4 Shapeshifter  | Protection from black -- 2GG: it gets X/X where X is it's power                                                          |
-|   | Kinsbaile Balloonist     | 3W  | 2/2 fly           | When it attacks u may have tgt creat gain flying                                                                         |
+|   | Ana Disciple          | G   | 1/1               | U, t: tgt creat gains flying                                                                                           |
+|   | Bant Battlemage       | 2W  | 2/2               | G, t: tgt creat gains trample -- U, t: tgt creat gains flying                                                          |
+|   | Caller of Gales       | U   | 1/1               | 1U, t: tgt creat gains flying                                                                                          |
+|   | Disciple of Kangee    | 2W  | 2/2               | U, t: tgt creat gains flying and becomes blue                                                                          |
+| 2 | Elspeth Knight Errant | 2WW | 4                 | +1: put a 1/1 soldier -- +1: tgt creat get +3/+3 and flying -- -8: for rest of the game, perm u control are indestruct |
+|   | Flying Carpet         | 4   |                   | 2, t: tgt creat gains flying                                                                                           |
+| 4 | Merror Levitator      | 3U  | 2/3               | t: tgt creat gains flying -- when u play a blue spell, untap it                                                        |
+|   |                       |     |                   |                                                                                                                        |
+|   |                       |     |                   |                                                                                                                        |
+|   |                       |     |                   |                                                                                                                        |
+|   |                       |     |                   |                                                                                                                        |
+| 4 | Crib Swap             | 2W  | inst Shapeshifter | Exile tgt creat, it's controller gets a 1/1 shapeshifter                                                               |
+| 4 | Oblivion Ring         | 2W  | ench              | Remove tgt perm from the game, bring back when this card leave                                                         |
+| 4 | Surge of Thoughtweft  | 1W  | inst Kithkin      | Creat u control gets +1/+1, if u control a kithkin, draw a card                                                        |
+|   |                       |     |                   |                                                                                                                        |
+|   | Lys Alana Blowmaster  | 2G  | 2/2 Archer        | Reach -- When an elf comes into plau, 2 damage to tgt creat w/ flying                                                  |
+|   | Chameleon Colossus    | 2GG | 4/4 Shapeshifter  | Protection from black -- 2GG: it gets X/X where X is it's power                                                        |
+|   | Kinsbaile Balloonist  | 3W  | 2/2 fly           | When it attacks u may have tgt creat gain flying                                                                       |
+|   | Zephyr Charge         | 1U  | ench              | 1U: tgt creat gain flying until eot.                                                                                   |
+
+New card to consider:
+- Zephyr Charge
 
 v0.3 -> v0.4:
 -------------
