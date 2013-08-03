@@ -1,4 +1,4 @@
-Aristocat - Version 0.22:
+Aristocat - Version 0.31:
 
 
 |   | *Creatures 24*           |       |          |                                                                                                                                                                                                                      |
@@ -6,17 +6,16 @@ Aristocat - Version 0.22:
 | 4 | Blood Artist             | 1B    | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                                                                  |
 | 4 | Cartel Aristocrat        | WB    | 2/2      | Sacr another creat: ~ gains prot against choosen color                                                                                                                                                               |
 | 3 | Skirsdag High Priest     | 1B    | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                                                                                               |
-| 2 | Deathrite Shaman         | {bg}  | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
+| 3 | Deathrite Shaman         | {bg}  | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
 | 4 | Voice of Resurgence      | GW    | 2/2      | When dies or when an opp plays a spell on ur turn: put a "X/X elem token with X = #creats u control"                                                                                                                 |
 | 4 | Lingering Souls          | 2W    | sorc     | Flashback 1B -- Put 2 1/1 flying spirit tokens into play                                                                                                                                                             |
 |   |                          |       |          |                                                                                                                                                                                                                      |
 |   | *Controllish 7*          |       |          |                                                                                                                                                                                                                      |
 | 3 | Doom Blade               | 1B    | inst     | Destroy tgt creatures                                                                                                                                                                                                |
 | 3 | Abrupt Decay             | BG    | inst     | Can't be countered -- Destroy tgt perm w/ CMC 3 or less                                                                                                                                                              |
-| 1 | Putrefy                  | 1BG   | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
+| 2 | Putrefy                  | 1BG   | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
 |   |                          |       |          |                                                                                                                                                                                                                      |
 |   | *Planeswalker 5*         |       |          |                                                                                                                                                                                                                      |
-| 2 | Liliana of the Veil      | 1BB   | plwk 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                         |
 | 3 | Sorin, Lord of Innistrad | 2BW   | plwk 3   | +1: Put a 1/1 vampire w/ lifelink -- -2: Emblem "Creats u control gets +1/0" -- -6: destroy up to 3 tgt creat/planwkrs; return them to play under ur control                                                         |
 |   |                          |       |          |                                                                                                                                                                                                                      |
 |   | *Lands 24*               |       |          |                                                                                                                                                                                                                      |
@@ -32,15 +31,15 @@ Aristocat - Version 0.22:
 |---+--------------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*              |       |          |                                                                                                                                                                                                                      |
 | 1 | Obzedat, Ghost Council   | 1WWBB | 5/5 leg  | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste.                                                         |
-| 1 | Deathrite Shaman         | {bg}  | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
 | 3 | Lifebane Zombie          | 1BB   | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
 | 1 | Underwold Connections    | 1BB   | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
-| 1 | Ray of Revelation        | 1W    | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
-| 1 | Putrefy                  | 1BG   | inst     | Destroy tgt creat or artifact, it can't be regenrated                                                                                                                                                                |
+| 2 | Golgari Charm            | BG    | inst     | Choose one: All creatures gets -1/-1 OR Regenerate all your creatures OR Destroy tgt enchantment                                                                                                                     |
+| 1 | Liliana of the Veil      | 1BB   | plwk 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                         |
 | 2 | Oblivion Ring            | 2W    | ench     | When enter, exile target permanent -- When leave, return it to play                                                                                                                                                  |
 | 3 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                                                                             |
 | 2 | Gaze of Granite          | xBBG  | sorc     | Destroy each non land permanent w/ converted mana cost X or less                                                                                                                                                     |
 |---+--------------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Ray of Revelation        | 1W    | inst     | Destroy tgt enchantment -- Flashback: G                                                                                                                                                                              |
 |   | Blood Baron of Vizkopa   | 3WB   | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have 30+ life AND opp has 10 or less life                                                                                                        |
 |   | Vraska the Unseen        | 3BG   | plwkr 3  | +1: until eot, whenever a creat deals damage to her, destroy that creat -- -3: destroy tgt non land perm -- -7: put 3 1/1 black assassin with "whenever deals combat damage to a player, that player loses the game" |
 |   | Devour Flesh             | 1B    | inst     | Tgt player sacrifice a creature and gain life equal to its toughness                                                                                                                                                 |
@@ -50,6 +49,26 @@ Aristocat - Version 0.22:
 |   |                          |       |          |                                                                                                                                                                                                                      |
 |   | Ratchet Bomb             | 2     | art      | t: add counter -- t, sacr: destroy each perm w/ CMC = #counter on it                                                                                                                                                 |
 |   | Black Cat                | 1B    | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
+
+v0.30 -> v0.31:
+---------------
+Sideboard:
+-1 Liliana of the Veil
+-1 Ray of Revelation
++2 Golgari Charm
+
+
+v0.22 -> v0.30:
+---------------
+Mainboard:
+-2 Liliana of the Veil
++1 Deathrite Shaman
++1 Putrefy
+
+Sideboard:
+-1 Deathrite Shaman
+-1 Putrefy
++2 Liliana of the Veil
 
 v0.21 -> v0.22:
 ---------------
