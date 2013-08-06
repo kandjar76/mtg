@@ -25,7 +25,7 @@ Chandra's Rebirth v0.3
 |  4 | Clifftop Retreat             |               | land     | Enters tapped unless u control a plain or mountain -- t: add W or R                                                                                |
 |  2 | Valakut, the Molten Pinnacle |               | land     | Enters tapped -- t: add R -- When a mountain enters, if u control at least 5 others, it deals 3 damage to tgt creats or player                     |
 | 12 | Mountain                     |               | bas land |                                                                                                                                                    |
-|  2 | Plain                        |               | bas land |                                                                                                                                                    |
+|  2 | Plains                       |               | bas land |                                                                                                                                                    |
 |    |                              |               |          |                                                                                                                                                    |
 |----+------------------------------+---------------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Slagstorm                    | 1RR           | sorc     | Choose 1: deals 3 damage to eech creats or 3 damage to each player                                                                                 |
