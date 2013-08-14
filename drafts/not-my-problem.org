@@ -1,7 +1,31 @@
 Deck ideas based on: opponent action -- He's the one 'in-control' :)
 
+|   | Desecration Demon  | 2BB  | 6/6  | Flying -- At beg of each combat: any opp may sacr a creature, if so: tap it and put a +1c on it                                                            |
+|   | Carrion Rats       | B    | 2/1  | When ~ attacks, any player may exile a card from his graveyard. If so: ~ deals no combat damage this turn.                                                 |
+|   |                    |      |      |                                                                                                                                                            |
+|   | Dash Hopes         | BB   | inst | When cast: any player may pay 5 life. If so, counter it. -- Counter target spell.                                                                          |
+|   | Nakaya Shade       | 1B   | 1/1  | B: gets +1/+1 unless any player pays 2.                                                                                                                    |
+|   | Oona's Prowler     | 1B   | 3/1  | Flying -- Discard a card: ~ gets -2/0. Any player may pay this ability.                                                                                    |
+|   | Rhystic Tutor      | 2B   | sorc | Unless a players pays 2, search u lib for a card and put it in ur hand.                                                                                    |
+|   | Worms of the Earth | 2BBB | ench | Players can't play lands, lands can't enter -- At beg of each upk: any player may sacr 2 lands or take 5 damage to destroy ~.                              |
+|   |                    |      |      |                                                                                                                                                            |
+|   | Vexing Devil       | R    | 4/3  | When enters: any opp may have it deals 4 damage to him. If so, sacr it.                                                                                    |
+|   | Breaking Point     | 1RR  | sorc | Any player may have ~ deals 6 damage to him. If no one does, destroy all creatures, they can't be regen                                                    |
+|   | Browbeat           | 2R   | sorc | Any player may have ~ deals 5 damage to him. If no one does, tgt player draw 3 cards                                                                       |
+|   | Flailing Soldier   | R    | 2/2  | 1: gets +1/+1 or -1/-1. Any player may activate it.                                                                                                        |
+|   | Land's Edge        | 1RR  | ench | Discard a card: if it's a land, it deals 2 damage to tgt player. Any player may activate this ability.                                                     |
+|   | Lightning Storm    | 1RR  | inst | Deals 3x # counters to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability. |
+|   | Shivan Wumpus      | 3R   | 6/6  | Trample -- When enters: any player may sacr a land, if so, put ~ on top of its library.                                                                    |
 
-Potential cards:
+
+Version 0.1:
+------------
+Black/Red deck looks very fun for such decks.
+It has threats and draws... I like it. 
+
+
+
+* Potential cards:
 
 |   | *White*                   |           |      |                                                                                                                                                                                     |
 | 2 | Clergy of the Holy Nimbus | W         | 1/1  | If ~ would be destroyed, regen it -- 1: Prevent regen, only an opponent may activate it                                                                                             |
