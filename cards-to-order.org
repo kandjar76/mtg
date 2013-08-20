@@ -2,7 +2,9 @@
 
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
 |-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
-| Periloua Research       | 1U    |     4 | ???        | Coldsnap          | Draw two cards, then sacrifice a permanent                                                                                     |
+| Sylvan Scrying          |       |     4 | ???        | Ten and ???       | Search ur library for a land and put it in ur hand.                                                                            |
+|                         |       |       |            |                   |                                                                                                                                |
+| Periloua Research       |       |     4 | ???        | Coldsnap          | Draw two cards, then sacrifice a permanent                                                                                     |
 |                         |       |       |            |                   |                                                                                                                                |
 | High Tide               | $.5   |     4 | ???        | Fallen Empire     | If you tap an island for mana, add an extra U to mana pool                                                                     |
 |                         |       |       |            |                   |                                                                                                                                |
