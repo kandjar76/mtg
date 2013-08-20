@@ -1,5 +1,4 @@
-Not My Problem v0.6
-
+Not My Problem v0.7
 
 |   | *Creatures 18*     |           |      |                                                                                                                                                                                     |
 | 2 | Desecration Demon  | 2BB       | 6/6  | Flying -- At beg of each combat: any opp may sacr a creature, if so: tap it and put a +1c on it                                                                                     |
@@ -11,13 +10,10 @@ Not My Problem v0.6
 | 4 | Dash Hopes         | BB        | inst | When cast: any player may pay 5 life. If so, counter it. -- Counter target spell.                                                                                                   |
 | 4 | Breaking Point     | 1RR       | sorc | Any player may have ~ deals 6 damage to him. If no one does, destroy all creatures, they can't be regen                                                                             |
 | 3 | Rhystic Tutor      | 2B        | sorc | Unless a players pays 2, search u lib for a card and put it in ur hand.                                                                                                             |
-| 2 | Lightning Storm    | 1RR       | inst | Deals 3x # counters to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability.                          |
+| 3 | Lightning Storm    | 1RR       | inst | Deals 3 + # counters damage to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability.                  |
 | 3 | Blazing Salvo      | R         | inst | Deaks 3 danage to tgt creat unless its controller pay 5 life.                                                                                                                       |
 | 4 | Skullscorch        | RR        | sorc | Tgt player discards two cards at random unless ~ deals 4 damage to him                                                                                                              |
 | 2 | Lava Blister       | 1R        | sorc | Destroy tgt non basic land unless its controller has ~ deal 6 danage to him                                                                                                         |
-|   |                    |           |      |                                                                                                                                                                                     |
-|   | *Alternate: 1*     |           |      |                                                                                                                                                                                     |
-| 1 | Armageddon Clock   | 6         | art  | Beg upk: put a doom counter on ~ -- Beg draw step: deals damage equal to # counters to each player -- 4: Remove a counter, any player may activate this. But only during its upkeep |
 |   |                    |           |      |                                                                                                                                                                                     |
 |   | *Lands: 24*        |           |      |                                                                                                                                                                                     |
 | 4 | Dragonskull Summit |           | land | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                                                                                    |
@@ -30,17 +26,28 @@ Not My Problem v0.6
 |   | Tyrannize          | 3{rb}{rb} | sorc | Tgt player discards his hand unless he pays 7 life                                                                                                                                  |
 |   |                    |           |      |                                                                                                                                                                                     |
 
+
 Deck ideas based on: opponent action -- He's the one 'in-control' :)
+Still consider changing the name of the deck!
+
+
+v0.6 -> v0.7:
+-------------
++1 Lightning Storm
+-1 Arnageddon Clock
+
 
 v0.5 -> v0.6:
 -------------
 -1 Swamp
 +1 Mountain
 
+
 Version v0.5:
 -------------
 Skullscorch is really fun, feels better than Vexing Devil.
 Not quite sure about Armageddon Clock.
+
 
 v0.4 -> v0.5:
 -------------
@@ -50,6 +57,7 @@ v0.4 -> v0.5:
 +1 Lava Blister
 -1 Blazing Salvo
 +1 Lava Blister
+
 
 Version 0.4:
 ------------
@@ -65,6 +73,7 @@ v0.3 -> v0.4:
 +1 Rhystic Tutor
 +1 Breaking Point 
 +4 Blazing Salvo
+
 
 v0.2 -> v0.3:
 -------------
@@ -85,6 +94,7 @@ v0.1 -> v0.2:
 +2 Mountain
 -3 Carrion Rats
 -1 Worms of the Earth
+
 
 Version v0.1:
 -------------
