@@ -1,3 +1,5 @@
+Tezzeret Lord of the Artifact v0.1
+
 |   | *Creatures: 14*          |       |          |                                                                                                                                                                  |
 | 2 | Etherium Sculptor        | 1U    | 1/2      | Artifact spells you cast cost 1 less to cast                                                                                                                     |
 | 4 | Baleful Strix            | UW    | 1/1 fly  | When enter: draw a card                                                                                                                                          |
@@ -40,3 +42,18 @@
 | 1 | Ethersworn Adjudicator   | 4U    | 4/4 fly  | 1UW, t: destroy tgt creat or ench -- 2U: untap it                                                                                                                |
 | 2 | Spellskite               | 2     | 0/4      | {up}: change tgt of tgt spell or ab to spellskite                                                                                                                |
 |   | Vedalken Certarch        | U     | 1/1      | Metalcraft: t: tap tgt art, creat or land                                                                                                                        |
+
+
+
+Version 0.2: 
+------------
+The deck doesn't really work well
+
+
+v0.1 -> v0.2:
+-------------
+-4 Baleful Strix
++1 Wurmcoil Engine
++2 Etherium Sculptor
++1 Master Transmuter
+
