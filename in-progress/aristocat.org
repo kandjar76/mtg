@@ -1,12 +1,12 @@
-Aristocat - Version 0.40:
+Aristocat - Version 0.90:
 
 
 |   | *Creatures 25*           |       |          |                                                                                                                                                                                                                      |
 | 3 | Archangel of Thune       | 3WW   | 3/4      | Flying, likelink -- When gain life: put a +1c on each creats u control                                                                                                                                               |
-| 4 | Blood Artist             | 1B    | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                                                                  |
-| 3 | Scavenging Ooze          | 1G    | 2/2      | G: exile tgt card from a graveyard, if it's a creature, you gain 1 life, and put a +1/+1 counter on ~                                                                                                                |
-| 4 | Cartel Aristocrat        | WB    | 2/2      | Sacr another creat: ~ gains prot against choosen color                                                                                                                                                               |
-| 3 | Skirsdag High Priest     | 1B    | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                                                                                               |
+| 4 | Scavenging Ooze          | 1G    | 2/2      | G: exile tgt card from a graveyard, if it's a creature, you gain 1 life, and put a +1/+1 counter on ~                                                                                                                |
+| 3 | Lifebane Zombie          | 1BB   | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
+| 4 | Fiendslayer Paladin      | 1WW   | 2/2      | First strike, Lifelink -- Can't be the target of black or red spells your opponent's control                                                                                                                         |
+| 3 | Cartel Aristocrat        | WB    | 2/2      | Sacr another creat: ~ gains prot against choosen color                                                                                                                                                               |
 | 4 | Voice of Resurgence      | GW    | 2/2      | When dies or when an opp plays a spell on ur turn: put a "X/X elem token with X = #creats u control"                                                                                                                 |
 | 4 | Lingering Souls          | 2W    | sorc     | Flashback 1B -- Put 2 1/1 flying spirit tokens into play                                                                                                                                                             |
 |   |                          |       |          |                                                                                                                                                                                                                      |
@@ -21,23 +21,27 @@ Aristocat - Version 0.40:
 |   | *Lands 24*               |       |          |                                                                                                                                                                                                                      |
 | 4 | Overgrown Tomb           |       | land     | Enters tapped unless u pay 2 life -- t: add B or G                                                                                                                                                                   |
 | 4 | Godless Shrine           |       | land     | Enters tapped unless u pay 2 life -- t: add W or B                                                                                                                                                                   |
-| 2 | Temple Garden            |       | land     | Enters tapped unless u pay 2 life -- t: add G or W                                                                                                                                                                   |
+| 3 | Temple Garden            |       | land     | Enters tapped unless u pay 2 life -- t: add G or W                                                                                                                                                                   |
 | 3 | Isolated Chapel          |       | land     | Enters tapped unless u control a plain or a swamp -- t: add W or B                                                                                                                                                   |
-| 4 | Woodland Cemetery        |       | land     | Enters tapped unless u control a swamp or a forest -- t: add B or G                                                                                                                                                  |
+| 3 | Woodland Cemetery        |       | land     | Enters tapped unless u control a swamp or a forest -- t: add B or G                                                                                                                                                  |
 | 3 | Sunpetal Grove           |       | land     | Enters tapped unless u control a forest or a plain -- t: add G or W                                                                                                                                                  |
-| 2 | Vault of the Archangel   |       | land     | t: add 1 -- 2WB, t: creats u control gain lifelink and deathtouch                                                                                                                                                    |
 | 1 | Plains                   |       | bas land |                                                                                                                                                                                                                      |
 | 1 | Swamp                    |       | bas land |                                                                                                                                                                                                                      |
+| 2 | Gavony Township          |       | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                               |
 |---+--------------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Sideboard*              |       |          |                                                                                                                                                                                                                      |
-| 1 | Obzedat, Ghost Council   | 1WWBB | 5/5 leg  | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste.                                                         |
-| 3 | Lifebane Zombie          | 1BB   | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
-| 1 | Underwold Connections    | 1BB   | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
+| 2 | Obzedat, Ghost Council   | 1WWBB | 5/5 leg  | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste.                                                         |
+| 1 | Lifebane Zombie          | 1BB   | 3/1      | Intimidate - When enters: tgt opp reveals hand. Choose a white or green creat card from it; and exile it.                                                                                                            |
+| 2 | Underworld Connections   | 1BB   | aura     | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                                                 |
 | 3 | Golgari Charm            | BG    | inst     | Choose one: All creatures gets -1/-1 OR Regenerate all your creatures OR Destroy tgt enchantment                                                                                                                     |
 | 3 | Duress                   | B     | sorc     | Tgt player reveals hand, choose non land non creat cards; he discards it                                                                                                                                             |
-| 2 | Tragic Slip              | B     | inst     | Tgt creature gets -1/-1 -- Morbid: gets -13/-13 instead.                                                                                                                                                             |
-| 2 | Gaze of Granite          | xBBG  | sorc     | Destroy each non land permanent w/ converted mana cost X or less                                                                                                                                                     |
+| 3 | Tragic Slip              | B     | inst     | Tgt creature gets -1/-1 -- Morbid: gets -13/-13 instead.                                                                                                                                                             |
+| 1 | Gaze of Granite          | xBBG  | sorc     | Destroy each non land permanent w/ converted mana cost X or less                                                                                                                                                     |
 |---+--------------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Blood Artist             | 1B    | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                                                                  |
+|   | Path of Bravery          | 2W    | ench     | As long as ur life is greater that ur starting life, creatures u control gets +1/+1 -- Whenever one of more creatures u control attack: gain life equal to the # of attacking creatures                              |
+|   | Skirsdag High Priest     | 1B    | 1/2      | Morbid: t, tap 2 untap creatures: put a 5/5 deamon w/ flying into play                                                                                                                                               |
+|   | Vault of the Archangel   |       | land     | t: add 1 -- 2WB, t: creats u control gain lifelink and deathtouch                                                                                                                                                    |
 |   | Deathrite Shaman         | {bg}  | 1/2      | t: exile tgt land, add 1 mana any color to pool -- B, t: exile tgt inst or sorc from grave. Each opp looses 2 life -- G, t: exile tgt creats from a grave, gain 2 life                                               |
 |   | Liliana of the Veil      | 1BB   | plwk 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other                                                                                         |
 |   | Oblivion Ring            | 2W    | ench     | When enter, exile target permanent -- When leave, return it to play                                                                                                                                                  |
@@ -53,8 +57,139 @@ Aristocat - Version 0.40:
 |   | Black Cat                | 1B    | 1/1      | When dies: tgt opp discards a card at ramdom                                                                                                                                                                         |
 
 
+v0.80 -> v0.90:
+---------------
+-3 Cartel Aristocrat
++3 Deathrite Shaman
+-1 Woodland Cemetary
++1 Temple Garden
+
+
+v0.70 -> v0.80:
+---------------
+Mainboard changes:
+-3 Blood Artist
+-1 Cartel Aristocrat
++4 Fiendslayer Paladin
+
+
+Version 0.70-beta:
+------------------
+Currently I didn't have a fourth Lifebane Zombie, nor a second Obzedat.
+Instead I boarded in: 2 Desecration Demon in order to better face control decks.
+
+I went to an local FNM, 16 people, 4 rounds.
+
+Round 1: 2/0 against a WG token/populate deck.
+It wasn't too much of a fight.  Playing the proper kill spell at the right time did the trick.
+I didn't use the sideboard for game 2.
+
+Round 2: 2/0 against UR pyromancer-control
+- Game 1: after killing multiple of his pyromancer; I was able to land a Scavenging Ooze and eat enough creature to keep him out of reach of any red kill spell.
+Gavony Township was quite useful to make him grown even more.  Even his Chandra's Phoenix ended up in the Ooze's stomach.  
+- Game 2: I sideboarded Duress and Underworld Connection and took out mostly Blood Artist. 
+Unfortunately for him; he got stuck with just U mana for too long.  Voice of Resurgence + Lingering Soul and later on a Archangel of Thune sealed the game.
+
+Round 3: 1/1 against UWR control:
+- Game 1: Sorin and Township were the kings of the hill.  I created several Vampire token and use Gavony to increase their power/toughness... 
+I finish Game 1 with 50 life.  It was fun to use Sorin's ultimate on Aetherling and two 1/1 tokens in order to clear the path for my attack.
+- Game 2: Sideboarded: Duress, Underworld Connection, Desecrated Demon.  But were unable to draw kill spells.  Two Restoration Angels managed to finish me up.
+I did some mistakes during this game.  One of them was: I was too affraid to cast spell such as Underworld Connection thinking he may have had some counters.
+Trying to be overprotective did slow me -- Also, I was stuck at 3 mana for too long (Underworld Connection would definitively have helped) + I didnt' draw a single kill spell.
+
+Round 4: 2/1 against BG control.
+This was a very fun deck to play against.
+- Game 1: Even though I knew it wasn't good against black creatures; in this game I paid the price: turn 4, Desecrated Demon follow by a turn 5: Vraska, I knew the game was over. 
+I keep playing a bit in order to learn a bit more about his deck.  But I knew it was a lost cause, stuck with two Doom Blade in hand.  He played mutilate to get rid of my Lingering Soul tokin and my Voice or Resource.  
+Also casted Disciple of Bolar to draw 6 cards out of the Demon. 
+- Game 2: Massive sideboard change: -3 Doom Blade, -3 Lifebane Zombie and 5 other cards to board every thing in except for Gaze and Golgari Charms.
+I kept him in check while applying presure with Scavenging Ooze and later with Lingering Soul.
+A well placed duress allowed me to see that he was also runing Thragtusk.
+- Game 3: My initial opening hand was 5 laands, 1 Bloodartist and 1 duress; I decided to mull, to get a 6 cards hand with just one plain.  At 5 cards, I had no lands... Thanksfully (if I may say), my opponent also mulled down to 4 cards. 
+He proposed to call this turn game a tie so we would both be able to redraw 7.  I refused, since he had a based control deck.  Even if 4 was low.  My thoughts were that he would be more penalized than me.
+I believe we both ended up keeping a 2 land hand.  My hand was: 2 lands, 1 Voice of Resurgence and 1 Obzedat.  
+He played a turn 2 Ooze; and I was lucky to draw Abrupt Decay.  Then while I was getting flooded by lands, he was stuck at 2 for a while; allow me to cast Obzedat which with the help of Voice helped me finishing the game.
+By the time he reached 4 mana he was quite low in life.   A duress took away the putrefy he was keeping to get rid of Obzedat, during the attack phase, he Abrupt decay my Voice; giving me two tokens.   At this point the game was over.
+
+I finished at the second place with the same amount of points than the person I tied against during Round 3 (It was unfortunate, my first oppponent dropped after the second round which lowered my overall score).
+
+Regarding the current state of the deck:
+- Lifebane Zombie is really good main board.
+- Desecrated Demon was just bad.  Didn't fit the roll I had for him -- Granted it was a place holder anyway.
+- I'm not sure if blood artist fits in the deck.  Aside from him; all my creature are good by themselves... Blood artist is a terrible top deck card when the board is clean.
+(even Aristocrat is good, a 2/2 for 2 which can gain protection isn't too bad -- still a bit questionable)
+
+For the next version of the deck, I'm going to try to replace Blood Artist by Fiendslayer Paladin.
+
+
+v0.60 -> v0.70:
+---------------
+Mainboard:
+-1 Blood Artist
++1 Scavenging Ooze
+
+Sideboard:
++1 Lifebane Zombie
++1 Obzedat, Ghost Council
++1 Tragic Slip
+
+
+Version 0.60:
+-------------
+The change has definitively improves the deck.
+So many UWR or BRG decks that this Lifebane Zombie is almost always useful!
+
+Regarding the three opened slot in the Graveyard:
+- I feel like a fourth Lifebane Zombie may be to consider.  That card provide such a great benefits against Jund.
+- For the two other slots: 3 potential options
+  . Frontline Medic (mostly to counter X-costed spells): however for a control deck it's fairly easy to play around it.
+  . Sin Collector: which already feels a better option than Frontline Medic -- but can be redundant w/ Duress
+  . Path of Bravery: I like the idea of this card in the sideboard -- If the deck isn't too aggro the chance of having the life above their is high.
+
+
+v0.50 -> v0.60: ** <HERE>
+---------------
+Mainboard:
+-3 Skirsdag High Priest
++3 Lifebane Zombie
+
+Sideboard:
+-3 Lifebane Zombie
++3 ??? [Open slots]
+
+Version 0.50:
+-------------
+Jund (BGR) is very popular and creature do not live long...
+Skirsdag becomes less and less triggerable.
+
+I'm going to start mainboarding: Lifebane Zombie which I'm always please to see.
+Leaving 3 open slot for the sideboard -- To be determined.
+
+
+v0.41 -> v0.50:
+---------------
+-2 Vault of the Archangel
++2 Gavony Township
+
+Version 0.41:
+-------------
+Control deck are very annoying.
+The deck has too many 1/1s and 2/2s
+
+Also: I barely use Vault of the Archangel anymore.
+Township seems more appropriate for the deck.
+
+
+v0.40 -> v0.41:
+---------------
+Sideboard updates:
+-1 Gaze of Granite
++1 Underworld Connections
+
+
 v0.32 -> v0.40:
 ---------------
+Mainboard changes:
 -3 Deathrite Shaman
 +3 Scavenging Ooze
 
@@ -69,7 +204,7 @@ Deathrite Shaman has two advantages over Scavenger Ooze:
 - he's black and therefore cannot be targetted bu Doom Blade.
 - he cost 1 and can be a good turn 1 drop
 
-Scavenger Ooze has on the other hand its own benefits:
+Scavenging Ooze has on the other hand its own benefits:
 - Can be activated the turn you play it.
 - Can become a serious threat as he will grow overtime.
 
