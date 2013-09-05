@@ -1,34 +1,38 @@
-Tibalt v0.4:
+Tibalt v0.7:
 
 |   | *Planeswalker: 3*         |        |          |                                                                                                                                                              |
 | 3 | Tibalt, the Fiend-Blooded | RR     | plwkr 2  | +1: draw then discard at random -- -4: deals damage to tgt player equals to # cards in his hand -- -6: Gain control of all creats until eot, then gain haste |
 |   |                           |        |          |                                                                                                                                                              |
-|   | *Creatures: 19*           |        |          |                                                                                                                                                              |
-| 4 | Basking Rootwalla         | G      | 1/1      | Madness 0 -- 1G: gets +2/+2 until eot (only once per turn)                                                                                                   |
-| 4 | Chandra's Pheonix         | 1RR    | 2/2      | Haste -- If a red spell or plnwk deals damage to oppl, return ~ from grave to hand                                                                           |
+|   | *Creatures: 11*           |        |          |                                                                                                                                                              |
+| 4 | Bloodghast                | BB     | 2/1      | Landfall: return from grave to play -- Can't block and has haste if an opponent has 10 or less life                                                          |
+| 3 | Chandra's Pheonix         | 1RR    | 2/2      | Haste -- If a red spell or plnwk deals damage to oppl, return ~ from grave to hand                                                                           |
 | 4 | Demigod of Revenge        | {rb}x5 | 5/4      | Haste -- When casting it: return all cards names Demigod of Revenge from teh Graveyard to play                                                               |
 |   |                           |        |          |                                                                                                                                                              |
-|   | *Kill spells: 10*         |        |          |                                                                                                                                                              |
-| 2 | Fiery Temper              | 1RR    | inst     | Deals 3 damage to tgt creat/player -- Madness R                                                                                                              |
-| 2 | Fires of Undeath          | 2R     | inst     | Deals 2 damage to tgt creat/player -- Flashback 5B                                                                                                           |
-| 3 | Geistflame                | R      | inst     | Flashback 3R -- Deals 1 damage to tgt creat or player                                                                                                        |
+|   | *Kill spells: 12*         |        |          |                                                                                                                                                              |
+| 4 | Fiery Temper              | 1RR    | inst     | Deals 3 damage to tgt creat/player -- Madness R                                                                                                              |
 | 4 | Lightning Bolt            | R      | inst     | Deals 3 damage to tgt creat/player                                                                                                                           |
-| 3 | Terminate                 | BR     | inst     | Destroy tgt creat                                                                                                                                            |
-| 2 | Devil's Play              | xR     | sorc     | Flashback xRRR -- Deals X damage to tgt creat or player                                                                                                      |
-| 2 | Pyroclasm                 | 1R     | sorc     | Deals 2 damage to each creatures                                                                                                                             |
+| 4 | Terminate                 | BR     | inst     | Destroy tgt creat                                                                                                                                            |
 |   |                           |        |          |                                                                                                                                                              |
-|   | *Other helpers: 8*        |        |          |                                                                                                                                                              |
-| 2 | Blightning                | 1BR    | sorc     | Deals 3 damage to tgt player, he discards 2 cards                                                                                                            |
-| 2 | Faithless Looting         | R      | sorc     | Flashback 2R -- Draw 2 then discard 2                                                                                                                        |
+|   | *A bit of control 4*      |        |          |                                                                                                                                                              |
+| 4 | Blightning                | 1BR    | sorc     | Deals 3 damage to tgt player, he discards 2 cards                                                                                                            |
 |   |                           |        |          |                                                                                                                                                              |
-|   | *Lands: 20*               |        |          |                                                                                                                                                              |
-| 4 | Akoum Refuge              |        | land     | Enters tapped, u gain 1 life -- t: add R or B                                                                                                                |
+|   | *Draw Power: 8*           |        |          |                                                                                                                                                              |
+| 4 | Faithless Looting         | R      | sorc     | Flashback 2R -- Draw 2 then discard 2                                                                                                                        |
+| 4 | Sign in Blood             | 1B     | sorc     | Target player draws 2 cards and looses 2 life                                                                                                                |
+|   |                           |        |          |                                                                                                                                                              |
+|   | *Lands: 22*               |        |          |                                                                                                                                                              |
+| 4 | Graven Cairns             |        | land     | t: add 1 -- {rb}, t: add RR or RB or BB                                                                                                                      |
 | 2 | Lavaclaw Reaches          |        | land     | Enters tapped -- t: add R or B -- 1RB: becomes a 2/2 until eot w/ "x: gets +X/0 until eot"                                                                   |
-| 4 | Mountain                  |        | bas land |                                                                                                                                                              |
-| 5 | Swamp                     |        | bas land |                                                                                                                                                              |
-| 2 | Forst                     |        | bas land |                                                                                                                                                              |
-| 2 | Raging Ravine             |        | land     | Enters tapped -- t: add G ot R -- 2RG: becomes a 3/3 with: "when attack put a +1c on it"                                                                     |
+| 9 | Mountain                  |        | bas land |                                                                                                                                                              |
+| 7 | Swamp                     |        | bas land |                                                                                                                                                              |
 |---+---------------------------+--------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Raging Ravine             |        | land     | Enters tapped -- t: add G ot R -- 2RG: becomes a 3/3 with: "when attack put a +1c on it"                                                                     |
+|   | Akoum Refuge              |        | land     | Enters tapped, u gain 1 life -- t: add R or B                                                                                                                |
+|   | Pyroclasm                 | 1R     | sorc     | Deals 2 damage to each creatures                                                                                                                             |
+|   | Geistflame                | R      | inst     | Flashback 3R -- Deals 1 damage to tgt creat or player                                                                                                        |
+|   | Devil's Play              | xR     | sorc     | Flashback xRRR -- Deals X damage to tgt creat or player                                                                                                      |
+|   | Fires of Undeath          | 2R     | inst     | Deals 2 damage to tgt creat/player -- Flashback 5B                                                                                                           |
+|   | Basking Rootwalla         | G      | 1/1      | Madness 0 -- 1G: gets +2/+2 until eot (only once per turn)                                                                                                   |
 |   | Recoup                    | 1R     | sorc     | Tgt sorc in ur grave gains flashback for its cost -- Flashback 3R                                                                                            |
 |   | Call to the Netherworld   | B      | sorc     | Madness 0 -- Return tgt black creat from grave to hand                                                                                                       |
 |   | Strangling Soot           | 2B     | inst     | Destroy tgt creat w/ pow 3 or less -- Flashback 5R                                                                                                           |
@@ -50,6 +54,53 @@ Tibalt v0.4:
 |   | Deep Analysys             | 3U     | sorc     | Tgt player draws 2 cards -- Flashback 1U, pay 3 life                                                                                                         |
 |   | Desesperate Ravings       | 1R     | inst     | Draw 2 then discard 1 at random -- Flashback 2U                                                                                                              |
 |   |                           |        |          |                                                                                                                                                              |
+|   | Avatar of Discord         | {rb}x3 | 5/3 fly  | When enters, sacr it unless u discard 2 cards.                                                                                                               |
+
+v0.6 -> v0.7:
+-------------
+-3 Buried Alive
++2 Sign In Blood
++1 Terminate
+
+v0.5 -> v0.6:
+-------------
+-2 Devil's Play
++2 Swamp
+
+-3 Grave Scrabbler
+-1 Chandra's Phoenix
++4 Bloodghast
+
+-2 Recoup
++2 Sign In Blood
+
+Version 0.5:
+------------
+Wow Demigod is really strong!!!!
+The current version lack a bit of land.
+Also: Grave Scrabbler should leave. I did have it couple of times... and haven't use his Madness ability a single time.
+
+Not too convinced by either Recoup or Buried Alive.
+
+
+v0.4 -> v0.5:
+-------------
+-3 Geistflame
++2 Fiery Temper
+-2 Fires of Undeath
++2 Blightning
+-3 Pyroclasm
+
++3 Grave Scrabber
+-4 Basking Rootwalla
++3 Buried Alive
++2 Recoup
+
+-2 Forest
+-2 Raging Ravine
++4 Gravern Cairn
+-4 Akoum Refuge
++4 Mountain
 
 v0.3 -> v0.4:
 -------------
