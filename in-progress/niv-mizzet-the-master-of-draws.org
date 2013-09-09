@@ -1,0 +1,56 @@
+Niv-Mizzet, the master of draws v0.3
+
+|   | *Creatures 9*            |       |          |                                                                                                                                             |
+| 3 | Niv-Mizzet, the firemind | 2UURR | 4/4 leg  | Flying -- Whenever u draw, ~ deals 1 damage to tgt creat or player -- t: draw a card                                                        |
+| 2 | Niv-Mizzet, Dracogenius  | 2UURR | 5/5 leg  | Flying -- When it deals damage to a player, draw -- UB: ~ deals 1 damage to tgt creat or player                                             |
+| 4 | Talrand, Sky Summoner    | 2UU   | 2/2 leg  | When u cast a inst or sorc: put a 2/2 drake token into play                                                                                 |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Planeswalkers 3*        |       |          |                                                                                                                                             |
+| 1 | Jace Beleren             | 1UU   | plnwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                    |
+| 2 | Ral Zarek                | 2UR   | plnwk 4  | +1: tap tgt perm then untap another perm -- -2: deals 3 damage to tgt creat or player -- -7: flip 5 coins, for each win, gain an extra turn |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Mana Boost*             |       |          |                                                                                                                                             |
+| 4 | Izzet Charm              | 2     | art      | 1, t: add UB                                                                                                                                |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Control 6*              |       |          |                                                                                                                                             |
+| 4 | Counterflux              | RUU   | inst     | Counter tgt spells -- Overload 1RUU: counter each spell ur opp controls                                                                     |
+| 2 | Magmaquake               | xRR   | inst     | Deals X damage to each non flying creatures                                                                                                 |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Burn 8*                 |       |          |                                                                                                                                             |
+| 4 | Electrolyze              | 1UR   | inst     | Deals 2 damage split to tgt creats or players, then draw a card                                                                             |
+| 4 | Lightning Bolt           | R     | inst     | Deals 3 damage to tgt creat or player                                                                                                       |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Draws 8*                |       |          |                                                                                                                                             |
+| 2 | Think Twice              | 1U    | inst     | Draw a card -- Flashback 2U                                                                                                                 |
+| 2 | Gitaxian Probe           | {pu}  | sorc     | Look at tgt players hand, draw.                                                                                                             |
+| 4 | Preordain                | U     | sorc     | Scry 2, then draw                                                                                                                           |
+|   |                          |       |          |                                                                                                                                             |
+|   | *Lands 22*               |       |          |                                                                                                                                             |
+| 4 | Steam Vents              |       | land     | Enters tapped unless u pay 2 life -- t: add U or R                                                                                          |
+| 4 | Sulfur Falls             |       | land     | Enters tapped unless u control a island or a mountain                                                                                       |
+| 1 | Desolated Lighthouse     |       | land     | t: add 1 mana -- 1UR, t: draw then discard                                                                                                  |
+| 1 | Lonely Sandbar           |       | land     | Enters tapped -- t: add U -- Cycling U                                                                                                      |
+| 1 | Forgotten Caev           |       | land     | Enters tapped -- t: add R -- Cycling R                                                                                                      |
+| 8 | Island                   |       | bas land |                                                                                                                                             |
+| 3 | Mountain                 |       | bas land |                                                                                                                                             |
+|   |                          |       |          |                                                                                                                                             |
+
+v0.3 -> v0.4:
+-------------
+-1 Island
++1 Lonely Sandbar
+-1 Mountain
++1 Forgotten Cave
+
+
+v0.2 -> v0.3:
+----------------
+-4 Mana leak
++4 Counterflux
+-2 Ancestral Vision
++2 Think Twice
+
+v0.1 -> v0.2:
+----------------
+-2 Mercurial Chemister
++2 Niv-Mizzet, Dracogenius
