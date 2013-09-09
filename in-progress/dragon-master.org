@@ -1,4 +1,4 @@
-Dragon Master v1.1
+Dragon Master v1.5
 
 |    | *The Dragons*            |       |          |                                                                                                                                                                                                                                                      |
 |  2 | Thundermaw Hellkite      | 3RR   | 5/5 fly  | Haste -- When enters: deals 1 damage to each flying creatures; tap these creatures                                                                                                                                                                   |
@@ -10,13 +10,12 @@ Dragon Master v1.1
 |  2 | Bogardan Hellkite        | 6RR   | 5/5 fly  | Flash -- When ~ enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.                                                                                                                 |
 |    |                          |       |          |                                                                                                                                                                                                                                                      |
 |    | *Mana booster*           |       |          |                                                                                                                                                                                                                                                      |
-|  3 | Dragonspeaker Shaman     | 1RR   | 2/2      | Dragon spells you cast cost {2} less to cast.                                                                                                                                                                                                        |
 |  4 | Urza's Incubator         | 3     | art      | When enters: choose a creature types -- Creatures of the choosen type cost {2} less to cast                                                                                                                                                          |
-|  2 | Seething Song            | 2R    | inst     | Add RRRRR to mana pool                                                                                                                                                                                                                               |
-|  4 | Rakdos Signet            | 2     | art      | 1, t: add RB to mana pool                                                                                                                                                                                                                            |
+|  3 | Rakdos Signet            | 2     | art      | 1, t: add RB to mana pool                                                                                                                                                                                                                            |
+|  3 | Dark Ritual              | B     | inst     | Add BBB                                                                                                                                                                                                                                              |
 |    |                          |       |          |                                                                                                                                                                                                                                                      |
 |    | *Helper*                 |       |          |                                                                                                                                                                                                                                                      |
-|  1 | Whispersilk Cloak        | 3     | eqp 2    | Eqp creature is unblockable and has shroud                                                                                                                                                                                                           |
+|  4 | Inquisition of Kozilek   | B     | sorc     | Tgt player reveals hand, choose card w/ CMC < 3 -- He discards it                                                                                                                                                                                    |
 |    |                          |       |          |                                                                                                                                                                                                                                                      |
 |    | *Planeswalker*           |       |          |                                                                                                                                                                                                                                                      |
 |  3 | Sarkhan the Mad          | 3BR   | plwr 7   | 0: reveal top card of lib and put it into hand, ~ gets damage equal to the CMC of the reveal card -- -2: tgt creat's controller sacr it and put a 5/5 dragon token into play -- -4: Each dragon u control deals damage eq to its power to tgt player |
@@ -28,36 +27,120 @@ Dragon Master v1.1
 |    | *Lands*                  |       |          |                                                                                                                                                                                                                                                      |
 |  4 | Blood Crypt              |       | land     | Enters tapped unless u pay 2 life -- t: add R or B                                                                                                                                                                                                   |
 |  4 | Dragonskull Summit       |       | land     | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                                                                                                                                                     |
-|  3 | Swamp                    |       | bas land |                                                                                                                                                                                                                                                      |
-| 10 | Mountain                 |       | bas land |                                                                                                                                                                                                                                                      |
-|  2 | Lavaclaw Reaches         |       | Land     | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                                                                                                                          |
-|  1 | Cavern of Souls          |       | land     | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered                                                                                                                              |
+|  2 | Swamp                    |       | bas land |                                                                                                                                                                                                                                                      |
+|  9 | Mountain                 |       | bas land |                                                                                                                                                                                                                                                      |
+|  3 | Graven Cairns            |       | land     | t: add 1 -- {rb}, t: add RR or RB or BB                                                                                                                                                                                                              |
+|  2 | Cavern of Souls          |       | land     | When enter: choose creat type -- t: add 1 -- t: add 1 of anycolor to cast creat of the choosen type, can't be countered                                                                                                                              |
 |----+--------------------------+-------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 | Bladewin the Risen       | 3BBRR | 4/4 fly  | When enter: return tgt dragon from ur graveyard to play -- BR: dragon u control gets +1/+1 until eot                                                                                                                                                 |
-|  1 | Flameblast Dragon        | 4RR   | 5/5 fly  | When attack: u may pay xR, if u do, it deals X damage to tgt creat or player                                                                                                                                                                         |
-|  3 | Magmaquake               | xRR   | inst     | Deals X damage to each non flying creatures and each planeswalkers                                                                                                                                                                                   |
-|  4 | Everflowing Chalice      | 0     | art      | Multikick 2 -- Enter battlefield with a charge coutner for each kick -- t: add X to mana pool (X = #charge)                                                                                                                                          |
-|  1 | Punishing Fire           | 1R    | inst     | Deals 2 damage to target creature or player. -- Whenever an opponent gains life, you may pay R. If you do, return Punishing Fire from your graveyard to your hand.                                                                                   |
-|  1 | Captive Flame            | 2R    | ench     | R: Target creature gets +1/+0 until end of turn.                                                                                                                                                                                                     |
-|  2 | Pyroclasm                | 1R    | sorc     | Pyroclasm deals 2 damage to each creature.                                                                                                                                                                                                           |
-|  2 | Red Sun's Zenith         | xR    | sorc     | Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.                                                          |
-|  1 | Slagstorm                | 1RR   | sorc     | Choose one: Slagstorm deals 3 damage to each creature OR Slagstorm deals 3 damage to each player.                                                                                                                                                    |
-|  1 | Lightning Bolt           | R     | inst     | Deals 3 damage to tgt creat or player                                                                                                                                                                                                                |
-|  1 | Seismic Strike           | 2R    | inst     | Seismic Strike deals damage to target creature equal to the number of Mountains you control.                                                                                                                                                         |
-|  1 | Ghostfire                | 2R    | inst     | Ghostfire is colorless -- Ghostfire deals 3 damage to target creature or player.                                                                                                                                                                     |
-|  1 | Spitting Earth           | 1R    | sorc     | Spitting Earth deals damage to target creature equal to the number of Mountains you control.                                                                                                                                                         |
-|  1 | Breath of Darigaaz       | 1R    | sorc     | Kicker 2 -- Breath of Darigaaz deals 1 damage to each creature without flying and each player. If kicked, it deals 4 damage to each creature without flying and each player instead.                                                                 |
-|  2 | Mudbutton Torchrunner    | 2R    | 1/1      | When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.                                                                                                                                                                     |
-|  1 | Crucible of Fire         | 3R    | ench     | Deagon creats u control gets +3/+3                                                                                                                                                                                                                   |
-|  1 | Archwing Dragon          | 2RR   | 4/4      | Flying, haste -- At the beginning of the end step, return Archwing Dragon to its owner's hand.                                                                                                                                                       |
-|  2 | Dragon Whelp             | 2RR   | 2/3      | Flying -- R: gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice it at the beginning of the next end step.                                                                                      |
-|  1 | Hoard-Smelter Dragon     | 4RR   | 5/5 fly  | 3R: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.                                                                                                                      |
-|  1 | Mordant Dragon           | 3RRR  | 5/5 fly  | 1R: Mordant Dragon gets +1/+0 until end of turn. -- Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.                                                          |
-|  1 | Thunder Dragon           | 5RR   | 5/5 fly  | When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.                                                                                                                                                       |
+|    | Lavaclaw Reaches         |       | Land     | Comes tapped -- t: add R or U -- 1RB: until eot it becomes 2/2 black and red with "X: this creats get +X/0"                                                                                                                                          |
+|    | Whispersilk Cloak        | 3     | eqp 2    | Eqp creature is unblockable and has shroud                                                                                                                                                                                                           |
+|    | Seething Song            | 2R    | inst     | Add RRRRR to mana pool                                                                                                                                                                                                                               |
+|    | Dragonspeaker Shaman     | 1RR   | 2/2      | Dragon spells you cast cost {2} less to cast.                                                                                                                                                                                                        |
+|    | Bladewin the Risen       | 3BBRR | 4/4 fly  | When enter: return tgt dragon from ur graveyard to play -- BR: dragon u control gets +1/+1 until eot                                                                                                                                                 |
+|    | Flameblast Dragon        | 4RR   | 5/5 fly  | When attack: u may pay xR, if u do, it deals X damage to tgt creat or player                                                                                                                                                                         |
+| SB | Magmaquake               | xRR   | inst     | Deals X damage to each non flying creatures and each planeswalkers                                                                                                                                                                                   |
+|    | Everflowing Chalice      | 0     | art      | Multikick 2 -- Enter battlefield with a charge coutner for each kick -- t: add X to mana pool (X = #charge)                                                                                                                                          |
+|    | Punishing Fire           | 1R    | inst     | Deals 2 damage to target creature or player. -- Whenever an opponent gains life, you may pay R. If you do, return Punishing Fire from your graveyard to your hand.                                                                                   |
+|    | Captive Flame            | 2R    | ench     | R: Target creature gets +1/+0 until end of turn.                                                                                                                                                                                                     |
+|    | Pyroclasm                | 1R    | sorc     | Pyroclasm deals 2 damage to each creature.                                                                                                                                                                                                           |
+|    | Red Sun's Zenith         | xR    | sorc     | Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.                                                          |
+|    | Slagstorm                | 1RR   | sorc     | Choose one: Slagstorm deals 3 damage to each creature OR Slagstorm deals 3 damage to each player.                                                                                                                                                    |
+|    | Lightning Bolt           | R     | inst     | Deals 3 damage to tgt creat or player                                                                                                                                                                                                                |
+|    | Seismic Strike           | 2R    | inst     | Seismic Strike deals damage to target creature equal to the number of Mountains you control.                                                                                                                                                         |
+|    | Ghostfire                | 2R    | inst     | Ghostfire is colorless -- Ghostfire deals 3 damage to target creature or player.                                                                                                                                                                     |
+|    | Spitting Earth           | 1R    | sorc     | Spitting Earth deals damage to target creature equal to the number of Mountains you control.                                                                                                                                                         |
+|    | Breath of Darigaaz       | 1R    | sorc     | Kicker 2 -- Breath of Darigaaz deals 1 damage to each creature without flying and each player. If kicked, it deals 4 damage to each creature without flying and each player instead.                                                                 |
+|    | Mudbutton Torchrunner    | 2R    | 1/1      | When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.                                                                                                                                                                     |
+|    | Crucible of Fire         | 3R    | ench     | Deagon creats u control gets +3/+3                                                                                                                                                                                                                   |
+|    | Archwing Dragon          | 2RR   | 4/4      | Flying, haste -- At the beginning of the end step, return Archwing Dragon to its owner's hand.                                                                                                                                                       |
+|    | Dragon Whelp             | 2RR   | 2/3      | Flying -- R: gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice it at the beginning of the next end step.                                                                                      |
+|    | Hoard-Smelter Dragon     | 4RR   | 5/5 fly  | 3R: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.                                                                                                                      |
+|    | Mordant Dragon           | 3RRR  | 5/5 fly  | 1R: Mordant Dragon gets +1/+0 until end of turn. -- Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.                                                          |
+|    | Thunder Dragon           | 5RR   | 5/5 fly  | When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.                                                                                                                                                       |
 |    |                          |       |          |                                                                                                                                                                                                                                                      |
 |    | Karrthus, Tyrant of Jund | 4BRG  | 7/7 fly  | Haste -- When enters: gain control of all dragons and untap them -- Other dragon u control have haste                                                                                                                                                |
 |    | Hellkite Charger         | 4RR   | 5/5 fly  | Haste -- When attack, you may pay 5RR, if u do: untap all attacking creatures, there's an additional combat phase                                                                                                                                    |
 |    | Moonveil Dragon          | 3RRR  | 5/5 fly  | R: Each creature u control gets +1/0 until eot                                                                                                                                                                                                       |
+
+v1.4 -> v1.5:
+-------------
+-1 Mountain
++1 Cavern of Souls
+
+
+v1.3 -> v1.4:
+-------------
+-1 Mountain
++1 Cavern of Souls
+
+
+Version 1.3:
+------------
+After initial playtest:
++ Inquizition of Kozilek is really good
++ Dark ritual helps a lot early game.
++ Graven Cairn is quite useful
+
+Sometimes I wish I had a way to give the dragon shroud... 
+
+Dark Ritual Turn 1: often not very good.
+On turn 3 this is where it shines -- Sometimes on turn 2.
+But... Not quite convinced yet.
+
+The number of swamp should be increased -- It is sometimes very important to be able to cast IoK on turn 1.
+Two or three more swamp (and maybe a forth Graven land.
+
+- 
+
+OK, the nice thing about dark ritual is that it's easier to get 5 mana w/ splash black or red.
+Keeping it for now.
+
+
+v1.2 -> v1.3:
+-------------
+-2 Seeting Song
+-1 Rakdos Signet
++3 Dark Ritual
+
+-1 Whispering Cloak
++1 Inquisition of Kozilek
+
+-1 Swamp
+-2 Lavaclaw Reaches
++3 Graven Cairns
+
+
+Version 1.2:
+------------
+Inquisition of Kozilek made a real difference to the deck.
+Considering the Dragon are high CMC; it also helps knowing what your opponent has in hand + removing a control spell (counter/kill...) works really well.
+
+I also noticed that; even if: Seething Song increase the mana for a turn by 2. 
+I often have 1 open mana after casting my dragon; i.e: it effectively only increases the mana count by 1.
+The 3 CMC is the main reason for this drawback.
+
+Considering replacing it by: Dark Ritual -- However, in that case; a mana fixer seems appropriate.
+A card like Graven Cairns could really help.
+
+Regarding other existing cards:
++ Thundermaw Hellkite is really a key cards; tapping all potential flyers in order to leave the field open for the dragon to strike (an extra one may be good to consider)
+- Lavaclaw Reaches: as a dual mana producer; it's fine (except that it always enters the battlefield tapped) however, as 'creature land' it does't cut it.  Too weak.
+
+
+v1.1 -> v1.2:
+-------------
+-3 Dragonspeaker Shaman
++3 Inquisition of Kozilek
+
+
+Version v1.1:
+-------------
+The changes were good.  The deck is a lot stronger than before.
+Still fairly weak to control and/or black kill+sacr spells.
+
+One thing to consider:
+-3 Dragonspeaker Shaman
++3 Inquisition of Kozilek
 
 
 v1.0 -> v1.1:
@@ -69,6 +152,7 @@ v1.0 -> v1.1:
 +3 Bonfire of the Damned
 -1 Dragonspeaker Shaman
 +1 Urza's Incubator
+
 
 Toward 1.1:
 -----------
@@ -87,6 +171,7 @@ v0.9 -> v1.0:
 -4 Everflowing Chalice
 +4 Rakdos Signet
 
+
 Version 0.9:
 ------------
 The deck is so much more consistent.
@@ -97,6 +182,7 @@ Deck remains vulnerable to control
 Not sure about Bladewing the Risen -- Definitively no more than 1.
 
 Considering replacing of Chalice by Rakdos Signet.
+
 
 v0.8 -> v0.9:
 -------------
@@ -118,6 +204,7 @@ v0.8 -> v0.9:
 +1 Bladewin the Risen
 +1 Flameblast Dragon
 
+
 Toward v0.9:
 ------------
 Some dragons to consider:
@@ -129,21 +216,25 @@ For:
 . Karthus, Tyran of Jund
 . Bloodmother
 
+
 v0.7 -> v0.8:
 -------------
 -3 Mountain
 +2 Lavaclaw Reaches
 +1 Cavern of Soul
 
+
 Version v0.7:
 -------------
 Magmaquake is really nice.
 The instant speed effect is really worth it.
 
+
 v0.6 -> v0.7:
 -------------
 -3 Bonfire of the Damned
 +3 Magmaquake
+
 
 Towards v0.7:
 -------------
@@ -155,10 +246,12 @@ The two downsides:
 . it will hits the Dragonspeaker shaman... and potentially Sarkhan
 . it doesn't touch flying creatures -> BUT the dragons should be able to take care of that.
 
+
 v0.5 -> v0.6:
 -------------
 -1 Captive Flame
 +1 Crucible of Fire
+
 
 v0.4 -> v0.5
 ------------
@@ -180,6 +273,7 @@ v0.3 -> v0.4:
 -1 Spitting Earth
 -1 Ghostfire
 -1 Seismic Strike
+
 
 Version 0.3:
 ------------
