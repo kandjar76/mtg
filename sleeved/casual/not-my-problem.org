@@ -30,6 +30,8 @@ Not My Problem v0.7
 Deck ideas based on: opponent action -- He's the one 'in-control' :)
 Still consider changing the name of the deck!
 
+Cards to keep in mind:
+- Vexing Devil
 
 v0.6 -> v0.7:
 -------------
