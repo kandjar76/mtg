@@ -16,7 +16,7 @@ Lazav, Dimir Mastermind v0.9
 |    |                            |        |             |                                                                                                                                                                                       |
 |    | *Draw Power*               |        |             |                                                                                                                                                                                       |
 |  1 | Mulldrifter                | 4U     | 2/2 fly     | When enter: draw 2 cards -- Evoke 2U                                                                                                                                                  |
-|  1 | Jace's Ingenuity           | 3UU    | inst        | Draw 3 cards                                                                                                                                                                          |
+| #1 | Jace's Ingenuity           | 3UU    | inst        | Draw 3 cards                                                                                                                                                                          |
 |  1 | Bloodgift Demon            | 4B     | 5/4 fly     | At beg of your upk, tgt player draws a card and looses 1 life                                                                                                                         |
 |  1 | Phyrexian Arena            | 1BB    | ench        | At beg of your upk, you loose a life and draw 1 card                                                                                                                                  |
 |  1 | Staff of Nin               | 6      | art         | At beg of your upk, draw a card -- t: deals 1 damage to tgt creat or player                                                                                                           |
@@ -29,12 +29,12 @@ Lazav, Dimir Mastermind v0.9
 |  1 | Mind Grind                 | xUB    | sorc        | Each opp reveals top cards until they reveal X lands, then put the revealed cards in their graveyards                                                                                 |
 |  1 | Traumatize                 | 3UU    | sorc        | Tgt player mill half of his library rounded down                                                                                                                                      |
 |  1 | Sands of Delirium          | 3      | art         | X, t: Tgt player mills X cards                                                                                                                                                        |
-|  1 | Psychic Drain              | xUB    | sorc        | Tgt player mills X and you gain X life                                                                                                                                                |
+| #1 | Psychic Drain              | xUB    | sorc        | Tgt player mills X and you gain X life                                                                                                                                                |
 |  1 | Sword of Body and Mind     | 3      | eqp 2       | Eqp creat has +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and defending player put top 10 card from lib to graveyaard                                             |
 |    |                            |        |             |                                                                                                                                                                                       |
 |    | *Helpers*                  |        |             |                                                                                                                                                                                       |
 |  1 | Snapcaster Mage            | 1U     | 2/1         | Flash -- When enter, tgt card in your graveyard gain flashback for its normal cost.                                                                                                   |
-|  1 | Vampire Hexmage            | BB     | 2/1         | First strike -- Sacr it: remove all counters from tgt perm                                                                                                                            |
+| #1 | Vampire Hexmage            | BB     | 2/1         | First strike -- Sacr it: remove all counters from tgt perm                                                                                                                            |
 |  1 | Notion Thief               | 2UB    | 3/1         | Flash -- Whenever an opp draw (except the one from his normal draw step), he skips that draw and instead you draw                                                                     |
 |  1 | Dimir Guildmage            | {ub}x2 | 2/2         | 3B: tgt player discard a card (only as sorcery) -- 3U: tgt player draw a card (only as sorcery)                                                                                       |
 |  1 | Mimic Vat                  | 3      | art         | Imprint: when a creat dies, u may imprint it -- 3, t: put a token of imprint creat                                                                                                    |
@@ -53,6 +53,7 @@ Lazav, Dimir Mastermind v0.9
 |  1 | Geth, Lord of the Vault    | 4BB    | 5/5 int     | xB: put tgt art or creature w/ CMC X from an opp graveyard into play under your control, that player mills X cards                                                                    |
 |  1 | Sheoldred, Whispering One  | 5BB    | 6/6         | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                                             |
 |  1 | Yawgmoth's Will            | 2B     | sorc        | Until eot, u may play card from your graveyard. Exile each cards casted that way.                                                                                                     |
+|  1 | Dimir Doppelganger         | 1UB    | 0/2         | 1UB: exile tgt cards from a graveyard, ~ becomes a copy of that card and gains this ability                                                                                           |
 |    |                            |        |             |                                                                                                                                                                                       |
 |    | *Counter spells*           |        |             |                                                                                                                                                                                       |
 |  1 | Counterspell               | UU     | inst        | Counter target spell                                                                                                                                                                  |
@@ -65,7 +66,6 @@ Lazav, Dimir Mastermind v0.9
 |    |                            |        |             |                                                                                                                                                                                       |
 |    | *Copy spells*              |        |             |                                                                                                                                                                                       |
 |  1 | Evil Twin                  | 2UB    | 0/0         | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                                              |
-|  1 | Dimir Doppelganger         | 1UB    | 0/2         | 1UB: exile tgt cards from a graveyard, ~ becomes a copy of that card and gains this ability                                                                                           |
 |  1 | Phyrexian Metamorph        | 3{up}  | 0/0 art     | You may have ~ enters as a copy of tgt creature or tgt artifact, it remains an artifact in addition of its other types                                                                |
 |  1 | Phantasmal Image           | 1U     | 0/0         | You may have ~ enters as a copy of another creature on the battlefield, and gains: "sacr it if tgt by spell or ability"                                                               |
 |    |                            |        |             |                                                                                                                                                                                       |
@@ -84,7 +84,7 @@ Lazav, Dimir Mastermind v0.9
 |  1 | Proteus Staff              | 3      | art         | 2U, t: put tgt creat at bottom of lib, that creat's controller reveals top card until he reveals a creat, put the creat into play, and the rest at the bottom of the lib (sorc speed) |
 |    |                            |        |             |                                                                                                                                                                                       |
 |    | *Pressure*                 |        |             |                                                                                                                                                                                       |
-|  1 | Lord of the Void           | 4BBB   | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
+| #1 | Lord of the Void           | 4BBB   | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
 |  1 | Kokusho, the Evening Star  | 4BB    | 5/5 leg fly | When dies: each opp looses 5 life, you gain life equals to the life loss this way                                                                                                     |
 |  1 | Thassa, God of the Sea     | 2U     | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                                   |
 |    |                            |        |             |                                                                                                                                                                                       |
@@ -115,17 +115,34 @@ Lazav, Dimir Mastermind v0.9
 |    |                            |        |             |                                                                                                                                                                                       |
 
 To Consider:
-- Relic of Progenitus
-- Sensei Divine Top
-- Far // Away
-- Relic of Progenitus
-- Jace's Archivist
-- Coffin Queen
-- Necrotic Ooze
-- Chainer, Dementia Master
-- Consecrated Sphinx
-- Body Double
-- Consecrated Sphinx
+------------
+
+Helper:
++   Far // Away
++   Jace's Archivist
++   Sensei Divine Top
+++  Bloodchief Ascension
+Search toolbox:
+++  Mystical Tutor
+Planeswalker:
++   Tamiyo, the Moon Sage
+Threat:
++++ Consecrated Sphinx
+Mana booster:
++   Gilded Lotus
+Mill engine:
++   Nemesis of Reason
+++  Mindcrank
+Graveyard toolbox:
++++ Memory Plunder 
+-   Coffin Queen
+++  Body Double
++++ Necrotic Ooze
++   Chainer, Dementia Master
+Graveyard hate:
++++ Relic of Progenitus
+++  Crypt Incursion
++   Nezumi Graverobber
 
 v0.8 -> v0.9:
 -------------
