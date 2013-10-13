@@ -1,4 +1,5 @@
 Chandra's Rebirth v0.4
+[sleeved: v0.4]
 
 |    | *Planeswalker: 6*            |               |          |                                                                                                                                                    |
 |  3 | Chandra Nalaar               | 3RR           | plwkr 6  | +1: deals 1 damage to tgt player -- -X: deals X damage to tgt creat -- -8: deals 10 damage to tgt player and each creats he controls               |

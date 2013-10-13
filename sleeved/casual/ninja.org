@@ -1,4 +1,5 @@
 Ninja deck v2.1
+[sleeved: v2.1]
 
 |   | *The Ninjas: 13*              |       |         |                                                                                                                                              |
 | 4 | Ninja of the Deep Hours       | 3U    | 2/2     | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                               |
