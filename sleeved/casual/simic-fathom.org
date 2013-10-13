@@ -1,10 +1,11 @@
-Simic Fathom v0.9
+Simic Fathom v1.0
+[sleeved: v0.9]
 
 |   | *Creatures 19*             |           |          |                                                                                                                           |
-| 4 | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                            |
+| 3 | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                            |
 | 3 | Primordial Hydra           | xGG       | 0/0      | Enters w/ X +1c -- Beg upk: double its counters -- It has trample when it has 10 or more counters.                        |
 | 2 | Zameck Guildmage           | GU        | 2/2      | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card           |
-| 3 | Plaxcaster Frogling        | 1GU       | 0/0      | Graft 3 -- 2: tgt creats w/ +1c on it gain shroud                                                                         |
+| 4 | Plaxcaster Frogling        | 1GU       | 0/0      | Graft 3 -- 2: tgt creats w/ +1c on it gain shroud                                                                         |
 | 2 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 -- Ut: gain control of tgt creat with +1/+1 on it                                                                 |
 | 4 | Cytoplast Root-Kin         | 2GG       | 0/0      | Graft 4 -- put a +1c on each creature w/ +1 -- 2: move a +1 on him                                                        |
 | 3 | Fathom Mage                | 2GU       | 1/1      | Evolve -- When a +1c is put on her, draw a card                                                                           |
@@ -39,6 +40,11 @@ Simic Fathom v0.9
 |   | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
 |   | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
 
+v0.9 -> v1.0:
+-------------
+-1 Bird of Paradise
++1 Plaxmanta Frogling
+
 Version 0.9:
 ------------
 Primordial Hydra made such a difference!!! WoW... 
@@ -47,6 +53,8 @@ Which now makes me question the use of Zameck Guildmage.
 Note: I tried Simic Charm instead -> not really good.
 Guildmage is quite good as it will potentially draw me cards if they tried to kill one of my creature :)
 Also: I can gain control of their creature and draw cards from it OR reduce the Fathom Mage power to guarantee a evolve trigger.
+
+I feel like: I should run definitively run 4 plaxmanta frogling and maybe 4 hydra 
 
 v0.8 -> v0.9:
 -------------
