@@ -1,5 +1,6 @@
 Dragon Master v1.5
 
+
 |    | *The Dragons*            |       |          |                                                                                                                                                                                                                                                      |
 |  2 | Thundermaw Hellkite      | 3RR   | 5/5 fly  | Haste -- When enters: deals 1 damage to each flying creatures; tap these creatures                                                                                                                                                                   |
 |  3 | Steel Hellkite           | 6     | 5/5 fly  | 2: Steel Hellkite gets +1/+0 until eot -- X: Destroy each nonland permanent with CMC X whose controller was dealt combat damage by Steel Hellkite this turn. Only once each turn.                                                                    |
