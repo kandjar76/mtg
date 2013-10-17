@@ -118,7 +118,6 @@ To Consider:
 ------------
 
 Helper:
-+   Far // Away
 +   Jace's Archivist
 +   Sensei Divine Top
 ++  Bloodchief Ascension
@@ -134,40 +133,63 @@ Mill engine:
 +   Nemesis of Reason
 ++  Mindcrank
 Graveyard toolbox:
-+++ Memory Plunder 
 -   Coffin Queen
 ++  Body Double
 +++ Necrotic Ooze
 +   Chainer, Dementia Master
+++  Animate Dead
 Graveyard hate:
-+++ Relic of Progenitus
 ++  Crypt Incursion
 +   Nezumi Graverobber
+
+
+v1.0 -> v1.1:
+-------------
+-1 Jace Ingenuity
++1 Relic of Progenitus
+-1 Psychic Drain
++1 Memory Plunder
+
+
+v0.9 -> v1.0:
+-------------
+-1 Vampire Hexmage
+-1 Island
+-1 Mimic Vat
++1 Ancient Tomb
++1 Grim Monolith
++1 Far // Away
+
 
 v0.8 -> v0.9:
 -------------
 -1 Liliana Vess
 +1 Liliana of the Dark Realm
 
+
 Toward v0.9:
 ------------
 I'm not convinced by Liliana Vess so far.
 I'm going to try the Dark Realm version.
+
 
 v0.7 -> v0.8:
 -------------
 -1 Dark ritual
 +1 Yawgmoth's Will
 
+
 v0.6 -> v0.7:
 -------------
 -1 Diabolic Revelation
 +1 Diabolic Tutor
 
+
 Version 0.6:
 ------------
 Diabolic Revelation is nice BUT too expensive.
 The deck doesn't ramp nearly enough to be able to use it.
+
 
 v0.5 -> v0.6:
 -------------
@@ -180,6 +202,7 @@ v0.5 -> v0.6:
 -1 Doom Blade
 +1 Hero's Downfall
 
+
 v0.4 -> v0.5:
 -------------
 -1 Pillar of the Paruns
@@ -187,10 +210,12 @@ v0.4 -> v0.5:
 -1 Island
 +1 Reliquary Tower
 
+
 v0.3 -> v0.4:
 -------------
 -1 Sensei divine top 
 +1 Sword of Body and Mind
+
 
 v0.2 -> v0.3:
 -------------
@@ -206,6 +231,7 @@ v0.2 -> v0.3:
 +1 Diabolic Revelation
 -1 Consult the Necrosages
 +1 Sensei Divine Top
+
 
 v0.1 -> v0.2:
 -------------
