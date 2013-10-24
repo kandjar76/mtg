@@ -1,39 +1,95 @@
-Niv-Mizzet, the master of draws v0.3
+Niv-Mizzet, the master of draws v0.8
+[sleeved: v0.8]
+
 
 |   | *Creatures 9*            |       |          |                                                                                                                                             |
 | 3 | Niv-Mizzet, the firemind | 2UURR | 4/4 leg  | Flying -- Whenever u draw, ~ deals 1 damage to tgt creat or player -- t: draw a card                                                        |
 | 2 | Niv-Mizzet, Dracogenius  | 2UURR | 5/5 leg  | Flying -- When it deals damage to a player, draw -- UB: ~ deals 1 damage to tgt creat or player                                             |
-| 4 | Talrand, Sky Summoner    | 2UU   | 2/2 leg  | When u cast a inst or sorc: put a 2/2 drake token into play                                                                                 |
+| 3 | Talrand, Sky Summoner    | 2UU   | 2/2 leg  | When u cast a inst or sorc: put a 2/2 drake token into play                                                                                 |
+| 4 | Young Pyromancer         | 1R    | 2/1      | Whenever u play an inst or sorc: put a 1/1 red elemental into play                                                                          |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Planeswalkers 3*        |       |          |                                                                                                                                             |
 | 1 | Jace Beleren             | 1UU   | plnwk 3  | +2: each player draws, -1: u draw, -10: tgt player put top 20 card from lib to graveyard                                                    |
 | 2 | Ral Zarek                | 2UR   | plnwk 4  | +1: tap tgt perm then untap another perm -- -2: deals 3 damage to tgt creat or player -- -7: flip 5 coins, for each win, gain an extra turn |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Mana Boost*             |       |          |                                                                                                                                             |
-| 4 | Izzet Charm              | 2     | art      | 1, t: add UB                                                                                                                                |
+| 3 | Izzet Signet             | 2     | art      | 1, t: add UB                                                                                                                                |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Control 6*              |       |          |                                                                                                                                             |
-| 4 | Counterflux              | RUU   | inst     | Counter tgt spells -- Overload 1RUU: counter each spell ur opp controls                                                                     |
-| 2 | Magmaquake               | xRR   | inst     | Deals X damage to each non flying creatures                                                                                                 |
+| 3 | Counterflux              | RUU   | inst     | Counter tgt spells -- Overload 1RUU: counter each spell ur opp controls                                                                     |
+| 3 | Mana Leak                | 1U    | inst     | Coutner tgt spells unless its controller pays 3                                                                                             |
+| 2 | Echoing Truth            | 1U    | inst     | Return tgt non land perm and all other perm which share the same name to their owner's hand                                                 |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Burn 8*                 |       |          |                                                                                                                                             |
 | 4 | Electrolyze              | 1UR   | inst     | Deals 2 damage split to tgt creats or players, then draw a card                                                                             |
 | 4 | Lightning Bolt           | R     | inst     | Deals 3 damage to tgt creat or player                                                                                                       |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Draws 8*                |       |          |                                                                                                                                             |
-| 2 | Think Twice              | 1U    | inst     | Draw a card -- Flashback 2U                                                                                                                 |
-| 2 | Gitaxian Probe           | {pu}  | sorc     | Look at tgt players hand, draw.                                                                                                             |
 | 4 | Preordain                | U     | sorc     | Scry 2, then draw                                                                                                                           |
 |   |                          |       |          |                                                                                                                                             |
 |   | *Lands 22*               |       |          |                                                                                                                                             |
 | 4 | Steam Vents              |       | land     | Enters tapped unless u pay 2 life -- t: add U or R                                                                                          |
 | 4 | Sulfur Falls             |       | land     | Enters tapped unless u control a island or a mountain                                                                                       |
-| 1 | Desolated Lighthouse     |       | land     | t: add 1 mana -- 1UR, t: draw then discard                                                                                                  |
+| 2 | Desolated Lighthouse     |       | land     | t: add 1 mana -- 1UR, t: draw then discard                                                                                                  |
 | 1 | Lonely Sandbar           |       | land     | Enters tapped -- t: add U -- Cycling U                                                                                                      |
 | 1 | Forgotten Caev           |       | land     | Enters tapped -- t: add R -- Cycling R                                                                                                      |
-| 8 | Island                   |       | bas land |                                                                                                                                             |
+| 7 | Island                   |       | bas land |                                                                                                                                             |
 | 3 | Mountain                 |       | bas land |                                                                                                                                             |
 |   |                          |       |          |                                                                                                                                             |
+|---+--------------------------+-------+----------+---------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | Into the Roil            | 1U    | inst     | Kicker 1U -- Return tgt non land perm to hand, if kicked: draw a card                                                                       |
+| 2 | See Beyond               | 1U    | sorc     | Draw 2 then shuffle a card from your hand to your library                                                                                   |
+|   |                          |       |          |                                                                                                                                             |
+
+
+Version 0.8:
+------------
+I'm not sure yet about Echoing Truth, but Mana Leak is clearly a plus here.
+
+
+v0.7 -> v0.8:
+-------------
+-3 Into the Roil
+-2 See Beyondf
++3 Mana Leak
++2 Echoing Truth
+
+
+v0.6 -> v0.7:
+-------------
+-1 Talrand, Sky Summoner
++1 Young Pyromancer
+-2 Magmaquake
++2 See Beyond
+
+Version v0.6:
+-------------
+Young Pyromancer is amazing!
+
+v0.5 -> v0.6:
+-------------
+-2 Gitaxian Probe
+-1 Izzet Signet
++3 Young Pyromancer
+-1 Island
++1 Delolated Lighthouse
+
+Version v0.5:
+-------------
+Desolated Lighthouse is really nice!
+Especially when you are land flooded.
+
+v0.4 -> v0.5:
+-------------
+-2 Think Twice
+-1 Counterflux
++3 Into the Roil
+
+Version v0.4:
+-------------
+The deck is quite fun but a bit slow to take off.
+Having some earlier defense / counter would help.
+A third magmaquake
 
 v0.3 -> v0.4:
 -------------
