@@ -1,4 +1,5 @@
-Rhys the Redeemed v0.3
+Rhys the Redeemed v0.9
+[sleeved v0.9]
 
 
 |    | *Commander*                |          |          |                                                                                                                                                                                                            |
@@ -16,8 +17,7 @@ Rhys the Redeemed v0.3
 |  1 | Kodama's Reach             | 2G       | sorc     | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                              |
 |  1 | Oracle of Mul Daya         | 3G       | 2/2      | You may play an add land this turn -- Play with top lib revealed, if its a land, you may play it                                                                                                           |
 |  1 | Explosive Vegetation       | 3G       | sorc     | Search your lib for 2 bas land and put them into play tapped.                                                                                                                                              |
-|  1 | Yavimaya Elder             | 1GG      | 2/1      | When dies: u may search ur lib for 2 basic lands and put them into hand -- 2, sacr it: draw a card                                                                                                         |
-|  1 | Mirari's Wake              | 3GW      | ench     | Creats u control gets +1/+1 -- Whenever you tap a land for mana add 1 mana of any type land can produce                                                                                                    |
+| *1 | Mirari's Wake              | 3GW      | ench     | Creats u control gets +1/+1 -- Whenever you tap a land for mana add 1 mana of any type land can produce                                                                                                    |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Equip 3*                  |          |          |                                                                                                                                                                                                            |
 |  1 | Lightning Greaves          | 2        | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                                             |
@@ -25,79 +25,179 @@ Rhys the Redeemed v0.3
 |  1 | Skullclamp                 | 1        | eqp 1    | Eqp creats gets +1/-1 -- When eqp creat dies, draw 2 cards                                                                                                                                                 |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Token Makers 14*          |          |          |                                                                                                                                                                                                            |
-|  1 | Growing Ranks              | 2{gw}x2  | ench     | At beg of ur upk: populate                                                                                                                                                                                 |
-|  1 | Twilight Drover            | 2W       | 1/1      | Whenever a creat token leaves, put a +1c on ~ -- 2W, rem a +1c from ~: put two 1/1 white spirit token w/ flying into play                                                                                  |
+|  1 | Spawnwrithe                | 2G       | 2/2      | Trample -- When deals combat damage to a player, put a token that's a copy of ~ into play                                                                                                                  |
 |  1 | Parallel Lives             | 3G       | ench     | If an effect would put one or more token on u side, put twice that many tokens instead                                                                                                                     |
-|  1 | Hunting Pack               | 5GG      | inst     | Put a 4/4 green beast -- Storm                                                                                                                                                                             |
 |  1 | Entreat the Angels         | xxWWW    | sorc     | Miracle: xWW -- Put X 4/4 angel flying into play                                                                                                                                                           |
 |  1 | Trostani, Selesnya's Voice | GGWW     | 2/5      | Whenever another creat enters under ur control: gain life eq to its toughness -- 1GW, t: populate                                                                                                          |
 |  1 | Increasing Devotion        | 3WW      | sorc     | Flashback 7WW -- Put 5 1/1 human white token into play (10 instead if cast from the graveyard)                                                                                                             |
-|  1 | Advent of the Wurm         | 1GGW     | inst     | Put a 5/5 wurm w/ trample into play                                                                                                                                                                        |
-|  1 | Midnight Haunting          | 2W       | inst     | Put 2 1/1 white spirit token w/ flying into play                                                                                                                                                           |
-|  1 | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
-|  1 | Conqueror's Pledge         | 2WWW     | sorc     | Kicker 6 -- Put six 1/1 white Kor Soldier into play, 12 if kicked                                                                                                                                          |
-|  1 | Master of the Wild Hunt    | 2GG      | 3/3      | Beg upk: put a 2/2 green wolf into play -- t: tap all untap wolf u control, they deal damage eqp to their pow to tgt creat, that creat deals damage back splitted as its controller's choice to the wolves |
 |  1 | Avenger of Zendikar        | 5GG      | 5/5      | When enters, put a 0/1 plant for each land u control -- Landfall: put a +1c on each plant u control                                                                                                        |
 |  1 | Awakening Zone             | 2G       | ench     | Beg upk: put a 0/1 eld pawn token into play w/ "sac: add 1 mana to pool"                                                                                                                                   |
+|  1 | Hornet Queen               | 4GGG     | 2/2 fly  | Deathtouch -- When enters: put four 1/1 green insects w/ flying and deathtouch into play                                                                                                                   |
+|  1 | Symbiotic Wurm             | 5GGG     | 7/7      | When dies, put seven 1/1 green insects into play                                                                                                                                                           |
+|  1 | Trostani's Summoner        | 5GW      | 1/1      | When enters: put a 2/2 white knight, a 3/3 green centaur, and a 4/4 green rhino into play                                                                                                                  |
+|  1 | Storm Herd                 | 8WW      | sorc     | Put X 1/1 white spirit tokens w/ flying into play where X is ur life total                                                                                                                                 |
+|  1 | Bestial Menace             | 3GG      | sorc     | Put a 1/1 green snake, a 2/2 green wolf, and a 3/3 green elephant into play                                                                                                                                |
+| *1 | White Sun's Zenith         | xWWW     | inst     | Put X 2/2 cat token into play, shuffle ~ into its owner's library                                                                                                                                          |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Beefing spells 9*         |          |          |                                                                                                                                                                                                            |
 |  1 | Wilt-Leaf Liege            | 1{gw}x3  | 4/4      | Other green: gets +1/+1, other white: gets +1/+1  -- If a spell an opp control make u discard ~, put it into play instead of the graveyard                                                                 |
 |  1 | Tolsimir Wolfblood         | 4GW      | 3/4      | Other green: gets +1/+1, other white: gets +1/+1 -- t: put a 2/2 green and white leg wolf into play named Voja                                                                                             |
 |  1 | Collective Blessing        | 3GGW     | ench     | Creats u control gets +3/+3                                                                                                                                                                                |
 |  1 | Marshal's Anthem           | 2WW      | ench     | Multikick: 1W -- Creats u control gets +1/+1 -- When enters: return up to X creat from ur graveyard to play where X is # times kicked                                                                      |
-|  1 | Honor of the Pure          | 1W       | ench     | White creats u control gets +1/+1                                                                                                                                                                          |
 |  1 | Intangible Virtue          | 1W       | ench     | Token u control gain vigilance and +1/+1                                                                                                                                                                   |
 |  1 | Cathars' Crusade           | 3WW      | ench     | Whenever a creat enters the battlefield, put a +1c on each creat u control                                                                                                                                 |
-|  1 | Beastmaster Ascension      | 2G       | ench     | When creat u contr attack: put a quest counter on ~ -- Creats u control gain +5/+5 if ~ has 7+ quest counters                                                                                              |
-|  1 | Craterhoof Behemoth        | 5GGG     | 5/5      | Haste -- When enters: creats u control gain trample and +X/+X where X is # of creats u control                                                                                                             |
+| *1 | Craterhoof Behemoth        | 5GGG     | 5/5      | Haste -- When enters: creats u control gain trample and +X/+X where X is # of creats u control                                                                                                             |
+| *1 | Eldrazi Monument           | 5        | art      | Creatures u control are indrestructible and have flying and +1/+1 -- Beg upk: sac a creat or sac ~                                                                                                         |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Search toolbox 3*         |          |          |                                                                                                                                                                                                            |
-|  1 | Green Sun's Zenith         | xG       | sorc     | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                                      |
-|  1 | Idyllic Tutor              | 2W       | sorc     | Search ur lib for an ench card and put it into hand                                                                                                                                                        |
-|  1 | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
+| *1 | Green Sun's Zenith         | xG       | sorc     | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                                      |
+| *1 | Idyllic Tutor              | 2W       | sorc     | Search ur lib for an ench card and put it into hand                                                                                                                                                        |
+| *1 | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Single Spot Removal 6*    |          |          |                                                                                                                                                                                                            |
 |  1 | Oblivion Ring              | 2W       | ench     | When enter, exile tgt perm -- When leave: return that perm to play under its owner's control                                                                                                               |
-|  1 | Path to Exile              | W        | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                                      |
-|  1 | Swords to Plowshares       | W        | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                 |
+| *1 | Path to Exile              | W        | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                                      |
+| *1 | Swords to Plowshares       | W        | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                 |
 |  1 | Luminate Primordial        | 5WW      | 4/7      | Vigilance -- When enter: for each opp, you exile up to one tgt creat that player control, and that player gain life equal to its power                                                                     |
 |  1 | Oblation                   | 2W       | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                                 |
 |  1 | Selesnya Charm             | GW       | inst     | Choose one: tgt creat gets +2/+2 and gain trample OR exile tgt creat w/ pow 5+ OR put a 2/2 white knight token w/ vig into play                                                                            |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Wrath Spells 5*           |          |          |                                                                                                                                                                                                            |
 |  1 | Hour of Reckoning          | 4WWW     | sorc     | Convoke -- Destroy all non token creatures                                                                                                                                                                 |
-|  1 | Day of Judgment            | 2WW      | sorc     | Destroy all creatures                                                                                                                                                                                      |
-|  1 | Wrath of God               | 2WW      | sorc     | Destroy all creatures, they can't be regenerated                                                                                                                                                           |
+| *1 | Day of Judgment            | 2WW      | sorc     | Destroy all creatures                                                                                                                                                                                      |
+| *1 | Wrath of God               | 2WW      | sorc     | Destroy all creatures, they can't be regenerated                                                                                                                                                           |
 |  1 | Terminus                   | 4WW      | sorc     | Miracle W -- Put all creats at the bottom of their owner's lib                                                                                                                                             |
 |  1 | Austere Command            | 4WW      | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                                         |
+| *1 | Martial Coup               | xWW      | sorc     | Put X 1/1 soldier token into play, if X > 5, destroy all other creatures                                                                                                                                   |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Graveyard Retrieval 2*    |          |          |                                                                                                                                                                                                            |
 |  1 | Eternal Witness            | 1GG      | 2/1      | When enters: return tgt card from ur graveyard to hand                                                                                                                                                     |
-|  1 | Recollect                  | 2G       | sorc     | Return tgt card from ur graveyard to hand                                                                                                                                                                  |
+|  1 | Creeping Renaissance       | 3GG      | sorc     | Choose a perm type, return all cards of the choosen type from ur graveyard to your hand -- Flashback 5GG                                                                                                   |
+| *1 | Regrowth                   | 1G       | sorc     | Return tgt card from ur graveyard to your hand                                                                                                                                                             |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Art and Ench destr 5*     |          |          |                                                                                                                                                                                                            |
 |  1 | Relic Crush                | 4G       | inst     | Destr tgt art or ench and up to one other art or ench                                                                                                                                                      |
-|  1 | Ray of Revelation          | 1W       | inst     | Flashback G -- Destroy tgt ench                                                                                                                                                                            |
 |  1 | Sundering Growth           | {gw}{gw} | inst     | Destroy tgt art or ench and populate                                                                                                                                                                       |
 |  1 | Acidic Slime               | 4G       | 2/2      | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                                   |
 |  1 | Aura Shards                | 1GW      | ench     | Whenever a creat enters the battlefield under u control: you may destroy tgt ench or art                                                                                                                   |
+|  1 | Seed Spark                 | 3W       | inst     | Destroy tgt art or ench, if G was spent, put 2 1/1 green saprolin token into play                                                                                                                          |
+| *1 | Return to Dust             | 2WW      | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                                      |
+| *1 | Aura Mutation              | GW       | inst     | Destroy tgt ench, put X 1/1 saprolin into play, where X is its CMC                                                                                                                                         |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *General Helpers 5*        |          |          |                                                                                                                                                                                                            |
-|  1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
-|  1 | Mentor of the Meek         | 2/2      | 2W       | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                                            |
+| *1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
 |  1 | Mimic Vat                  | 3        | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                                      |
 |  1 | Rootborn Defenses          | 2W       | inst     | Populate, creats u control are indestructible this turn                                                                                                                                                    |
-|  1 | Seedborn Muse              | 3GG      | 2/4      | Untap all perm u control during each other player's upk                                                                                                                                                    |
+|  1 | Fresh Meat                 | 3G       | inst     | Put a 3/3 beast for each creat put into ur graveyard this turn                                                                                                                                             |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Lands 36*                 |          |          |                                                                                                                                                                                                            |
 |  1 | Vitu-Ghazi, the City-Tree  |          | land     | t: add 1 -- 2GW, t: put a 1/1 green saprolin token into play                                                                                                                                               |
-|  1 | Temple Garden              |          | land     | Enters tapped unless u pay 2 life -- t: add W or G                                                                                                                                                         |
+| *1 | Temple Garden              |          | land     | Enters tapped unless u pay 2 life -- t: add W or G                                                                                                                                                         |
 |  1 | Grove of the Guardian      |          | land     | t: add 1 -- 3GW, tap 2 untapped creats u control, sacr ~: put a 8/8 green and white elemental token into play                                                                                              |
 |  1 | Ghost Quarter              |          | land     | t: add 1 -- t, sacr it: destroy tgt land, its controller may search his library for a bas land and put it into play                                                                                        |
 |  1 | Oran-Rief, the Vastwood    |          | land     | Enters tapped -- t: add G -- t: put a +1c on each green creat that enters the battlefield this turn                                                                                                        |
 |  1 | Command Tower              |          | land     | t: add one mana of any color in your commander's color identity                                                                                                                                            |
-| 15 | Forest                     |          | bas land |                                                                                                                                                                                                            |
-| 15 | Plains                     |          | bas land |                                                                                                                                                                                                            |
+|  1 | Opal Palace                |          | land     | t: add 1 -- 1, t: add 1 mana of ur cmder color, if spent to cast ur cmder, he enters w/ X counter equals to the # time he got cast from his zone this game.                                                |
+|  1 | Selesnya Sanctuary         |          | land     | Enters tapped -- When enter: return a land u control to hand -- t: add GW                                                                                                                                  |
+|  1 | Tranquil Thicket           |          | land     | Enters tapped -- t: add G -- Cycling G                                                                                                                                                                     |
+|  1 | Secluded Steppe            |          | land     | Enters tapped -- t: add W -- Cycling W                                                                                                                                                                     |
+|  1 | Selesnya Guildgate         |          | land     | Enters tapped -- t: add G or W                                                                                                                                                                             |
+| *1 | Sunpetal Grove             |          | land     | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                                                       |
+| 12 | Forest                     |          | bas land |                                                                                                                                                                                                            |
+| 12 | Plains                     |          | bas land |                                                                                                                                                                                                            |
+|----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *To Consider*              |          |          |                                                                                                                                                                                                            |
+|    | Carnage Altar              | 2        | art      | 3, sacr a creat: draw a card                                                                                                                                                                               |
+|    | Might of the Masses        | G        | inst     | Tgt creat get +X/+X where X is the # of creat u control                                                                                                                                                    |
+|    | Sprout Swarm               | 1G       | inst     | Convoke -- Buyback 3 -- Put a 1/1 green saprolin onto the battlefield                                                                                                                                      |
+|    | Glare of Subdual           | 2GW      | ench     | Tap a creat u control: tap tgt creat or artifact                                                                                                                                                           |
+|----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Advent of the Wurm         | 1GGW     | inst     | Put a 5/5 wurm w/ trample into play                                                                                                                                                                        |
+|    | Master of the Wild Hunt    | 2GG      | 3/3      | Beg upk: put a 2/2 green wolf into play -- t: tap all untap wolf u control, they deal damage eqp to their pow to tgt creat, that creat deals damage back splitted as its controller's choice to the wolves |
+|    | Honor of the Pure          | 1W       | ench     | White creats u control gets +1/+1                                                                                                                                                                          |
+|    | Ray of Revelation          | 1W       | inst     | Flashback G -- Destroy tgt ench                                                                                                                                                                            |
+|    | Recollect                  | 2G       | sorc     | Return tgt card from ur graveyard to hand                                                                                                                                                                  |
+|    | Conqueror's Pledge         | 2WWW     | sorc     | Kicker 6 -- Put six 1/1 white Kor Soldier into play, 12 if kicked                                                                                                                                          |
+|    | Twilight Drover            | 2W       | 1/1      | Whenever a creat token leaves, put a +1c on ~ -- 2W, rem a +1c from ~: put two 1/1 white spirit token w/ flying into play                                                                                  |
+|    | Beastmaster Ascension      | 2G       | ench     | When creat u contr attack: put a quest counter on ~ -- Creats u control gain +5/+5 if ~ has 7+ quest counters                                                                                              |
+|    | Seedborn Muse              | 3GG      | 2/4      | Untap all perm u control during each other player's upk                                                                                                                                                    |
+|    | Sigil Captain              | 1GWW     | 3/3      | When a 1/1 creat enters under ur control, put two +1c on it                                                                                                                                                |
+|    | Spectral Procession        | {wp}x3   | sorc     | Put three 1/1 spirits w/ flying into play                                                                                                                                                                  |
+|    | Geist-Honored Monk         | 3WW      | */*      | Vigilance -- pow/tough equal to # creats u control -- When enters: put two 1/1 white spirit w/ flying into play                                                                                            |
+|    | Hunting Pack               | 5GG      | inst     | Put a 4/4 green beast -- Storm                                                                                                                                                                             |
+|    | Yavimaya Elder             | 1GG      | 2/1      | When dies: u may search ur lib for 2 basic lands and put them into hand -- 2, sacr it: draw a card                                                                                                         |
+|    | Growing Ranks              | 2{gw}x2  | ench     | At beg of ur upk: populate                                                                                                                                                                                 |
+|    | Mentor of the Meek         | 2/2      | 2W       | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                                            |
+|    | Midnight Haunting          | 2W       | inst     | Put 2 1/1 white spirit token w/ flying into play                                                                                                                                                           |
+|    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
+
+v0.8 -> v0.9:
+-------------
+-3 Forest
+-2 Plains
++1 Selesnya Sanctuary
++1 Tranquil Thicket
++1 Secluded Steppe
++1 Selesnya Guildgate
++1 Sunpetal Grove
+
+Version v0.8:
+-------------
+The addition of the destroy art/ench with saprolin generator has been a huge win!
+I should consider other cards in that category...
+
+v0.7 -> v0.8:
+-------------
+-1 Advent of the Wurm
+-1 Master of the Wild Hunt
+-1 Honor of the Pure
+-1 Ray of Revelation
+-1 Recollect
++1 White Sun's Zenith
++1 Seed Sparks
++1 Return to Dusk
++1 Aura Mutilation
++1 Regrowth
+
+v0.6 -> v0.7:
+-------------
+-1 Conqueror's Pledge
++1 Fresh Meat
+
+v0.5 -> v0.6:
+-------------
+-1 Sigil Captain
++1 Eldrazi Monument
+-1 Twilight Drover
++1 Marial Coup
+-1 Plains
++1 Opal Palace
+
+v0.4 -> v0.5:
+-------------
+-1 Beastmaster Ascension
++1 Trostani's Summoner
+-1 Seedborn Muse
++1 Creeping Renaissance
+
+Version 0.4:
+------------
+Not sure about Seedborn Muse.
+
+v0.3 -> v0.4:
+-------------
+-1 Yavimaya Elder
+-1 Growing Ranks
+-1 Midning Haunting
+-1 Wolfbriar Elemental
+-1 Mentor of the Meek
+-1 Hunting Pack
++1 Bestial Menace
++1 Spawnwrithe
++1 Symbiotic Wurm
++1 Hornet Queen
++1 Sigil Captain
++1 Spectral Procession
 
 Version 0.3:
 ------------
@@ -110,6 +210,7 @@ To Consider:
 - Tooth and Nail
 - Caged Sun
 - Gauntlet of Power
+- Also: anti flyer!
 
 v0.2 -> v0.3:
 -------------
