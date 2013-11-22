@@ -33,7 +33,7 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 1 | Drogskol Reaver            | 5UW  | 3/5      | Double strike; Lifelink; Flying -- When u gain life, draw a card                                                             |
 |   |                            |      |          |                                                                                                                              |
 |   | *Planeswalker: 3*          |      |          |                                                                                                                              |
-| 3   | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
+| 3 | Liliana of the Veil        | 1BB  | plwr 3   | +1: each player discards -- -2: tgt player sacr -- -6: split perm of tgt player in two pile, opp choose 1 and sacr the other |
 |   |                            |      |          |                                                                                                                              |
 |   | *Control: 13*              |      |          |                                                                                                                              |
 | 3 | Mana Leak                  | 1U   | inst     | Counter tgt player unless its controller pays 3                                                                              |
@@ -55,7 +55,7 @@ Exc: 6CMC+ excluded, since there are other way to cast them!
 | 4 | Darkslick Shore            |      | land     | comes tapped unless u control 2 or less other lands -- t: add B or U                                                         |
 | 3 | Seachrome Coast            |      | land     | comes tapped unless u control 2 or less other lands -- t: add W or U                                                         |
 | 2 | Drowned Catacomb           |      | land     | comes tapped unless u control an island or a swamp -- t: add U or B                                                          |
-| ***3 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
+| 3 | Isolated Chapel            |      | land     | comes tapped unless u control a plain or a swamp -- t: add W or B                                                            |
 | 3 | Glacial Fortress           |      | land     | comes tapped unless u control a plain or an island -- t: add W or U                                                          |
 | 2 | Nephalia Drownyard         |      | land     | t: add 1 -- 1UB, t: mill 3 cards                                                                                             |
 | 3 | Swamp                      |      | bas land |                                                                                                                              |
