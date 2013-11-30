@@ -1,4 +1,4 @@
-Rhys the Redeemed v0.9
+Rhys the Redeemed v1.0
 [sleeved v0.9]
 
 
@@ -51,7 +51,7 @@ Rhys the Redeemed v0.9
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Search toolbox 3*         |          |          |                                                                                                                                                                                                            |
 | *1 | Green Sun's Zenith         | xG       | sorc     | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                                      |
-| *1 | Idyllic Tutor              | 2W       | sorc     | Search ur lib for an ench card and put it into hand                                                                                                                                                        |
+| *1 | Enlightment Tutor          | W        | inst     | Search lib for ench or art and put it on top                                                                                                                                                               |
 | *1 | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Single Spot Removal 6*    |          |          |                                                                                                                                                                                                            |
@@ -112,6 +112,7 @@ Rhys the Redeemed v0.9
 |    | Sprout Swarm               | 1G       | inst     | Convoke -- Buyback 3 -- Put a 1/1 green saprolin onto the battlefield                                                                                                                                      |
 |    | Glare of Subdual           | 2GW      | ench     | Tap a creat u control: tap tgt creat or artifact                                                                                                                                                           |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Idyllic Tutor              | 2W       | sorc     | Search ur lib for an ench card and put it into hand                                                                                                                                                        |
 |    | Advent of the Wurm         | 1GGW     | inst     | Put a 5/5 wurm w/ trample into play                                                                                                                                                                        |
 |    | Master of the Wild Hunt    | 2GG      | 3/3      | Beg upk: put a 2/2 green wolf into play -- t: tap all untap wolf u control, they deal damage eqp to their pow to tgt creat, that creat deals damage back splitted as its controller's choice to the wolves |
 |    | Honor of the Pure          | 1W       | ench     | White creats u control gets +1/+1                                                                                                                                                                          |
@@ -131,6 +132,18 @@ Rhys the Redeemed v0.9
 |    | Midnight Haunting          | 2W       | inst     | Put 2 1/1 white spirit token w/ flying into play                                                                                                                                                           |
 |    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
 
+
+v0.9 -> v1.0:
+-------------
+-1 Idyllic Tutor
++1 Enlightment Tutor
+
+
+Version 0.9:
+------------
+Idyllic Tutor cost too much most of the time.
+
+
 v0.8 -> v0.9:
 -------------
 -3 Forest
@@ -141,10 +154,12 @@ v0.8 -> v0.9:
 +1 Selesnya Guildgate
 +1 Sunpetal Grove
 
+
 Version v0.8:
 -------------
 The addition of the destroy art/ench with saprolin generator has been a huge win!
 I should consider other cards in that category...
+
 
 v0.7 -> v0.8:
 -------------
@@ -159,10 +174,12 @@ v0.7 -> v0.8:
 +1 Aura Mutilation
 +1 Regrowth
 
+
 v0.6 -> v0.7:
 -------------
 -1 Conqueror's Pledge
 +1 Fresh Meat
+
 
 v0.5 -> v0.6:
 -------------
@@ -173,6 +190,7 @@ v0.5 -> v0.6:
 -1 Plains
 +1 Opal Palace
 
+
 v0.4 -> v0.5:
 -------------
 -1 Beastmaster Ascension
@@ -180,9 +198,11 @@ v0.4 -> v0.5:
 -1 Seedborn Muse
 +1 Creeping Renaissance
 
+
 Version 0.4:
 ------------
 Not sure about Seedborn Muse.
+
 
 v0.3 -> v0.4:
 -------------
@@ -199,6 +219,7 @@ v0.3 -> v0.4:
 +1 Sigil Captain
 +1 Spectral Procession
 
+
 Version 0.3:
 ------------
 The deck feels like it's finally getting there.
@@ -212,6 +233,7 @@ To Consider:
 - Gauntlet of Power
 - Also: anti flyer!
 
+
 v0.2 -> v0.3:
 -------------
 -1 Blade Splicer
@@ -224,6 +246,7 @@ v0.2 -> v0.3:
 +1 Graterhoof Behemoth
 +1 Sterling Grove
 +1 Sylvan Library
+
 
 v0.1 -> v0.2:
 -------------
