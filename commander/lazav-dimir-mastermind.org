@@ -1,5 +1,5 @@
-Lazav, Dimir Mastermind v1.4
-[sleeved: v1.1]
+Lazav, Dimir Mastermind v1.5
+[sleeved: v1.6]
 
 
 |    | *Commander*                |         |             |                                                                                                                                                                                       |
@@ -23,6 +23,7 @@ Lazav, Dimir Mastermind v1.4
 |  1 | Underworld Connections     | 1BB     | aura        | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                  |
 |  1 | Rhystic Study              | 2U      | ench        | Whenever opp plays a spell, u may draw a card unless he pays 1                                                                                                                        |
 |  1 | Consecrated Sphinx         | 4UU     | 4/6 fly     | When an opp draw: u may draw 2 cards                                                                                                                                                  |
+|  1 | Dimir Cutpurse             | 1BU     | 2/2         | When deals combat damage: that player discard and u draw                                                                                                                              |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Mill Helpers 7*           |         |             |                                                                                                                                                                                       |
 |  1 | Glimpse the Unthinkable    | UB      | sorc        | Tgt players mills 10                                                                                                                                                                  |
@@ -52,7 +53,6 @@ Lazav, Dimir Mastermind v1.4
 | *1 | Yawgmoth's Will            | 2B      | sorc        | Until eot, u may play card from your graveyard. Exile each cards casted that way.                                                                                                     |
 | *1 | Memory Plunder             | {ub}x4  | inst        | You may cast tgt inst or sorc from an opp graveyard w/o paying its mana cost                                                                                                          |
 |  1 | Body Double                | 4U      | 0/0         | You may have body double enter as a copy of a creat in a graveyard                                                                                                                    |
-|  1 | Havengul Lich              | 3UB     | 4/4         | 1: you may cast a creature from a graveyard.  ~ gains all ability of that card until EOT.                                                                                             |
 |  1 | Geth, Lord of the Vault    | 4BB     | 5/5 int     | xB: put tgt art or creature w/ CMC X from an opp graveyard into play under your control, that player mills X cards                                                                    |
 |  1 | Wrexial, the Risen Deep    | 3UUB    | 5/8 leg     | Islandwalk, Swampwalk -- When deals combat damage, you may cast an inst or sorc spell from that player's graveyard w/o paying its mana cost, exile it                                 |
 |  1 | Sepulchral Primordial      | 5BB     | 5/4 int     | When enter, for each opp, put a creature card from their graveyard into play under your control                                                                                       |
@@ -80,6 +80,7 @@ Lazav, Dimir Mastermind v1.4
 |  1 | Consume the Meek           | 3BB     | inst        | Destroy all creatures with CMC 3 or less -- They can't be regen                                                                                                                       |
 |  1 | Life's Finale              | 4BB     | sorc        | Destroy all creatures, search for tgt players library for 3 creatures and put them into its graveyard                                                                                 |
 |  1 | Decree of Pain             | 6BB     | sorc        | Destroy all creats, they can't be regen -- Cycling: 3BB -- When u cycle ~: all creats gets -2/-2                                                                                      |
+|  1 | Plague Wind                | 7BB     | sorc        | Destroy all creats u don't control, they can't be regen                                                                                                                               |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Single tgt removal 4*     |         |             |                                                                                                                                                                                       |
 |  1 | Go for the Throat          | 1B      | inst        | Destroy tgt non art creature                                                                                                                                                          |
@@ -89,7 +90,6 @@ Lazav, Dimir Mastermind v1.4
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Pressure 2*               |         |             |                                                                                                                                                                                       |
 | *1 | Thassa, God of the Sea     | 2U      | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                                   |
-|  1 | Lord of the Void           | 4BBB    | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Lands 37*                 |         |             |                                                                                                                                                                                       |
 | *1 | Shizo, Death's Storehouse  |         | leg land    | t: add B -- B, t: tgt leg creature gains fear                                                                                                                                         |
@@ -121,19 +121,24 @@ Lazav, Dimir Mastermind v1.4
 |    | /Helper/                   |         |             |                                                                                                                                                                                       |
 |    | Sensei's Divining Top      | 1       | art         | 1: look top 3 card put back in any order -- t: draw a card then put sensei on top of lib                                                                                              |
 |    | Bloodchief Ascension       | B       | ench        | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard                                           |
-|    | Dimir Cutpurse             | 1BU     | 2/2         | When deals combat damage: that player discard and u draw                                                                                                                              |
+|    | Altar of Dementia          | 2       | art         | Sacr a creat: tgt player mill equals to that creat's power                                                                                                                            |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | /Ramp/                     |         |             |                                                                                                                                                                                       |
-|    | Chromatic Lantern          | 3       | art      | Lands u control have: t: add one mana any color to mana pool -- t: add 1 mana any color to mana pool                                                      |
+|    | Chromatic Lantern          | 3       | art         | Lands u control have: t: add one mana any color to mana pool -- t: add 1 mana any color to mana pool                                                                                  |
 |    | Sculpting Steel            | 3       | art         | Enters as a copy of any artifact                                                                                                                                                      |
 |    | Copy Artifact              | 1U      | ench        | Enter a a copy of an artifact abd it's still an enchantment                                                                                                                           |
+|    | Terran Generator           |         | land        | t: add 1 -- 2, t: put a basic land from hand to play tapped                                                                                                                           |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | /Search Toolbox/           |         |             |                                                                                                                                                                                       |
 |    | Mystical Tutor             | U       | inst        | Search lib for inst or sorc. Put that card on top of it                                                                                                                               |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | /Graveyard Hate/           |         |             |                                                                                                                                                                                       |
 |    | Crypt Incursion            | 2B      | inst        | Exile all creats from tgt player's graveyard, you gain 3 life for each card exiled this way                                                                                           |
+|    | Volrath's Stronghold       |         | land        | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of lib                                                                                                                      |
 |----+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1 | Lord of the Void           | 4BBB    | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
+|  1 | Havengul Lich              | 3UB     | 4/4         | 1: you may cast a creature from a graveyard.  ~ gains all ability of that card until EOT.                                                                                             |
+|    |                            |         |             |                                                                                                                                                                                       |
 |    | Nemesis of Reason          | 3UB     | 3/7         | When attacks: defending player mill 10 cards                                                                                                                                          |
 |    | Mindcrank                  | 2       | art         | When opp loose life, he put that many cards from top of lib to his or her graveyard                                                                                                   |
 |    | Necrotic Ooze              | 2BB     | 4/3         | Has activated ability of all creatures in all graveyard                                                                                                                               |
@@ -159,6 +164,17 @@ Lazav, Dimir Mastermind v1.4
 |    | River of Tears             |         | land        | t: add U to mana pool, if you played another land: add B instead                                                                                                                      |
 |    |                            |         |             |                                                                                                                                                                                       |
 
+v1.5 -> v1.6:
+-------------
+-1 Clutch of the Undercity
++1 Aura Thief
+
+v1.4 -> v1.5:
+-------------
+-1 Havengoul Lich
+-1 Lord of the Void
++1 Plague Wind
++1 Dimir Cutpurse
 
 v1.3 -> v1.4:
 -------------
