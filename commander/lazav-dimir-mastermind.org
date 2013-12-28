@@ -1,4 +1,4 @@
-Lazav, Dimir Mastermind v1.5
+Lazav, Dimir Mastermind v1.6
 [sleeved: v1.6]
 
 
@@ -86,10 +86,10 @@ Lazav, Dimir Mastermind v1.5
 |  1 | Go for the Throat          | 1B      | inst        | Destroy tgt non art creature                                                                                                                                                          |
 |  1 | Hero's Downfall            | 1BB     | inst        | Destroy tgt creat or planeswalker                                                                                                                                                     |
 |  1 | Far // Away                | 1U / 2B | inst / inst | Ret tgt creat to owner's hand -- Tgt player sac a creature                                                                                                                            |
-|  1 | Clutch of the Undercity    | 1UUB    | inst        | Return tgt perm to its owner's hand, that controller loses 3 life                                                                                                                     |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Pressure 2*               |         |             |                                                                                                                                                                                       |
 | *1 | Thassa, God of the Sea     | 2U      | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                                   |
+|  1 | Aura Thief                 | 3U      | 2/2 fly     | When dies: gain control of all enchantments                                                                                                                                           |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | *Lands 37*                 |         |             |                                                                                                                                                                                       |
 | *1 | Shizo, Death's Storehouse  |         | leg land    | t: add B -- B, t: tgt leg creature gains fear                                                                                                                                         |
@@ -122,6 +122,7 @@ Lazav, Dimir Mastermind v1.5
 |    | Sensei's Divining Top      | 1       | art         | 1: look top 3 card put back in any order -- t: draw a card then put sensei on top of lib                                                                                              |
 |    | Bloodchief Ascension       | B       | ench        | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard                                           |
 |    | Altar of Dementia          | 2       | art         | Sacr a creat: tgt player mill equals to that creat's power                                                                                                                            |
+|    | Praetor's Grasp            | 1BB     | sorc        | Search opp's lib for a card exile it, u may cast it as long as it remains exiled.                                                                                                     |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | /Ramp/                     |         |             |                                                                                                                                                                                       |
 |    | Chromatic Lantern          | 3       | art         | Lands u control have: t: add one mana any color to mana pool -- t: add 1 mana any color to mana pool                                                                                  |
@@ -136,8 +137,9 @@ Lazav, Dimir Mastermind v1.5
 |    | Crypt Incursion            | 2B      | inst        | Exile all creats from tgt player's graveyard, you gain 3 life for each card exiled this way                                                                                           |
 |    | Volrath's Stronghold       |         | land        | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of lib                                                                                                                      |
 |----+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1 | Lord of the Void           | 4BBB    | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
-|  1 | Havengul Lich              | 3UB     | 4/4         | 1: you may cast a creature from a graveyard.  ~ gains all ability of that card until EOT.                                                                                             |
+|    | Clutch of the Undercity    | 1UUB    | inst        | Return tgt perm to its owner's hand, that controller loses 3 life                                                                                                                     |
+|    | Lord of the Void           | 4BBB    | 7/7 fly     | When deals combat damage to a player, that player exiles top 7 cards of his lib, you put a creature card from it into play under ur control                                           |
+|    | Havengul Lich              | 3UB     | 4/4         | 1: you may cast a creature from a graveyard.  ~ gains all ability of that card until EOT.                                                                                             |
 |    |                            |         |             |                                                                                                                                                                                       |
 |    | Nemesis of Reason          | 3UB     | 3/7         | When attacks: defending player mill 10 cards                                                                                                                                          |
 |    | Mindcrank                  | 2       | art         | When opp loose life, he put that many cards from top of lib to his or her graveyard                                                                                                   |
