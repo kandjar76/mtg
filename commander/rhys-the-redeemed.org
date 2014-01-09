@@ -1,5 +1,5 @@
-Rhys the Redeemed v1.1
-[sleeved v1.1]
+Rhys the Redeemed v1.3
+[sleeved v1.3]
 
 Missing:
 - Craterhoof Behemoth
@@ -11,7 +11,6 @@ Missing:
 - Enlightment Tutor
 - Martial Coup
 - Aura Mutilation
-- Sterling Grove
 - Sylvan Library
 
 
@@ -32,10 +31,9 @@ Missing:
 |  1 | Explosive Vegetation       | 3G       | sorc     | Search your lib for 2 bas land and put them into play tapped.                                                                                                                                              |
 | *1 | Mirari's Wake              | 3GW      | ench     | Creats u control gets +1/+1 -- Whenever you tap a land for mana add 1 mana of any type land can produce                                                                                                    |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *Equip 3*                  |          |          |                                                                                                                                                                                                            |
+|    | *Equip 2*                  |          |          |                                                                                                                                                                                                            |
 |  1 | Lightning Greaves          | 2        | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                                             |
 |  1 | Moonsilver Spear           | 4        | eqp 4    | Eqp creat has first strike -- Whenever eqp creat attack: put a 4/4 white Angel token w/ flying into play                                                                                                   |
-|  1 | Skullclamp                 | 1        | eqp 1    | Eqp creats gets +1/-1 -- When eqp creat dies, draw 2 cards                                                                                                                                                 |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Token Makers 11*          |          |          |                                                                                                                                                                                                            |
 |  1 | Spawnwrithe                | 2G       | 2/2      | Trample -- When deals combat damage to a player, put a token that's a copy of ~ into play                                                                                                                  |
@@ -63,7 +61,7 @@ Missing:
 |    | *Search toolbox 3*         |          |          |                                                                                                                                                                                                            |
 |  1 | Green Sun's Zenith         | xG       | sorc     | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                                      |
 | *1 | Enlightment Tutor          | W        | inst     | Search lib for ench or art and put it on top                                                                                                                                                               |
-| *1 | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
+|  1 | Academy Rector             | 3W       | 1/2      | When dies, u may exile it, if so: search lib for an ench and put it on the battlefield                                                                                                                     |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Single Spot Removal 6*    |          |          |                                                                                                                                                                                                            |
 |  1 | Oblivion Ring              | 2W       | ench     | When enter, exile tgt perm -- When leave: return that perm to play under its owner's control                                                                                                               |
@@ -95,13 +93,14 @@ Missing:
 |  1 | Return to Dust             | 2WW      | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                                      |
 | *1 | Aura Mutation              | GW       | inst     | Destroy tgt ench, put X 1/1 saprolin into play, where X is its CMC                                                                                                                                         |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *General Helpers 6*        |          |          |                                                                                                                                                                                                            |
+|    | *General Helpers 7*        |          |          |                                                                                                                                                                                                            |
 | *1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
 |  1 | Mimic Vat                  | 3        | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                                      |
 |  1 | Rootborn Defenses          | 2W       | inst     | Populate, creats u control are indestructible this turn                                                                                                                                                    |
 |  1 | Fresh Meat                 | 3G       | inst     | Put a 3/3 beast for each creat put into ur graveyard this turn                                                                                                                                             |
 |  1 | Defense of the Heart       | 3G       | ench     | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                                                                                   |
 | *1 | Tooth and Nail             | 5GG      | sorc     | Choose one: Search your lib for 2 creatures cards put them in ur hand OR Put two creatures from your hand to play -- Entwine 2                                                                             |
+|  1 | Priviledged Position       | 2{gw}x3  | ench     | Other permanent u control have hexproof                                                                                                                                                                    |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Lands 36*                 |          |          |                                                                                                                                                                                                            |
 |  1 | Vitu-Ghazi, the City-Tree  |          | land     | t: add 1 -- 2GW, t: put a 1/1 green saprolin token into play                                                                                                                                               |
@@ -129,6 +128,8 @@ Missing:
 |  + | Primeval Bounty            | 5G       | ench     | When u cast a creat spell: put a 3/3 beast token into play -- When u cast a non creat spell: put 3 +1c on tgt creat u control -- When a land enters under ur control: gain 3 life                          |
 |  + | Krosan Verge               |          | land     | Enters tapped -- t: add 1 -- 2, t, sacr: search for a Plains and a Forest and put them into play tapped.                                                                                                   |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Skullclamp                 | 1        | eqp 1    | Eqp creats gets +1/-1 -- When eqp creat dies, draw 2 cards                                                                                                                                                 |
+|    | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
 |    | Symbiotic Wurm             | 5GGG     | 7/7      | When dies, put seven 1/1 green insects into play                                                                                                                                                           |
 |    | Storm Herd                 | 8WW      | sorc     | Put X 1/1 white spirit tokens w/ flying into play where X is ur life total                                                                                                                                 |
 |    | Eldrazi Monument           | 5        | art      | Creatures u control are indrestructible and have flying and +1/+1 -- Beg upk: sac a creat or sac ~                                                                                                         |
@@ -154,10 +155,25 @@ Missing:
 |    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
 
 
+v1.2 -> v1.3:
+-------------
+
+Version 1.2:
+------------
+Another card, even though powerful leave me perplex in this deck: Skullclamp.
+
+v1.1 -> v1.2:
+-------------
+-1 Sterling Grove
++1 Privileged Position
+
 Version 1.1:
 ------------
 Have yet to see the non-land card I replaced; but got Gavony twice already and it has been very helpful already!
 
+I'm not too convinced with Sterling Grove.
+I barely use it to search unless someone destroy it.
+I'm gonna try: Privileged Position, so it will also protect, non ench perm.
 
 v1.0 -> v1.1:
 -------------
