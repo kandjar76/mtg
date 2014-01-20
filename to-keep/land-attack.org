@@ -1,0 +1,31 @@
+
+
+|    | *Land Playground*   |       |      |                                                                                                                                                            |
+|  4 | Seismic Assault     | RRR   | ench | Discard a land: deals 2 damage to tgt creat or land                                                                                                        |
+|  4 | Life from the Loam  | 1G    | sorc | Dredge 3 -- Return 3 lands from graveyard to hand.                                                                                                         |
+|  2 | Lightning Storm     | 1RR   | inst | Deals 3x # counters to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability. |
+|  2 | Crucible of Worlds  | 3     | art  | You may play land from your graveyard                                                                                                                      |
+|  2 | Crop Rotation       | G     | inst | Add cost: sacr a land -- Search your library for a land and put it on the battlefield                                                                      |
+|    |                     |       |      |                                                                                                                                                            |
+|    | *Draw/Ramp*         |       |      |                                                                                                                                                            |
+|  4 | Explore             | 1G    | sorc | You may play an additional land this turn.  Draw a card.                                                                                                   |
+|  4 | Harrow              | 2G    | inst | Add cost, sacr a land: search your lib for up to two basic land and put them into play.                                                                    |
+|  4 | Harmonize           | 2GG   | sorc | Draw 3 cards                                                                                                                                               |
+|  3 | Mulch               | 1G    | sorc | Reveal top 4 cards, put all lands into hand, rest in the graveyard.                                                                                        |
+|  1 | Rites of Spring     | 1G    | sorc | Discards N cards, search for N basic lands, put them into hand.                                                                                            |
+|    |                     |       |      |                                                                                                                                                            |
+|    | *Some other beater* |       |      |                                                                                                                                                            |
+|  4 | Borborygmos Enraged | 4RRGG | 7/6  | Trample -- When deals combat damage: lookt at top 3 cards, put all land in hand, rest in the graveyard                                                     |
+|    |                     |       |      |                                                                                                                                                            |
+|    | *Lands*             |       |      |                                                                                                                                                            |
+|  8 | Forest              |       |      |                                                                                                                                                            |
+| 16 | Mountain            |       |      |                                                                                                                                                            |
+|  2 | Tectonic Edge       |       |      |                                                                                                                                                            |
+|----+---------------------+-------+------+------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Valleymaker         | 5{rg} | 5/5  | t, sacr a mountain: deals 3 damage to tgt creat -- t, sacr a forest: choose a player, that players add GGG to his mana pool                                |
+|    | Seek the Horizon    | 3G    | sorc | Search for 3 basic lands, put them into hands.                                                                                                             |
+|    |                     |       |      |                                                                                                                                                            |
+|    | Scythe Tiger        | G     | 3/2  | Shroud - When Enter: sacr it unless u sacr a land                                                                                                          |
+|    | Edge of Autumn      | 1G    | sorc | If you control 4 of fewer land, searc your lib for a basic land and put it into play tapped -- Cycling: sacr a land                                        |
+|    | Shard Volley        | R     | inst | Add cost, sacr a land: deals 3 damage to tgt creat or player                                                                                               |
+|    | Zuran Orb           | 0     | art  | Sacr a land: you gain 2 life                                                                                                                               |
