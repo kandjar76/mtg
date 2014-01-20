@@ -1,164 +1,285 @@
-Sydri, Galvanic Genius v0.6
+Sydri, Galvanic Genius v2.2
 [not yet sleeved]
 
+|   | *Commander*                |        |          |                                                                                                                                                                                       |
+| 1 | Sydri, Galvanic Genius     | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                                         |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Planeswalker 2*           |        |          |                                                                                                                                                                                       |
+| 1 | Tezzeret, Agent of Bolas   | 2UB    | plwr 3   | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control                      |
+| 1 | Tezzeret the Seeker        | 3UU    | plwr 4   | +1: Untap 2 tgt artifact -- -X: Search lib for an art w/ CMC X or less and put into play -- -5: Artifacts u control become 5/5 creatures until eot                                    |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Mana Ramp 11*             |        |          |                                                                                                                                                                                       |
+| 1 | Azorius Signet             | 2      | art      | 1, t: add WU to mana pool                                                                                                                                                             |
+| 1 | Dimir Signet               | 2      | art      | 1, t: add UB to mana pool                                                                                                                                                             |
+| 1 | Orzhov Signet              | 2      | art      | 1, t: add WB to mana pool                                                                                                                                                             |
+| 1 | Azorius Cluestone          | 3      | art      | t: add W or U to mana pool -- WU, t, sacr it: draw a card                                                                                                                             |
+| 1 | Dimir Cluestone            | 3      | art      | t: add U or B to mana pool -- UB, t, sacr it: draw a card                                                                                                                             |
+| 1 | Orzhov Cluestone           | 3      | art      | t: add W or B to mana pool -- WB, t, sacr it: draw a card                                                                                                                             |
+| 1 | Azorius Keyrune            | 3      | art      | t: add W or U to mana pool -- WU: ~ becomes a 2/2 flying bird until eot                                                                                                               |
+| 1 | Dimir Keyrune              | 3      | art      | t: add U or B to mana pool -- UB: ~ becomes a 2/2 unblockable horror until eot                                                                                                        |
+| 1 | Orzhov Keyrune             | 3      | art      | t: add W or B to mana pool -- WB: ~ beocmes a 1/4 lifelink thrull until eot                                                                                                           |
+| 1 | Mox Opal                   | 0      | art      | Metalcraft: "t: add 1 mana any color to your mana pool"                                                                                                                               |
+| 1 | Sol Ring                   | 1      | art      | t: add 2 to mana pool                                                                                                                                                                 |
+| 1 | Darksteel Ingot            | 3      | art      | Indestructible -- t: add 1 mana any color to mana pool                                                                                                                                |
+| 1 | Obelisk of Esper           | 3      | art      | t: add W, U or B to mana pool                                                                                                                                                         |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *1 CMC artifact*           |        |          |                                                                                                                                                                                       |
+| 1 | Executioner's Capsule      | B      | art      | 1B, t, sacr it: Destroy tgt nonblack creature                                                                                                                                         |
+| 1 | Expedition Map             | 1      | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                                                    |
+| 1 | Codex Shredder             | 1      | art      | t: tgt player mills 1 -- 5, t, sacr ~: return tgt card from ur graveyard to ur hand                                                                                                   |
+| 1 | Nihil Spellbomb            | 1      | art      | t, sacr it: Exile tgt player's graveyard -- When put to grave from play, you may pay B to draw                                                                                        |
+| 1 | Glaring Spotlight          | 1      | art      | Creats ur opp control w/ hexproof can be targetted -- 3, sacr it: creats u control gain hexproof and are unblockable until eot                                                        |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *1 CNC artifact combo*     |        |          |                                                                                                                                                                                       |
+| 1 | Trinket Mage               | 2U     | 2/2      | When enters: search for an art with CMC 1- and put it into your hand                                                                                                                  |
+| 1 | Salvaging Station          | 6      | art      | t: return tgt artifact w/ CMC 1- from ur graveyard to play -- When a creat dies: untap ~                                                                                              |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Counterspells*            |        |          |                                                                                                                                                                                       |
+| 1 | Muddle the Mixture         | UU     | inst     | Transmute 1UU -- Counter tgt instant or sorcery spell                                                                                                                                 |
+| 1 | Dromar's Charm             | WUB    | inst     | Choose one: You gain 5 life OR counter tgt spell OR tgt creat gets -2/-2 until eot                                                                                                    |
+| 1 | Spell Crumple              | 1UU    | inst     | Counter tgt spell, if the spell is countered that way, put it on the bottom of the library. Put ~ on the bottom of the lib                                                            |
+| 1 | Dissipate                  | 1UU    | inst     | Counter tgt spell, if countered: exile it instead                                                                                                                                     |
+| 1 | Perplex                    | 1UB    | inst     | Transmute 1UB -- Counter tgt spell unless its controller discard his or her hand                                                                                                      |
+| 1 | Stoic Rebuttal             | 1UU    | inst     | Metalcraft: cost 1 less -- Counter tgt spell                                                                                                                                          |
+| 1 | Hinder                     | 1UU    | inst     | Counter tgt spell, if countered: put it on top or bottom of owner's lib                                                                                                               |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Mass Removal*             |        |          |                                                                                                                                                                                       |
+| 1 | Merciless Eviction         | 4WB    | sorc     | Choose 1 -- Exile all art OR exile all ench OR exile all creats OR exile all planeswalkers                                                                                            |
+| 1 | Cyclonic Rift              | 1U     | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                         |
+| 1 | Austere Command            | 4WW    | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                    |
+| 1 | All Is Dust                | 7      | sorc     | Each player sacr all colored perm he controls                                                                                                                                         |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Single target removal*    |        |          |                                                                                                                                                                                       |
+| 1 | Dispatch                   | W      | inst     | Tap tgt creature -- Metalcraft: exile it instead                                                                                                                                      |
+| 1 | Oblation                   | 2W     | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                            |
+| 1 | Proteus Staff              | 3      | art      | 2U, t: put tgt creat at bottom of lib, that creat's controller reveals top card until he reveals a creat, put the creat into play, and the rest at the bottom of the lib (sorc speed) |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Enchantment removals*     |        |          |                                                                                                                                                                                       |
+| 1 | Return to Dust             | 2WW    | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                 |
+| 1 | Revoke Existence           | 1W     | sorc     | Exile tgt art or enchantment                                                                                                                                                          |
+| 1 | Leave No Trace             | 1W     | inst     | Destroy tgt enchant and all enchant that share a color with                                                                                                                           |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Search toolbox*           |        |          |                                                                                                                                                                                       |
+| 1 | Treasure Mage              | 2U     | 2/2      | When enters: search for an art with CMC 6+ and put it into your hand                                                                                                                  |
+| 1 | Diabolic Revelation        | x3BB   | sorc     | Search your lib for X cards and put them into your hand                                                                                                                               |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Ccreatures*               |        |          |                                                                                                                                                                                       |
+| 1 | Baleful Strix              | UW     | 1/1 fly  | When enter: draw a card                                                                                                                                                               |
+| 1 | Solemn Simulacrum          | 4      | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                                                   |
+| 1 | Sharuum the Hegemon        | 3WUB   | 5/5 art  | Flying -- When enter: return tgt art from graveyard to play                                                                                                                           |
+| 1 | Wurmcoil Engine            | 6      | 6/6 art  | Deathtouch, lifelink -- When dies: put a 3/3 wurm w/ deathtouch and a 3/3 wurm w/ lifelink into play                                                                                  |
+| 1 | Triskelion                 | 6      | 1/1 art  | Enters w/ 3 +1c -- Remove a +1c from ~: deals 1 damage to tgt creat or player                                                                                                         |
+| 1 | Myr Battlesphere           | 7      | 4/7 art  | When enters: put 4 1/1 myr token into play -- When attack, you may tap X untapped myr: gets +X/0 and deals X damage to defending player                                               |
+| 1 | Sphinx of the Steel Wind   | 5WUB   | 6/6 art  | Flying, first strike, vigilance, lifelink, pro-red, pro-green                                                                                                                         |
+| 1 | Enigma Sphinx              | 4WUB   | 5/4 fly  | Cascade -- When dies: put it into your lib, third from the top                                                                                                                        |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Helpers*                  |        |          |                                                                                                                                                                                       |
+| 1 | Spellskite                 | 2      | 0/4 art  | {pu}: Redirect tgt spell or ability to ~                                                                                                                                              |
+| 1 | Nim Deathmantle            | 2      | eqp 4    | Eqp creats gets "+2/+2 and intimidate" and is a black zombie -- Whenever non token creat is put into ur graveyard, you may pay 4, if so: return it to play and attach ~ to it         |
+| 1 | Ichor Wellspring           | 2      | art      | When enters or put into the graveyard from play: draw a card                                                                                                                          |
+| 1 | Thirst for Knowledge       | 2U     | inst     | Draw 3 then discard 2 unless u discarded an artifact                                                                                                                                  |
+| 1 | Fabricate                  | 2U     | sorc     | Search an art and put it in ur hand                                                                                                                                                   |
+| 1 | Scarecrone                 | 3      | 1/2 art  | 1: sacr a scarecrow -- 4: return tgt art from graveyard to play                                                                                                                       |
+| 1 | Mimic Vat                  | 3      | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                 |
+| 1 | Vedalken Orrery            | 4      | art      | You may cast non land cards any time you could play an instant                                                                                                                        |
+| 1 | Unwinding Clock            | 4      | art      | Untap all artifacts u control during each other player's upkeep                                                                                                                       |
+| 1 | Trading Post               | 4      | art      | 1, t, discard: gain 4 life -- 1, t, pay 1: put a 0/1 goat into play -- 1, t, sacr creat: return tgt art from grave to hand -- 1, t, sacr art: draw a card                             |
+| 1 | Tower of Fortunes          | 4      | art      | 8, t: draw 4 cards                                                                                                                                                                    |
+| 1 | Staff of Nin               | 6      | art      | Beg upk: draw a card -- t: deals 1 damage to tgt creat or player                                                                                                                      |
+| 1 | Akroma's Memorial          | 7      | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                 |
+| 1 | Spine of Ish Sah           | 7      | art      | When enter, or put to graveyard: destroy tgt perm                                                                                                                                     |
+| 1 | Swiftfoot Boots            | 2      | eqp 1    | Eqp creat has hexproof and haste                                                                                                                                                      |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Lands*                    |        |          |                                                                                                                                                                                       |
+| 1 | Academy Ruins              |        | land     | t: add 1 to mana pool -- 1U, t: put tgt art from ur graveyard on top of lib                                                                                                           |
+| 1 | Phyrexia's Core            |        | land     | t: add 1 to mama pool -- 1, t, sacr an art: u gain 1 life                                                                                                                             |
+| 1 | Godless Shrine             |        | land     | Enters tapped unless u pay 2 -- t: add W or B                                                                                                                                         |
+| 1 | Hallowed Fountain          |        | land     | Enters tapped unless u pay 2 -- t: add W or U                                                                                                                                         |
+| 1 | Watery Grave               |        | land     | Enters tapped unless u pay 2 -- t: add U or B                                                                                                                                         |
+| 1 | Drowned Catacomp           |        | land     | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                                  |
+| 1 | Glacial Fortress           |        | land     | Enters tapped unless u control a plains or an island -- t: add W or U                                                                                                                 |
+| 1 | Azorius Guildgate          |        | land     | Enters tapped -- t: add W or U                                                                                                                                                        |
+| 1 | Dimir Guildgate            |        | land     | Enters tapped -- t: add U or B                                                                                                                                                        |
+| 1 | Orzhov Guildgate           |        | land     | Enters tapped -- t: add W or B                                                                                                                                                        |
+| 1 | Esper Panorama             |        | land     | t: add 1 -- 1, t, sacr it: search for a basic plain, swamp or island and put it into play taped                                                                                       |
+| 1 | Buried Ruin                |        | land     | t: add 1 to mana pool -- 2, t, sacr it: Return tgt art from grave to hand                                                                                                             |
+| 1 | Darksteel Citadel          |        | art land | Indestructible -- t: add 1 to mana pool                                                                                                                                               |
+| 1 | Seat of the Synod          |        | art land | t: add U to mana pool                                                                                                                                                                 |
+| 1 | Temple of the False God    |        | land     | t: add 2 (activate only if u control 5+ lands)                                                                                                                                        |
+| 1 | Arcane Sanctum             |        | land     | Enters tapped -- t: add U, W or B to mana pool                                                                                                                                        |
+| 1 | Command Tower              |        | land     | t: add one mana of any color in your commander's color identity                                                                                                                       |
+| 1 | Opal Palace                |        | land     | t: add 1 -- 1, t: add 1 mana of ur cmder color, if spent to cast ur cmder, he enters w/ X counter equals to the # time he got cast from his zone this game.                           |
+| 1 | Evolving Wilds             |        | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                       |
+| 1 | Springjack Pasture         |        | land     | t: add 1 -- 4, t: put a 0/1 goat into play -- t, sacr X goat: add X mana to mana pool, gain X life                                                                                    |
+| 1 | Lonely Sandbar             |        | land     | Enters tapped -- t: add U -- Cycling U                                                                                                                                                |
+| 1 | Barren Moor                |        | land     | Enters tapped -- t: add B -- Cycling B                                                                                                                                                |
+| 4 | Plains                     |        | bas land |                                                                                                                                                                                       |
+| 4 | Swamp                      |        | bas land |                                                                                                                                                                                       |
+| 5 | Island                     |        | bas land |                                                                                                                                                                                       |
+|---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Cards to really consider* |        |          |                                                                                                                                                                                       |
+|   | Increasing Ambition        | 4B     | sorc     | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
+|   | Counterspell               | UU     | inst     | Counter tgt spell                                                                                                                                                                     |
+|   | Dispeller's Capsule        | W      | art      | 2W, t, sacr it: destroy tgt art or enchantment                                                                                                                                        |
+|   | Bident of Thassa           | 2UU    | art ench | Whenever a creat u control deals combat damage to a player: u may draw a card -- 1U, t: Creats opps control attack this turn if able                                                  |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Other cards to consider*  |        |          |                                                                                                                                                                                       |
+|   | Ethersworn Canonist        | 1W     | 2/2 art  | Each player who played a non-artifact spell this turn cannot cast an additional non artifact spell                                                                                    |
+|   | Karmic Justice             | 2W     | ench     | Whenever a spell or ab an opp control destroy tgt non creat perm u control, u may destroy tgt permanent that player controls                                                          |
+|   | Golem Foundry              | 3      | art      | Whenever u cast an art spell, put a charge counter -- Remove 3 charge counter: put a 3/3 golemn art into play                                                                         |
+|   | Vedalken Archmage          | 2UU    | 0/2      | Whenever u cast an art spell, draw a card                                                                                                                                             |
+|   | Argivian Restoratoin       | 2UU    | sorc     | Return tgt art from ur graveyard to play                                                                                                                                              |
+|   | Beacon of Unrest           | 3BB    | sorc     | Put tgt art or creat from a graveyard to play under ur control -- Shuffle beacon to lib                                                                                               |
+|   | Mortify                    | 1WB    | inst     | Destroy tgt creature or enchantment                                                                                                                                                   |
+|   | Copy Artifact              | 1U     | ench     | May enter as a copy of an artifact in play -- it's also an enchantment                                                                                                                |
+|---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | /Cards from prev version/  |        |          |                                                                                                                                                                                       |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Mana Ramp*                |        |          |                                                                                                                                                                                       |
+|   | Mana Vault                 | 1      | art      | Doesn't untap during upkeep -- t: add 3 to mana pool -- Beg upk, you may pay 4 to untap it -- Beg draw step if tapped: ~ deals 1 damage to u                                          |
+|   | Chromatic Lantern          | 3      | art      | Lands u control have: "t: add 1 mana any color to your mana pool" -- t: add 1 mana any color to your mana pool                                                                        |
+|   | Thran Dynamo               | 4      | art      | t: add 3 to mana pool                                                                                                                                                                 |
+|   | Gilded Lotus               | 5      | art      | t: add 3 mana any one color to mana pool                                                                                                                                              |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Single Target Removals*   |        |          |                                                                                                                                                                                       |
+|   | Swords to Plowshares       | W      | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                            |
+|   | Path to Exile              | W      | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                 |
+|   | Condemn                    | W      | inst     | Put attack creat to bottom of its owner's lib. Its control gains lifee equal to its toughness                                                                                         |
+|   | Hero's Downfall            | 1BB    | inst     | Destroy tgt creat or planeswalker                                                                                                                                                     |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Board Sweeper*            |        |          |                                                                                                                                                                                       |
+|   | AEtherize                  | 3U     | inst     | Return all attacking creats to their owner's hand                                                                                                                                     |
+|   | Scourglass                 | 3WW    | art      | t, sacr it: Destroy all perm except art and lands  -- Act only during upkeep                                                                                                          |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Copy spells*              |        |          |                                                                                                                                                                                       |
+|   | Sculpting Steel            | 3      | art      | May enter as a copy of an artifact in play                                                                                                                                            |
+|   | Phyrexian Metamorph        | 3{up}  | 0/0 art  | You may have ~ enters as a copy of tgt creature or tgt artifact, it remains an artifact in addition of its other types                                                                |
+|   | Rite of Replication        | 2UU    | sorc     | Kicker 5 -- Put copy of tgt creats into play -- if kicked: put 5 copy instead                                                                                                         |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Search Toolbox*           |        |          |                                                                                                                                                                                       |
+|   | Demonic Tutor              | 1B     | sorc     | Search your lib for a card and put it in your hand                                                                                                                                    |
+|   | Beseech the Queen          | {bp}x3 | sorc     | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                                       |
+|   | Arcum Dagsson              | 3U     | leg 2/2  | t: tgt art creat controller sac it. That player may searc his lib for a non creat art and put it on the battlefield                                                                   |
+|   | Lim-Dul's Vault            | UB     | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order                           |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Equipment*                |        |          |                                                                                                                                                                                       |
+|   | Viridian Longbow           | 1      | eqp 3    | Eqp creat has: "t: deals 1 damage to tgt creat or player"                                                                                                                             |
+|   | Lightning Greaves          | 2      | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                        |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Draw Power*               |        |          |                                                                                                                                                                                       |
+|   | Well of Lost Dream         | 4      | art      | Whenever u gain life, u may pay X where X is less or equal to the life gain, draw X cards                                                                                             |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Casting Helper*           |        |          |                                                                                                                                                                                       |
+|   | Grand Architect            | 1UU    | 1/3      | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                                                |
+|   | Master Transmuter          | 3U     | 1/2 art  | 1U, t: you may return an artifact in play and put an artifact from ur hand into play                                                                                                  |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Artifact Helper*          |        |          |                                                                                                                                                                                       |
+|   | Voltaic Key                | 1      | art      | 1, t: untap tgt art                                                                                                                                                                   |
+|   | Darksteel Forge            | 9      | art      | Arts u control are indestructible                                                                                                                                                     |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Counterspells*            |        |          |                                                                                                                                                                                       |
+|   | Swan Song                  | U      | inst     | Counter tgt inst, sorc or ench spel -- its control put a 2/2 bird token into play                                                                                                     |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Other Helper*             |        |          |                                                                                                                                                                                       |
+|   | Karmic Justice             | 2W     | ench     | Whenever a spell or ab an opp control destroy tgt non creat perm u control, u may destroy tgt permanent that player controls                                                          |
+|   | Dispeller's Capsule        | W      | art      | 2w, t, sacr: Destroy tgt art or enchantment                                                                                                                                           |
+|   | Esper Charm                | WUB    | inst     | Choose one: destroy tgt ench OR draw 2 cards OR tgt player discards two cards                                                                                                         |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | *Lands*                    |        |          |                                                                                                                                                                                       |
+|   | Ancient Den                |        | art land | t: add W to mana pool                                                                                                                                                                 |
+|   | Vault of the Whispers      |        | art land | t: add B to mana pool                                                                                                                                                                 |
+|   | Isolated Chapel            |        | land     | Enters tapped unless u control a plains or a swamp -- t: add W or B                                                                                                                   |
+|   | Temple of Deceit           |        | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                                              |
+|   | Temple of Silence          |        | land     | Enters tapped -- Scry 1 -- t: add W or B                                                                                                                                              |
+|---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Supreme Verdict            | 1WWU   | sorc     | Can't be countered -- Destroy all creatures                                                                                                                                           |
+|   | Wrath of God               | 2WW    | sorc     | Destroy all creatures, they can't be regen                                                                                                                                            |
+|   | Nevinyrral's Disk          | 4      | art      | Enters tapped -- 1, t: destroy all art, creat and enchantment                                                                                                                         |
+|   | Consume the Meek           | 3BB    | inst     | Destroy all creatures with CMC 3 or less -- They can't be regen                                                                                                                       |
+|   | Soulscour                  | 7WWW   | sorc     | Destroy all non art perm                                                                                                                                                              |
+|   | Contagion Engine           | 6      | art      | When enter: put a -1/-1c on each creat tgt opp control -- 4, t: proliferate then proliferate                                                                                          |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | Thopter Foundry            | {wb}U  | art      | 1, sacr a nontoken art: put a 1/1 blue thopter art w/ flying into play, you gain 1 life                                                                                               |
+|   | Darksteel Plate            | 3      | eqp 2    | ~ is indestructible -- Eqip creat is indestructible                                                                                                                                   |
+|   | Evil Twin                  | 2UB    | 0/0      | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                                              |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | Second Sunrise             | 1WW    | inst     | Each player returns to play, all art, ench, creat and lands that were put to the graveyard from the battlefield this turn                                                             |
+|   | Razor Hippogriff           | 3WW    | 3/3 fly  | When enters: return tgt art from ur graveyard to ur hand, u gain life equals to its CMC                                                                                               |
+|   | Open the Vaults            | 4WW    | sorc     | Return all art and ench from all graveyard to the battlefield under their owner's control                                                                                             |
+|   |                            |        |          |                                                                                                                                                                                       |
+|   | Bullwhip                   | 4      | art      | 2, t: deals 1 damage to tgt creat, that creat attack this turn if able                                                                                                                |
+|   | Sphinx's Revelation        | xWUU   | inst     | Draw X cards and gain X life                                                                                                                                                          |
+|   | Thoughcast                 | 4U     | sorc     | Affinity for Artifact -- Draw 2 cards                                                                                                                                                 |
+|   | Rod of Ruin                | 4      | art      | 3, t: deals 1 damage to tgt creat or player                                                                                                                                           |
+|   | Roar of the Reclamation    | 5WW    | sorc     | Each player return all art from grave to play                                                                                                                                         |
+|   | Planar Portal              | 6      | art      | 6, t: search your lib for a card and put it in ur hand                                                                                                                                |
+|   | Sphinx Summoner            | 3UB    | 3/3 fly  | When enters: search lib for an art creat and put it in ur hand                                                                                                                        |
+|   | Mikaeus, the Unhallowed    | 3BBB   | 5/5      | Intimidate -- When a human deals damage to u: destroy it -- Other non human u control gets +1/+1 and have undying                                                                     |
 
-|   | *Commander*               |        |          |                                                                                                                                                                  |
-| 1 | Sydri, Galvanic Genius    | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                    |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Mana Ramp 11*            |        |          |                                                                                                                                                                  |
-| 1 | Mox Opal                  | 0      | art      | Metalcraft: "t: add 1 mana any color to your mana pool"                                                                                                          |
-| 1 | Sol Ring                  | 1      | art      | t: add 2 to mana pool                                                                                                                                            |
-| 1 | Mana Vault                | 1      | art      | Doesn't untap during upkeep -- t: add 3 to mana pool -- Beg upk, you may pay 4 to untap it -- Beg draw step if tapped: ~ deals 1 damage to u                     |
-| 1 | Expedition Map            | 1      | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                               |
-| 1 | Azorius Signet            | 2      | art      | 1, t: add WU to mana pool                                                                                                                                        |
-| 1 | Dimir Signet              | 2      | art      | 1, t: add UB to mana pool                                                                                                                                        |
-| 1 | Orzhov Signet             | 2      | art      | 1, t: add WB to mana pool                                                                                                                                        |
-| 1 | Chromatic Lantern         | 3      | art      | Lands u control have: "t: add 1 mana any color to your mana pool" -- t: add 1 mana any color to your mana pool                                                   |
-| 1 | Obelisk of Esper          | 3      | art      | t: add W, U or B to mana pool                                                                                                                                    |
-| 1 | Thran Dynamo              | 4      | art      | t: add 3 to mana pool                                                                                                                                            |
-| 1 | Gilded Lotus              | 5      | art      | t: add 3 mana any one color to mana pool                                                                                                                         |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Planeswalker 2*          |        |          |                                                                                                                                                                  |
-| 1 | Tezzeret, Agent of Bolas  | 2UB    | plwr 3   | +1: look top 5 cards, u may reveal an art and put to hand, rest bottom -- -1: tgt art becomes 5/5 -- -4: tgt play looses X life, u gain X, X = 2x #art u control |
-| 1 | Tezzeret the Seeker       | 3UU    | plwr 4   | +1: Untap 2 tgt artifact -- -X: Search lib for an art w/ CMC X or less and put into play -- -5: Artifacts u control become 5/5 creatures until eot               |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Single Target Removal 8* |        |          |                                                                                                                                                                  |
-| 1 | Dispatch                  | W      | inst     | Tap tgt creat -- metalcraft: exile it instead                                                                                                                    |
-| 1 | Swords to Plowshares      | W      | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                       |
-| 1 | Path to Exile             | W      | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                            |
-| 1 | Oblation                  | 2W     | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                       |
-| 1 | Condemn                   | W      | inst     | Put attack creat to bottom of its owner's lib. Its control gains lifee equal to its toughness                                                                    |
-| 1 | Executioner's Capsule     | B      | art      | 1B, t, sacr it: Destroy tgt nonblack creature                                                                                                                    |
-| 1 | Hero's Downfall           | 1BB    | inst     | Destroy tgt creat or planeswalker                                                                                                                                |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Board Sweeper 4*         |        |          |                                                                                                                                                                  |
-| 1 | Cyclonic Rift             | 1U     | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                    |
-| 1 | AEtherize                 | 3U     | inst     | Return all attacking creats to their owner's hand                                                                                                                |
-| 1 | Consume the Meek          | 3BB    | inst     | Destroy all creatures with CMC 3 or less -- They can't be regen                                                                                                  |
-| 1 | Scourglass                | 3WW    | art      | t, sacr it: Destroy all perm except art and lands  -- Act only during upkeep                                                                                     |
-| 1 | All is Dust               | 7      | sorc     | Each player sacrifice all colored perm he or she control                                                                                                         |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Copy spells 5*           |        |          |                                                                                                                                                                  |
-| 1 | Sculpting Steel           | 3      | art      | May enter as a copy of an artifact in play                                                                                                                       |
-| 1 | Evil Twin                 | 2UB    | 0/0      | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                         |
-| 1 | Phyrexian Metamorph       | 3{up}  | 0/0 art  | You may have ~ enters as a copy of tgt creature or tgt artifact, it remains an artifact in addition of its other types                                           |
-| 1 | Rite of Replication       | 2UU    | sorc     | Kicker 5 -- Put copy of tgt creats into play -- if kicked: put 5 copy instead                                                                                    |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Search Toolbox 10*       |        |          |                                                                                                                                                                  |
-| 1 | Demonic Tutor             | 1B     | sorc     | Search your lib for a card and put it in your hand                                                                                                               |
-| 1 | Trinket Mage              | 2U     | 2/2      | When enters: search for an art with CMC 1- and put it into your hand                                                                                             |
-| 1 | Treasure Mage             | 2U     | 2/2      | When enters: search for an art with CMC 6+ and put it into your hand                                                                                             |
-| 1 | Fabricate                 | 2U     | sorc     | Search your lib for an art, and put it in your hand                                                                                                              |
-| 1 | Beseech the Queen         | {bp}x3 | sorc     | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                  |
-| 1 | Diabolic Revelation       | x3BB   | sorc     | Search your lib for X cards and put them into your hand                                                                                                          |
-| 1 | Arcum Dagsson             | 3U     | leg 2/2  | t: tgt art creat controller sac it. That player may searc his lib for a non creat art and put it on the battlefield                                              |
-| 1 | Lim-Dul's Vault           | UB     | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order      |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Pinger 3*                |        |          |                                                                                                                                                                  |
-| 1 | Staff of Nin              | 6      | art      | Beg upk: draw a card -- t: deals 1 damage to tgt creat or player                                                                                                 |
-| 1 | Bullwhip                  | 4      | art      | 2, t: deals 1 damage to tgt creat, that creat attack this turn if able                                                                                           |
-| 1 | Rod of Ruin               | 4      | art      | 3, t: deals 1 damage to tgt creat or player                                                                                                                      |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Equipment 2*             |        |          |                                                                                                                                                                  |
-| 1 | Viridian Longbow          | 1      | eqp 3    | Eqp creat has: "t: deals 1 damage to tgt creat or player"                                                                                                        |
-| 1 | Lightning Greaves         | 2      | eqp 0    | Eqp creat has shroud and haste                                                                                                                                   |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Draw Power 2*            |        |          |                                                                                                                                                                  |
-| 1 | Well of Lost Dream        | 4      | art      | Whenever u gain life, u may pay X where X is less or equal to the life gain, draw X cards                                                                        |
-| 1 | Sphinx's Revelation       | xWUU   | inst     | Draw X cards and gain X life                                                                                                                                     |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Creatures 9*             |        |          |                                                                                                                                                                  |
-| 1 | Baleful Strix             | UW     | 1/1 fly  | When enter: draw a card                                                                                                                                          |
-| 1 | Grand Architect           | 1UU    | 1/3      | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                           |
-| 1 | Master Transmuter         | 3U     | 1/2 art  | 1U, t: you may return an artifact in play and put an artifact from ur hand into play                                                                             |
-| 1 | Solemn Simulacrum         | 4      | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
-| 1 | Sphinx of the Steel Wind  | 5WUB   | 6/6 art  | Flying, first strike, vigilance, lifelink, pro-red, pro-green                                                                                                    |
-| 1 | Wurmcoil Engine           | 6      | 6/6      | Deathtouch, lifelink -- When dies: put a 3/3 wurm w/ deathtouch and a 3/3 wurm w/ lifelink into play                                                             |
-| 1 | Sharuum the Hegemon       | 3WUB   | 5/5 art  | Flying -- When enter: return tgt art from graveyard to play                                                                                                      |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Artifact Helper 6*       |        |          |                                                                                                                                                                  |
-| 1 | Nihil Spellbomb           | 1      | art      | t, sacr it: Exile tgt player's graveyard -- When put to grave from play, you may pay B to draw                                                                   |
-| 1 | Voltaic Key               | 1      | art      | 1, t: untap tgt art                                                                                                                                              |
-| 1 | Trading Post              | 4      | art      | 1, t, discard: gain 4 life -- 1, t, pay 1: put a 0/1 goat into play -- 1, t, sacr creat: return tgt art from grave to hand -- 1, t, sacr art: draw a card        |
-| 1 | Akroma's Memorial         | 7      | art      | Creats u control have flying, first strk, vig, trample, haste and pro black/red                                                                                  |
-| 1 | Darksteel Forge           | 9      | art      | Arts u control are indestructible                                                                                                                                |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Counterspells*           |        |          |                                                                                                                                                                  |
-| 1 | Swan Song                 | U      | inst     | Counter tgt inst, sorc or ench spel -- its control put a 2/2 bird token into play                                                                                |
-| 1 | Spell Crumple             | 1UU    | inst     | Counter tgt spell, if the spell is countered that way, put it on the bottom of the library. Put ~ on the bottom of the lib                                       |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Other Helper 1*          |        |          |                                                                                                                                                                  |
-| 1 | Karmic Justice            | 2W     | ench     | Whenever a spell or ab an opp control destroy tgt non creat perm u control, u may destroy tgt permanent that player controls                                     |
-| 1 | Vedalken Orrery           | 4      | art      | You may cast non land cards any time you could play an instant                                                                                                   |
-| 1 | Roar of the Reclamation   | 5WW    | sorc     | Each player return all art from grave to play                                                                                                                    |
-| 1 | Return to Dust            | 2WW    | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                            |
-| 1 | Dispeller's Capsule       | W      | art      | 2w, t, sacr: Destroy tgt art or enchantment                                                                                                                      |
-| 1 | Esper Charm               | WUB    | inst     | Choose one: destroy tgt ench OR draw 2 cards OR tgt player discards two cards                                                                                    |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | *Lands 35*                |        |          |                                                                                                                                                                  |
-| 1 | Academy Ruins             |        | land     | t: add 1 to mana pool -- 1U, t: put tgt art from ur graveyard on top of lib                                                                                      |
-| 1 | Buried Ruin               |        | land     | t: add 1 to mana pool -- 2, t, sacr it: Return tgt art from grave to hand                                                                                        |
-| 1 | Phyrexia's Core           |        | land     | t: add 1 to mama pool -- 1, t, sacr an art: u gain 1 life                                                                                                        |
-| 1 | Ancient Den               |        | art land | t: add W to mana pool                                                                                                                                            |
-| 1 | Seat of the Synod         |        | art land | t: add U to mana pool                                                                                                                                            |
-| 1 | Vault of the Whispers     |        | art land | t: add B to mana pool                                                                                                                                            |
-| 1 | Barren Moor               |        | land     | Enters tapped -- t: add B -- Cycling B                                                                                                                           |
-| 1 | Lonely Sandbar            |        | land     | Enters tapped -- t: add U -- Cycling U                                                                                                                           |
-| 1 | Dimir Guildgate           |        | land     | Enters tapped -- t: add U or B                                                                                                                                   |
-| 1 | Orzhov Guildgate          |        | land     | Enters tapped -- t: add W or B                                                                                                                                   |
-| 1 | Godless Shrine            |        | land     | Enters tapped unless u pay 2 -- t: add W or B                                                                                                                    |
-| 1 | Hallowed Fountain         |        | land     | Enters tapped unless u pay 2 -- t: add W or U                                                                                                                    |
-| 1 | Watery Grave              |        | land     | Enters tapped unless u pay 2 -- t: add U or B                                                                                                                    |
-| 1 | Drowned Catacomp          |        | land     | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                             |
-| 1 | Glacial Fortress          |        | land     | Enters tapped unless u control a plains or an island -- t: add W or U                                                                                            |
-| 1 | Isolated Chapel           |        | land     | Enters tapped unless u control a plains or a swamp -- t: add W or B                                                                                              |
-| 1 | Temple of Deceit          |        | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                         |
-| 1 | Temple of Silence         |        | land     | Enters tapped -- Scry 1 -- t: add W or B                                                                                                                         |
-| 1 | Temple of the False God   |        | land     | t: add 2 only if u control 5 or more lands                                                                                                                       |
-| 1 | Esper Panorama            |        | land     | t: add 1 -- 1, t, sacr it: search for a basic plain, swamp or island and put it into play taped                                                                  |
-| 1 | Arcane Sanctum            |        | land     | Enters tapped -- t: add U, W or B to mana pool                                                                                                                   |
-| 1 | Command Tower             |        | land     | t: add one mana of any color in your commander's color identity                                                                                                  |
-| 1 | Opal Palace               |        | land     | t: add 1 -- 1, t: add 1 mana of ur cmder color, if spent to cast ur cmder, he enters w/ X counter equals to the # time he got cast from his zone this game.      |
-| 4 | Island                    |        | bas land |                                                                                                                                                                  |
-| 4 | Plains                    |        | bas land |                                                                                                                                                                  |
-| 4 | Swamp                     |        | bas land |                                                                                                                                                                  |
-|---+---------------------------+--------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | Supreme Verdict           | 1WWU   | sorc     | Can't be countered -- Destroy all creatures                                                                                                                      |
-|   | Wrath of God              | 2WW    | sorc     | Destroy all creatures, they can't be regen                                                                                                                       |
-|   | Darksteel Plate           | 3      | eqp 2    | ~ is indestructible -- Eqip creat is indestructible                                                                                                              |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | Spellskite                | 2      | 0/4 art  | {up}: Change tgt or target spell or ability to spellskite                                                                                                        |
-|   | Contagion Engine          | 6      | art      | When enter: put a -1/-1c on each creat tgt opp control -- 4, t: proliferate then proliferate                                                                     |
-|   | Golem Foundry             | 3      | art      | Whenever u cast an art spell, put a charge counter -- Remove 3 charge counter: put a 3/3 golemn art into play                                                    |
-|   | Thopter Foundry           | {wb}U  | art      | 1, sacr a nontoken art: put a 1/1 blue thopter art w/ flying into play, you gain 1 life                                                                          |
-|   | Vedalken Archmage         | 2UU    | 0/2      | Whenever u cast an art spell, draw a card                                                                                                                        |
-| + | Scarecrone                | 3      | 1/2 art  | 1: sacr a scarecrow -- 4: return tgt art from graveyard to play                                                                                                  |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | Argivian Restoratoin      | 2UU    | sorc     | Return tgt art from ur graveyard to play                                                                                                                         |
-|   | Beacon of Unrest          | 3BB    | sorc     | Put tgt art or creat from a graveyard to play under ur control -- Shuffle beacon to lib                                                                          |
-|   | Razor Hippogriff          | 3WW    | 3/3 fly  | When enters: return tgt art from ur graveyard to ur hand, u gain life equals to its CMC                                                                          |
-|   | Treasure Hunter           | 2W     | 2/2      | When enters: u may return tgt art from ur graveyard to ur hand                                                                                                   |
-|   | Second Sunrise            | 1WW    | inst     | Each player returns to play, all art, ench, creat and lands that were put to the graveyard from the battlefield this turn                                        |
-|   | Nevinyrral's Disk         | 4      | art      | Enters tapped -- 1, t: destroy all art, creat and enchantment                                                                                                    |
-|   | Dispeller's Capsule       | W      | art      | 2W, t, sacr it: destroy tgt art or enchantment                                                                                                                   |
-|---+---------------------------+--------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | Counterspell              | UU     | inst     | Counter tgt spell                                                                                                                                                |
-|   | Stoic Rebuttal            | 1UU    | inst     | Counter tgt spell -- Metalcraft: cost 1 less                                                                                                                     |
-|   | Planar Portal             | 6      | art      | 6, t: search your lib for a card and put it in ur hand                                                                                                           |
-|   | Spine of Ish Sah          | 7      | art      | When enter, or put to graveyard: destroy tgt perm                                                                                                                |
-|   | Sphinx Summoner           | 3UB    | 3/3 fly  | When enters: search lib for an art creat and put it in ur hand                                                                                                   |
-|   |                           |        |          |                                                                                                                                                                  |
-|   | Mikaeus, the Unhallowed   | 3BBB   | 5/5      | Intimidate -- When a human deals damage to u: destroy it -- Other non human u control gets +1/+1 and have undying                                                |
-|   | Triskelion                | 6      | 1/1 art  | Enters w/ 3 +1/+1 counters -- Remove a +1/+1 counter: deals 1 damage to tgt creature or player                                                                   |
-|   | Tainted Isle              |        | land     | t: add 1 -- t: add U or B if u control a swamp                                                                                                                   |
-|   | Tainted Field             |        | land     | t: add 1 -- t: add W or B if u control a swamp                                                                                                                   |
-|   | Soulscour                 | 7WWW   | sorc     | Destroy all non art perm                                                                                                                                         |
-|   | Open the Vaults           | 4WW    | sorc     | Return all art and ench from all graveyard to the battlefield under their owner's control                                                                        |
-|   | Mortify                   | 1WB    | inst     | Destroy tgt creature or enchantment                                                                                                                              |
-|   | Thoughcast                | 4U     | sorc     | Affinity for Artifact -- Draw 2 cards                                                                                                                            |
-|   | Thirst of Knowledge       | 2U     | inst     | Draw 3 cards then discard 2 unless u discarded an art                                                                                                            |
-|   | Copy Artifact             | 1U     | ench     | May enter as a copy of an artifact in play -- it's also an enchantment                                                                                           |
 
+Version 2.2:
+------------
+The deck is finally becoming fun.
+It has some great interaction.
+
+Things to consider:
+- One or two search spells.
+- One or two more counter spells
+- Maybe adding following lands: Reliquary Tower and Strip Mine (then should we consider adding: Crucible of Worlds
+- Wondering if Lightning Greaves would not be better Swiftfoot Boots [The only targetting ability I can think of is Sydri's one] 
+- Karmic Justice is definitively nice
+- Bident of Thassa was also really good.
+
+
+v2.1 -> v2.2:
+-------------
+-1 Moonglove Extract
+-1 Thopter Foundry
++1 Triskellion
++1 Tower of Fortunes
+
+
+v2.0 -> v2.1:
+-------------
+-1 Praetor's Gasp
+-1 Relic of Progenitus
+-1 Sharding Sphinx
++1 Vedalken Orrery
++1 Enigma Sphinx
++1 Diabolic Revelation
+
+Version 2.0:
+------------
+Brand new version of this deck...
+Trying to make is less boring to play with or against!
+
+Initial playtest are promising.
+
+--------------------------------------------------------------------------------
+
+v0.7 -> v0.8:
+-------------
+-1 Lin-Dul Vault
+-1 Sphinx of Revelation
+-1 Diabolic Revelation
++1 Increasing Ambition
++1 Phyrexian Arena
++1 Island
+
+v0.6 -> v0.7:
+-------------
+-1 Consume the Meek
+-1 Evil Twin
+-1 Bullwhip
+-1 Rod of Ruin
+-1 Mana Vault
+-1 Roar of the Revelation
++1 Dromar's Charm
++1 Thoughtcast
++1 Sharding Sphinx
++1 Batterskull
++1 Spinal Embrace
++1 Master of Etherium
 
 
 Version 0.6:
@@ -239,7 +360,7 @@ v0.1 -> v0.2:
 -1 Mortify
 -1 Thoughtcast
 +1 Well of Lost Dream
--1 Thirst of Knowledge
+-1 Thirst for Knowledge
 +1 Scourglass
 -1 Copy Artifact
 +1 Sphinx's Revelation
