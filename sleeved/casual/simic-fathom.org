@@ -1,5 +1,5 @@
-Simic Fathom v1.0
-[sleeved: v0.9]
+Simic Fathom v1.1
+[sleeved: v1.1]
 
 |   | *Creatures 19*             |           |          |                                                                                                                           |
 | 3 | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                            |
@@ -39,6 +39,11 @@ Simic Fathom v1.0
 |   | Jace's Ingenuity           | 3UU       | inst     | Draw 3 cards                                                                                                              |
 |   | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
 |   | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
+
+v1.0 -> v1.1:
+-------------
+-3 Fact or Fiction
++3 Simic Charm
 
 v0.9 -> v1.0:
 -------------
