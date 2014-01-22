@@ -1,4 +1,5 @@
 Oloro, Ageless Ascetic v0.1
+[not yet sleeved]
 
 
 |   | *Commander*             |           |          |                                                                                                                                                                         |
@@ -17,19 +18,19 @@ Oloro, Ageless Ascetic v0.1
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Some overall control*  |           |          |                                                                                                                                                                         |
 | 1 | Bloodchief Ascension    | B         | ench     | Beg end each step: if an opp lost 2+ life this turn, put a quest counter on ~ -- If a card is put in opp graveyard and #counter >= 3: he loses 2 life and u gain 2 life |
-| 1 | Blind Obediance         | 1W        | ench     | Extort -- Artifacts and creats ur opponent control enter the battlefield tapped                                                                                         |
+| 1 | Blind Obedience         | 1W        | ench     | Extort -- Artifacts and creats ur opponent control enter the battlefield tapped                                                                                         |
 | 1 | Vile Consumption        | 1UB       | ench     | All creatures have "Beg upk, sac this creature unless u pay 1 life"                                                                                                     |
-| 1 | Praetor Gasp            | 1BB       | sorc     | Search tgt opp's lib for a card, exile it face down. You may cast the exiled card as long as it remain exiled.                                                          |
-| 1 | Angelic Accort          | 3W        | ench     | Beg each end step: if u gain 4 or more life, put a 4/4 white angel w/ flying onto the battlefield                                                                       |
+| 1 | Praetor's Gasp          | 1BB       | sorc     | Search tgt opp's lib for a card, exile it face down. You may cast the exiled card as long as it remain exiled.                                                          |
+| 1 | Angelic Accord          | 3W        | ench     | Beg each end step: if u gain 4 or more life, put a 4/4 white angel w/ flying onto the battlefield                                                                       |
 | 1 | Breathstealer's Crypt   | 2UB       | ench     | If a player would draw a card, instead he draws and reveals it.  If it's a creature, that player discards it unless he or she pays 3 life.                              |
 | 1 | Rite of Replication     | 2UU       | sorc     | Kicker 5 -- Put copy of tgt creats into play -- if kicked: put 5 copy instead                                                                                           |
-| 1 | Sanguine Blood          | 3BB       | ench     | Whenever u gain life: tgt opp looses that much life                                                                                                                     |
-| 1 | Wounded Reflection      | 5B        | ench     | At end of each turn: each opp looses life equal to the life they lost this turn                                                                                         |
+| 1 | Sanguine Bond           | 3BB       | ench     | Whenever u gain life: tgt opp looses that much life                                                                                                                     |
+| 1 | Wound Reflection        | 5B        | ench     | At end of each turn: each opp looses life equal to the life they lost this turn                                                                                         |
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Cards advantage*       |           |          |                                                                                                                                                                         |
 | 1 | Well of Lost Dreams     | 4         | art      | Whenever u gain life, you may pay X where X is <= life gained. If u do: draw X cards                                                                                    |
 | 1 | Phyrexian Arena         | 1BB       | ench     | Beg upkeep: loose a life and draw a card                                                                                                                                |
-| 1 | Underworld Connection   | 1BB       | aura     | Ench land -- Enchanted land has: "pay 1 life, t: draw a card"                                                                                                           |
+| 1 | Underworld Connections  | 1BB       | aura     | Ench land -- Enchanted land has: "pay 1 life, t: draw a card"                                                                                                           |
 | 1 | Greed                   | 3B        | ench     | B, pay 2 life: draw a card                                                                                                                                              |
 | 1 | Erebos, God of the Dead | 3B        | 5/7      | Devotion: 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                                  |
 | 1 | Promise of Power        | 2BBB      | sorc     | Choose one: draw 5 and loose 5 life OR put a X/X demon tokrn w/ flying where X is # card in hand at the time the demond entered -- Entwine 4                            |
@@ -47,7 +48,7 @@ Oloro, Ageless Ascetic v0.1
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Mass Removal*          |           |          |                                                                                                                                                                         |
 | 1 | Cyclonic Rift           | 1U        | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                           |
-| 1 | Toxic Delude            | 2B        | sorc     | Additional cost: pay X life -- All creatures gets -X/-X                                                                                                                 |
+| 1 | Toxic Deluge            | 2B        | sorc     | Additional cost: pay X life -- All creatures gets -X/-X                                                                                                                 |
 | 1 | Killing Wave            | xB        | sorc     | For each creatures. Its controller sacr it unless he pays X                                                                                                             |
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Graveyard recursion*   |           |          |                                                                                                                                                                         |
@@ -76,7 +77,7 @@ Oloro, Ageless Ascetic v0.1
 | 1 | Blood Artist            | 1B        | 0/1      | When ~ or another creat dies: tgt players looses 1 life; you gain 1                                                                                                     |
 | 1 | Vampire Nighthawk       | 1BB       | 2/3 fly  | Lifelink, deathtouch                                                                                                                                                    |
 | 1 | Crypt Ghast             | 3B        | 2/2      | Extort -- Whenever u tap a swamp for mana, add B to ur mana pool                                                                                                        |
-| 1 | Wywen, the Biting Gale  | 2UB       | 3/3 fly  | Flash - UB, pay 1 life: return ~ to its owner's hand                                                                                                                    |
+| 1 | Wydwen, the Biting Gale | 2UB       | 3/3 fly  | Flash - UB, pay 1 life: return ~ to its owner's hand                                                                                                                    |
 | 1 | Bloodgift Demon         | 3BB       | 5/4 fly  | At beg of ur upk: tgt player loses a life and draw a card                                                                                                               |
 | 1 | Pontiff of Blight       | 4BB       | 2/7      | Extort -- Other creatures u control have extort                                                                                                                         |
 | 1 | Obzedat, Ghost Council  | 1WWBB     | 5/5      | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste.            |
@@ -87,7 +88,7 @@ Oloro, Ageless Ascetic v0.1
 | 1 | Sun Titan               | 4WW       | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                    |
 | 1 | Angelic Arbiter         | 5WW       | 5/6 fly  | Each opp who casted a spell this turn cannot attack w/ creatures, each opp who attacked w/ creatures this turn cannot cast spells                                       |
 | 1 | Drogskol Reaver         | 5WU       | 3/5 fly  | Double strike, lifelink -- Whenever u gain life: draw a card                                                                                                            |
-| 1 | Butchet of Malakir      | 5BB       | 5/4 fly  | When ~ or another creat u control is put to the graveyard: each opp sacr a creature                                                                                     |
+| 1 | Butcher of Malakir      | 5BB       | 5/4 fly  | When ~ or another creat u control is put to the graveyard: each opp sacr a creature                                                                                     |
 | 1 | Vish Kal, Blood Arbiter | 4WBB      | 5/5 fly  | Lilelink -- Sacr a creat: put X +1c on ~ where X is that's creat power -- Remove all +1c: tgt creat gets -1/-1 for each counter removed this way                        |
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Lands*                 |           |          |                                                                                                                                                                         |
@@ -98,7 +99,7 @@ Oloro, Ageless Ascetic v0.1
 | 1 | Godless Shrine          |           | land     | Enters tapped unless u pay 2 -- t: add W or B                                                                                                                           |
 | 1 | Hallowed Fountain       |           | land     | Enters tapped unless u pay 2 -- t: add W or U                                                                                                                           |
 | 1 | Watery Grave            |           | land     | Enters tapped unless u pay 2 -- t: add U or B                                                                                                                           |
-| 1 | Drowned Catacomp        |           | land     | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                    |
+| 1 | Drowned Catacomb        |           | land     | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                    |
 | 1 | Glacial Fortress        |           | land     | Enters tapped unless u control a plains or an island -- t: add W or U                                                                                                   |
 | 1 | Isolated Chapel         |           | land     | Enters tapped unless u control a plains or a swamp -- t: add W or B                                                                                                     |
 | 1 | Temple of Deceit        |           | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                                |
@@ -120,6 +121,7 @@ Oloro, Ageless Ascetic v0.1
 |---+-------------------------+-----------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To be considered*      |           |          |                                                                                                                                                                         |
 |   | Words of Worship        | 2W        | ench     | The next time you would draw a card, you may pay 1, if so: gain 5 life                                                                                                  |
+|   | Augury Adept            | 1{bw}x2   | 2/2      | When deals combat damage to a player: reveal top of lib, gain life equal to its CMC, and put that card in hand                                                          |
 |   |                         |           |          |                                                                                                                                                                         |
 |   | *Excluded cards*        |           |          |                                                                                                                                                                         |
 |   | Bond of Agony           | xB        | sorc     | As an additional cost to cast bond of agony, pay X life. Each other player looses X life                                                                                |
