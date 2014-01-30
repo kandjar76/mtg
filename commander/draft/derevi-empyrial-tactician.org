@@ -1,4 +1,4 @@
-Derevi, Empyrial Tactitian v0.8
+Derevi, Empyrial Tactitian v0.9
 [not yet sleeved]
 
 
@@ -8,12 +8,12 @@ Derevi, Empyrial Tactitian v0.8
 |   | *Ramp 8*                   |           |          |                                                                                                                                                                                             |
 | 1 | Sol Ring                   | 1         | art      | t: add 2 to mana pool                                                                                                                                                                       |
 | 1 | Mana Vault                 | 1         | art      | Beg upk, u may pay 4 to untap it -- Beg draw step: if tapped it deals 1 damage to u -- t: add 3 to mana pool                                                                                |
-| * | Sylvan Scrying             | 1G        | sorc     | Search lib for a land and put it in your hand                                                                                                                                               |
+| 1 | Sylvan Scrying             | 1G        | sorc     | Search lib for a land and put it in your hand                                                                                                                                               |
 | 1 | Basalt Monolith            | 3         | art      | Doesn't umtap during ur untap step -- t: add 3 -- 3: untap ~                                                                                                                                |
-| * | Coalition Relic            | 3         | art      | t: add 1 mana any color to ur mana pool -- t: put a charge on it -- Beg main 1: remove all charge counters from it, add one mana any color for each removed.                                |
+| 1 | Coalition Relic            | 3         | art      | t: add 1 mana any color to ur mana pool -- t: put a charge on it -- Beg main 1: remove all charge counters from it, add one mana any color for each removed.                                |
 | 1 | Cultivate                  | 2G        | sorc     | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                               |
 | 1 | Oracle of Mul Daya         | 3G        | 2/2      | You may play an add land this turn -- Play with top lib revealed, if its a land, you may play it                                                                                            |
-| * | Gilded Lotus               | 5         | art      | t: add 3 mana of any one color to ur mana pool                                                                                                                                              |
+| 1 | Gilded Lotus               | 5         | art      | t: add 3 mana of any one color to ur mana pool                                                                                                                                              |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Equipment 7*              |           |          |                                                                                                                                                                                             |
 | 1 | Skullclamp                 | 1         | eqp 1    | Eqp creats gets +1/-1 -- When eqp creat dies, draw 2 cards                                                                                                                                  |
@@ -21,7 +21,7 @@ Derevi, Empyrial Tactitian v0.8
 | 1 | Swiftfoot Boots            | 2         | eqp 1    | Eqp creat has hexproof and haste                                                                                                                                                            |
 | 1 | Sword of Feast and Famine  | 3         | eqp 2    | Eqp creat gets +2/+2, pro black, pro green and: when deals damage to a player, that player discard a card, and you untap all your lands                                                     |
 | 1 | Sword of War and Peace     | 3         | eqp 2    | Eqp creat gets +2/+2, pro red, pro white and: when deals damage to a player, ~ deals damage to that player eq to # cards in his hand, u gain life = # cards u have                          |
-| * | Diviner's Wand             | 3         | eqp 3    | Eqp creat has "When u draw, this creat gets +1/+1 and flying until eot" and "4: draw a card" -- When a wiz enters: you may attach ~ to it                                                   |
+| 1 | Diviner's Wand             | 3         | eqp 3    | Eqp creat has "When u draw, this creat gets +1/+1 and flying until eot" and "4: draw a card" -- When a wiz enters: you may attach ~ to it                                                   |
 | 1 | Argentum Armor             | 6         | eqp 6    | Eqp creat gets +6/+6 and when eqp creat attacks, destroy tgt permanent                                                                                                                      |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Tap/Untap target 2*       |           |          |                                                                                                                                                                                             |
@@ -29,8 +29,8 @@ Derevi, Empyrial Tactitian v0.8
 | 1 | Howling Mine               | 2         | art      | At beg of each player's upkeep, if untapped, that player draws an additional card                                                                                                           |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Sac outlet 4*             |           |          |                                                                                                                                                                                             |
-| * | Helm of Possession         | 4         | art      | You may choose to not untap ~ during the untap step -- 2, t, sacr a creature: gain control of tgt creature as long as u control ~ and it remains tapped.                                    |
-| * | Phyrexian Vault            | 3         | art      | 2, t, sacr a creat: draw a card                                                                                                                                                             |
+| 1 | Helm of Possession         | 4         | art      | You may choose to not untap ~ during the untap step -- 2, t, sacr a creature: gain control of tgt creature as long as u control ~ and it remains tapped.                                    |
+| 1 | Phyrexian Vault            | 3         | art      | 2, t, sacr a creat: draw a card                                                                                                                                                             |
 | 1 | Momentous Fall             | 2GG       | inst     | Add cost: sacr a creature -- Draw cards equal to the sac creat's power, gain life equal to its toughness                                                                                    |
 | 1 | Birthing Pod               | 3{gp}     | art      | 1{gp}, t, sacr a creat: Search lib for a creat w/ CMC = sacr creat+1 and put it into play (only as sorcery)                                                                                 |
 |   |                            |           |          |                                                                                                                                                                                             |
@@ -41,7 +41,7 @@ Derevi, Empyrial Tactitian v0.8
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Other helper 3*           |           |          |                                                                                                                                                                                             |
 | * | Green Sun's Zenith         | xG        | sorc     | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                       |
-| * | Wargate                    | xGWU      | sorc     | Search for a permanent w/ CMC = X and put it onto the battlefield                                                                                                                           |
+| 1 | Wargate                    | xGWU      | sorc     | Search for a permanent w/ CMC = X and put it onto the battlefield                                                                                                                           |
 | 1 | Eternal Witness            | 1GG       | 2/1      | When enters: return tgt card from ur graveyard to hand                                                                                                                                      |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Tap/Untap creatures 4*    |           |          |                                                                                                                                                                                             |
@@ -53,7 +53,7 @@ Derevi, Empyrial Tactitian v0.8
 |   | *Tap/Untap Helper 3*       |           |          |                                                                                                                                                                                             |
 | 1 | Thousand-Year Elixir       | 3         | art      | You may activate ability of creats u control as though they had haste -- 1, t: untap tgt creature                                                                                           |
 | 1 | Prophet of Kruphix         | 3GU       | 2/3      | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                                                |
-| * | Akroma's Memorial          | 7         | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                       |
+| 1 | Heliod, God of the Sun     | 3W        | 5/6 ind  | Devotion 5 -- Other creat has vigilance -- 2WW: Put a 2/1 white cleric token into play                                                                                                      |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Other helper creats 8*    |           |          |                                                                                                                                                                                             |
 | 1 | Scavenging Ooze            | 1G        | 2/2      | G: exile tgt cat from a graveyard, if the exiled card is a creatures, put a +1c on ~ and you gain 1 life                                                                                    |
@@ -71,17 +71,17 @@ Derevi, Empyrial Tactitian v0.8
 | 1 | Condemn                    | W         | inst     | Put tgt attacking creature at the bottom of its owner's library                                                                                                                             |
 | 1 | Cyclonic Rift              | 1U        | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                               |
 | 1 | Oblation                   | 2W        | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                  |
-| * | Bant Charm                 | GWU       | inst     | Choose one: Destroy tgt artifact OR Put tgt creature on the bottom of its owner's lib OR counter tgt instant spell                                                                          |
+| 1 | Bant Charm                 | GWU       | inst     | Choose one: Destroy tgt artifact OR Put tgt creature on the bottom of its owner's lib OR counter tgt instant spell                                                                          |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Art and Ench Removals 2*  |           |          |                                                                                                                                                                                             |
-| * | Krosan Grip                | 2G        | inst     | Split second -- Destroy tgt art or ench                                                                                                                                                     |
+| 1 | Krosan Grip                | 2G        | inst     | Split second -- Destroy tgt art or ench                                                                                                                                                     |
 | 1 | Return to Dust             | 2WW       | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                       |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Wrath 4*                  |           |          |                                                                                                                                                                                             |
 | 1 | Wrath of God               | 2WW       | sorc     | Destroy all creatures, they can't be regenerated                                                                                                                                            |
 | 1 | Supreme Verdict            | 1UWW      | sorc     | Can't be countered -- Destroy all creatures                                                                                                                                                 |
 | 1 | Austere Command            | 4WW       | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                          |
-| * | Planar Cleansing           | 3WWW      | sorc     | Destroy all non land permanents                                                                                                                                                             |
+| 1 | Planar Cleansing           | 3WWW      | sorc     | Destroy all non land permanents                                                                                                                                                             |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Counter Spells 6*         |           |          |                                                                                                                                                                                             |
 | 1 | Counterspell               | UU        | inst     | Counter target spell                                                                                                                                                                        |
@@ -106,7 +106,7 @@ Derevi, Empyrial Tactitian v0.8
 | 1 | Hallowed Fountain          |           | land     | Enters tapped unless u pay 2 life -- t: add U or W                                                                                                                                          |
 | * | Breeding Pool              |           | land     | Enters tapped unless u pay 2 life -- t: add G or U                                                                                                                                          |
 | * | Alchemist's Refuge         |           | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                               |
-| * | Seaside Heaven             |           | land     | t: add 1 -- WU, t, sacrifice a bird: Draw a card.                                                                                                                                           |
+| 1 | Seaside Heaven             |           | land     | t: add 1 -- WU, t, sacrifice a bird: Draw a card.                                                                                                                                           |
 | 1 | Temple of the False God    |           | land     | t: add 2 (only if u control 5+ lands)                                                                                                                                                       |
 | 1 | Azorius Chancery           |           | land     | Enters tapped -- When enters: return a land u control to owner's hand -- t: add WU                                                                                                          |
 | 1 | Selesnya Sanctuary         |           | land     | Enters tapped -- When enters: return a land u control to owner's hand -- t: add GW                                                                                                          |
@@ -117,6 +117,9 @@ Derevi, Empyrial Tactitian v0.8
 | 7 | Forest                     |           | bas land |                                                                                                                                                                                             |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Cards to consider*        |           |          |                                                                                                                                                                                             |
+|   | Qasali Pridemage           | GW        | 2/2      | Exalted -- 1, sacr it: destroy tgt art or enchantment                                                                                                                                       |
+|   | Back to Nature             | 1G        | inst     | Destroy all enchantmenta                                                                                                                                                                    |
+|   |                            |           |          |                                                                                                                                                                                             |
 |   | Weathered Wayfarer         | W         | 1/1      | W, t: search your lib for a land, and put it in ur hand (activate only if an opp has more land than u)                                                                                      |
 |   | Unbender Tine              | 2WU       | art      | t: untap another target permanent                                                                                                                                                           |
 |   | Consecrated Sphinx         | 4UU       | 4/6 fly  | When an opp draw: u may draw 2 cards                                                                                                                                                        |
@@ -124,7 +127,11 @@ Derevi, Empyrial Tactitian v0.8
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | Brass Control              | 3         | 1/3      | t: attach tgt equipment you control to tgt creat you control                                                                                                                                |
 |   | Puresteel Paladin          | WW        | 2/2      | Whenever an eqp enters: draw a card -- Metalcraft: eqp cost is 0                                                                                                                            |
+|   | Wickerbough Elder          | 3G        | 4/4      | Enters w/ a -1c on it -- G, remove a -1c from ~: destroy tgt art or enchantment                                                                                                             |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed v0.8 -> v0.9*     |           |          |                                                                                                                                                                                             |
+|   | Akroma's Memorial          | 7         | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                       |
+|   |                            |           |          |                                                                                                                                                                                             |
 |   | *Removed v0.7 -> v0.8*     |           |          |                                                                                                                                                                                             |
 |   | Blasting Station           | 3         | art      | t, sacr a creature: deals 1 damage to tgt creat or player -- Whenever a creature enters: u may untap ~                                                                                      |
 |   | Beck // Call               | GU // 4WU | sorc     | Fuse -- Beck = whenever a creatures enters: draw a card // Call: put 4 1/1 bird w/ flying into play                                                                                         |
@@ -173,13 +180,44 @@ Derevi, Empyrial Tactitian v0.8
 |   | Deathrender                | 4         | eqp 2    | Eqp 2 gets +2/+2.  Whenever eqp creat dies, you may put a creature from ur hand into play and attach deathrender to it                                                                      |
 |   | Spelljack                  | 3UUU      | inst     | Counter tgt spell. Exile it instead of putting in its owner's graveyard.  You may cast it w/o paying its mana cost as long as it remain exiled.                                             |
 
+
+Version v0.9:
+-------------
+Thinking about improving the art/ench case.
+I do like the exaled one.
+
+Cards to consider:
+- Qasili Pridemage (great 2/2)
+- Wickerbought Elder (Derevi -> Pod -> him)
+- Austere Command
+- Aura Chard
+- Back To Nature
+
+v0.8 -> v0.9:
+-------------
+-1 Akroma's Memorial
++1 Heliod, God of the Sun
+
+
 Version 0.8:
 ------------
 There are still some card, I m not convinced they should be in the deck.
 Amongst them:
 - Birthing Pod
 - Akroma's Memorial: It's good.. but doesn't really belong in this deck.
-- Staff of Nim: I dont actually have a lot of creatures... to benefit from it.
+- Staff of Nin: I dont actually have a lot of creatures... to benefit from it.
+
+After thought, and more playtesting:
+- Birthing Pod is actually quite nice to be able to grab a 4CMC guy.
+  I feel like I want one or two more utility 4CMC guy (like a way to get rid of enchantment, ...) -- Keeping it.
+- Akroma's Memorial: I dont think it belongs to the deck, one of the main thing I'm looking for is Vigilance.
+  And a card recently tilt in my head: the white god!! 
+  Heliod can be fetched by pod
+  He can spawned token at instance speed... Great for Derevi's second ability (aka: untap upon damage)
+  The main attribute I'm loosing is hate, but I gain a token generator in exchange.
+- Staff of Nin: Still unsure... I do like it... and with the untap potential, it has proven being useful.
+
+Looking back at the deck in general, only 2 art/ench removal is low...
 
 
 v0.7 -> v0.8:
