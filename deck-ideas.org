@@ -1,45 +1,11 @@
-Next deck to build:
- - RB Wither oriented deck!
+Deck ideas
  - GW Skeet shooting deck
- - ?? Land heavy deck!
- - GW Enchantment deck (turn things to enchant and have many ways to kill them :))
- - B  Discard / Graveyard play.
- - B  Sacrifice Deck!
  - RB Graveyard damage deck (when a card is put to graveyard, opp takes 2 damges, u gain two life enchant + Discard hand, redraw + Direct damage)
- - W? Magus of the Disk deck?
  - ?? Painter's servant base deck (lorwyn artifact) 
- - R? War's Toll based deck
  - UW based on: life loss - regain -> send back including the new vamp with which u roll a dice and potentiall looses 3 life or gaining 6
-
-Maralen + Mindlock Orb -- fun dead lock
-Flame Fusillade !!!! <- Investigation required!!!
-
-- untap deck: using the mantle paradise, and the blue card from eldrazi to reduce the cost
-- niz mizzet deck using the enchant to deal damage on draw (and the instant to move aura?)
-- "level up" blue/other color deck
-- 5 color deck!
-- update the graft-control deck into a wizard-control deck?
-  white/blue? 
-  (protection, put counter from white)
-  (blue: gain control / counter spell; and other fun stuff)
-
-
-cross block idea:
+ - Flame Fusillade !!!! <- Investigation required!!!
+ - untap deck: using the mantle paradise, and the blue card from eldrazi to reduce the cost
  - wolf deck
- - archer deck!!
-   -> turn creatures into flyer and shoot!!
-   (skeet shooting)
  - draw to death!
    penalize the player from drawing and force him to draw many cards!
-
  - Update the sacrifice deck
- - Merfolk invasion deck! with the artifact which tap for mana and the guy which untap to exile to card of my lib.
-   Couple with the guy which becomes tapped give you a draw!
-   Cool combo to do...
-
-so basically:
-  black/blue  - could be fun but expensive
-  green/black - definitively interesting! (purchase in view?)
-  red/black   - seems also interesting... will see!
-  
-  also: deck around the blue leyline (all permanent are legendary!!!) 
