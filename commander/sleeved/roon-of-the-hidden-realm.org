@@ -1,5 +1,5 @@
-Roon of the Hidden Realm v0.5
-[sleeved v0.5]
+Roon of the Hidden Realm v0.6
+[sleeved v0.6]
 
 
 |    | *Commander*               |           |           |                                                                                                                                                                   |
@@ -61,10 +61,11 @@ Roon of the Hidden Realm v0.5
 |  1 | Worldly Tutor             | G         | inst      | Seach lib for a creat and put it on top                                                                                                                           |
 |  1 | Green Sun's Zenith        | xG        | sorc      | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                             |
 |  1 | Cyclonic Rift             | 1U        | inst      | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                     |
+|  1 | Mimic Vat                 | 3         | art       | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                             |
 |  1 | Blue Sun's Zenith         | xUUU      | inst      | Target player draw X cards -- Shuffle ~ to its owner's lib.                                                                                                       |
 |  1 | Leyline of Anticipation   | 2UU       | ench      | if in opening hand -> in play -- non land cards have flash                                                                                                        |
 |  1 | AEthermage's Touch        | 2WU       | inst      | Reveal top 4 cards. You may put a creat from them into play. It gains: "Beg ur end step, return it to hand", rest bot                                             |
-|  1 | Mimic Vat                 | 3         | art       | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                             |
+|  1 | Prophet of Kruphix        | 3GU       | 2/3       | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                      |
 |    |                           |           |           |                                                                                                                                                                   |
 |    | *ETB Creatures 22*        |           |           |                                                                                                                                                                   |
 |  1 | Eternal Witness           | 1GG       | 2/1       | When enters: return tgt card from graveyard to hand                                                                                                               |
@@ -85,7 +86,6 @@ Roon of the Hidden Realm v0.5
 |  1 | Sun Titan                 | 4WW       | 6/6 vig   | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                              |
 |  1 | Frost Titan               | 4UU       | 6/6       | When enters or when attacks: tap tgt perm, it doesn't untap during its controller next untap phase -- When tgt of an opp spell or ab: counter it unless he pays 2 |
 |  1 | Sphinx of Uthuun          | 5UU       | 5/6 fly   | When enters: reveal top 5 card of lib. An opp split those into two piles. Put one in hand and the other in the graveyard                                          |
-|  1 | Sylvan Primordial         | 5GG       | 6/8 reach | When enters: for each opp, destroy tgt noncreat perm. For each: search lib for a forest and put that card into play tapped.                                       |
 |  1 | Diluvian Primordial       | 5UU       | 5/5 fly   | When enters: for each opp, you may cast one tgt inst or sorc w/o paying its mana cost. If cast: exile it.                                                         |
 |  1 | Luminate Primordial       | 5WW       | 4/7 vig   | When enters: for each opp, exile up to one tgt creature, he gains life equals to its power                                                                        |
 |  1 | Angel of Serenity         | 4WWW      | 5/6 fly   | When enters: exile un to 3 tgt creat from play or grave -- WHen leave: return cards to owner's hand                                                               |
@@ -114,6 +114,7 @@ Roon of the Hidden Realm v0.5
 |  6 | Forest                    |           | bas land  |                                                                                                                                                                   |
 |----+---------------------------+-----------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To really consider*      |           |           |                                                                                                                                                                   |
+| ^^ | Harmonic Silver           | 1WG       | 1/1       | All slivers have: "When this enter, destroy tgt artifact or enchantment"                                                                                          |
 |    | Deputy of Acquittals      | UW        | 2/2 flash | When enters: you may return another creature u control to its owner's hand                                                                                        |
 |    | Prophet of Kruphix        | 3GU       | 2/3       | Uptap all creat and lands u control during each other player's upkeep -- You may cast creat as though they had flash                                              |
 |    | Regrowth                  | 1G        | sorc      | Return tgt card from ur graveyard to your hand                                                                                                                    |
@@ -131,6 +132,7 @@ Roon of the Hidden Realm v0.5
 |    | Fiend Hunter              | 1WW       | 1/3       | When enters: exile tgt creatre -- When leave: return exile card to play                                                                                           |
 |    | Condemn                   | W         | inst      | Put tgt attacking creat on bottom of its owner's library -- Its controller gain life equal to its toughness                                                       |
 |----+---------------------------+-----------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Sylvan Primordial         | 5GG       | 6/8 reach | When enters: for each opp, destroy tgt noncreat perm. For each: search lib for a forest and put that card into play tapped.                                       |
 |    | Monk Realist              | 1W        | 1/1       | When enters: destroy tgt enchantment                                                                                                                              |
 |    | Brushland                 |           | land      | t: add 1 -- t: add G or W, ~ deals 1 damage to u                                                                                                                  |
 |    | Adarkar Wastes            |           | land      | t: add 1 -- t: add W or U, ~ deals 1 damage to u                                                                                                                  |
@@ -157,6 +159,17 @@ Roon of the Hidden Realm v0.5
 |    | Personal Tutor            |           |           |                                                                                                                                                                   |
 |    | Merchant Scroll           |           |           |                                                                                                                                                                   |
 |    |                           |           |           |                                                                                                                                                                   |
+
+
+v0.6 -> v0.7:
+-------------
+-1 War Priest of Thune
++1 Harmonic Sliver
+
+v0.5 -> v0.6:
+-------------
+-1 Sylvan Primordial (banned)
++1 Prophet of Kruphix
 
 v0.4 -> v0.5:
 -------------
