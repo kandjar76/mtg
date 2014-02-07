@@ -6,9 +6,6 @@ Missing:
 - Bogadan Hellkite
 - Balefire Dragon
 - Rakdos the Defiler
-- Erebos, God of the Dead
-- Increasing Ambition
-- Ashen Rider
 - Volrath's Stronghold
 - Graven Cairns
 
@@ -59,13 +56,13 @@ Missing:
 |   |                            |         |          |                                                                                                                                                           |
 |   | *Draw power*               |         |          |                                                                                                                                                           |
 | 1 | Phyrexian Arena            | 1BB     | ench     | Beg upk: draw a card and loose a life                                                                                                                     |
-| * | Erebos, God of the Dead    | 3B      | 5/7 ind  | Devotion 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                     |
+| 1 | Erebos, God of the Dead    | 3B      | 5/7 ind  | Devotion 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                     |
 | 1 | Underworld Connections     | 1BB     | aura     | Ench land -- Land has: "t, pay 1 life: draw a card"                                                                                                       |
 |   |                            |         |          |                                                                                                                                                           |
 |   | *Search engine*            |         |          |                                                                                                                                                           |
 | 1 | Beseech the Queen          | {bp}x3  | sorc     | Search lib for a card w/ CMC less or equal to # lands u control                                                                                           |
 | 1 | Demonic Tutor              | 1B      | sorc     | Search lib for a card and put it into your hand                                                                                                           |
-| * | Increasing Ambition        | 4B      | sorc     | Flashback 7B -  Search lib for a card and put it into ur hand, two cards if played from the graveyard                                                     |
+| 1 | Increasing Ambition        | 4B      | sorc     | Flashback 7B -  Search lib for a card and put it into ur hand, two cards if played from the graveyard                                                     |
 |   |                            |         |          |                                                                                                                                                           |
 |   | *Single target removals*   |         |          |                                                                                                                                                           |
 | 1 | Unmake                     | {wb}x3  | inst     | Exile tgt creatures                                                                                                                                       |
@@ -95,7 +92,7 @@ Missing:
 | 1 | Quicksilver Amulet         | 4       | art      | 4, t: put a creat from hand to play                                                                                                                       |
 | 1 | Boros Charm                | RW      | inst     | Choose 1: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                           |
 | 1 | True Conviction            | 3WWW    | ench     | Creats u control gain double strike                                                                                                                       |
-| * | Ashen Rider                | 4WWBB   | 5/5 fly  | When enters or dies: exile tgt perm                                                                                                                       |
+| 1 | Ashen Rider                | 4WWBB   | 5/5 fly  | When enters or dies: exile tgt perm                                                                                                                       |
 | 1 | Unburial Rites             | 4B      | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                                                   |
 | 1 | Cloudshift                 | W       | inst     | Exile tgt creat u control then return it under u control                                                                                                  |
 |   |                            |         |          |                                                                                                                                                           |
