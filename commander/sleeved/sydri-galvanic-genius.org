@@ -1,5 +1,5 @@
 Sydri, Galvanic Genius v2.4
-[not yet sleeved]
+[sleeved: v2.4]
 
 |   | *Commander*                |        |          |                                                                                                                                                                                       |
 | 1 | Sydri, Galvanic Genius     | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                                         |
