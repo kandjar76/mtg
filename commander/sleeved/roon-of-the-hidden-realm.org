@@ -1,5 +1,5 @@
-Roon of the Hidden Realm v0.6
-[sleeved v0.6]
+Roon of the Hidden Realm v0.7
+[sleeved v0.7]
 
 
 |    | *Commander*               |           |           |                                                                                                                                                                   |
@@ -34,10 +34,11 @@ Roon of the Hidden Realm v0.6
 |  1 | Oblation                  | 2W        | inst      | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                        |
 |  1 | Detention Sphere          | 1WU       | ench      | When enter: exile tgt perm and all perm sharing its name -- When leave: return the exiled permanent to the battlefield                                            |
 |    |                           |           |           |                                                                                                                                                                   |
-|    | *Blink Spell 5*           |           |           |                                                                                                                                                                   |
+|    | *Blink Spell 6*           |           |           |                                                                                                                                                                   |
 |  1 | Momentary Blink           | 1W        | inst      | Flashback 3U -- Blink tgt creat u control                                                                                                                         |
 |  1 | Mistmeadow Witch          | 1{wu}     | 1/1       | 2WU: exile tgt creat, return it to play under its owner's control at eot                                                                                          |
 |  1 | Ghostway                  | 2W        | inst      | Exile all creats u control -- Return them to play under their owner's control at eot                                                                              |
+|  1 | Brago, King Eternal       | 2WU       | 2/4 fly   | Legendary -- When ~ deals combat damage to a player, link any number of target non land perms you control.                                                        |
 |  1 | Conjurer's Closet         | 5         | art       | Beg end step: u may blink tgt creat u control                                                                                                                     |
 |  1 | Deadeye Navigator         | 4UU       | 5/5       | Soulbound -- Soulbounded have: "1U: blink this creat"                                                                                                             |
 |    |                           |           |           |                                                                                                                                                                   |
@@ -67,7 +68,7 @@ Roon of the Hidden Realm v0.6
 |  1 | AEthermage's Touch        | 2WU       | inst      | Reveal top 4 cards. You may put a creat from them into play. It gains: "Beg ur end step, return it to hand", rest bot                                             |
 |  1 | Prophet of Kruphix        | 3GU       | 2/3       | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                      |
 |    |                           |           |           |                                                                                                                                                                   |
-|    | *ETB Creatures 22*        |           |           |                                                                                                                                                                   |
+|    | *ETB Creatures 21*        |           |           |                                                                                                                                                                   |
 |  1 | Eternal Witness           | 1GG       | 2/1       | When enters: return tgt card from graveyard to hand                                                                                                               |
 |  1 | Solemn Simulacrum         | 4         | 2/2       | When enters: search basic land put into play tapped -- When leave: draw                                                                                           |
 |  1 | Venser, Shaper Savant     | 2UU       | 2/2 flash | When enters: return tgt spell or tgt perm to its owner's hand                                                                                                     |
@@ -75,7 +76,6 @@ Roon of the Hidden Realm v0.6
 |  1 | Angel of Finality         | 3W        | 3/4 fly   | When enters: exile tgt player's graveyard                                                                                                                         |
 |  1 | Restoration Angel         | 3W        | 3/4 fly   | Flash -- When enters: blink tgt non angel creatures u control                                                                                                     |
 |  1 | Phyrexian Metamorph       | 3{up}     | 0/0       | You may have ~ enter the battlefield as a copy of any creature or artifact -- It remains an artifact in addition of its other types                               |
-|  1 | Mulldrifter               | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                             |
 |  1 | Karmic Guide              | 3WW       | 2/2 fly   | Pro black -- Echo 3WW -- When enters: return tgt creat from ur graveyard to play                                                                                  |
 |  1 | Thragtusk                 | 4G        | 5/3       | When enters: gain 5 life, when leaves: put a 3/3 token                                                                                                            |
 |  1 | Reveillark                | 4W        | 4/3 fly   | Evoke 5W -- When leaves: you may return up to 2 tgt creat w/ pow 2 or less from ur grave to play                                                                  |
@@ -115,6 +115,7 @@ Roon of the Hidden Realm v0.6
 |----+---------------------------+-----------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To really consider*      |           |           |                                                                                                                                                                   |
 | ^^ | Harmonic Silver           | 1WG       | 1/1       | All slivers have: "When this enter, destroy tgt artifact or enchantment"                                                                                          |
+|    | Illusionist's Bracer      | 2         | eqp 3     | When an ab of eqp creat is activated, if it's not mana ab, copy it, you may choose a new target for the copy.                                                     |
 |    | Deputy of Acquittals      | UW        | 2/2 flash | When enters: you may return another creature u control to its owner's hand                                                                                        |
 |    | Prophet of Kruphix        | 3GU       | 2/3       | Uptap all creat and lands u control during each other player's upkeep -- You may cast creat as though they had flash                                              |
 |    | Regrowth                  | 1G        | sorc      | Return tgt card from ur graveyard to your hand                                                                                                                    |
@@ -132,6 +133,7 @@ Roon of the Hidden Realm v0.6
 |    | Fiend Hunter              | 1WW       | 1/3       | When enters: exile tgt creatre -- When leave: return exile card to play                                                                                           |
 |    | Condemn                   | W         | inst      | Put tgt attacking creat on bottom of its owner's library -- Its controller gain life equal to its toughness                                                       |
 |----+---------------------------+-----------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Mulldrifter               | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                             |
 |    | Sylvan Primordial         | 5GG       | 6/8 reach | When enters: for each opp, destroy tgt noncreat perm. For each: search lib for a forest and put that card into play tapped.                                       |
 |    | Monk Realist              | 1W        | 1/1       | When enters: destroy tgt enchantment                                                                                                                              |
 |    | Brushland                 |           | land      | t: add 1 -- t: add G or W, ~ deals 1 damage to u                                                                                                                  |
@@ -161,10 +163,15 @@ Roon of the Hidden Realm v0.6
 |    |                           |           |           |                                                                                                                                                                   |
 
 
-v0.6 -> v0.7:
+v0.7 -> v0.8:
 -------------
 -1 War Priest of Thune
 +1 Harmonic Sliver
+
+v0.6 -> v0.7:
+-------------
++1 Brago, King Eternal
+-1 Mulldrifter (not quite sure if that's the best option... was a tough decision)
 
 v0.5 -> v0.6:
 -------------
