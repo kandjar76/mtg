@@ -1,5 +1,5 @@
-Kaalia of the Vast v0.9
-[sleeved: v0.9]
+Kaalia of the Vast v1.0
+[sleeved: v1.0]
 
 Missing:
 - Avacyn, Angel of Hope
@@ -101,13 +101,13 @@ Missing:
 | * | Volrath's Stronghold       |         | land     | t: add 1 -- 1B, t: put tgt creat card from your graveyard on top of your lib                                                                              |
 | 1 | Slayers' Stronghold        |         | land     | t: add 1 -- WB, t: tgt creat gain +2/0, vigilance and haste until eot                                                                                     |
 | 1 | Vivid Meadow               |         | land     | Enters tapped w/ 2 counters -- t: add W -- t, remove a counter: add 1 mana any color to mana pool                                                         |
-| 1 | Vivid Crag                 |         | land     | Enters tapped w/ 2 counters -- t: add R -- t, remove a counter: add 1 mana any color to mana pool                                                         |
 | 1 | Secluded Steppe            |         | land     | Enters tapped -- t: add W -- Cycling W                                                                                                                    |
 | 1 | Forgotten Cave             |         | land     | Enters tapped -- t: add R -- Cycling R                                                                                                                    |
 | 1 | Barren Moor                |         | land     | Enters tapped -- t: add B -- Cycling B                                                                                                                    |
 | 1 | Rakdos Carnarium           |         | land     | Enters tapped -- When enters return land u control to hand -- t: add RB                                                                                   |
 | 1 | Orzhov Basilica            |         | land     | Enters tapped -- When enters return land u control to hand -- t: add WB                                                                                   |
 | 1 | Boros Garrison             |         | land     | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                   |
+| 1 | Nomad Outpost              |         | land     | Enters tapped -- t: add R or W or B                                                                                                                       |
 | 1 | Molten Slagheap            |         | land     | t: add 1 -- 1, t: put charge counter on it -- 1, remove X charge counter: add X combination of B or R to mana pool                                        |
 | 1 | Evolving Wilds             |         | land     | t, sacr ~: Search lib for bas land and put it into play tapped                                                                                            |
 | 1 | Command Tower              |         | land     | t: add one mana of any color in your commander's color identity                                                                                           |
@@ -121,6 +121,8 @@ Missing:
 |   |                            |         |          |                                                                                                                                                           |
 |---+----------------------------+---------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To Consider*              |         |          |                                                                                                                                                           |
+|   | Avacyn, Guardian Angel     | 2WWW    | 5/4 fly  | Vigilance -- 1W: Prevent all damage dealt to another tgt creat by srcs of chosen color -- 5WW: Prevent damages dealt to tgt player by srcs chosen color   |
+|   |                            |         |          |                                                                                                                                                           |
 |   | Balefire Dragon            | 5RR     | 6/6 fly  | Whenever ~ deals damage to a player, it deals that much damage to each creat that player controls                                                         |
 |   | Karmic Guide               | 3WW     | 2/2 fly  | Pro Black -- Echo -- When enters: return tgt creat from ur graveyard to play                                                                              |
 |   | Scourge of Kher Ridges     | 6RR     | 6/6 fly  | 1R: ~ deals 2 damage to each creat w/o flying -- 5R: deals 6 damage to each other creat w/ flying                                                         |
@@ -156,6 +158,7 @@ Missing:
 |   |                            |         |          |                                                                                                                                                           |
 |   | Rescue from the Underworld | 4B      | inst     | Add cost: sac a creat -- Choose tgt creat in ur graveyard. Return that card and the sac creature to play under ur control at beg of ur next upk           |
 |---+----------------------------+---------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Vivid Crag                 |         | land     | Enters tapped w/ 2 counters -- t: add R -- t, remove a counter: add 1 mana any color to mana pool                                                         |
 |   | Reaper from the Abyss      | 3BBB    | 6/6 fly  | Morbid: Beg each end step, destroy tgt non-demon creature                                                                                                 |
 |   | Bladewing the Risen        | 3BBRR   | 4/4 fly  | When enters: u may return Dragon perm from ur graveyard to play -- RB: Dragons gets +1/+1 until eot                                                       |
 |   | Urborg, Tomb of Yawgmoth   |         | land     | Lands are swamp in addition to their other types                                                                                                          |
@@ -167,6 +170,10 @@ Missing:
 |   | Deathless Angel            | 4WW     | 5/7 fly  | WW: tgt creat is indestructible this turn                                                                                                                 |
 |   |                            |         |          |                                                                                                                                                           |
 
+Version 1.0:
+------------
+-1 Vivid Crag
++1 Nomad Outpost
 
 Version 0.9:
 ------------
