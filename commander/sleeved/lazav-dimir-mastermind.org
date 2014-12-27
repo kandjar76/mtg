@@ -1,6 +1,19 @@
 Lazav, Dimir Mastermind v1.6
 [sleeved: v1.6]
 
+Missing:
+- Rhystic Study
+- Consecrated Sphinx
+- Animate Dead
+- Yawgmoth's Will
+- Body Double
+- Glen Elendra Archmage
+- AEtherize
+- Plague Wind
+- Shizo, Death's Storehouse
+- Cabal Coffers
+- Ancient Tomb
+
 
 |   | *Commander*                |         |             |                                                                                                                                                                                       |
 | 1 | Lazav, Dimir Mastermind    | UUBB    | 3/3 hex     | Whenever a creat is put to an opp graveyard from anywhere, ~ may becomes a copy of it, if so: he keeps: this ab, his name, hexproof, and the leg clause                               |
@@ -14,7 +27,7 @@ Lazav, Dimir Mastermind v1.6
 | 1 | Sol Ring                   | 1       | art         | t: add 2 to mana pool                                                                                                                                                                 |
 | 1 | Dimir Signet               | 2       | art         | 1, t: add UB to mana pool                                                                                                                                                             |
 | 1 | Dimir Cluestone            | 3       | art         | t: add U or B to mana poo -- UB, t, sacr it: draw a card                                                                                                                              |
-| * | Thran Dynamo               | 4       | art         | t: add 3                                                                                                                                                                              |
+| 1 | Thran Dynamo               | 4       | art         | t: add 3                                                                                                                                                                              |
 | 1 | Gilded Lotus               | 5       | art         | t: add 3 mana of any one color to ur mana pool                                                                                                                                        |
 | 1 | Caged Sun                  | 6       | art         | As enter: choose color -- Creat u control of choosen color gets +1/+1 -- When lap tap to produce that color, add 1 more                                                               |
 |   |                            |         |             |                                                                                                                                                                                       |
@@ -39,7 +52,7 @@ Lazav, Dimir Mastermind v1.6
 | 1 | Sword of Body and Mind     | 3       | eqp 2       | Eqp creat has +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and defending player put top 10 card from lib to graveyaard                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | *Search Box 5*             |         |             |                                                                                                                                                                                       |
-| * | Demonic Tutor              | 1B      | sorc        | Search your lib for a card and put it in your hand                                                                                                                                    |
+| 1 | Demonic Tutor              | 1B      | sorc        | Search your lib for a card and put it in your hand                                                                                                                                    |
 | 1 | Beseech the Queen          | {bp}x3  | sorc        | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                                       |
 | 1 | Increasing Ambition        | 4B      | sorc        | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
 | 1 | Diabolic Revelation        | x3BB    | sorc        | Search your lib for X cards and put them into your hand                                                                                                                               |
@@ -75,7 +88,7 @@ Lazav, Dimir Mastermind v1.6
 |   | *Board sweep spells 7*     |         |             |                                                                                                                                                                                       |
 | 1 | Cyclonic Rift              | 1U      | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                         |
 | 1 | Black Sun's Zenith         | xBB     | sorc        | Each creatures gets X -1/-1 counter on it, shuffle ~ to the library                                                                                                                   |
-| * | AEtherize                  | 3U      | inst        | Return all attacking creats to their owner's hand                                                                                                                                     |
+| 1 | AEtherize                  | 3U      | inst        | Return all attacking creats to their owner's hand                                                                                                                                     |
 | 1 | Damnation                  | 2BB     | sorc        | Destroy all creatures, they can't be regenerated                                                                                                                                      |
 | 1 | Consume the Meek           | 3BB     | inst        | Destroy all creatures with CMC 3 or less -- They can't be regen                                                                                                                       |
 | 1 | Life's Finale              | 4BB     | sorc        | Destroy all creatures, search for tgt players library for 3 creatures and put them into its graveyard                                                                                 |
@@ -93,7 +106,7 @@ Lazav, Dimir Mastermind v1.6
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | *Lands 37*                 |         |             |                                                                                                                                                                                       |
 | * | Shizo, Death's Storehouse  |         | leg land    | t: add B -- B, t: tgt leg creature gains fear                                                                                                                                         |
-| * | Urborg, Tomb of Yawgmoth   |         | leg land    | Each land is a swamp in addition of its other type                                                                                                                                    |
+| 1 | Urborg, Tomb of Yawgmoth   |         | leg land    | Each land is a swamp in addition of its other type                                                                                                                                    |
 | * | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
 | 1 | Rogue's Passage            |         | land        | t: add 1 -- 4, t: tgt creature can't be blocked this turn                                                                                                                             |
 | 1 | Reliquary Tower            |         | land        | t: add 1 -- You have no max hand size                                                                                                                                                 |
