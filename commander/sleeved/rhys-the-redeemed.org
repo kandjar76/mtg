@@ -1,8 +1,9 @@
-Rhys the Redeemed v1.3
-[sleeved v1.3]
+Rhys the Redeemed v1.6
+[sleeved v1.6]
 
 Missing:
 - Sylvan Library
+- Stirring Wildwood
 
 
 |    | *Commander*                |          |          |                                                                                                                                                                                                            |
@@ -26,7 +27,7 @@ Missing:
 |  1 | Lightning Greaves          | 2        | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                                             |
 |  1 | Moonsilver Spear           | 4        | eqp 4    | Eqp creat has first strike -- Whenever eqp creat attack: put a 4/4 white Angel token w/ flying into play                                                                                                   |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *Token Makers 11*          |          |          |                                                                                                                                                                                                            |
+|    | *Token Makers 12*          |          |          |                                                                                                                                                                                                            |
 |  1 | Spawnwrithe                | 2G       | 2/2      | Trample -- When deals combat damage to a player, put a token that's a copy of ~ into play                                                                                                                  |
 |  1 | Parallel Lives             | 3G       | ench     | If an effect would put one or more token on u side, put twice that many tokens instead                                                                                                                     |
 |  1 | Entreat the Angels         | xxWWW    | sorc     | Miracle: xWW -- Put X 4/4 angel flying into play                                                                                                                                                           |
@@ -37,6 +38,7 @@ Missing:
 |  1 | Hornet Queen               | 4GGG     | 2/2 fly  | Deathtouch -- When enters: put four 1/1 green insects w/ flying and deathtouch into play                                                                                                                   |
 |  1 | Trostani's Summoner        | 5GW      | 1/1      | When enters: put a 2/2 white knight, a 3/3 green centaur, and a 4/4 green rhino into play                                                                                                                  |
 |  1 | Bestial Menace             | 3GG      | sorc     | Put a 1/1 green snake, a 2/2 green wolf, and a 3/3 green elephant into play                                                                                                                                |
+|  1 | Fated Intervention         | 2GGG     | inst     | Put two 3/3 green centaur into play -- If it's your turn: scry 2                                                                                                                                           |
 |  1 | White Sun's Zenith         | xWWW     | inst     | Put X 2/2 cat token into play, shuffle ~ into its owner's library                                                                                                                                          |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Beefing spells 8*         |          |          |                                                                                                                                                                                                            |
@@ -84,9 +86,8 @@ Missing:
 |  1 | Return to Dust             | 2WW      | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                                      |
 |  1 | Aura Mutation              | GW       | inst     | Destroy tgt ench, put X 1/1 saprolin into play, where X is its CMC                                                                                                                                         |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *General Helpers 7*        |          |          |                                                                                                                                                                                                            |
+|    | *General Helpers 6*        |          |          |                                                                                                                                                                                                            |
 | *1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
-|  1 | Mimic Vat                  | 3        | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                                      |
 |  1 | Rootborn Defenses          | 2W       | inst     | Populate, creats u control are indestructible this turn                                                                                                                                                    |
 |  1 | Fresh Meat                 | 3G       | inst     | Put a 3/3 beast for each creat put into ur graveyard this turn                                                                                                                                             |
 |  1 | Defense of the Heart       | 3G       | ench     | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                                                                                   |
@@ -106,19 +107,26 @@ Missing:
 |  1 | Selesnya Guildgate         |          | land     | Enters tapped -- t: add G or W                                                                                                                                                                             |
 |  1 | Sunpetal Grove             |          | land     | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                                                       |
 |  1 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                     |
-| 12 | Forest                     |          | bas land |                                                                                                                                                                                                            |
-| 12 | Plains                     |          | bas land |                                                                                                                                                                                                            |
+|  1 | Saltcrusted Steppe         |          | land     | t: add 1 -- 1, t: put a storage counter on ~ -- 1, remove X storage counter: add X combinaition of G or W to your mana pool                                                                                |
+|  * | Stirring Wildwood          |          | land     | Enters tapped -- t: add G or W -- 1GW: becomes a 3/4 green and white elemental with reach until eot                                                                                                        |
+|  1 | Graypelt Refuge            |          | land     | Enters tapped -- When enter: gain 1 life -- t: add G or W                                                                                                                                                  |
+| 11 | Forest                     |          | bas land |                                                                                                                                                                                                            |
+| 10 | Plains                     |          | bas land |                                                                                                                                                                                                            |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To Consider*              |          |          |                                                                                                                                                                                                            |
+|    | Wirewood Lodge             |          | land     | t: add 1 -- G, t: untap target elf                                                                                                                                                                         |
 |    | Regal Force                | 4GGG     | 5/5      | When enters: draw a card for each green creature you control                                                                                                                                               |
 |    | Abundanc                   | 2GG      | ench     | Whenever u draw: you may choose land or non land, and reveal top card until the choosen type is revealesd.  Put all other cards at the bottom in any order.                                                |
 |    | Carnage Altar              | 2        | art      | 3, sacr a creat: draw a card                                                                                                                                                                               |
 |    | Might of the Masses        | G        | inst     | Tgt creat get +X/+X where X is the # of creat u control                                                                                                                                                    |
 |    | Sprout Swarm               | 1G       | inst     | Convoke -- Buyback 3 -- Put a 1/1 green saprolin onto the battlefield                                                                                                                                      |
 |    | Glare of Subdual           | 2GW      | ench     | Tap a creat u control: tap tgt creat or artifact                                                                                                                                                           |
-|  + | Primeval Bounty            | 5G       | ench     | When u cast a creat spell: put a 3/3 beast token into play -- When u cast a non creat spell: put 3 +1c on tgt creat u control -- When a land enters under ur control: gain 3 life                          |
-|  + | Krosan Verge               |          | land     | Enters tapped -- t: add 1 -- 2, t, sacr: search for a Plains and a Forest and put them into play tapped.                                                                                                   |
+|    | Krosan Verge               |          | land     | Enters tapped -- t: add 1 -- 2, t, sacr: search for a Plains and a Forest and put them into play tapped.                                                                                                   |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Mimic Vat                  | 3        | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                                      |
+|    | Spawning Grounds           | 6GG      | aura     | Enchant land has: "t: put a 5/5 green beast token on the battlefield"                                                                                                                                      |
+|    |                            |          |          |                                                                                                                                                                                                            |
+|    | Primeval Bounty            | 5G       | ench     | When u cast a creat spell: put a 3/3 beast token into play -- When u cast a non creat spell: put 3 +1c on tgt creat u control -- When a land enters under ur control: gain 3 life                          |
 |    | Skullclamp                 | 1        | eqp 1    | Eqp creats gets +1/-1 -- When eqp creat dies, draw 2 cards                                                                                                                                                 |
 |    | Sterling Grove             | GW       | ench     | Other ench u control have shroud -- t, sacr ~: search for an ench card and put on top of lib                                                                                                               |
 |    | Symbiotic Wurm             | 5GGG     | 7/7      | When dies, put seven 1/1 green insects into play                                                                                                                                                           |
@@ -146,8 +154,40 @@ Missing:
 |    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
 
 
+v1.5 -> v1.6:
+-------------
+-1 Spawning Grounds
++1 Fated Intervention
+
+v1.4 -> v1.5:
+-------------
+-1 Primeval Bounty
++1 Spawning Grounds
+-1 Forest
+-2 Plains
++1 Saltcrusted Steppe
++1 Stirring Wildwood
++1 Graypelt Refuge
+
+Version v1.4:
+-------------
+Actually, this deck doesn't cast THAT many creatures... So Primeval Bounty may not be the right choice here.
+However, one thing I just realized: the color based need to be fixed!  I too often get color screwed with this deck.
+
+v1.3 -> v1.4:
+-------------
+-1 Mimic Vat
++1 Primeval Bounty
+
+Version 1.3:
+------------
+I'm not too convinced about Mimic Vat in this deck.
+Aside from having something like: Acidic Slime under it... it's not too useful.x
+
 v1.2 -> v1.3:
 -------------
+-1 Skullclamp
++1 Academy Reactor
 
 Version 1.2:
 ------------
