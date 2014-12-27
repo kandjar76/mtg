@@ -1,5 +1,5 @@
-Sydri, Galvanic Genius v2.4
-[sleeved: v2.4]
+Sydri, Galvanic Genius v2.5
+[sleeved: v2.5]
 
 |   | *Commander*                |        |          |                                                                                                                                                                                       |
 | 1 | Sydri, Galvanic Genius     | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                                         |
@@ -30,7 +30,7 @@ Sydri, Galvanic Genius v2.4
 | 1 | Nihil Spellbomb            | 1      | art      | t, sacr it: Exile tgt player's graveyard -- When put to grave from play, you may pay B to draw                                                                                        |
 | 1 | Dispeller's Capsule        | W      | art      | 2W, t, sacr it: destroy tgt art or enchantment                                                                                                                                        |
 |   |                            |        |          |                                                                                                                                                                                       |
-|   | *1 CNC artifact combo 2*   |        |          |                                                                                                                                                                                       |
+|   | *1 CMC artifact combo 2*   |        |          |                                                                                                                                                                                       |
 | 1 | Trinket Mage               | 2U     | 2/2      | When enters: search for an art with CMC 1- and put it into your hand                                                                                                                  |
 | 1 | Salvaging Station          | 6      | art      | t: return tgt artifact w/ CMC 1- from ur graveyard to play -- When a creat dies: untap ~                                                                                              |
 |   |                            |        |          |                                                                                                                                                                                       |
@@ -64,18 +64,19 @@ Sydri, Galvanic Genius v2.4
 | 1 | Diabolic Revelation        | x3BB   | sorc     | Search your lib for X cards and put them into your hand                                                                                                                               |
 | 1 | Increasing Ambition        | 4B     | sorc     | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
 |   |                            |        |          |                                                                                                                                                                                       |
-|   | *Ccreatures 9*             |        |          |                                                                                                                                                                                       |
+|   | *Ccreatures 10*            |        |          |                                                                                                                                                                                       |
 | 1 | Spellskite                 | 2      | 0/4 art  | {pu}: Redirect tgt spell or ability to ~                                                                                                                                              |
 | 1 | Baleful Strix              | UW     | 1/1 fly  | Deathtouch -- When enter: draw a card                                                                                                                                                 |
 | 1 | Solemn Simulacrum          | 4      | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                                                   |
 | 1 | Sharuum the Hegemon        | 3WUB   | 5/5 art  | Flying -- When enter: return tgt art from graveyard to play                                                                                                                           |
 | 1 | Wurmcoil Engine            | 6      | 6/6 art  | Deathtouch, lifelink -- When dies: put a 3/3 wurm w/ deathtouch and a 3/3 wurm w/ lifelink into play                                                                                  |
 | 1 | Triskelion                 | 6      | 1/1 art  | Enters w/ 3 +1c -- Remove a +1c from ~: deals 1 damage to tgt creat or player                                                                                                         |
+| 1 | Soul of New Phyrexia       | 6      | 6/6 art  | Trample -- 5: perms you control gain indestructible until eot -- 5, exile ~ from your graveyard: perms you control gain indestructible until eot                                     |
 | 1 | Myr Battlesphere           | 7      | 4/7 art  | When enters: put 4 1/1 myr token into play -- When attack, you may tap X untapped myr: gets +X/0 and deals X damage to defending player                                               |
 | 1 | Sphinx of the Steel Wind   | 5WUB   | 6/6 art  | Flying, first strike, vigilance, lifelink, pro-red, pro-green                                                                                                                         |
 | 1 | Enigma Sphinx              | 4WUB   | 5/4 fly  | Cascade -- When dies: put it into your lib, third from the top                                                                                                                        |
 |   |                            |        |          |                                                                                                                                                                                       |
-|   | *Helpers 13*               |        |          |                                                                                                                                                                                       |
+|   | *Helpers 12*               |        |          |                                                                                                                                                                                       |
 | 1 | Nim Deathmantle            | 2      | eqp 4    | Eqp creats gets "+2/+2 and intimidate" and is a black zombie -- Whenever non token creat is put into ur graveyard, you may pay 4, if so: return it to play and attach ~ to it         |
 | 1 | Lightning Greaves          | 2      | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                        |
 | 1 | Thirst for Knowledge       | 2U     | inst     | Draw 3 then discard 2 unless u discarded an artifact                                                                                                                                  |
@@ -85,7 +86,6 @@ Sydri, Galvanic Genius v2.4
 | 1 | Vedalken Orrery            | 4      | art      | You may cast non land cards any time you could play an instant                                                                                                                        |
 | 1 | Unwinding Clock            | 4      | art      | Untap all artifacts u control during each other player's upkeep                                                                                                                       |
 | 1 | Trading Post               | 4      | art      | 1, t, discard: gain 4 life -- 1, t, pay 1: put a 0/1 goat into play -- 1, t, sacr creat: return tgt art from grave to hand -- 1, t, sacr art: draw a card                             |
-| 1 | Tower of Fortunes          | 4      | art      | 8, t: draw 4 cards                                                                                                                                                                    |
 | 1 | Staff of Nin               | 6      | art      | Beg upk: draw a card -- t: deals 1 damage to tgt creat or player                                                                                                                      |
 | 1 | Akroma's Memorial          | 7      | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                 |
 | 1 | Spine of Ish Sah           | 7      | art      | When enter, or put to graveyard: destroy tgt perm                                                                                                                                     |
@@ -119,8 +119,11 @@ Sydri, Galvanic Genius v2.4
 |---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Cards to really consider* |        |          |                                                                                                                                                                                       |
 |   | Myr Retriever              | 2      | 1/1      | When ~ dies, return tgt artifact from your graveyard to your hand                                                                                                                     |
+|   | Ethersworn Adjudicator     | 4U     | 4/4 fly  | 1WB, t: destroy tgt creat or enchantment -- 2U: untap ~                                                                                                                               |
+|   | Caltrops                   | 3      | art      | Whenever a creatures attack, ~ deals 1 damage to it                                                                                                                                   |
 |   |                            |        |          |                                                                                                                                                                                       |
 |   | *Other cards to consider*  |        |          |                                                                                                                                                                                       |
+|   | Etherium Astrolabe         | 2U     | art      | Flash -- B, t, sacr a art: draw a card                                                                                                                                                |
 |   | Tempest of Light           | 2W     | inst     | Destroy all enchantments                                                                                                                                                              |
 |   | Glaring Spotlight          | 1      | art      | Creats ur opp control w/ hexproof can be targetted -- 3, sacr it: creats u control gain hexproof and are unblockable until eot                                                        |
 |   | Ethersworn Canonist        | 1W     | 2/2 art  | Each player who played a non-artifact spell this turn cannot cast an additional non artifact spell                                                                                    |
@@ -203,6 +206,7 @@ Sydri, Galvanic Genius v2.4
 |   | Temple of Deceit           |        | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                                              |
 |   | Temple of Silence          |        | land     | Enters tapped -- Scry 1 -- t: add W or B                                                                                                                                              |
 |---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Tower of Fortunes          | 4      | art      | 8, t: draw 4 cards                                                                                                                                                                    |
 |   | Fabricate                  | 2U     | sorc     | Search an art and put it in ur hand                                                                                                                                                   |
 |   | Azorius Cluestone          | 3      | art      | t: add W or U to mana pool -- WU, t, sacr it: draw a card                                                                                                                             |
 |   | Dimir Cluestone            | 3      | art      | t: add U or B to mana pool -- UB, t, sacr it: draw a card                                                                                                                             |
@@ -234,6 +238,11 @@ Sydri, Galvanic Genius v2.4
 |   | Sphinx Summoner            | 3UB    | 3/3 fly  | When enters: search lib for an art creat and put it in ur hand                                                                                                                        |
 |   | Mikaeus, the Unhallowed    | 3BBB   | 5/5      | Intimidate -- When a human deals damage to u: destroy it -- Other non human u control gets +1/+1 and have undying                                                                     |
 
+
+v2.4 -> v2.5:
+-------------
+-1 Tower of Fortune
++1 Soul of New Phyrexia
 
 Version v2.4:
 -------------
@@ -432,4 +441,4 @@ We'll see.
 
 --
 
-mmm... Pything Needle HURTS!!! :)
+mmm... Pithing Needle HURTS!!! :)
