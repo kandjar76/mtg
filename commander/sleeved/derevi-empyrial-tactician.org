@@ -2,6 +2,10 @@ Derevi, Empyrial Tactitian v0.9
 [sleeved: v0.9]
 
 
+Missing:
+- High Market
+
+
 |   | *Commander*                |           |          |                                                                                                                                                                                             |
 | 1 | Derevi, Empyrial Tactitian | GWU       | 2/3 fly  | When enters or a creature u control deals damage to an opponent, you may tap or untap target permanent -- 1GWU: put ~ from the commander zone into play                                     |
 |   |                            |           |          |                                                                                                                                                                                             |
