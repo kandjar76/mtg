@@ -1,42 +1,109 @@
-Defender of the Crown v0.1
+Defender of the Crown v0.5
 [sleeved: N/A]
 
-|    |                      |       |          |                                                                                                                                  |
-|    | *Utility Walls 6*    |       |          |                                                                                                                                  |
-|  4 | Tinder Wall          | G     | 0/3 wall | Defender -- Sacr ~: add RR -- R, sacr ~: ~ deals 2 damage to tgt creature it's blocking                                          |
-|  2 | Overgrown Battlement | 1G    | 0/4 wall | Defender -- t: add G for each creature w/ defender u control                                                                     |
-|    |                      |       |          |                                                                                                                                  |
-|    | *Damage Walls 13*    |       |          |                                                                                                                                  |
-|  4 | Cinder Wall          | R     | 3/3 wall | Defender -- When ~ block, destroy it at end of combat                                                                            |
-|  4 | Wall of Razors       | 1R    | 4/1 wall | Defender, first strike                                                                                                           |
-|  2 | Rage Nimbus          | 2R    | 5/3      | Defender, flying -- 1R: tgt creature attack this turn if able                                                                    |
-|  2 | Vent Sentinel        | 3R    | 2/4      | Defender -- 1R, t: ~ deals damage to tgt player equal to # creat w/ defender u control                                           |
-|  1 | Manor Gargoyle       | 5     | 4/4      | Defender -- ~ is indestructible as long as it has defender -- 1: ~ looses defender and gain flying                               |
-|    |                      |       |          |                                                                                                                                  |
-|    | *Wall breakers 7*    |       |          |                                                                                                                                  |
-|  3 | Wakestone Gargoyle   | 3W    | 3/4      | Defendef, flying -- 1W: Creatures u control w/ defender can attack this turn as though they didn't have defender                 |
-|  4 | Warmonger's Chariot  | 2     | eqp 3    | Eqp creat has: as long as it has defender, it can attack as though it didn't have defender                                       |
-|    |                      |       |          |                                                                                                                                  |
-|    | *Other spells 12*    |       |          |                                                                                                                                  |
-|  4 | Fling                | 1R    | sorc     | Add cost: sacr a creature -- ~ deals X damage where X is sac creature's power to tgt creat or player                             |
-|  1 | Crown of Convergence | 2     | art      | Top lib revealed -- If top is a creat, creats u control that share a color w/ it gains +1/+1 -- GW: put top lib at the bottom    |
-|  3 | Farseek              | IG    | sorc     | Search lin for a non-forest basic land and put it into play tapped                                                               |
-|  4 | Manamorphose         | 1{gr} | inst     | Add 2 mana any colors, draw a card                                                                                               |
-|    |                      |       |          |                                                                                                                                  |
-|    | *Lands 22*           |       |          |                                                                                                                                  |
-|  8 | Mountain             |       |          |                                                                                                                                  |
-| 10 | Forest               |       |          |                                                                                                                                  |
-|  4 | Plains               |       |          |                                                                                                                                  |
-|----+----------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------|
-|    | *Other crown*        |       |          |                                                                                                                                  |
-|    | Crown of Doom        | 3     | art      | Whenever a creat attacks you or a planeswalker ur control it gets +2/0 -- 2: tgt player gain control of it (only during ur turn) |
-|    |                      |       |          |                                                                                                                                  |
-|  2 | Wall of Blossoms     | 1G    | 0/4 wall | Defender -- When enters: draw                                                                                                    |
-|  ? | Carven Caryatid      | 1GG   | 2/5      | Defender -- When enters: draw                                                                                                    |
-|    | Wall of Roots        | 1G    | 0/5 wall | Defender -- Put a 0/-1 counter on ~: Add G to mana pool, only once a turn                                                        |
-|    | Rolling Stones       | 1W    | ench     | Wall creatures can attack as though they didn't have defender                                                                    |
-|    | Testament of Faith   | W     | ench     | X: ~ becomes a X/X wall creature with defender in add of other its types until eot                                               |
+Missing:
+-3 Wall of Razors
+-4 Rage Nimbus
+-1 Warmonger's Chariot
+-4 Lightning Bolt
+-4 Jungle Shrine
+-1 Momentous Fall
 
+|   | *The Crown 1*        |       |          |                                                                                                                                  |
+| 1 | Crown of Convergence | 2     | art      | Top lib revealed -- If top is a creat, creats u control that share a color w/ it gains +1/+1 -- GW: put top lib at the bottom    |
+|   |                      |       |          |                                                                                                                                  |
+|   | *Damage Walls 12*    |       |          |                                                                                                                                  |
+| 3 | Cinder Wall          | R     | 3/3 wall | Defender -- When ~ block, destroy it at end of combat                                                                            |
+| 3 | Wall of Razors       | 1R    | 4/1 wall | Defender, first strike                                                                                                           |
+| 4 | Rage Nimbus          | 2R    | 5/3      | Defender, flying -- 1R: tgt creature attack this turn if able                                                                    |
+| 2 | Manor Gargoyle       | 5     | 4/4      | Defender -- ~ is indestructible as long as it has defender -- 1: ~ looses defender and gain flying                               |
+|   |                      |       |          |                                                                                                                                  |
+|   | *Wall breakers 7*    |       |          |                                                                                                                                  |
+| 3 | Wakestone Gargoyle   | 3W    | 3/4      | Defendef, flying -- 1W: Creatures u control w/ defender can attack this turn as though they didn't have defender                 |
+| 4 | Warmonger's Chariot  | 2     | eqp 3    | Eqp creat has: as long as it has defender, it can attack as though it didn't have defender                                       |
+|   |                      |       |          |                                                                                                                                  |
+|   | *Other spells 16*    |       |          |                                                                                                                                  |
+| 4 | Lightning Bolt       | R     | inst     | Deals 3 damage to tgt creat or player                                                                                            |
+| 1 | Fling                | 1R    | sorc     | Add cost: sacr a creature -- ~ deals X damage where X is sac creature's power to tgt creat or player                             |
+| 3 | Momentous Fall       | 2GG   | inst     | Add cost: sacr a creat -- Draw card equal to power, gain life equals to toughness                                                |
+| 4 | Manamorphose         | 1{gr} | inst     | Add 2 mana any colors, draw a card                                                                                               |
+| 4 | Farseek              | 1G    | sorc     | Search for a island, swamp, plain or mountain and put it into play tapped                                                        |
+|   |                      |       |          |                                                                                                                                  |
+|   | *Lands 24*           |       |          |                                                                                                                                  |
+| 5 | Mountain             |       |          |                                                                                                                                  |
+| 5 | Forest               |       |          |                                                                                                                                  |
+| 3 | Plains               |       |          |                                                                                                                                  |
+| 3 | Jungle Shrine        |       | land     | Enters tapped -- t: add R or G or W                                                                                              |
+| 2 | Sunpetal Grove       |       | land     | Enters tapped unless u control a forest or a plain -- t: add G or W                                                              |
+| 2 | Clifftop Retreat     |       | land     | Enters tapped unless u control a plain or mountain -- t: add W or R                                                              |
+| 2 | Kessig Wolf Run      |       | land     | t: add 1 -- xGR, t: tgt creat gets +X/0 and trample                                                                              |
+| 1 | Stomping Ground      |       | land     | mountain, forest -- enter tapped unless u pay 2 life -- t: add R or G                                                            |
+| 1 | Sacred Foundry       |       | land     | Enters tapped unless u pay 2 life -- t: add W or R                                                                               |
+|---+----------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------|
+|   | *Other crown*        |       |          |                                                                                                                                  |
+|   | Crown of Doom        | 3     | art      | Whenever a creat attacks you or a planeswalker ur control it gets +2/0 -- 2: tgt player gain control of it (only during ur turn) |
+|   |                      |       |          |                                                                                                                                  |
+|   | Vent Sentinel        | 3R    | 2/4      | Defender -- 1R, t: ~ deals damage to tgt player equal to # creat w/ defender u control                                           |
+|   | Tinder Wall          | G     | 0/3 wall | Defender -- Sacr ~: add RR -- R, sacr ~: ~ deals 2 damage to tgt creature it's blocking                                          |
+|   | Overgrown Battlement | 1G    | 0/4 wall | Defender -- t: add G for each creature w/ defender u control                                                                     |
+|   | Carven Caryatid      | 1GG   | 2/5      | Defender -- When enters: draw                                                                                                    |
+|   | Abundant Growth      | G     | aura     | Ench land -- When enters: draw a card -- Ench land has: "t: add mana any color to mana pool"                                     |
+|   | Wall of Blossoms     | 1G    | 0/4 wall | Defender -- When enters: draw                                                                                                    |
+|   | Wall of Roots        | 1G    | 0/5 wall | Defender -- Put a 0/-1 counter on ~: Add G to mana pool, only once a turn                                                        |
+|   | Rolling Stones       | 1W    | ench     | Wall creatures can attack as though they didn't have defender                                                                    |
+|   | Testament of Faith   | W     | ench     | X: ~ becomes a X/X wall creature with defender in add of other its types until eot                                               |
+
+
+v0.4 -> v0.5:
+-------------
+-1 Forest
+-1 Plains
+-1 Mountain
++3 Jungle Shrine
+
+Version v0.4:
+-------------
+Momentous Fall is just a great card; especially when walls have such high power.
+
+v0.3 -> v0.4:
+-------------
+-3 Fling
++3 Momentous Fall
+-1 Cinder Wall
+-1 Wall of Razor
++2 Rage Nimbus
+-4 Tinder Wall
++4 Lightning Bolt
+-2 Overgrown Battlement
+-2 Vent Sentinel
++4 Farseek
+-3 Abundant Growth
++1 Manor Gargoyle
++1 Stomping Ground
++1 Sacred Foundry
+-1 Forest
+-1 Mountain
++2 Kessig Wolf Run
+
+Version 0.3:
+------------
+After an exhaustive playtest against Connor's deck, we came to the conclusion that the deck
+although thematic, was not refined at all and was trying to do two things at once... 
+(damage through attack and benefit from large # of defenders)
+
+v0.2 -> v0.3:
+-------------
+-3 Farseek
++3 Abundant Growth
+-2 Forest
++2 Sunpetal Grove
+-2 Mountain
++2 Clifftop Retreat
+
+Version v0.2:
+-------------
+Overall much better; manamorphose is just a great fun card to have.
+That said; more draws and currently more color fixing.
 
 v0.1 -> v0.2:
 -------------
