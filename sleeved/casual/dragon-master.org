@@ -63,6 +63,23 @@ Dragon Master v1.5
 |    | Hellkite Charger         | 4RR   | 5/5 fly  | Haste -- When attack, you may pay 5RR, if u do: untap all attacking creatures, there's an additional combat phase                                                                                                                                    |
 |    | Moonveil Dragon          | 3RRR  | 5/5 fly  | R: Each creature u control gets +1/0 until eot                                                                                                                                                                                                       |
 
+v1.5 -> v1.6:
+-------------
+-1 Shivan Hellkite
+-1 Utvara Hellkite
++2 Thundermaw Hellkite
+
+Version v1.5:
+-------------
+I was considering removing Kilnmouth... but WOW he's a beast once out :)
+If you follow him with Sarkhan's -4, it's almost instant win.
+
+Shivan is definitively a weak link in this deck
+Althought Utvara Hellkit is nice; he feels like just a very expensive win-more spell.
+
+Stormbreath Dragon is another dragon to really consider.
+
+
 v1.4 -> v1.5:
 -------------
 -1 Mountain
