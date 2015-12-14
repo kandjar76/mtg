@@ -1,31 +1,33 @@
 Not My Problem v0.7
 [sleeved: v0.7]
 
-|   | *Creatures 18*     |           |      |                                                                                                                                                                                     |
-| 2 | Desecration Demon  | 2BB       | 6/6  | Flying -- At beg of each combat: any opp may sacr a creature, if so: tap it and put a +1c on it                                                                                     |
-| 3 | Shivan Wumpus      | 3R        | 6/6  | Trample -- When enters: any player may sacr a land, if so, put ~ on top of its library.                                                                                             |
-| 4 | Oona's Prowler     | 1B        | 3/1  | Flying -- Discard a card: ~ gets -2/0. Any player may pay this ability.                                                                                                             |
-|   |                    |           |      |                                                                                                                                                                                     |
-|   | *Control: 17*      |           |      |                                                                                                                                                                                     |
-| 4 | Browbeat           | 2R        | sorc | Any player may have ~ deals 5 damage to him. If no one does, tgt player draw 3 cards                                                                                                |
-| 4 | Dash Hopes         | BB        | inst | When cast: any player may pay 5 life. If so, counter it. -- Counter target spell.                                                                                                   |
-| 4 | Breaking Point     | 1RR       | sorc | Any player may have ~ deals 6 damage to him. If no one does, destroy all creatures, they can't be regen                                                                             |
-| 3 | Rhystic Tutor      | 2B        | sorc | Unless a players pays 2, search u lib for a card and put it in ur hand.                                                                                                             |
-| 3 | Lightning Storm    | 1RR       | inst | Deals 3 + # counters damage to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability.                  |
-| 3 | Blazing Salvo      | R         | inst | Deaks 3 danage to tgt creat unless its controller pay 5 life.                                                                                                                       |
-| 4 | Skullscorch        | RR        | sorc | Tgt player discards two cards at random unless ~ deals 4 damage to him                                                                                                              |
-| 2 | Lava Blister       | 1R        | sorc | Destroy tgt non basic land unless its controller has ~ deal 6 danage to him                                                                                                         |
-|   |                    |           |      |                                                                                                                                                                                     |
-|   | *Lands: 24*        |           |      |                                                                                                                                                                                     |
-| 4 | Dragonskull Summit |           | land | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                                                                                    |
-| 4 | Graven Cairn       |           | land | t: add 1 -- {rb}, t: add RR, BB or RB                                                                                                                                               |
-| 8 | Swamp              |           |      |                                                                                                                                                                                     |
-| 8 | Mountain           |           |      |                                                                                                                                                                                     |
-|---+--------------------+-----------+------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | *Other cards*      |           |      |                                                                                                                                                                                     |
-|   | Painful Quandary   | 3BB       | ench | When opp cast a spell: he looses 5 life unless he discard a card                                                                                                                    |
-|   | Tyrannize          | 3{rb}{rb} | sorc | Tgt player discards his hand unless he pays 7 life                                                                                                                                  |
-|   |                    |           |      |                                                                                                                                                                                     |
+|   | *Creatures 18*     |           |      |                                                                                                                                                                    |
+| 2 | Desecration Demon  | 2BB       | 6/6  | Flying -- At beg of each combat: any opp may sacr a creature, if so: tap it and put a +1c on it                                                                    |
+| 3 | Shivan Wumpus      | 3R        | 6/6  | Trample -- When enters: any player may sacr a land, if so, put ~ on top of its library.                                                                            |
+| 4 | Oona's Prowler     | 1B        | 3/1  | Flying -- Discard a card: ~ gets -2/0. Any player may pay this ability.                                                                                            |
+|   |                    |           |      |                                                                                                                                                                    |
+|   | *Control: 17*      |           |      |                                                                                                                                                                    |
+| 4 | Browbeat           | 2R        | sorc | Any player may have ~ deals 5 damage to him. If no one does, tgt player draw 3 cards                                                                               |
+| 4 | Dash Hopes         | BB        | inst | When cast: any player may pay 5 life. If so, counter it. -- Counter target spell.                                                                                  |
+| 4 | Breaking Point     | 1RR       | sorc | Any player may have ~ deals 6 damage to him. If no one does, destroy all creatures, they can't be regen                                                            |
+| 3 | Rhystic Tutor      | 2B        | sorc | Unless a players pays 2, search u lib for a card and put it in ur hand.                                                                                            |
+| 3 | Lightning Storm    | 1RR       | inst | Deals 3 + # counters damage to tgt creat or player. -- Discard a land: put 2 charge counter on it, you can choose a new tgt. Any player may activate this ability. |
+| 3 | Blazing Salvo      | R         | inst | Deaks 3 danage to tgt creat unless its controller pay 5 life.                                                                                                      |
+| 4 | Skullscorch        | RR        | sorc | Tgt player discards two cards at random unless ~ deals 4 damage to him                                                                                             |
+| 2 | Lava Blister       | 1R        | sorc | Destroy tgt non basic land unless its controller has ~ deal 6 danage to him                                                                                        |
+|   |                    |           |      |                                                                                                                                                                    |
+|   | *Lands: 24*        |           |      |                                                                                                                                                                    |
+| 4 | Dragonskull Summit |           | land | t: add R or B -- Comes tapped unless u control Swamp or Mountain                                                                                                   |
+| 4 | Graven Cairn       |           | land | t: add 1 -- {rb}, t: add RR, BB or RB                                                                                                                              |
+| 8 | Swamp              |           |      |                                                                                                                                                                    |
+| 8 | Mountain           |           |      |                                                                                                                                                                    |
+|---+--------------------+-----------+------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Other cards*      |           |      |                                                                                                                                                                    |
+|   | Painful Quandary   | 3BB       | ench | When opp cast a spell: he looses 5 life unless he discard a card                                                                                                   |
+|   | Tyrannize          | 3{rb}{rb} | sorc | Tgt player discards his hand unless he pays 7 life                                                                                                                 |
+|   | Carrion Rats       | B         | 2/1  | When ~ attacks or blocks, any player may exile a card from his graveyard, if so, ~ deals no damage this turn                                                       |
+|   | Carrion Wurm       | 3BB       | 6/5  | When ~ attacks or blocks, any player may exile 3 cards from his graveyard, if so, ~ deals no damage this turn                                                      |
+|   | Nakaya Shade       | 1B        | 1/1  | B: +1/+1 unless any player pays 2                                                                                                                                  |
 
 
 Deck ideas based on: opponent action -- He's the one 'in-control' :)
@@ -33,6 +35,12 @@ Still consider changing the name of the deck!
 
 Cards to keep in mind:
 - Vexing Devil
+
+Version 0.7:
+------------
+Overall, the Wumpus is not good.
+I need to find an alternative cards... 
+
 
 v0.6 -> v0.7:
 -------------
