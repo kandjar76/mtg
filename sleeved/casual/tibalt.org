@@ -57,6 +57,35 @@ Tibalt v0.7:
 |   |                           |        |          |                                                                                                                                                              |
 |   | Avatar of Discord         | {rb}x3 | 5/3 fly  | When enters, sacr it unless u discard 2 cards.                                                                                                               |
 
+
+v0.8 -> v0.9:
+-------------
+-1 Magma Jet
++1 Fiery Temper
+
+Version v0.8:
+-------------
+The deck is a lot more consistent; Rotting Rats does wonder!!!!
+Works great with Fiery Temper too! :) I'm gonna try increasing its count.
+
+v0.7 -> v0.8:
+-------------
+Deck renamed: Tibalt -> The Graveyard rebellion
+-4 Blightning
+-3 Tibalt
+-3 Chandra's Phoenix
+-2 Sign In Blood
+-2 Fiery Temper
++2 Deadbore
++4 Magma Jet
++4 Night's Whisper 
++4 Rotting Rats
+
+Version 0.7:
+------------
+Sadly, the deck is not consistent and not fun to play in its current state.
+And also: Tibalt doesn't really work in it... 
+
 v0.6 -> v0.7:
 -------------
 -3 Buried Alive
