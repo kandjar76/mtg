@@ -1,4 +1,4 @@
-Cascading Event v0.5
+Cascading Event v0.6
 [sleeved: v0.5]
 
 |   | *The Waterfall triggers: 14* |           |          |                                                                                                                                                                                 |
@@ -17,11 +17,11 @@ Cascading Event v0.5
 |   |                              |           |          |                                                                                                                                                                                 |
 |   | *Cascade target: 5*          |           |          |                                                                                                                                                                                 |
 | 3 | Beck // Call                 | GU // 4WU | sorc     | Fuse -- Beck = whenever a creatures enters: draw a card // Call: put 4 1/1 bird w/ flying into play                                                                             |
-| 2 | Last Stand                   | WUBRG     | sorc     | Tgt opp looses 2 life per swamp -- Deals damage to tgt creat per mountain -- Put 1/1 green sapro per forest -- Gain 2 life per plains -- Draw then discard X card, X = #islands |
+| 2 | Research // Development      | GU // 3UR | inst     | Shuffle up to 4 cards from outside of the game in the library // Put a 3/1 elemental into play unless you opp lef you draw a card, repeat the process 3 times                   |
 |   |                              |           |          |                                                                                                                                                                                 |
 |   | *Helper: 9*                  |           |          |                                                                                                                                                                                 |
-| 4 | Beast Within                 | 2G        | inst     | Destroy tgt perm - Its controller put a 3/3 green beast into play                                                                                                               |
-| 2 | Arc Trail                    | 1R        | sorc     | Deals 2 damage to tgt creat/player and 1 damage to another tgt creat/player                                                                                                     |
+| 4 | Maelstrom Pulse              | 1GB       | inst     | Destroy tgt nonland permanent and all other permanents with the same name                                                                                                       |
+| 2 | Call to Heel                 | 1U        | inst     | Return tgt creat to its owneer's hand, his controller draw a card                                                                                                               |
 | 2 | See Beyond                   | 1U        | sorc     | Draw 2 then shuffle one card from hand to lib                                                                                                                                   |
 | 1 | Ancestral Vision             | .         | sorc     | ~ is blue -- Suspend 4: U -- Draw 3 cards                                                                                                                                       |
 |   |                              |           |          |                                                                                                                                                                                 |
@@ -38,12 +38,39 @@ Cascading Event v0.5
 | 2 | Plains                       |           | bas land |                                                                                                                                                                                 |
 | 2 | Swamp                        |           | bas land |                                                                                                                                                                                 |
 |---+------------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Arc Trail                    | 1R        | sorc     | Deals 2 damage to tgt creat/player and 1 damage to another tgt creat/player                                                                                                     |
+| 2 | Last Stand                   | WUBRG     | sorc     | Tgt opp looses 2 life per swamp -- Deals damage to tgt creat per mountain -- Put 1/1 green sapro per forest -- Gain 2 life per plains -- Draw then discard X card, X = #islands |
+| 4 | Beast Within                 | 2G        | inst     | Destroy tgt perm - Its controller put a 3/3 green beast into play                                                                                                               |
 | 1 | Steam Vent                   |           | land     | Enters tapped unless u pay 2 life -- t: add R or U                                                                                                                              |
 | 1 | Terramorphic Expanse         |           | land     | t, sacr it: search lib for a bas land and put it into play tapped                                                                                                               |
 | 2 | Shimmering Grotto            |           | land     | t: add 1 -- 1, t: add 1 mana of any color                                                                                                                                       |
 | 1 | Rupture Spire                |           | land     | Enters tapped -- When enters: sacr it unless u pay 1 -- t: add 1 mana any color                                                                                                 |
 | 1 | Pillar of the Paruns         |           | land     | t: add 1 mana any color (spend only for multicolor spells)                                                                                                                      |
 |   |                              |           |          |                                                                                                                                                                                 |
+
+
+Version v0.6:
+-------------
+After a few game, I'm already loving two of the newly added cards: Maelstrom Pulse and Research // Development; both of them did wonders.
+Not convinced yet by 'Call to Heel'...  I need more test. I may also replace it by 2 more "See Beyond"
+
+v0.5 -> v0.6:
+-------------
+-4 Beast Within
++4 Maelstrom Pulse
+-2 Last Stand
++2 Research // Development
++2 Call to Heel
+-2 Arc Trail
+
+Version v0.5:
+-------------
+Not being able to easily deal with the 3/3 Beast makes Beast Within not very appealing to cast.
+Also: Don't quite like Last Stand either... Kind of a 'I win' card.
+
+Note: I'm going to try Call to Heel instead of Arc Trail, not sure if that's a good compromise.
+
+
 
 v0.4 -> 0.5:
 ------------
