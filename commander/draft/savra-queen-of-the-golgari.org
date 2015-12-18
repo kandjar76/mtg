@@ -192,6 +192,26 @@ v0.3 -> v0.4:
 -1 Forest
 -1 ???
 
+New cards to really consider:
+----------------------------
+Vampiric Rites
+Mazirek, Kraul Death Priest
+Rakshasa Gravecaller
+Sword of the Animist
+Sidisi, Undead Vizier
+Meren of the Clan Nel Toth
+Dictate of Erebos
+Grasp of Fate
+Disciple of Bolas
+
+
+Version 0.3:
+------------
+Unfortunately, the deck as it has a inf loop system
+With: Nim Deathmantle + Ashnod's Altar + Grave Titan...
+ and the commander = inf board swipe , inf life, in creatures....
+
+
 v0.2 -> v0.3:
 -------------
 +1 Black Sun's Zenith
