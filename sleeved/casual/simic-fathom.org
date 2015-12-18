@@ -1,44 +1,69 @@
-Simic Fathom v1.1
-[sleeved: v1.1]
+Simic Fathom v1.2
+[sleeved: v1.2ish]
 
-|   | *Creatures 19*             |           |          |                                                                                                                           |
-| 3 | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                            |
-| 3 | Primordial Hydra           | xGG       | 0/0      | Enters w/ X +1c -- Beg upk: double its counters -- It has trample when it has 10 or more counters.                        |
-| 2 | Zameck Guildmage           | GU        | 2/2      | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card           |
-| 4 | Plaxcaster Frogling        | 1GU       | 0/0      | Graft 3 -- 2: tgt creats w/ +1c on it gain shroud                                                                         |
-| 2 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 -- Ut: gain control of tgt creat with +1/+1 on it                                                                 |
-| 4 | Cytoplast Root-Kin         | 2GG       | 0/0      | Graft 4 -- put a +1c on each creature w/ +1 -- 2: move a +1 on him                                                        |
-| 3 | Fathom Mage                | 2GU       | 1/1      | Evolve -- When a +1c is put on her, draw a card                                                                           |
-|   |                            |           |          |                                                                                                                           |
-|   | *Control 6*                |           |          |                                                                                                                           |
-| 3 | Voidslime                  | GUU       | inst     | Counter tgt spell, activated or triggered ability                                                                         |
-| 4 | Remand                     | 1U        | inst     | Counter tgt spell (back to hand), draw                                                                                    |
-|   |                            |           |          |                                                                                                                           |
-|   | *Helpers 10*               |           |          |                                                                                                                           |
-| 3 | Mirrorweave                | 2{wu}{wu} | inst     | Each other creats becomes a copy of tgt nonlegendary creature until eot                                                   |
-| 3 | Into the Roil              | 1U        | inst     | Kicker 1U -- Return tgt non land perm to hand, if kicked: draw                                                            |
-|   |                            |           |          |                                                                                                                           |
-|   | *More draws 2*             |           |          |                                                                                                                           |
-| 3 | Fact or Fiction            | 3U        | isnt     | Reveal top 5 cards, opp separetes them into two piles, put one in hand, the other on ur graveyard                         |
-|   |                            |           |          |                                                                                                                           |
-|   | *Lands 23*                 |           |          |                                                                                                                           |
-| 4 | Llanowar Reborn            |           | land     | Enters tapped -- Graft 1 -- t: add G                                                                                      |
-| 2 | Oran-Rief, the Vastwood    |           | land     | Enters tapped -- t: add G -- t: put a +1c on each green greats that enter the battlefield this turn.                      |
-| 4 | Breeding Pool              |           | land     | Forest, Island -- enter tapped unless u pay 2 life -- t: add G or U                                                       |
-| 4 | Forest                     |           | bas land |                                                                                                                           |
-| 9 | Island                     |           | bas land |                                                                                                                           |
-|---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------|
-|   | Power Conduit              | 2         | art      | t: remove counter from permanent u control, put a +1c on creats u control, or put a charge counter on art                 |
-|   |                            |           |          |                                                                                                                           |
-|   | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot |
-|   | Novijen, Heart of Progress |           | land     | t: add 1 -- GU, t: put a +1c on each creat w/ enter play this turn                                                        |
-|   | Experiment Kraj            | 2GGUU     | 4/6 leg  | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                   |
-|   | Evolution Vat              | 3         | art      | 3, t: tap tgt creat and put a +1c on it, the creatures has: "2GU: double the number of counter on it"                     |
-|   | Snakeform                  | 2{gu}     | inst     | Tgt creats becomes a 1/1 and loose all abilities until eot -- Draw a card                                                 |
-|   | Cytoshape                  | 1GU       | inst     | Choose non legendary create, tgt creat becomes a copy of that creat until eot                                             |
-|   | Jace's Ingenuity           | 3UU       | inst     | Draw 3 cards                                                                                                              |
-|   | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                |
-|   | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                               |
+|   | *Creatures 22*             |           |          |                                                                                                                                                                                         |
+| 3 | Experiment One             | G         | 1/1      | Evolve -- Remove 2 +1c from him: regen him                                                                                                                                              |
+| 3 | Zameck Guildmage           | GU        | 2/2      | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card                                                                         |
+| 3 | Trigon Predator            | 1GU       | 2/3      | Flying -- When deal damage to a player you may destroy tgt ench or art that player control                                                                                              |
+| 4 | Plaxcaster Frogling        | 1GU       | 0/0      | Graft 3 -- 2: tgt creats w/ +1c on it gain shroud                                                                                                                                       |
+| 2 | Cytoplast Manipulator      | 2UU       | 0/0      | Graft 2 -- Ut: gain control of tgt creat with +1/+1 on it                                                                                                                               |
+| 4 | Cytoplast Root-Kin         | 2GG       | 0/0      | Graft 4 -- put a +1c on each creature w/ +1 -- 2: move a +1 on him                                                                                                                      |
+| 3 | Fathom Mage                | 2GU       | 1/1      | Evolve -- When a +1c is put on her, draw a card                                                                                                                                         |
+|   |                            |           |          |                                                                                                                                                                                         |
+|   | *Control 7*                |           |          |                                                                                                                                                                                         |
+| 3 | Voidslime                  | GUU       | inst     | Counter tgt spell, activated or triggered ability                                                                                                                                       |
+| 4 | Remand                     | 1U        | inst     | Counter tgt spell (back to hand), draw                                                                                                                                                  |
+|   |                            |           |          |                                                                                                                                                                                         |
+|   | *Helpers 8*                |           |          |                                                                                                                                                                                         |
+| 2 | Bow of Nylea               | 1GG       | ench art | Attack creats u ctrl have deathtouch -- 1G, t: Choose one: Put +1c on tgt creat OR 2 damage to creat w/ fly OR gain 3 life OR put up to 4 cards from ur graveyard to bottom of your lib |
+| 2 | Snakeform                  | 1GU       | inst     | Tgt creat looses all abilities and become a 1/1 until eot -- Draw a card                                                                                                                |
+| 4 | Explore                    | 1G        | sorc     | You may play an additional land this turn -- Draw a card                                                                                                                                |
+|   |                            |           |          |                                                                                                                                                                                         |
+|   | *Lands 23*                 |           |          |                                                                                                                                                                                         |
+| 4 | Llanowar Reborn            |           | land     | Enters tapped -- Graft 1 -- t: add G                                                                                                                                                    |
+| 2 | Oran-Rief, the Vastwood    |           | land     | Enters tapped -- t: add G -- t: put a +1c on each green greats that enter the battlefield this turn.                                                                                    |
+| 4 | Breeding Pool              |           | land     | Forest, Island -- enter tapped unless u pay 2 life -- t: add G or U                                                                                                                     |
+| 4 | Forest                     |           | bas land |                                                                                                                                                                                         |
+| 9 | Island                     |           | bas land |                                                                                                                                                                                         |
+|---+----------------------------+-----------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Birds of Paradise          | G         | 0/1      | t: Add one mana of any color to your mana pool                                                                                                                                          |
+|   | Primordial Hydra           | xGG       | 0/0      | Enters w/ X +1c -- Beg upk: double its counters -- It has trample when it has 10 or more counters.                                                                                      |
+|   | Mirrorweave                | 2{wu}{wu} | inst     | Each other creats becomes a copy of tgt nonlegendary creature until eot                                                                                                                 |
+|   | Into the Roil              | 1U        | inst     | Kicker 1U -- Return tgt non land perm to hand, if kicked: draw                                                                                                                          |
+|   | Fact or Fiction            | 3U        | isnt     | Reveal top 5 cards, opp separetes them into two piles, put one in hand, the other on ur graveyard                                                                                       |
+|   | Power Conduit              | 2         | art      | t: remove counter from permanent u control, put a +1c on creats u control, or put a charge counter on art                                                                               |
+|   |                            |           |          |                                                                                                                                                                                         |
+|   | Protean Hydra              | xG        | 0/0      | Comes into play with X +1c; damage are prevented and +1c are removed instead; when its remove, add twice that many at eot                                                               |
+|   | Novijen, Heart of Progress |           | land     | t: add 1 -- GU, t: put a +1c on each creat w/ enter play this turn                                                                                                                      |
+|   | Experiment Kraj            | 2GGUU     | 4/6 leg  | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                                                                                 |
+|   | Evolution Vat              | 3         | art      | 3, t: tap tgt creat and put a +1c on it, the creatures has: "2GU: double the number of counter on it"                                                                                   |
+|   | Snakeform                  | 2{gu}     | inst     | Tgt creats becomes a 1/1 and loose all abilities until eot -- Draw a card                                                                                                               |
+|   | Cytoshape                  | 1GU       | inst     | Choose non legendary create, tgt creat becomes a copy of that creat until eot                                                                                                           |
+|   | Jace's Ingenuity           | 3UU       | inst     | Draw 3 cards                                                                                                                                                                            |
+|   | Evolving Wilds             |           | land     | t, sacr: search for a bas land and put it into play tapped                                                                                                                              |
+|   | Simic Growth Chamber       |           | land     | Enters tapped -- When enter: return tgt land u control to hand -- t: add GU                                                                                                             |
+
+
+Version 1.2 -- pretest thoughts:
+--------------------------------
+Not sure about explore.... Doesn't fit the curve.
+My point is: most of my cards are 3 CMC and I want to be able to play remand early game...
+- Explore will conflict on turn 2 with remand
+- Assuming I explore on turn 2, I'll have 4 mana on turn 3 and won't be able to play a 3 CMC while keeping mana up for Remand...
+
+v1.1 -> v1.2:
+-------------
+-3 Birds of Paradise
+-3 Primordial Hydra
+-3 Mirrorweave
+-3 Into the Roil
+-3 Simic Charm
++1 Zamek Guildmage
++2 Snakeform
++3 Trygon Predator
++3 Experiment One
++2 Bow of Nylea
++4 Explore
 
 v1.0 -> v1.1:
 -------------
