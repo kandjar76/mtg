@@ -1,5 +1,5 @@
-Sydri, Galvanic Genius v2.5
-[sleeved: v2.5]
+Sydri, Galvanic Genius v2.6
+[sleeved: v2.6]
 
 |   | *Commander*                |        |          |                                                                                                                                                                                       |
 | 1 | Sydri, Galvanic Genius     | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                                         |
@@ -56,7 +56,7 @@ Sydri, Galvanic Genius v2.5
 |   |                            |        |          |                                                                                                                                                                                       |
 |   | *Enchantment removals 3*   |        |          |                                                                                                                                                                                       |
 | 1 | Return to Dust             | 2WW    | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                 |
-| 1 | Revoke Existence           | 1W     | sorc     | Exile tgt art or enchantment                                                                                                                                                          |
+| 1 | Disenchant                 | 1W     | inst     | Destroy tgt enchant or artifact                                                                                                                                                       |
 | 1 | Leave No Trace             | 1W     | inst     | Destroy tgt enchant and all enchant that share a color with                                                                                                                           |
 |   |                            |        |          |                                                                                                                                                                                       |
 |   | *Search toolbox 3*         |        |          |                                                                                                                                                                                       |
@@ -71,7 +71,7 @@ Sydri, Galvanic Genius v2.5
 | 1 | Sharuum the Hegemon        | 3WUB   | 5/5 art  | Flying -- When enter: return tgt art from graveyard to play                                                                                                                           |
 | 1 | Wurmcoil Engine            | 6      | 6/6 art  | Deathtouch, lifelink -- When dies: put a 3/3 wurm w/ deathtouch and a 3/3 wurm w/ lifelink into play                                                                                  |
 | 1 | Triskelion                 | 6      | 1/1 art  | Enters w/ 3 +1c -- Remove a +1c from ~: deals 1 damage to tgt creat or player                                                                                                         |
-| 1 | Soul of New Phyrexia       | 6      | 6/6 art  | Trample -- 5: perms you control gain indestructible until eot -- 5, exile ~ from your graveyard: perms you control gain indestructible until eot                                     |
+| 1 | Soul of New Phyrexia       | 6      | 6/6 art  | Trample -- 5: perms you control gain indestructible until eot -- 5, exile ~ from your graveyard: perms you control gain indestructible until eot                                      |
 | 1 | Myr Battlesphere           | 7      | 4/7 art  | When enters: put 4 1/1 myr token into play -- When attack, you may tap X untapped myr: gets +X/0 and deals X damage to defending player                                               |
 | 1 | Sphinx of the Steel Wind   | 5WUB   | 6/6 art  | Flying, first strike, vigilance, lifelink, pro-red, pro-green                                                                                                                         |
 | 1 | Enigma Sphinx              | 4WUB   | 5/4 fly  | Cascade -- When dies: put it into your lib, third from the top                                                                                                                        |
@@ -206,6 +206,7 @@ Sydri, Galvanic Genius v2.5
 |   | Temple of Deceit           |        | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                                              |
 |   | Temple of Silence          |        | land     | Enters tapped -- Scry 1 -- t: add W or B                                                                                                                                              |
 |---+----------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Revoke Existence           | 1W     | sorc     | Exile tgt art or enchantment                                                                                                                                                          |
 |   | Tower of Fortunes          | 4      | art      | 8, t: draw 4 cards                                                                                                                                                                    |
 |   | Fabricate                  | 2U     | sorc     | Search an art and put it in ur hand                                                                                                                                                   |
 |   | Azorius Cluestone          | 3      | art      | t: add W or U to mana pool -- WU, t, sacr it: draw a card                                                                                                                             |
@@ -238,6 +239,11 @@ Sydri, Galvanic Genius v2.5
 |   | Sphinx Summoner            | 3UB    | 3/3 fly  | When enters: search lib for an art creat and put it in ur hand                                                                                                                        |
 |   | Mikaeus, the Unhallowed    | 3BBB   | 5/5      | Intimidate -- When a human deals damage to u: destroy it -- Other non human u control gets +1/+1 and have undying                                                                     |
 
+
+v2.5 -> v2.6:
+-------------
+-1 Revoke Existence
++1 Disenchant
 
 v2.4 -> v2.5:
 -------------
