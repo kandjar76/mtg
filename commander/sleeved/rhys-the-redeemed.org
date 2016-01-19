@@ -1,10 +1,6 @@
 Rhys the Redeemed v1.6
 [sleeved v1.6]
 
-Missing:
-- Sylvan Library
-- Stirring Wildwood
-
 
 |    | *Commander*                |          |          |                                                                                                                                                                                                            |
 |  1 | Rhys the Redeemed          | {gw}     | 1/1      | 2{gw}, t: put a 1/1 elf warrior token into play -- 4{gw}{gw}, t: for each creat token u control, make a copy of that creat                                                                                 |
@@ -87,7 +83,7 @@ Missing:
 |  1 | Aura Mutation              | GW       | inst     | Destroy tgt ench, put X 1/1 saprolin into play, where X is its CMC                                                                                                                                         |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *General Helpers 6*        |          |          |                                                                                                                                                                                                            |
-| *1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
+|  1 | Sylvan Library             | 1G       | ench     | Beg draw step: u may draw 2 add cards, if so: choose 2 cards drawn this turn, for each, pay 4 life or put them on top of lib                                                                               |
 |  1 | Rootborn Defenses          | 2W       | inst     | Populate, creats u control are indestructible this turn                                                                                                                                                    |
 |  1 | Fresh Meat                 | 3G       | inst     | Put a 3/3 beast for each creat put into ur graveyard this turn                                                                                                                                             |
 |  1 | Defense of the Heart       | 3G       | ench     | Beg upk: if an opp controls 3 or more creat than u, search lib for up to 2 creats and put then into play                                                                                                   |
@@ -108,7 +104,7 @@ Missing:
 |  1 | Sunpetal Grove             |          | land     | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                                                       |
 |  1 | Gavony Township            |          | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                     |
 |  1 | Saltcrusted Steppe         |          | land     | t: add 1 -- 1, t: put a storage counter on ~ -- 1, remove X storage counter: add X combinaition of G or W to your mana pool                                                                                |
-|  * | Stirring Wildwood          |          | land     | Enters tapped -- t: add G or W -- 1GW: becomes a 3/4 green and white elemental with reach until eot                                                                                                        |
+|  1 | Stirring Wildwood          |          | land     | Enters tapped -- t: add G or W -- 1GW: becomes a 3/4 green and white elemental with reach until eot                                                                                                        |
 |  1 | Graypelt Refuge            |          | land     | Enters tapped -- When enter: gain 1 life -- t: add G or W                                                                                                                                                  |
 | 11 | Forest                     |          | bas land |                                                                                                                                                                                                            |
 | 10 | Plains                     |          | bas land |                                                                                                                                                                                                            |
@@ -141,7 +137,7 @@ Missing:
 |    | Recollect                  | 2G       | sorc     | Return tgt card from ur graveyard to hand                                                                                                                                                                  |
 |    | Conqueror's Pledge         | 2WWW     | sorc     | Kicker 6 -- Put six 1/1 white Kor Soldier into play, 12 if kicked                                                                                                                                          |
 |    | Twilight Drover            | 2W       | 1/1      | Whenever a creat token leaves, put a +1c on ~ -- 2W, rem a +1c from ~: put two 1/1 white spirit token w/ flying into play                                                                                  |
-|    | Beastmaster Ascension      | 2G       | ench     | When creat u contr attack: put a quest counter on ~ -- Creats u control gain +5/+5 if ~ has 7+ quest counters                                                                                              |
+|    | Beastmaster Ascension      | 2G       | ench     | When creat u contr attack: put a quest counter on ~ -- Creats u control gain +5/+5 if ~ has 7 or more quest counters                                                                                       |
 |    | Seedborn Muse              | 3GG      | 2/4      | Untap all perm u control during each other player's upk                                                                                                                                                    |
 |    | Sigil Captain              | 1GWW     | 3/3      | When a 1/1 creat enters under ur control, put two +1c on it                                                                                                                                                |
 |    | Spectral Procession        | {wp}x3   | sorc     | Put three 1/1 spirits w/ flying into play                                                                                                                                                                  |
@@ -153,6 +149,10 @@ Missing:
 |    | Midnight Haunting          | 2W       | inst     | Put 2 1/1 white spirit token w/ flying into play                                                                                                                                                           |
 |    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
 
+
+Version 1.6:
+------------ 
+Marshal's Anthem should probably be replaced.
 
 v1.5 -> v1.6:
 -------------
