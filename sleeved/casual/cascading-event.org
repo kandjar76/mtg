@@ -1,5 +1,12 @@
-Cascading Event v0.6
-[sleeved: v0.5]
+Cascading Event v0.7
+[sleeved: v0.5ish]
+
+Currently to be sleeved:
+-2 Beast Within
++2 Maelstrom Pulse
+-2 Arc Trail
++2 See Beyond
+
 
 |   | *The Waterfall triggers: 14* |           |          |                                                                                                                                                                                 |
 | 4 | Shardless Agent              | 1GU       | 2/2      | Cascade                                                                                                                                                                         |
@@ -21,8 +28,7 @@ Cascading Event v0.6
 |   |                              |           |          |                                                                                                                                                                                 |
 |   | *Helper: 9*                  |           |          |                                                                                                                                                                                 |
 | 4 | Maelstrom Pulse              | 1GB       | inst     | Destroy tgt nonland permanent and all other permanents with the same name                                                                                                       |
-| 2 | Call to Heel                 | 1U        | inst     | Return tgt creat to its owneer's hand, his controller draw a card                                                                                                               |
-| 2 | See Beyond                   | 1U        | sorc     | Draw 2 then shuffle one card from hand to lib                                                                                                                                   |
+| 4 | See Beyond                   | 1U        | sorc     | Draw 2 then shuffle one card from hand to lib                                                                                                                                   |
 | 1 | Ancestral Vision             | .         | sorc     | ~ is blue -- Suspend 4: U -- Draw 3 cards                                                                                                                                       |
 |   |                              |           |          |                                                                                                                                                                                 |
 |   | *Lands 24*                   |           |          |                                                                                                                                                                                 |
@@ -38,6 +44,7 @@ Cascading Event v0.6
 | 2 | Plains                       |           | bas land |                                                                                                                                                                                 |
 | 2 | Swamp                        |           | bas land |                                                                                                                                                                                 |
 |---+------------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Call to Heel                 | 1U        | inst     | Return tgt creat to its owneer's hand, his controller draw a card                                                                                                               |
 | 2 | Arc Trail                    | 1R        | sorc     | Deals 2 damage to tgt creat/player and 1 damage to another tgt creat/player                                                                                                     |
 | 2 | Last Stand                   | WUBRG     | sorc     | Tgt opp looses 2 life per swamp -- Deals damage to tgt creat per mountain -- Put 1/1 green sapro per forest -- Gain 2 life per plains -- Draw then discard X card, X = #islands |
 | 4 | Beast Within                 | 2G        | inst     | Destroy tgt perm - Its controller put a 3/3 green beast into play                                                                                                               |
@@ -49,10 +56,23 @@ Cascading Event v0.6
 |   |                              |           |          |                                                                                                                                                                                 |
 
 
+Version v0.7:
+-------------
+Since I don't run Last Stand anymore, I wonder if I should keep Prismatic Omen.
+
+
+v0.6 -> v0.7:
+-------------
+-2 Call to Heel
++2 See Beyond
+
 Version v0.6:
 -------------
 After a few game, I'm already loving two of the newly added cards: Maelstrom Pulse and Research // Development; both of them did wonders.
 Not convinced yet by 'Call to Heel'...  I need more test. I may also replace it by 2 more "See Beyond"
+
+I've tested also with Coiling Oracle... Not good.
+
 
 v0.5 -> v0.6:
 -------------

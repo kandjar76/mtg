@@ -1,6 +1,9 @@
 Tibalt v0.7:
 [sleeved: v0.7]
 
+Two cards are missing from teh sleeved deck... dunno which ones...
+
+
 |   | *Planeswalker: 3*         |        |          |                                                                                                                                                              |
 | 3 | Tibalt, the Fiend-Blooded | RR     | plwkr 2  | +1: draw then discard at random -- -4: deals damage to tgt player equals to # cards in his hand -- -6: Gain control of all creats until eot, then gain haste |
 |   |                           |        |          |                                                                                                                                                              |
