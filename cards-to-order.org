@@ -1,5 +1,9 @@
 52.27
 
+- Clever Impersonator x4
+
+
+
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
 |-------------------------+-------+-------+------------+-------------------+--------------------------------------------------------------------------------------------------------------------------------|
 | Sylvan Scrying          |       |     4 | ???        | Ten and ???       | Search ur library for a land and put it in ur hand.                                                                            |
