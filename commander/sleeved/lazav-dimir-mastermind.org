@@ -178,6 +178,43 @@ Missing:
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | River of Tears             |         | land        | t: add U to mana pool, if you played another land: add B instead                                                                                                                      |
 |   |                            |         |             |                                                                                                                                                                                       |
+|   | Altar of the Brood         | 1       | art         | Whenever another perm enters play under ur control: each opp mills 5 cards                                                                                                            |
+|   | Demonic Tutor              | 2BB     | sorc        | Search lib for a card and put it in hand                                                                                                                                              |
+|   | Beacon of Unrest           | 3BB     | sorc        | Put tgt art or creat from a grave to play under ur control. Shuffle ~ in lib                                                                                                          |
+|   | Extract from Darkness      | 3UB     | sorc        | Each player put top 2 cards of lib to grav then put a creat from a grave to play under ur control                                                                                     |
+|   | Phenax, God of Deception   | 3UB     | 4/7 leg     | Indestructible -- Creature if dev is 7+ -- Creats u control gains: "t: tgt player put top X card from lib to grave where X is ~ toughness"                                            |
+|   | Sphinx Tutelage            | 2U      | ench        | When u draw, tgt opp mills 2 if they are both non land that share a color, repeat -- 5U: draw then discard                                                                            |
+|   | Talent of the Telepath     | 2UU     | sorc        | Tgt opp mills 7, u may cast an inst or sorc w/o paying its mana cost from it -- Spell mastery (if two or more inst/sorc in ur graveyard): you may cast 2 instead                      |
+
+v1.6 -> v1.7:
+-------------
+- Dimir Cutpurse
+- Far // Away
+- Yawgmoth's Will
+- Consume the Meek
++ Mindcrank
++ Phenax, God of Deception
++ Sphinx Tutelage
++ Talent of the Telephath
+
+Version v1.6:
+-------------
+Deck is really a blast, but I feel it does need more tuning :)
+Cards to consider:
+- Mindcrank
+- Phenax, God of Deception
+- Sphinx Tutelage
+- Talent of the Telephath
+--
+- Altar of the Brood
+- Beacon of Unrest
+- Demonic Tutor (too many time I needed more search tool)
+- Spelltwine
+- Whispersilk Cloak (possibly)
+- Extract from Darkness (possibly)
+- Ashiok, Nightmare Weaver
+- Ob Nixilis Reignited
+
 
 v1.5 -> v1.6:
 -------------
