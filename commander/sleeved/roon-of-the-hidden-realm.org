@@ -1,5 +1,5 @@
-Roon of the Hidden Realm v0.8
-[sleeved v0.8]
+Roon of the Hidden Realm v0.9
+[sleeved v0.9]
 
 
 |    | *Commander*               |           |           |                                                                                                                                                                   |
@@ -38,7 +38,7 @@ Roon of the Hidden Realm v0.8
 |  1 | Momentary Blink           | 1W        | inst      | Flashback 3U -- Blink tgt creat u control                                                                                                                         |
 |  1 | Mistmeadow Witch          | 1{wu}     | 1/1       | 2WU: exile tgt creat, return it to play under its owner's control at eot                                                                                          |
 |  1 | Ghostway                  | 2W        | inst      | Exile all creats u control -- Return them to play under their owner's control at eot                                                                              |
-|  1 | Brago, King Eternal       | 2WU       | 2/4 fly   | Legendary -- When ~ deals combat damage to a player, link any number of target non land perms you control.                                                        |
+|  1 | Brago, King Eternal       | 2WU       | 2/4 fly   | Legendary -- When ~ deals combat damage to a player, blink any number of target non land perms you control.                                                       |
 |  1 | Conjurer's Closet         | 5         | art       | Beg end step: u may blink tgt creat u control                                                                                                                     |
 |  1 | Deadeye Navigator         | 4UU       | 5/5       | Soulbound -- Soulbounded have: "1U: blink this creat"                                                                                                             |
 |    |                           |           |           |                                                                                                                                                                   |
@@ -66,7 +66,6 @@ Roon of the Hidden Realm v0.8
 |  1 | Blue Sun's Zenith         | xUUU      | inst      | Target player draw X cards -- Shuffle ~ to its owner's lib.                                                                                                       |
 |  1 | Leyline of Anticipation   | 2UU       | ench      | if in opening hand -> in play -- non land cards have flash                                                                                                        |
 |  1 | AEthermage's Touch        | 2WU       | inst      | Reveal top 4 cards. You may put a creat from them into play. It gains: "Beg ur end step, return it to hand", rest bot                                             |
-|  1 | Prophet of Kruphix        | 3GU       | 2/3       | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                      |
 |    |                           |           |           |                                                                                                                                                                   |
 |    | *ETB Creatures 21*        |           |           |                                                                                                                                                                   |
 |  1 | Eternal Witness           | 1GG       | 2/1       | When enters: return tgt card from graveyard to hand                                                                                                               |
@@ -79,6 +78,7 @@ Roon of the Hidden Realm v0.8
 |  1 | Karmic Guide              | 3WW       | 2/2 fly   | Pro black -- Echo 3WW -- When enters: return tgt creat from ur graveyard to play                                                                                  |
 |  1 | Thragtusk                 | 4G        | 5/3       | When enters: gain 5 life, when leaves: put a 3/3 token                                                                                                            |
 |  1 | Reveillark                | 4W        | 4/3 fly   | Evoke 5W -- When leaves: you may return up to 2 tgt creat w/ pow 2 or less from ur grave to play                                                                  |
+|  1 | Mulldrifter               | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                             |
 |  1 | Lavinia of the Tenth      | 3WU       | 4/4       | Pro red -- When enters: detain each non land perm w/ CMC 4 or less                                                                                                |
 |  1 | Twilight Shepherd         | 3WWW      | 5/5 fly   | Vigilance -- When enters: return to hand all creats put into ur graveyard from play this turn -- Persist                                                          |
 |  1 | Prime Speaker Zegana      | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                            |
@@ -116,7 +116,6 @@ Roon of the Hidden Realm v0.8
 |    | *To really consider*      |           |           |                                                                                                                                                                   |
 |    | Illusionist's Bracer      | 2         | eqp 3     | When an ab of eqp creat is activated, if it's not mana ab, copy it, you may choose a new target for the copy.                                                     |
 |    | Deputy of Acquittals      | UW        | 2/2 flash | When enters: you may return another creature u control to its owner's hand                                                                                        |
-|    | Prophet of Kruphix        | 3GU       | 2/3       | Uptap all creat and lands u control during each other player's upkeep -- You may cast creat as though they had flash                                              |
 |    | Regrowth                  | 1G        | sorc      | Return tgt card from ur graveyard to your hand                                                                                                                    |
 | $$ | Survical of the Fitest    | 1G        | ench      | G, discard a creature: search your lib for a creature card and put it in ur hand                                                                                  |
 |    | Strionic Resonator        | 2         | art       | 2, t: Copy target trigered ability u conrol.  You may choose another target for the copy.                                                                         |
@@ -134,7 +133,7 @@ Roon of the Hidden Realm v0.8
 |----+---------------------------+-----------+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Woodfall Primus           | 5GGG      | 6/6       | Persist, trample -- When enter: destroy tgt non creat permanent                                                                                                   |
 |    |                           |           |           |                                                                                                                                                                   |
-|    | Mulldrifter               | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                             |
+|    | Prophet of Kruphix        | 3GU       | 2/3       | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                      |
 |    | Sylvan Primordial         | 5GG       | 6/8 reach | When enters: for each opp, destroy tgt noncreat perm. For each: search lib for a forest and put that card into play tapped.                                       |
 |    | Monk Realist              | 1W        | 1/1       | When enters: destroy tgt enchantment                                                                                                                              |
 |    | Brushland                 |           | land      | t: add 1 -- t: add G or W, ~ deals 1 damage to u                                                                                                                  |
@@ -163,6 +162,11 @@ Roon of the Hidden Realm v0.8
 |    | Merchant Scroll           |           |           |                                                                                                                                                                   |
 |    |                           |           |           |                                                                                                                                                                   |
 
+
+v0.8 -> v0.9:
+-------------
+-1 Prophet of Kruphix (now banned)
++1 Mulldrifter
 
 v0.7 -> v0.8:
 -------------

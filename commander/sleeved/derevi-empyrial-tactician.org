@@ -9,6 +9,9 @@ Missing:
 |   | *Commander*                |           |          |                                                                                                                                                                                             |
 | 1 | Derevi, Empyrial Tactitian | GWU       | 2/3 fly  | When enters or a creature u control deals damage to an opponent, you may tap or untap target permanent -- 1GWU: put ~ from the commander zone into play                                     |
 |   |                            |           |          |                                                                                                                                                                                             |
+|   | *Planeswalker 1*           |           |          |                                                                                                                                                                                             |
+| 1 | Nahiri, the Lithomancer    | 3WW       | plnwk 3  | +2: Create a 1/1 kor token, u may attach tgt eqp u ctrl to it -- -2: Put an eqp from hand or grave to play -- -10L create a eqp which has: "eqp creat has +5/+5 and dble strike - eqp 0"    |
+|   |                            |           |          |                                                                                                                                                                                             |
 |   | *Ramp 8*                   |           |          |                                                                                                                                                                                             |
 | 1 | Sol Ring                   | 1         | art      | t: add 2 to mana pool                                                                                                                                                                       |
 | 1 | Mana Vault                 | 1         | art      | Beg upk, u may pay 4 to untap it -- Beg draw step: if tapped it deals 1 damage to u -- t: add 3 to mana pool                                                                                |
@@ -56,7 +59,6 @@ Missing:
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Tap/Untap Helper 3*       |           |          |                                                                                                                                                                                             |
 | 1 | Thousand-Year Elixir       | 3         | art      | You may activate ability of creats u control as though they had haste -- 1, t: untap tgt creature                                                                                           |
-| 1 | Prophet of Kruphix         | 3GU       | 2/3      | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                                                |
 | 1 | Heliod, God of the Sun     | 3W        | 5/6 ind  | Devotion 5 -- Other creat has vigilance -- 2WW: Put a 2/1 white cleric token into play                                                                                                      |
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | *Other helper creats 8*    |           |          |                                                                                                                                                                                             |
@@ -133,6 +135,9 @@ Missing:
 |   | Puresteel Paladin          | WW        | 2/2      | Whenever an eqp enters: draw a card -- Metalcraft: eqp cost is 0                                                                                                                            |
 |   | Wickerbough Elder          | 3G        | 4/4      | Enters w/ a -1c on it -- G, remove a -1c from ~: destroy tgt art or enchantment                                                                                                             |
 |---+----------------------------+-----------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed v0.9 -> v1.0*     |           |          |                                                                                                                                                                                             |
+|   | Prophet of Kruphix         | 3GU       | 2/3      | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                                                |
+|   |                            |           |          |                                                                                                                                                                                             |
 |   | *Removed v0.8 -> v0.9*     |           |          |                                                                                                                                                                                             |
 |   | Akroma's Memorial          | 7         | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                       |
 |   |                            |           |          |                                                                                                                                                                                             |
@@ -183,6 +188,12 @@ Missing:
 |   |                            |           |          |                                                                                                                                                                                             |
 |   | Deathrender                | 4         | eqp 2    | Eqp 2 gets +2/+2.  Whenever eqp creat dies, you may put a creature from ur hand into play and attach deathrender to it                                                                      |
 |   | Spelljack                  | 3UUU      | inst     | Counter tgt spell. Exile it instead of putting in its owner's graveyard.  You may cast it w/o paying its mana cost as long as it remain exiled.                                             |
+
+
+v0.9 -> v1.0:
+-------------
+-1 Prophet of Kuprix (banned)
++1 Nahiri, the Lithomancer
 
 
 Version v0.9:
