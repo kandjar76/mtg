@@ -1,0 +1,195 @@
+Oloro, Ageless Ascetic v1.3
+
+
+|   | *Commander*               |           |          |                                                                                                                                                              |
+| 1 | Oloro, Ageless Ascetic    | 3WUB      | 4/5      | Beg upk (even if ~ is in cmder zone): gain 2 life -- Whenever u gain 1 life, you may pay 1 if so: draw a card, each opp looses one life                      |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Planeswalker 1*          |           |          |                                                                                                                                                              |
+| 1 | Ob Nixilis Reignited      | 3BB       | plwr 5   | +1: Draw a card and loose 1 life -- -3: Destroy tgt creature -- -8: Tgt opp gets an emblem "Whenever a player draws a card, u loose 2 life"                  |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Equipment 2*             |           |          |                                                                                                                                                              |
+| 1 | Lightning Greaves         | 2         | eqp 0    | Eqp creat has shroud and haste                                                                                                                               |
+| 1 | Swiftfoot Boots           | 2         | eqp 1    | Eqp creat has hexproof and haste                                                                                                                             |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Mana Ramp 12*            |           |          |                                                                                                                                                              |
+| 1 | Sol Ring                  | 1         | art      | t: add 2                                                                                                                                                     |
+| 1 | Azorius Signet            | 2         | art      | 1, t: add WU                                                                                                                                                 |
+| 1 | Orzhov Signet             | 2         | art      | 1, t: add WB                                                                                                                                                 |
+| 1 | Dimir Signet              | 2         | art      | 1, t: add UB                                                                                                                                                 |
+| 1 | Pristine Talisman         | 3         | art      | t: add 1, you gain 1 life                                                                                                                                    |
+| 1 | Chromatic Lantern         | 3         | art      | Lands u control have: t: add one mana any color to mana pool -- t: add 1 mana any color to mana pool                                                         |
+| 1 | Orzhov Keyrune            | 3         | art      | t: add W or U -- WU: becomes a 1/4 white/black w/ lifelink until eot                                                                                         |
+| 1 | Dimir Keyrune             | 3         | art      | t: add U or B -- UB: becomes a 2/2 blue/black w/ unblockable                                                                                                 |
+| 1 | Thran Dynamo              | 4         | art      | t: add 3                                                                                                                                                     |
+| 1 | Grand Arbiter Augustin IV | 2WU       | 2/3 leg  | White and blue spell u cast cost 1 less -- Spells ur opp cast cost 1 more to cast                                                                            |
+| 1 | Crypt Ghast               | 3B        | 2/2      | Extort -- Whenever a swamp is tapped for mana, add B to mana pool                                                                                            |
+| 1 | Caged Sun                 | 6         | art      | As enter: choose color -- Creat u control of choosen color gets +1/+1 -- When lap tap to produce that color, add 1 more                                      |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Draw Engine 7*           |           |          |                                                                                                                                                              |
+| 1 | Well of Lost Dreams       | 4         | art      | Whenever u gain life, you may pay X where X is <= life gained. If u do: draw X cards                                                                         |
+| 1 | Phyrexian Arena           | 1BB       | ench     | Beg upkeep: loose a life and draw a card                                                                                                                     |
+| 1 | Dark Tutelage             | 1BB       | ench     | Beg upkeep: reveal top card of lib, loose life equal to CMC, put it in hand                                                                                  |
+| 1 | Underworld Connections    | 1BB       | aura     | Ench land -- Enchanted land has: "pay 1 life, t: draw a card"                                                                                                |
+| 1 | Greed                     | 3B        | ench     | B, pay 2 life: draw a card                                                                                                                                   |
+| 1 | Erebos, God of the Dead   | 3B        | 5/7      | Devotion: 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                       |
+| 1 | Bloodgift Demon           | 3BB       | 5/4 fly  | Beg upk: draw a card and loose a life                                                                                                                        |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Threats 6*               |           |          |                                                                                                                                                              |
+| 1 | Phyrexian Gargantus       | 4BB       | 4/4      | When enters: draw 2 cards and loose 2 life                                                                                                                   |
+| 1 | Batterskull               | 5         | eqp 5    | Living Weapon -- Eqp creat gets "+4/+4 vig and lifelink" -- 3: return ~ to hand                                                                              |
+| 1 | Divinity of Pride         | {bw}x5    | 4/4 fly  | Lifelink -- ~ gets +4/+4 as long as u have 25 life or more                                                                                                   |
+| 1 | Drogskol Reaver           | 5WU       | 3/5 fly  | Double strike, lifelink -- Whenever u gain life: draw a card                                                                                                 |
+| 1 | Blood Baron of Vizkopa    | 3WB       | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have >30 life AND opp has 10 or less life                                                |
+| 1 | Angel of Despair          | 3WWBB     | 5/5 fly  | When enter or leaves: dsstroy tgt permanent                                                                                                                  |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *General Helper 8*        |           |          |                                                                                                                                                              |
+| 1 | Expedition Map            | 1         | art      | 2, t, sacr ~: Search your lib for a land, put it into hand.                                                                                                  |
+| 1 | Phyrexian Reclamation     | B         | ench     | 1B, pay 2 life: return tgt creat from your graveyard to your hand                                                                                            |
+| 1 | Vampire Hexmage           | BB        | 2/1      | First strike -- Sacr ~: remove all counters from tgt perm                                                                                                    |
+| 1 | Evil Twin                 | 2UB       | 0/0      | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                     |
+| 1 | Painful Quandary          | 3BB       | ench     | Whenever an opp cast a spell, that player looses 5 life unless he discards a card                                                                            |
+| 1 | Sanguine Blood            | 3BB       | ench     | Whenever u gain life, tgt opp looses that much HP                                                                                                            |
+| 1 | Phyrexian Delver          | 3BB       | 3/2      | When enters: return tgt creat from your graveyard to play, you loose life eq to it's CMC                                                                     |
+| 1 | Price of Knowledge        | 6B        | ench     | Players have no maximum hand size -- Beg each opp: ~ deals damage to that player equal to # cards in hand                                                    |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Counter spells 4*        |           |          |                                                                                                                                                              |
+| 1 | Render Silent             | WBB       | inst     | Counter tgt spell, its controller cannot cast spells this turn                                                                                               |
+| 1 | Counterlash               | 4UU       | inst     | Counter tgt spell, you may cast a nonland card in your hand that shares a card type with the countered spell without paying its CMC                          |
+| 1 | Dissipate                 | 1UU       | inst     | Counter tgt spell, exile it                                                                                                                                  |
+| 1 | Dream Fracture            | 1UU       | inst     | Counter tgt spell, its controller draw a card. Draw a card.                                                                                                  |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Board Wipes 6*           |           |          |                                                                                                                                                              |
+| 1 | Supreme Verdict           | 1WWU      | sorc     | Can't be countered -- Destroy all creatures                                                                                                                  |
+| 1 | Toxic Deluge              | 2B        | sorc     | Add cost: pay X life -- All creats get -X/-X until eot.                                                                                                      |
+| 1 | Merciless Eviction        | 4WB       | sorc     | Choose one: exile all art OR exile all enchantment OR exile all creatures OR exile all planeswalkers                                                         |
+| 1 | Retaliate                 | 2WW       | inst     | Destroy all creats that dealt damage to you this turn                                                                                                        |
+| 1 | Terminus                  | 4WW       | sorc     | Miracle W -- Put all creats on the bottom of their owner's library                                                                                           |
+| 1 | Divine Reckoning          | 2WW       | sorc     | Flashback 5WW -- Each players chooses a creature he controls, and destroy the rest                                                                           |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Target removal 12*       |           |          |                                                                                                                                                              |
+| 1 | Swords to Plowshares      | W         | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                   |
+| 1 | Condemn                   | W         | inst     | Put attack creat to bottom of its owner's lib. Its control gains lifee equal to its toughness                                                                |
+| 1 | Erase                     | W         | inst     | Exile tgt enchantment                                                                                                                                        |
+| 1 | Revoke Existence          | 1W        | sorc     | Exile tgt art or enchantment                                                                                                                                 |
+| 1 | Celestial Purge           | 1W        | inst     | Exile tgt black or red perm                                                                                                                                  |
+| 1 | Devour in Shadow          | BB        | inst     | Destroy tgt creature. It can't be regen. You loose life equal to that creat's toughness                                                                      |
+| 1 | Oblivion Ring             | 2W        | ench     | When enter, exile tgt perm -- When leave: return that perm to play under its owner's control                                                                 |
+| 1 | Detention Sphere          | 1WU       | ench     | When enter: exile tgt perm and all perm sharing its name -- When leave: return the exiled permanent to the battlefield                                       |
+| 1 | Act of Authority          | 1WW       | ench     | When ~ enters: you may exile tgt art or ench -- Beg upk: you may exile tgt art or ench; if u do, its controller gain control of ~                            |
+| 1 | Reckless Spite            | 1BB       | inst     | Destroy two tgt non-black creatures -- You loose 5 life                                                                                                      |
+| 1 | Unmake                    | {wb}x3    | isnt     | Exile tgt creature                                                                                                                                           |
+| 1 | Caustic Rain              | 2BB       | sorc     | Exile tgt land                                                                                                                                               |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Tutors 3*                |           |          |                                                                                                                                                              |
+| 1 | Diabolic Tutor            | 2BB       | sorc     | Search your lib for a card, put it to hand                                                                                                                   |
+| 1 | Demonic Tutor             | 1B        | sorc     | Search your lib for a card, put it to hand                                                                                                                   |
+| 1 | Increasing Ambition       | 4B        | sorc     | Flashback 7B -- Search lib for a card, put it to hand -- If cast from grave: search for two cards instead                                                    |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Lands 38*                |           |          |                                                                                                                                                              |
+| 1 | Glacial Fortress          |           | land     | Enters tapped unless u control a plains or an island -- t: add W or U                                                                                        |
+| 1 | Adarkar Wastes            |           | land     | t: add 1 -- t: add W or U, and loose 1 life                                                                                                                  |
+| 1 | Evolving Wilds            |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                              |
+| 1 | Tainted Isle              |           | land     | t: add 1 -- t: add U or B only if u control a swamp                                                                                                          |
+| 1 | Sejiri Refuge             |           | land     | Enters tapped -- When enters: gain 1 life -- t: add W or U                                                                                                   |
+| 1 | Orzhov Guildgate          |           | land     | Enters tapped -- t: add W or b                                                                                                                               |
+| 1 | Watery Grave              |           | land     | Enters tapped unless u pay 2 life -- t: add U or B                                                                                                           |
+| 1 | Urborg, Tomb of Yawgmoth  |           | leg land | Each land is a swamp in addition of its other type                                                                                                           |
+| 1 | Reflecting Pool           |           | land     | t: add mana any color of a color your land can produce                                                                                                       |
+| 1 | Reliquary Tower           |           | land     | t: add 1 -- You have no max hand size                                                                                                                        |
+| 1 | Jwar Isle Refuge          |           | land     | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                   |
+| 1 | Temple of the False God   |           | land     | t: add 2 (only if u control 5+ lands)                                                                                                                        |
+| 1 | Terramorphic Expanse      |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                              |
+| 1 | Command Tower             |           | land     | t: add one mana of any color in your commander's color identity                                                                                              |
+| 1 | Hallowed Fountain         |           | land     | Enters tapped unless u pay 2 life -- t: add U or W                                                                                                           |
+| 1 | Bojuka Bog                |           | land     | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                       |
+| 1 | Temple of Silence         |           | land     | Enters tapped -- When enters: scry 1 -- t: add W or B                                                                                                        |
+| 1 | Dimir Guildgate           |           | land     | Enters tapped -- t: add U or B                                                                                                                               |
+| 1 | Vivid Marsh               |           | land     | Enters tapped w/ 2 charge counters -- t: add B -- t, remove a charge: add 1 mana any color to mana pool                                                      |
+| 3 | Island                    |           | bas land |                                                                                                                                                              |
+| 8 | Swamp                     |           | bas land |                                                                                                                                                              |
+| 8 | Plains                    |           | bas land |                                                                                                                                                              |
+|   |                           |           |          |                                                                                                                                                              |
+|---+---------------------------+-----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Next Cards to Include*   |           |          |                                                                                                                                                              |
+|   | Sorin Markov              | 3BBB      | plwk 4   | +2: deals 2 damage to tgt creat or player u gain 2 life -- -3: tgt opp's life becomes 10 -- -7: you control tgt player's next turn                           |
+|   | Solemn Simulacrum         | 4         | 2/2      | When enters: search basic land put into play tapped -- When leave: draw                                                                                      |
+|   | Angelic Accord            | 3W        | ench     | Beg each end step: if u gain 4 or more life, put a 4/4 white angel w/ flying onto the battlefield                                                            |
+|   | Dismember                 | 1{pb}{pb} | inst     | Tgt creature gets -5/-5                                                                                                                                      |
+|   | Snuff Out                 | 3B        | inst     | If you control a swamp, you may pay 4 life rather that ~ cost -- Destroy tgt non black creat. It can't be regen                                              |
+|   | Slaughter                 | 2BB       | inst     | Buyback: pay 4 life -- Destroy tgt non black creature. It can't be regen                                                                                     |
+|   | Lim-Dul's Vault           | UB        | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order  |
+|   |                           |           |          |                                                                                                                                                              |
+|   | Beseech the Queen         | {bp}x3    | sorc     | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                              |
+|   | Wydwen, the Biting Gale   | 2UB       | 3/3 fly  | Flash - UB, pay 1 life: return ~ to its owner's hand                                                                                                         |
+|   | Obzedat, Ghost Council    | 1WWBB     | 5/5      | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste. |
+|   | Sun Titan                 | 4WW       | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                         |
+|   | Cyclonic Rift             | 1U        | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                |
+|   | Mortify                   | 1WB       | inst     | Destroy tgt creat or enchantment                                                                                                                             |
+|   | Hero's Downfall           | 1BB       | inst     | Destroy tgt creat or planeswalker                                                                                                                            |
+|   | Promise of Power          | 2BBB      | sorc     | Choose one: draw 5 and loose 5 life OR put a X/X demon tokrn w/ flying where X is # card in hand at the time the demond entered -- Entwine 4                 |
+|   | Breathstealer's Crypt     | 2UB       | ench     | If a player would draw a card, instead he draws and reveals it.  If it's a creature, that player discards it unless he or she pays 3 life.                   |
+|   | Vile Consumption          | 1UB       | ench     | All creatures have "Beg upk, sac this creature unless u pay 1 life"                                                                                          |
+|   | Praetor's Gasp            | 1BB       | sorc     | Search tgt opp's lib for a card, exile it face down. You may cast the exiled card as long as it remain exiled.                                               |
+|   | Rune-Scarred Demon        | 5BB       | 6/6 fly  | When enters, search your lib for a card and put it in your hand                                                                                              |
+|   | Vish Kal, Blood Arbiter   | 4WBB      | 5/5 fly  | Lilelink -- Sacr a creat: put X +1c on ~ where X is that's creat power -- Remove all +1c: tgt creat gets -1/-1 for each counter removed this way             |
+|   |                           |           |          |                                                                                                                                                              |
+|   | Serra Ascendant           | W         | 1/1      | Lifelink -- As long as u have 30+ life, ~ gets +5/+5 and flying                                                                                              |
+|   | Domineering Will          | 3U        | inst     | Tgt players gains control of up to 3 tgt non attacking creatures; untap them; they blockk this turn if able                                                  |
+|   |                           |           |          |                                                                                                                                                              |
+|   | *Excluded cards*          |           |          |                                                                                                                                                              |
+|   | Bond of Agony             | xB        | sorc     | As an additional cost to cast bond of agony, pay X life. Each other player looses X life                                                                     |
+|   | Exquisite Blood           | 4B        | ench     | Whenever an opp looses life.  You gain that much life.                                                                                                       |
+|   | Felidar Sovereign         | 4WW       | 4/6      | At beg of ur upkeep: if you have 40+ life, you win the game.                                                                                                 |
+|   | Test of Endurance         | 2WW       | ench     | At beg of ur upkeep: if you have 50+ life, you win the game.                                                                                                 |
+
+--
+
+Considering to be remove:
+-1 Evil Twin ??
+
+
+v1.2 -> v1.3:
+-------------
+-1 Bloodchief Ascension
++1 Phyrexian Gargantua
+-1 Ghostly Prison
+-1 Blind Obedience
+-1 Summoner's Bane
+-1 Duskmantle Seer
+-1 Viskopa Confessor
++1 Grand Arbiter Augustin IV
++1 Phyrexian Reclamation
++1 Divine Reckoning
++1 Dream Fracture
++1 Expedition Map
+
+
+v1.1 -> v1.2:
+-------------
+-1 Plain
++1 Reliquary Tower
+-1 Wipe Away
+-1 Cackling Counterpart
+-1 Archangel of Thune
+-1 Wydwen, the Biting Gate
++1 Ghostly Prison
++1 Painful Quandary
++1 Phyrexian Delver
++1 Duskmantle Seer
+-1 Deep Analisys
++1 Bloodchief Ascension
+
+v1.0 -> v1.1:
+-------------
+-1 cradle of vitality
++1 price of knowledge
+
+To consider:
+- Venser Journal
+- Painful Quandry
+- obzedat's aid
+
+
+
+Missing: 
+- More counter?
