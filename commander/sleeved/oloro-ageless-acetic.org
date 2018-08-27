@@ -28,7 +28,7 @@ Oloro, Ageless Ascetic v1.3
 |   | *Draw Engine 7*           |           |          |                                                                                                                                                              |
 | 1 | Well of Lost Dreams       | 4         | art      | Whenever u gain life, you may pay X where X is <= life gained. If u do: draw X cards                                                                         |
 | 1 | Phyrexian Arena           | 1BB       | ench     | Beg upkeep: loose a life and draw a card                                                                                                                     |
-| 1 | Dark Tutelage             | 1BB       | ench     | Beg upkeep: reveal top card of lib, loose life equal to CMC, put it in hand                                                                                  |
+| 1 | Dark Tutelage             | 2B        | ench     | Beg upkeep: reveal top card of lib, loose life equal to CMC, put it in hand                                                                                  |
 | 1 | Underworld Connections    | 1BB       | aura     | Ench land -- Enchanted land has: "pay 1 life, t: draw a card"                                                                                                |
 | 1 | Greed                     | 3B        | ench     | B, pay 2 life: draw a card                                                                                                                                   |
 | 1 | Erebos, God of the Dead   | 3B        | 5/7      | Devotion: 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                       |
@@ -119,6 +119,8 @@ Oloro, Ageless Ascetic v1.3
 |   | Slaughter                 | 2BB       | inst     | Buyback: pay 4 life -- Destroy tgt non black creature. It can't be regen                                                                                     |
 |   | Lim-Dul's Vault           | UB        | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order  |
 |   |                           |           |          |                                                                                                                                                              |
+|   | Painful Truths            | 2B        | sorc     | Converge: draw X and loose X life where X is # color used to cast this card.                                                                                 |
+|   | Bitterblossom             | 1B        | ench     | Beg upk: loose a life and put a 1/1 flying faerie into play                                                                                                  |
 |   | Beseech the Queen         | {bp}x3    | sorc     | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                              |
 |   | Wydwen, the Biting Gale   | 2UB       | 3/3 fly  | Flash - UB, pay 1 life: return ~ to its owner's hand                                                                                                         |
 |   | Obzedat, Ghost Council    | 1WWBB     | 5/5      | When enters: tgt opp looses 2 life, u gain 2 -- At beg of end step: u may exile Obzedat. If you do, he comes back at the beg of ur next upk and gains haste. |
