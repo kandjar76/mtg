@@ -1,5 +1,5 @@
-Lazav, Dimir Mastermind v1.7
-[sleeved: v1.7]
+Lazav, Dimir Mastermind v1.8
+[sleeved: v1.8
 
 Missing:
 - Cabal Coffer
@@ -8,11 +8,11 @@ Missing:
 |   | *Commander*                |         |             |                                                                                                                                                                                       |
 | 1 | Lazav, Dimir Mastermind    | UUBB    | 3/3 hex     | Whenever a creat is put to an opp graveyard from anywhere, ~ may becomes a copy of it, if so: he keeps: this ab, his name, hexproof, and the leg clause                               |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Planeswalkers 3*          |         |             |                                                                                                                                                                                       |
+|   | *Planeswalkers 2*          |         |             |                                                                                                                                                                                       |
 | 1 | Liliana of the Dark Realms | 2BB     | plwkr 3     | +1: search ur lib for a swamp and put it in hand -- -3: tgt creat gets +X/+X or -X/-X where X is #swamp u control -- -6: emblem: "each swamp has: t, add: BBBB"                       |
 | 1 | Jace, Memory Adept         | 3UU     | plwkr 4     | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                                                                               |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Mana Ramp 6*              |         |             |                                                                                                                                                                                       |
+|   | *Mana Ramp 7*              |         |             |                                                                                                                                                                                       |
 | 1 | Everflowing Chalice        | 0       | art         | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                                       |
 | 1 | Sol Ring                   | 1       | art         | t: add 2 to mana pool                                                                                                                                                                 |
 | 1 | Dimir Signet               | 2       | art         | 1, t: add UB to mana pool                                                                                                                                                             |
@@ -21,15 +21,15 @@ Missing:
 | 1 | Solemn Simulacrum          | 4       | 2/2         | When enter: search bas land, put into play tapped -- When dies: draw                                                                                                                  |
 | 1 | Gilded Lotus               | 5       | art         | t: add 3 mana of any one color to ur mana pool                                                                                                                                        |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Draw Power 4*             |         |             |                                                                                                                                                                                       |
+|   | *Draw Power 5*             |         |             |                                                                                                                                                                                       |
 | 1 | Phyrexian Arena            | 1BB     | ench        | At beg of your upk, you loose a life and draw 1 card                                                                                                                                  |
 | 1 | Underworld Connections     | 1BB     | aura        | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                  |
-| 1 | Dimir Cutpurse             | 1BU     | 2/2         | When deals combat damage: that player discard and u draw                                                                                                                              |
 | 1 | Notion Thief               | 2UB     | 3/1         | Flash -- Whenever an opp draw (except the one from his normal draw step), he skips that draw and instead you draw                                                                     |
 | 1 | Jace's Ingenuity           | 3UU     | inst        | Draw 3 cards                                                                                                                                                                          |
 | 1 | Consecrated Sphinx         | 4UU     | 4/6 fly     | When an opp draw: u may draw 2 cards                                                                                                                                                  |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Mill Helpers 7*           |         |             |                                                                                                                                                                                       |
+|   | *Mill Helpers 11*          |         |             |                                                                                                                                                                                       |
+| 1 | Mindcrank                  | 2       | art         | When opp loose life, he put that many cards from top of lib to his or her graveyard                                                                                                   |
 | 1 | Glimpse the Unthinkable    | UB      | sorc        | Tgt players mills 10                                                                                                                                                                  |
 | 1 | Dimir Charm                | UB      | inst        | Choos one: Counter tgt spell OR Destroy tgt creat w/ pow 2 or less OR Look top 3 card of tgt opp's lib, put one back, rest in the graveyard                                           |
 | 1 | Mind Grind                 | xUB     | sorc        | Each opp reveals top cards until they reveal X lands, then put the revealed cards in their graveyards                                                                                 |
@@ -39,20 +39,20 @@ Missing:
 | 1 | Mirko Vosk, Mind Drinker   | 3UB     | 2/4 fly leg | When deals combat to a player, that player reveal top card of his lib until he reveals 4 lands, the put all the revealed cards in the graveyard                                       |
 | 1 | Consuming Aberration       | 3UB     | */*         | Pow/Tough equals to #cards in all opp's graveyards.  When u cast a spell, each opp reveal top card until he revelas a land, put them in the graveyard                                 |
 | 1 | Archive Trap               | 3UU     | isnt trap   | Cost 0 if opp search his lib this turn -- Tgt opp put the top 13 cards from his lib to his graveyard                                                                                  |
+| 1 | Phenax, God of Deception   | 3UB     | 4/7 leg     | Indestructible -- Creature if dev is 7+ -- Creats u control gains: "t: tgt player put top X card from lib to grave where X is ~ toughness"                                            |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Equipments 2*             |         |             |                                                                                                                                                                                       |
+|   | *Equipments 3*             |         |             |                                                                                                                                                                                       |
 | 1 | Lightning Greaves          | 2       | eqp 0       | Eqp creat gets shroud and haste                                                                                                                                                       |
 | 1 | Darksteel Plate            | 3       | eqp 2       | ~ is indestructible -- Equipped creat is indestructible                                                                                                                               |
 | 1 | Sword of Body and Mind     | 3       | eqp 2       | Eqp creat has +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and defending player put top 10 card from lib to graveyaard                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Search Box 5*             |         |             |                                                                                                                                                                                       |
+|   | *Search Box 4*             |         |             |                                                                                                                                                                                       |
 | 1 | Demonic Tutor              | 1B      | sorc        | Search your lib for a card and put it in your hand                                                                                                                                    |
 | 1 | Beseech the Queen          | {bp}x3  | sorc        | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                                       |
 | 1 | Increasing Ambition        | 4B      | sorc        | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
-| 1 | Diabolic Revelation        | x3BB    | sorc        | Search your lib for X cards and put them into your hand                                                                                                                               |
 | 1 | Rune-Scarred Demon         | 5BB     | 6/6 fly     | When enters, search your lib for a card and put it in your hand                                                                                                                       |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Graveyard playground 12*  |         |             |                                                                                                                                                                                       |
+|   | *Graveyard playground 9*   |         |             |                                                                                                                                                                                       |
 | 1 | Relic of Progenitus        | 1       | art         | t: Tgt player exile a card from his graveyard -- 1, exile relic: exile all cards from all graveyard, draw a card                                                                      |
 | 1 | Snapcaster Mage            | 1U      | 2/1         | Flash -- When enter, tgt card in your graveyard gain flashback for its normal cost.                                                                                                   |
 | 1 | Dimir Doppelganger         | 1UB     | 0/2         | 1UB: exile tgt cards from a graveyard, ~ becomes a copy of that card and gains this ability                                                                                           |
@@ -63,7 +63,7 @@ Missing:
 | 1 | Sepulchral Primordial      | 5BB     | 5/4 int     | When enter, for each opp, put a creature card from their graveyard into play under your control                                                                                       |
 | 1 | Sheoldred, Whispering One  | 5BB     | 6/6         | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Counter spells 7*         |         |             |                                                                                                                                                                                       |
+|   | *Counter spells 6*         |         |             |                                                                                                                                                                                       |
 | 1 | Counterspell               | UU      | inst        | Counter target spell                                                                                                                                                                  |
 | 1 | Psychic Strike             | 1UB     | inst        | Counter tgt spell, its controller mill 2                                                                                                                                              |
 | 1 | Spell Crumple              | 1UU     | inst        | Counter tgt spell, if the spell is countered that way, put it on the bottom of the library. Put ~ on the bottom of the lib                                                            |
@@ -71,7 +71,7 @@ Missing:
 | 1 | Dissipate                  | 1UU     | inst        | Counter tgt spell, exile it if countered                                                                                                                                              |
 | 1 | Cryptic Command            | 1UUU    | inst        | Choose 2: counter tgt spell OR return tgt perm to its owner's hand OR tap all creats your opps control OR draw a card                                                                 |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Copy spells 3*            |         |             |                                                                                                                                                                                       |
+|   | *Copy spells 4*            |         |             |                                                                                                                                                                                       |
 | 1 | Phantasmal Image           | 1U      | 0/0         | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                                                                  |
 | 1 | Evil Twin                  | 2UB     | 0/0         | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                                              |
 | 1 | Phyrexian Metamorph        | 3{up}   | 0/0 art     | You may have ~ enters as a copy of tgt creature or tgt artifact, it remains an artifact in addition of its other types                                                                |
@@ -86,18 +86,18 @@ Missing:
 | 1 | Life's Finale              | 4BB     | sorc        | Destroy all creatures, search for tgt players library for 3 creatures and put them into its graveyard                                                                                 |
 | 1 | Decree of Pain             | 6BB     | sorc        | Destroy all creats, they can't be regen -- Cycling: 3BB -- When u cycle ~: all creats gets -2/-2                                                                                      |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Single tgt removal 4*     |         |             |                                                                                                                                                                                       |
+|   | *Single tgt removal 3*     |         |             |                                                                                                                                                                                       |
 | 1 | Go for the Throat          | 1B      | inst        | Destroy tgt non art creature                                                                                                                                                          |
 | 1 | Hero's Downfall            | 1BB     | inst        | Destroy tgt creat or planeswalker                                                                                                                                                     |
 | 1 | Far // Away                | 1U / 2B | inst / inst | Ret tgt creat to owner's hand -- Tgt player sac a creature                                                                                                                            |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Pressure 2*               |         |             |                                                                                                                                                                                       |
+|   | *Pressure 1*               |         |             |                                                                                                                                                                                       |
 | 1 | Aura Thief                 | 3U      | 2/2 fly     | When dies: gain control of all enchantments                                                                                                                                           |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Lands 37*                 |         |             |                                                                                                                                                                                       |
+|   | *Lands 36*                 |         |             |                                                                                                                                                                                       |
 | 1 | Urborg, Tomb of Yawgmoth   |         | leg land    | Each land is a swamp in addition of its other type                                                                                                                                    |
 | 1 | Darkslick Shore            |         | land        | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                                                                  |
-| * | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
+| 1 | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
 | 1 | Rogue's Passage            |         | land        | t: add 1 -- 4, t: tgt creature can't be blocked this turn                                                                                                                             |
 | 1 | Reliquary Tower            |         | land        | t: add 1 -- You have no max hand size                                                                                                                                                 |
 | 1 | Nephalia Drownyard         |         | land        | t: add 1 -- 1UB, t: tgt player mill 3                                                                                                                                                 |
@@ -115,7 +115,7 @@ Missing:
 | 1 | Jwar Isle Refuge           |         | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                            |
 | 1 | Temple of the False God    |         | land        | t: add 2 (only if u control 5+ lands)                                                                                                                                                 |
 | 1 | Command Tower              |         | land        | t: add one mana of any color in your commander's color identity                                                                                                                       |
-| 9 | Island                     |         | basic land  |                                                                                                                                                                                       |
+| 8 | Island                     |         | basic land  |                                                                                                                                                                                       |
 | 8 | Swamp                      |         | basic land  |                                                                                                                                                                                       |
 |   |                            |         |             |                                                                                                                                                                                       |
 |---+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -140,6 +140,7 @@ Missing:
 |   | Crypt Incursion            | 2B      | inst        | Exile all creats from tgt player's graveyard, you gain 3 life for each card exiled this way                                                                                           |
 |   | Volrath's Stronghold       |         | land        | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of lib                                                                                                                      |
 |---+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Dimir Cutpurse             | 1BU     | 2/2         | When deals combat damage: that player discard and u draw                                                                                                                              |
 |   | Ancient Tomb               |         | land        | t: add 2 to ur mana pool, ~ deals 2 damage to u                                                                                                                                       |
 |   | Karn Liberated             | 7       | plwkr 6     | +4: tgt playr exiles card from hand -- -3: exile tgt perm -- -14: restart the game put exiled cards into play under ur ctrl                                                           |
 |   | Shizo, Death's Storehouse  |         | leg land    | t: add B -- B, t: tgt leg creature gains fear                                                                                                                                         |
@@ -157,7 +158,6 @@ Missing:
 |   | Havengul Lich              | 3UB     | 4/4         | 1: you may cast a creature from a graveyard.  ~ gains all ability of that card until EOT.                                                                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | Nemesis of Reason          | 3UB     | 3/7         | When attacks: defending player mill 10 cards                                                                                                                                          |
-|   | Mindcrank                  | 2       | art         | When opp loose life, he put that many cards from top of lib to his or her graveyard                                                                                                   |
 |   | Necrotic Ooze              | 2BB     | 4/3         | Has activated ability of all creatures in all graveyard                                                                                                                               |
 |   | Chainer, Dementia Master   | 3BB     | 3/3         | Nightmares gets +1/+1 -- BBB, pay 3 life: put tgt creat from a graveyard to play under ur control. That creats is black and is a nightmare -- When leaves: exile all nightmares       |
 |   | Diabolic Tutor             | 2BB     | sorc        | Search your lib for a card and put it in your hand                                                                                                                                    |
@@ -183,21 +183,28 @@ Missing:
 |   | Demonic Tutor              | 2BB     | sorc        | Search lib for a card and put it in hand                                                                                                                                              |
 |   | Beacon of Unrest           | 3BB     | sorc        | Put tgt art or creat from a grave to play under ur control. Shuffle ~ in lib                                                                                                          |
 |   | Extract from Darkness      | 3UB     | sorc        | Each player put top 2 cards of lib to grav then put a creat from a grave to play under ur control                                                                                     |
-|   | Phenax, God of Deception   | 3UB     | 4/7 leg     | Indestructible -- Creature if dev is 7+ -- Creats u control gains: "t: tgt player put top X card from lib to grave where X is ~ toughness"                                            |
 |   | Sphinx Tutelage            | 2U      | ench        | When u draw, tgt opp mills 2 if they are both non land that share a color, repeat -- 5U: draw then discard                                                                            |
 |   | Talent of the Telepath     | 2UU     | sorc        | Tgt opp mills 7, u may cast an inst or sorc w/o paying its mana cost from it -- Spell mastery (if two or more inst/sorc in ur graveyard): you may cast 2 instead                      |
+|   | Diabolic Revelation        | x3BB    | sorc        | Search your lib for X cards and put them into your hand                                                                                                                               |
 
-v1.7* -> v1.8:
+
+v1.8* -> v1.9:
 -------------
-- Dimir Cutpurse
 - Far // Away
-- Yawgmoth's Will
 - Consume the Meek
-+ Mindcrank
-+ Phenax, God of Deception
 + Sphinx Tutelage
 + Talent of the Telephath
 
+I do think the deck right now needs:
+. A few more ramp cards
+. 2 extra lands.
+
+v1.7 -> v1.8:
+-------------
+- Dimir Cutpurse
++ Phenax, God of Deception
++ Mindcrank
+- Diabolic Revelation
 
 v1.6 -> v1.7:
 ------------
