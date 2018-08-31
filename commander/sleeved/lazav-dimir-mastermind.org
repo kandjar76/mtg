@@ -199,6 +199,11 @@ I do think the deck right now needs:
 . A few more ramp cards
 . 2 extra lands.
 
+To be considered:
+. Altar of the Brood
+. Darksteel Lingot (I shoudl have some)
+
+
 v1.7 -> v1.8:
 -------------
 - Dimir Cutpurse
