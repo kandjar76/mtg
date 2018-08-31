@@ -1,11 +1,14 @@
 Dragon Master v1.6
 [sleeved: v1.6]
 
+Missing:
+- Balefire Dragon (card now used in Kalia)
+
 |    | *The Dragons*              |       |          |                                                                                                                                                                                                                                                      |
 |  4 | Thundermaw Hellkite        | 3RR   | 5/5 fly  | Haste -- When enters: deals 1 damage to each flying creatures; tap these creatures                                                                                                                                                                   |
 |  3 | Steel Hellkite             | 6     | 5/5 fly  | 2: Steel Hellkite gets +1/+0 until eot -- X: Destroy each nonland permanent with CMC X whose controller was dealt combat damage by Steel Hellkite this turn. Only once each turn.                                                                    |
 |  2 | Kilnmouth Dragon           | 5RR   | 5/5 fly  | Amplify 3 -- t: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or playe                                                                                                                                |
-|  1 | Balefire Dragon            | 5RR   | 6/6 fly  | When deals combat damage to a player: it deals that much damage to each creature that player controls                                                                                                                                                |
+|  * | Balefire Dragon            | 5RR   | 6/6 fly  | When deals combat damage to a player: it deals that much damage to each creature that player controls                                                                                                                                                |
 |  2 | Bogardan Hellkite          | 6RR   | 5/5 fly  | Flash -- When ~ enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.                                                                                                                 |
 |    |                            |       |          |                                                                                                                                                                                                                                                      |
 |    | *Mana booster*             |       |          |                                                                                                                                                                                                                                                      |
