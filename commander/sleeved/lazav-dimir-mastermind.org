@@ -97,7 +97,7 @@ Missing:
 |   | *Lands 36*                 |         |             |                                                                                                                                                                                       |
 | 1 | Urborg, Tomb of Yawgmoth   |         | leg land    | Each land is a swamp in addition of its other type                                                                                                                                    |
 | 1 | Darkslick Shore            |         | land        | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                                                                  |
-| 1 | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
+| * | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
 | 1 | Rogue's Passage            |         | land        | t: add 1 -- 4, t: tgt creature can't be blocked this turn                                                                                                                             |
 | 1 | Reliquary Tower            |         | land        | t: add 1 -- You have no max hand size                                                                                                                                                 |
 | 1 | Nephalia Drownyard         |         | land        | t: add 1 -- 1UB, t: tgt player mill 3                                                                                                                                                 |
@@ -186,6 +186,8 @@ Missing:
 |   | Sphinx Tutelage            | 2U      | ench        | When u draw, tgt opp mills 2 if they are both non land that share a color, repeat -- 5U: draw then discard                                                                            |
 |   | Talent of the Telepath     | 2UU     | sorc        | Tgt opp mills 7, u may cast an inst or sorc w/o paying its mana cost from it -- Spell mastery (if two or more inst/sorc in ur graveyard): you may cast 2 instead                      |
 |   | Diabolic Revelation        | x3BB    | sorc        | Search your lib for X cards and put them into your hand                                                                                                                               |
+
+
 
 
 v1.8* -> v1.9:
