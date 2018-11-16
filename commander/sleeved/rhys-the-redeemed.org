@@ -1,14 +1,19 @@
-Rhys the Redeemed v1.6
-[sleeved v1.6]
+Rhys the Redeemed v1.7
+[sleeved v1.7]
 
+- Finding:
+. doubling season
+. the phase out spell from C18
 
 |    | *Commander*                |          |          |                                                                                                                                                                                                            |
 |  1 | Rhys the Redeemed          | {gw}     | 1/1      | 2{gw}, t: put a 1/1 elf warrior token into play -- 4{gw}{gw}, t: for each creat token u control, make a copy of that creat                                                                                 |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *Planeswalkers 3*          |          |          |                                                                                                                                                                                                            |
+|    | *Planeswalkers 5*          |          |          |                                                                                                                                                                                                            |
 |  1 | Garruk Wildspeaker         | 2GG      | plwkr 3  | +1: Untap 2 lands -- -1: Put a 3/3 green Beast token into play -- -4: Creats u control gets +3/+3 and gain trample until eot                                                                               |
 |  1 | Garruk, Primal Hunter      | 2GGG     | plwkr 3  | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control                                                                          |
 |  1 | Elspeth, Knight-Errant     | 2WW      | plwkr 4  | +1: put a 1/1 white soldier token into play -- +1: tgt creat gets +3/+3 and gain flying until eot -- -8: Emblem "Art, creat, ench, and land u control are indestr"                                         |
+|  1 | Huatli, Radiant Champion   | 2GW      | plwkr 3  | +1: Put a loyalty for each creat u control -- -1: Tgt creat gets +X/+X for each creat u control -- -8: Emblem: "when a creats enters under ur control, you may draw a card"                                |
+|  1 | Nissa, Voice of Zendikar   | 1GG      | plwkr 3  | +1: Put a 0/1 into play -- -2: Put a +1c on each creat u control -- -7: Gain X life and draw X cards where X is # lands u control                                                                          |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Mana Boost 7*             |          |          |                                                                                                                                                                                                            |
 |  1 | Sol Ring                   | 1        | art      | t: add 2                                                                                                                                                                                                   |
@@ -37,14 +42,12 @@ Rhys the Redeemed v1.6
 |  1 | Fated Intervention         | 2GGG     | inst     | Put two 3/3 green centaur into play -- If it's your turn: scry 2                                                                                                                                           |
 |  1 | White Sun's Zenith         | xWWW     | inst     | Put X 2/2 cat token into play, shuffle ~ into its owner's library                                                                                                                                          |
 |    |                            |          |          |                                                                                                                                                                                                            |
-|    | *Beefing spells 8*         |          |          |                                                                                                                                                                                                            |
+|    | *Beefing spells 6*         |          |          |                                                                                                                                                                                                            |
 |  1 | Wilt-Leaf Liege            | 1{gw}x3  | 4/4      | Other green: gets +1/+1, other white: gets +1/+1  -- If a spell an opp control make u discard ~, put it into play instead of the graveyard                                                                 |
-|  1 | Tolsimir Wolfblood         | 4GW      | 3/4      | Other green: gets +1/+1, other white: gets +1/+1 -- t: put a 2/2 green and white leg wolf into play named Voja                                                                                             |
 |  1 | Mirror Entity              | 2W       | 1/1      | Changeling -- X: Creatures u control become X/X and gain all creature types until eot                                                                                                                      |
-|  1 | Collective Blessing        | 3GGW     | ench     | Creats u control gets +3/+3                                                                                                                                                                                |
+| -1 | Collective Blessing        | 3GGW     | ench     | Creats u control gets +3/+3                                                                                                                                                                                |
 |  1 | Marshal's Anthem           | 2WW      | ench     | Multikick: 1W -- Creats u control gets +1/+1 -- When enters: return up to X creat from ur graveyard to play where X is # times kicked                                                                      |
 |  1 | Intangible Virtue          | 1W       | ench     | Token u control gain vigilance and +1/+1                                                                                                                                                                   |
-|  1 | Cathars' Crusade           | 3WW      | ench     | Whenever a creat enters the battlefield, put a +1c on each creat u control                                                                                                                                 |
 |  1 | Craterhoof Behemoth        | 5GGG     | 5/5      | Haste -- When enters: creats u control gain trample and +X/+X where X is # of creats u control                                                                                                             |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Search toolbox 3*         |          |          |                                                                                                                                                                                                            |
@@ -58,7 +61,7 @@ Rhys the Redeemed v1.6
 |  1 | Swords to Plowshares       | W        | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                 |
 |  1 | Luminate Primordial        | 5WW      | 4/7      | Vigilance -- When enter: for each opp, you exile up to one tgt creat that player control, and that player gain life equal to its power                                                                     |
 |  1 | Oblation                   | 2W       | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                                 |
-|  1 | Selesnya Charm             | GW       | inst     | Choose one: tgt creat gets +2/+2 and gain trample OR exile tgt creat w/ pow 5+ OR put a 2/2 white knight token w/ vig into play                                                                            |
+|  1 | Selesnya Charm             | GW       | inst     | Choose one: tgt creat gets +2/+2 and gain trample OR exile tgt creat w/ pow +5 OR put a 2/2 white knight token w/ vig into play                                                                            |
 |    |                            |          |          |                                                                                                                                                                                                            |
 |    | *Wrath Spells 6*           |          |          |                                                                                                                                                                                                            |
 |  1 | Hour of Reckoning          | 4WWW     | sorc     | Convoke -- Destroy all non token creatures                                                                                                                                                                 |
@@ -106,7 +109,8 @@ Rhys the Redeemed v1.6
 |  1 | Saltcrusted Steppe         |          | land     | t: add 1 -- 1, t: put a storage counter on ~ -- 1, remove X storage counter: add X combinaition of G or W to your mana pool                                                                                |
 |  1 | Stirring Wildwood          |          | land     | Enters tapped -- t: add G or W -- 1GW: becomes a 3/4 green and white elemental with reach until eot                                                                                                        |
 |  1 | Graypelt Refuge            |          | land     | Enters tapped -- When enter: gain 1 life -- t: add G or W                                                                                                                                                  |
-| 11 | Forest                     |          | bas land |                                                                                                                                                                                                            |
+|  1 | Windswept Heath            |          | land     | t, pay 1: search lib for a plain or forest and put it into play                                                                                                                                            |
+| 10 | Forest                     |          | bas land |                                                                                                                                                                                                            |
 | 10 | Plains                     |          | bas land |                                                                                                                                                                                                            |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To Consider*              |          |          |                                                                                                                                                                                                            |
@@ -119,6 +123,8 @@ Rhys the Redeemed v1.6
 |    | Glare of Subdual           | 2GW      | ench     | Tap a creat u control: tap tgt creat or artifact                                                                                                                                                           |
 |    | Krosan Verge               |          | land     | Enters tapped -- t: add 1 -- 2, t, sacr: search for a Plains and a Forest and put them into play tapped.                                                                                                   |
 |----+----------------------------+----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Tolsimir Wolfblood         | 4GW      | 3/4      | Other green: gets +1/+1, other white: gets +1/+1 -- t: put a 2/2 green and white leg wolf into play named Voja                                                                                             |
+|    | Cathars' Crusade           | 3WW      | ench     | Whenever a creat enters the battlefield, put a +1c on each creat u control                                                                                                                                 |
 |    | Mimic Vat                  | 3        | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                                      |
 |    | Spawning Grounds           | 6GG      | aura     | Enchant land has: "t: put a 5/5 green beast token on the battlefield"                                                                                                                                      |
 |    |                            |          |          |                                                                                                                                                                                                            |
@@ -148,7 +154,17 @@ Rhys the Redeemed v1.6
 |    | Mentor of the Meek         | 2/2      | 2W       | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                                            |
 |    | Midnight Haunting          | 2W       | inst     | Put 2 1/1 white spirit token w/ flying into play                                                                                                                                                           |
 |    | Wolfbriar Elemental        | 2GG      | 4/4      | Multikicker G -- When enters: put X 2/2 green wolf token into play for each time it was kicked                                                                                                             |
+|    |                            |          |          |                                                                                                                                                                                                            |
+|    |                            |          |          |                                                                                                                                                                                                            |
 
+-1 Collective Blessing
+
+v1.6 -> v1.7:
+-------------
+-1 Tolsimir Wolfblood
+-1 Marshal's Anthem
++1 Huatli, Radiant Champion
++1 Nissa, Voice of Zendikar
 
 Version 1.6:
 ------------ 
