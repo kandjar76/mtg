@@ -53,7 +53,7 @@ Kaalia of the Vast v1.2
 |   | *Draw power 3*             |         |          |                                                                                                                                                                  |
 | 1 | Phyrexian Arena            | 1BB     | ench     | Beg upk: draw a card and loose a life                                                                                                                            |
 | 1 | Erebos, God of the Dead    | 3B      | 5/7 ind  | Devotion 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                            |
-| 1 | Underworld Connections     | 1BB     | aura     | Ench land -- Land has: "t, pay 1 life: draw a card"                                                                                                              |
+| 1 | Ancient Craving            | 3B      | sorc     | You draw 3 cards and loose 3 life                                                                                                                                |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *Search engine 2*          |         |          |                                                                                                                                                                  |
 | 1 | Beseech the Queen          | {bp}x3  | sorc     | Search lib for a card w/ CMC less or equal to # lands u control                                                                                                  |
@@ -181,6 +181,12 @@ Kaalia of the Vast v1.2
 |   | Deathless Angel            | 4WW     | 5/7 fly  | WW: tgt creat is indestructible this turn                                                                                                                        |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | Dreadbore                  | BR      | sorc     | Destroy tgt creat or planewalker                                                                                                                                 |
+|   | Underworld Connections     | 1BB     | aura     | Ench land -- Land has: "t, pay 1 life: draw a card"                                                                                                              |
+
+v1.2 -> v1.3:
+-------------
+-1 Underworld Connection
++1 Ancient Craving
 
 
 v1.1 -> v1.2:
