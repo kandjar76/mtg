@@ -1,185 +1,194 @@
-|   | *Commander*                |       |             |                                                                                                                                                                              |
-| 1 | Yuriko, the Tiger's Shadow | 1UB   | 1/3         | Commander Ninjutsu UB -- When a ninja deals combat damage, reveal top lib, put it hand, opps loose life eq to its CMC                                                        |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Ramp 5*                   |       |             |                                                                                                                                                                              |
-| 1 | Sol Ring                   | 1     | art         | t: add 2 to mana pool                                                                                                                                                        |
-| 1 | Dimir Signet               | 2     | art         | 1, t: add UB to mana pool                                                                                                                                                    |
-| 1 | Darksteel Ingot            | 3     | art         | Indestructible -- t: add 1 mana any color to mana pool                                                                                                                       |
-| 1 | Dimir Locket               | 3     | art         | t: add U or B -- {bu}x3, sacr it: draw 2 cards                                                                                                                               |
-| 1 | Dimir Keyrune              | 3     | art         | t: add U or B -- UB: becomes a 2/2 blue/black w/ unblockable                                                                                                                 |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Equipment 1*              |       |             |                                                                                                                                                                              |
-| 1 | Lightning Greaves          | 2     | eqp 0       | Eqp creat gets shroud and haste                                                                                                                                              |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Ninja 10*                 |       |             |                                                                                                                                                                              |
-| 1 | Skullsnatcher              | 1B    | 2/1         | Ninjutsu B -- When deals combat damage to player: exile up to 2 cards from that player's graveyard                                                                           |
-| 1 | Mistblade Shinobi          | 2U    | 1/1         | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                                                                |
-| 1 | Walker of Secret Ways      | 2U    | 1/2         | Ninjutsu 1U -- When deals combat damage to player: look at player's hand. -- 1U: Return tgt ninja u control to hand (during ur turn only)                                    |
-| 1 | Ninja of the Deep Hours    | 3U    | 2/2         | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                                                               |
-| 1 | Throat Slitter             | 4B    | 2/2         | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                                                       |
-| 1 | Sakashima's Student        | 2UU   | 0/0         | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                                                             |
-| 1 | Okiba-Gang Shinobi         | 3BB   | 3/2         | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                                                              |
-| 1 | Higure, the Still Wind     | 3UU   | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
-| 1 | Ink-Eyes, Servant of Oni   | 4BB   | 5/4 leg     | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate                                          |
-| 1 | Silent-Blade Oni           | 3UUBB | 6/5         | Ninjutsu 4UB -- When deals combat damage to player: look at player's hand.  You may cast a non land card w/o paying its mana cost                                            |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Planeswalker 1*           |       |             |                                                                                                                                                                              |
-| 1 | Jace the Mind Sculptor     | 2UU   | plwkr 3     | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                                                       |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Sneaker 16*               |       |             |                                                                                                                                                                              |
-| 0 | Ornithopter                | 0     | 0/2 fly     |                                                                                                                                                                              |
-| 1 | Tormented Soul             | B     | 1/1         | Can't blocked and is unblockable                                                                                                                                             |
-| 1 | Merfolk Spy                | U     | 1/1         | Islandwalk -- When deals damage: opp reveals a random card from its hand                                                                                                     |
-| 1 | Cloud Sprite               | U     | 1/1 fly     | Can only block creat w/ flying                                                                                                                                               |
-| 1 | Jace's Phantasm            | U     | 1/1 fly     | Get +4/+4 if an opponent has 10 or more cards in his graveyard                                                                                                               |
-| 1 | Inkfathom Witch            | 1{ub} | 1/1         | Fear -- 2UB: each unblockable creats becomes 4/1 until eot                                                                                                                   |
-| 1 | Spellstutter Sprite        | 1U    | 1/1 fly     | Flash -- When enter: counter tgt spell w/ CMC <=X where X is # faeries you control                                                                                           |
-| 1 | Invisible Stalker          | 1U    | 1/1         | Hexproof -- Unblockable                                                                                                                                                      |
-| 1 | Augury Owl                 | 1U    | 1/1 fly     | When enters: scry 3                                                                                                                                                          |
-| 1 | AEther figment             | 1U    | 1/1         | Kicker 3 -- Can't be blocked -- If kicked: enters with 2 +1c                                                                                                                 |
-| 1 | Dimir Infiltrator          | UB    | 1/3         | Transmute 1UB -- Unblockable                                                                                                                                                 |
-| 1 | Baleful Strix              | UB    | 1/1 fly     | Deathtouch -- When enters: draw a card                                                                                                                                       |
-| 1 | Neurok Invisimancer        | 1UU   | 2/1         | Unblockable -- When enters: another tgt creat is unblockable this turn                                                                                                       |
-| 1 | Vendilion Clique           | 1UU   | 3/1 leg fly | Flash --  When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library                                    |
-| 1 | Thada Adel, Acquisitor     | 1UU   | 2/2 leg     | Islandwalk -- When deals damage: seach player's lib for an art, exile it, until eot u may cast it                                                                            |
-| 1 | Erata, the Silencer        | 2UB   | 3/5         | Unblockable.  When deals combat damage: exile tgt creat and put hit counter on card. That player loose the game if he owns 3 exiled cards with hit counter. Shuffle ~ in lib |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Ninja Maker 1*            |       |             |                                                                                                                                                                              |
-| 1 | Amoeboid Changeling        | 1U    | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Top lib setup 7*          |       |             |                                                                                                                                                                              |
-| 1 | Preordain                  | U     | sorc        | Scry 2, the draw                                                                                                                                                             |
-| 1 | Ponder                     | U     | sorc        | Look top 3, put back any order.  You may shuffle lib then draw.                                                                                                              |
-| 1 | Brainstorm                 | U     | inst        | Draw 3, then put 2 from hand back on top of lib                                                                                                                              |
-| 1 | Mystical Tutor             | U     | inst        | Search lib for a inst or sorc, reveal it, and put it on top of lib                                                                                                           |
-| 1 | Vampiric Tutor             | B     | inst        | Pay 2 life, search lib for a card, put it on top of lib                                                                                                                      |
-| 1 | Lim-Dul's Vault            | UB    | inst        | Look at top 5 cards of lib. {You may: pay 1 and put them at bottom of lib, the look top 5 again} then  Shuffle lib and put the cards on top in any order                     |
-| 1 | Crystal Ball               | 3     | art         | 1, t: scry 2.                                                                                                                                                                |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Search Toolbox 1*         |       |             |                                                                                                                                                                              |
-| 1 | Demonic Tutor              | 1B    | sorc        | Search lib for a card, put it into hand                                                                                                                                      |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Counterspells 5*          |       |             |                                                                                                                                                                              |
-| 1 | Swan Song                  | U     | inst        | Counter tgt ench, inst or sorc spell -- Its controller gets a 2/2 blue bird w/ flying                                                                                        |
-| 1 | Counter spell              | UU    | inst        | Counter tgt spell                                                                                                                                                            |
-| 1 | Admiral's Order            | 1UU   | inst        | Raid: cost U instead if u attacked with a creat -- Counter tgt spell                                                                                                         |
-| 1 | Dream Fracture             | 1UU   | inst        | Counter tgt spell, its controller and you draw a card                                                                                                                        |
-| 1 | Cryptic Command            | 1UUU  | inst        | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                                                                       |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Board cleaner 4*          |       |             |                                                                                                                                                                              |
-| 1 | Cyclonic Rift              | 1U    | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                |
-| 1 | Damnation                  | 2UU   | sorc        | Destroy all creats, they can't be regenerated                                                                                                                                |
-| 1 | Evacuation                 | 3UU   | inst        | Return all creats to their owner's hand                                                                                                                                      |
-| 1 | Devastation Tide           | 3UU   | sorc        | Miracle 1U -- Return all non land perm to owners' hands                                                                                                                      |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Utilities 4*              |       |             |                                                                                                                                                                              |
-| 1 | Bitterblossom              | 1B    | ench        | Beg upk: loose 1 life and put a 1/1 faery rogue w/ flying into play                                                                                                          |
-| 1 | Mission Briefing           | UU    | inst        | Surveil 2, then choose inst or sorc in graveyard.  You may cast it this turn then exile it                                                                                   |
-| 1 | Cloudstone Curio           | 3     | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
-| 1 | Thassa, God of the Sea     | 2U    | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                          |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *High CMC 8*               |       |             |                                                                                                                                                                              |
-| 1 | Misdirection               | 3UU   | inst        | You may exile a blue card from hand instead of paying its mana cost -- Change tgt of spell with a single target                                                              |
-| 1 | AEthersnipe                | 5U    | 4/4         | Evoke 1UU -- When enters: return tgt non land perm to its owner's hand                                                                                                       |
-| 1 | Yela the Night-Clad        | 4UB   | 4/4 leg     | Intimidate -- Creats u control have intimidate.   When ~ or another creats leave: each opp looses 1 life                                                                     |
-| ? | Spinal Embrace             | 3UUB  | inst        | Cast only during combat -- Untap tgt creat u dont control and gain control of it. Gain haste - At the beg of next end step, sacr it and gain life eq to its toughness        |
-| 1 | Time Stop                  | 4UU   | inst        | End the turn                                                                                                                                                                 |
-| 1 | Temporal Mastery           | 5UU   | sorc        | Miracle 1U -- Take an extra turn                                                                                                                                             |
-| 1 | Dig Through Time           | 6UU   | inst        | Delve -- Loop top 7 cards of lib, put 2 in hand, rest at the bottom                                                                                                          |
-| 1 | Beacon of Tomorrows        | 6UU   | sorc        | Tgt player takes an extra turn.  Shuffle ~ to lib                                                                                                                            |
-|   |                            |       |             |                                                                                                                                                                              |
-|   | *Land 36*                  |       |             |                                                                                                                                                                              |
-| 1 | Polluted Delta             |       | land        | t, pay 1: search lib for a island or a swamp                                                                                                                                 |
-| 1 | Terramorphic Expanse       |       | land        | t: sacr it; search lib for basic land put into play tapped                                                                                                                   |
-| 1 | Command Tower              |       | land        | t: add one mana of any color in your commander's color identity                                                                                                              |
-| 1 | Lonely Sandbar             |       | land        | Cycling U -- Enters tapped -- t: add U                                                                                                                                       |
-| 1 | Barren Moor                |       | land        | Cycling B -- Enters tapped -- t: add B                                                                                                                                       |
-| 1 | Bojuka Bog                 |       | land        | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                                       |
-| 1 | Halimar Depths             |       | land        | Enters tapped -- When enters: reorder top 3 cards of lib -- t: add U                                                                                                         |
-| 1 | Watery Grave               |       | land        | Enters tapped unless u pay 2 life -- t: add U or B                                                                                                                           |
-| 1 | Drowned Catacomb           |       | land        | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                         |
-| 1 | Darkslick Shores           |       | land        | Enters tapped unless u control 2 or less other lands -- t: add U or B                                                                                                        |
-| 1 | Dimir Guildgate            |       | land        | Enters tapped -- t: U or B                                                                                                                                                   |
-| 1 | Dismal Backwater           |       | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                   |
-| 1 | Jwar Isle Refuge           |       | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                   |
-| 1 | Dimir Aqueduct             |       | land        | Enters tapped -- When enters: return a land u control to owner's hand -- t: add UB                                                                                           |
-| 1 | Sunken Ruins               |       | land        | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                                                      |
-| 1 | Strip Mine                 |       | land        | t: add 1 -- t, sacr it: destroy tgt land                                                                                                                                     |
-| 1 | Tectonite Edge             |       | land        | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                                                         |
-| 1 | Inkmoth Nexus              |       | land        | t: add 1 -- 1: becomes a 1/1 flying infect                                                                                                                                   |
-| 1 | Creeping Tar Pit           |       | land        | Enters tapped -- t: add U or B -- 1UB: becomes a 3/2 unblockable blue black elemental until eot                                                                              |
-| 1 | Mutavault                  |       | land        | t: add 1 colorless -- 1: becomes a 2/2 'changeling' creature until eot                                                                                                       |
-| 8 | Island                     |       | bas land    |                                                                                                                                                                              |
-| 8 | Swamp                      |       | bas land    |                                                                                                                                                                              |
+|   | *Commander*                |              |             |                                                                                                                                                                              |
+| 1 | Yuriko, the Tiger's Shadow | 1UB          | 1/3         | Commander Ninjutsu UB -- When a ninja deals combat damage, reveal top lib, put it hand, opps loose life eq to its CMC                                                        |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Ramp 5*                   |              |             |                                                                                                                                                                              |
+| 1 | Sol Ring                   | 1            | art         | t: add 2 to mana pool                                                                                                                                                        |
+| 1 | Dimir Signet               | 2            | art         | 1, t: add UB to mana pool                                                                                                                                                    |
+| 1 | Darksteel Ingot            | 3            | art         | Indestructible -- t: add 1 mana any color to mana pool                                                                                                                       |
+| 1 | Dimir Locket               | 3            | art         | t: add U or B -- {bu}x3, sacr it: draw 2 cards                                                                                                                               |
+| 1 | Dimir Keyrune              | 3            | art         | t: add U or B -- UB: becomes a 2/2 blue/black w/ unblockable                                                                                                                 |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Equipment 1*              |              |             |                                                                                                                                                                              |
+| 1 | Lightning Greaves          | 2            | eqp 0       | Eqp creat gets shroud and haste                                                                                                                                              |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Ninja 10*                 |              |             |                                                                                                                                                                              |
+| 1 | Skullsnatcher              | 1B           | 2/1         | Ninjutsu B -- When deals combat damage to player: exile up to 2 cards from that player's graveyard                                                                           |
+| 1 | Mistblade Shinobi          | 2U           | 1/1         | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                                                                |
+| 1 | Walker of Secret Ways      | 2U           | 1/2         | Ninjutsu 1U -- When deals combat damage to player: look at player's hand. -- 1U: Return tgt ninja u control to hand (during ur turn only)                                    |
+| 1 | Ninja of the Deep Hours    | 3U           | 2/2         | Ninjutsu 1U -- When deals combat damage to player: draw a card                                                                                                               |
+| 1 | Throat Slitter             | 4B           | 2/2         | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                                                       |
+| 1 | Sakashima's Student        | 2UU          | 0/0         | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                                                             |
+| 1 | Okiba-Gang Shinobi         | 3BB          | 3/2         | Ninjutsu 3B -- When deals combat damage to player: that player discards 2 cards                                                                                              |
+| 1 | Higure, the Still Wind     | 3UU          | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
+| 1 | Ink-Eyes, Servant of Oni   | 4BB          | 5/4 leg     | Ninjutsu 3BB -- When deals combat damage to player: put tgt creat from that player grave to play under ur control -- 1B: regenerate                                          |
+| 1 | Silent-Blade Oni           | 3UUBB        | 6/5         | Ninjutsu 4UB -- When deals combat damage to player: look at player's hand.  You may cast a non land card w/o paying its mana cost                                            |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Planeswalker 1*           |              |             |                                                                                                                                                                              |
+| 1 | Jace the Mind Sculptor     | 2UU          | plwkr 3     | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                                                       |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Sneaker 16*               |              |             |                                                                                                                                                                              |
+| 0 | Ornithopter                | 0            | 0/2 fly     |                                                                                                                                                                              |
+| 1 | Tormented Soul             | B            | 1/1         | Can't blocked and is unblockable                                                                                                                                             |
+| 1 | Merfolk Spy                | U            | 1/1         | Islandwalk -- When deals damage: opp reveals a random card from its hand                                                                                                     |
+| 1 | Cloud Sprite               | U            | 1/1 fly     | Can only block creat w/ flying                                                                                                                                               |
+| 1 | Jace's Phantasm            | U            | 1/1 fly     | Get +4/+4 if an opponent has 10 or more cards in his graveyard                                                                                                               |
+| 1 | Inkfathom Witch            | 1{ub}        | 1/1         | Fear -- 2UB: each unblockable creats becomes 4/1 until eot                                                                                                                   |
+| 1 | Spellstutter Sprite        | 1U           | 1/1 fly     | Flash -- When enter: counter tgt spell w/ CMC <=X where X is # faeries you control                                                                                           |
+| 1 | Invisible Stalker          | 1U           | 1/1         | Hexproof -- Unblockable                                                                                                                                                      |
+| 1 | Augury Owl                 | 1U           | 1/1 fly     | When enters: scry 3                                                                                                                                                          |
+| 1 | AEther figment             | 1U           | 1/1         | Kicker 3 -- Can't be blocked -- If kicked: enters with 2 +1c                                                                                                                 |
+| + | Snapcaster Mage            | 1U           | 2/1         | Flash -- When enter: tgt instant or sorc spell in ur graveyard, gain flash                                                                                                   |
+| 1 | Dimir Infiltrator          | UB           | 1/3         | Transmute 1UB -- Unblockable                                                                                                                                                 |
+| 1 | Baleful Strix              | UB           | 1/1 fly     | Deathtouch -- When enters: draw a card                                                                                                                                       |
+| 1 | Neurok Invisimancer        | 1UU          | 2/1         | Unblockable -- When enters: another tgt creat is unblockable this turn                                                                                                       |
+| 1 | Vendilion Clique           | 1UU          | 3/1 leg fly | Flash --  When enter battlefield: look at player's hand, may choose a non land card, player reveal it and put it on bottom of its library                                    |
+| - | Thada Adel, Acquisitor     | 1UU          | 2/2 leg     | Islandwalk -- When deals damage: seach player's lib for an art, exile it, until eot u may cast it                                                                            |
+| 1 | Erata, the Silencer        | 2UB          | 3/5         | Unblockable.  When deals combat damage: exile tgt creat and put hit counter on card. That player loose the game if he owns 3 exiled cards with hit counter. Shuffle ~ in lib |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Ninja Maker 1*            |              |             |                                                                                                                                                                              |
+| 1 | Amoeboid Changeling        | 1U           | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Top lib setup 7*          |              |             |                                                                                                                                                                              |
+| 1 | Preordain                  | U            | sorc        | Scry 2, the draw                                                                                                                                                             |
+| 1 | Ponder                     | U            | sorc        | Look top 3, put back any order.  You may shuffle lib then draw.                                                                                                              |
+| 1 | Brainstorm                 | U            | inst        | Draw 3, then put 2 from hand back on top of lib                                                                                                                              |
+| 1 | Mystical Tutor             | U            | inst        | Search lib for a inst or sorc, reveal it, and put it on top of lib                                                                                                           |
+| 1 | Vampiric Tutor             | B            | inst        | Pay 2 life, search lib for a card, put it on top of lib                                                                                                                      |
+| 1 | Lim-Dul's Vault            | UB           | inst        | Look at top 5 cards of lib. {You may: pay 1 and put them at bottom of lib, the look top 5 again} then  Shuffle lib and put the cards on top in any order                     |
+| 1 | Crystal Ball               | 3            | art         | 1, t: scry 2.                                                                                                                                                                |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Search Toolbox 1*         |              |             |                                                                                                                                                                              |
+| 1 | Demonic Tutor              | 1B           | sorc        | Search lib for a card, put it into hand                                                                                                                                      |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Counterspells 5*          |              |             |                                                                                                                                                                              |
+| 1 | Swan Song                  | U            | inst        | Counter tgt ench, inst or sorc spell -- Its controller gets a 2/2 blue bird w/ flying                                                                                        |
+| 1 | Counter spell              | UU           | inst        | Counter tgt spell                                                                                                                                                            |
+| 1 | Admiral's Order            | 1UU          | inst        | Raid: cost U instead if u attacked with a creat -- Counter tgt spell                                                                                                         |
+| 1 | Dream Fracture             | 1UU          | inst        | Counter tgt spell, its controller and you draw a card                                                                                                                        |
+| 1 | Cryptic Command            | 1UUU         | inst        | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                                                                       |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Board cleaner 4*          |              |             |                                                                                                                                                                              |
+| 1 | Cyclonic Rift              | 1U           | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                |
+| 1 | Damnation                  | 2UU          | sorc        | Destroy all creats, they can't be regenerated                                                                                                                                |
+| 1 | Evacuation                 | 3UU          | inst        | Return all creats to their owner's hand                                                                                                                                      |
+| - | Devastation Tide           | 3UU          | sorc        | Miracle 1U -- Return all non land perm to owners' hands                                                                                                                      |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Utilities 4*              |              |             |                                                                                                                                                                              |
+| 1 | Bitterblossom              | 1B           | ench        | Beg upk: loose 1 life and put a 1/1 faery rogue w/ flying into play                                                                                                          |
+| 1 | Mission Briefing           | UU           | inst        | Surveil 2, then choose inst or sorc in graveyard.  You may cast it this turn then exile it                                                                                   |
+| 1 | Cloudstone Curio           | 3            | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
+| 1 | Thassa, God of the Sea     | 2U           | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                          |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *High CMC 8*               |              |             |                                                                                                                                                                              |
+| 1 | Misdirection               | 3UU          | inst        | You may exile a blue card from hand instead of paying its mana cost -- Change tgt of spell with a single target                                                              |
+| 1 | AEthersnipe                | 5U           | 4/4         | Evoke 1UU -- When enters: return tgt non land perm to its owner's hand                                                                                                       |
+| 1 | Yela the Night-Clad        | 4UB          | 4/4 leg     | Intimidate -- Creats u control have intimidate.   When ~ or another creats leave: each opp looses 1 life                                                                     |
+| ? | Spinal Embrace             | 3UUB         | inst        | Cast only during combat -- Untap tgt creat u dont control and gain control of it. Gain haste - At the beg of next end step, sacr it and gain life eq to its toughness        |
+| - | Time Stop                  | 4UU          | inst        | End the turn                                                                                                                                                                 |
+| + | Coastal Breach             | 6U           | sorc        | Undaunted (cost 1 less for each opp) -- Return all non land perm to owner's hand                                                                                             |
+| + | Commit // Memory           | 3U           | inst / sorc | Aftermath 4UU - Put tgt spell or nonland perm second from the top of owner's lib // Each play shuffles hand and graveyard to lib and draws 7                                 |
+| 1 | Temporal Mastery           | 5UU          | sorc        | Miracle 1U -- Take an extra turn                                                                                                                                             |
+| 1 | Dig Through Time           | 6UU          | inst        | Delve -- Loop top 7 cards of lib, put 2 in hand, rest at the bottom                                                                                                          |
+| 1 | Beacon of Tomorrows        | 6UU          | sorc        | Tgt player takes an extra turn.  Shuffle ~ to lib                                                                                                                            |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | *Land 36*                  |              |             |                                                                                                                                                                              |
+| 1 | Polluted Delta             |              | land        | t, pay 1: search lib for a island or a swamp                                                                                                                                 |
+| 1 | Terramorphic Expanse       |              | land        | t: sacr it; search lib for basic land put into play tapped                                                                                                                   |
+| 1 | Command Tower              |              | land        | t: add one mana of any color in your commander's color identity                                                                                                              |
+| 1 | Lonely Sandbar             |              | land        | Cycling U -- Enters tapped -- t: add U                                                                                                                                       |
+| 1 | Barren Moor                |              | land        | Cycling B -- Enters tapped -- t: add B                                                                                                                                       |
+| 1 | Bojuka Bog                 |              | land        | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                                       |
+| 1 | Halimar Depths             |              | land        | Enters tapped -- When enters: reorder top 3 cards of lib -- t: add U                                                                                                         |
+| 1 | Watery Grave               |              | land        | Enters tapped unless u pay 2 life -- t: add U or B                                                                                                                           |
+| 1 | Drowned Catacomb           |              | land        | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                         |
+| 1 | Darkslick Shores           |              | land        | Enters tapped unless u control 2 or less other lands -- t: add U or B                                                                                                        |
+| 1 | Dimir Guildgate            |              | land        | Enters tapped -- t: U or B                                                                                                                                                   |
+| 1 | Dismal Backwater           |              | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                   |
+| 1 | Jwar Isle Refuge           |              | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                   |
+| 1 | Dimir Aqueduct             |              | land        | Enters tapped -- When enters: return a land u control to owner's hand -- t: add UB                                                                                           |
+| 1 | Sunken Ruins               |              | land        | t: add 1 -- {bu}, t: add BB or UU or BU                                                                                                                                      |
+| 1 | Strip Mine                 |              | land        | t: add 1 -- t, sacr it: destroy tgt land                                                                                                                                     |
+| 1 | Tectonite Edge             |              | land        | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                                                         |
+| 1 | Inkmoth Nexus              |              | land        | t: add 1 -- 1: becomes a 1/1 flying infect                                                                                                                                   |
+| 1 | Creeping Tar Pit           |              | land        | Enters tapped -- t: add U or B -- 1UB: becomes a 3/2 unblockable blue black elemental until eot                                                                              |
+| 1 | Mutavault                  |              | land        | t: add 1 colorless -- 1: becomes a 2/2 'changeling' creature until eot                                                                                                       |
+| 8 | Island                     |              | bas land    |                                                                                                                                                                              |
+| 8 | Swamp                      |              | bas land    |                                                                                                                                                                              |
+|---+----------------------------+--------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *To be added*              |              |             |                                                                                                                                                                              |
+|   |                            |              |             |                                                                                                                                                                              |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Force of Will              | 3UU          | inst        | You may pay 1 life and exile one blue card from hand instead of paying its mana cost -- Counter tgt spell                                                                    |
+|   | Propaganda                 | 2U           | ench        | Creats can't attack u unless its controller pays 2 for each attacking creatures                                                                                              |
+|   | Equilibrium                | 1UU          | ench        | Whenever u cast a creat, you may pay 1, if so, return tgt creats to its owner's hand                                                                                         |
+|   | Wipe Away                  | 1UU          | inst        | Split second -- Return tgt perm to its owner's hand                                                                                                                          |
+|   | Meekstone                  | 1            | art         | Creats with power 3+ don't untap during their controller untap step                                                                                                          |
+|   | Hypnotic Siren             | U            | 1/1 fly     | Bestow 5UU -- You control enchanted creature, it gets +1/+1 and flying                                                                                                       |
+|   | Tetsuko Umezawa, Fugitive  | 1U           | 1/3 leg     | Creats w/ power 1 or less can't be blocked                                                                                                                                   |
+|   | Siren Stormtamer           | U            | 1/1 fly     | U, sacr it: counter tgt spell or ability that tgt u or a creat u control                                                                                                     |
+|   | Curse of the cabal         | 9B           | sorc        | Suspend 2: 2BB -- Tgt player sacrifices half of the perm they control rounded down -- At beg each player upk: that play may sacr a perm, if so, put 2 counter on ~           |
+|   | Triton Shorestalker        | U            | 1/1         | Can't be blocked                                                                                                                                                             |
+|   | Slither Blade              | U            | 1/2         | Can't be blocked                                                                                                                                                             |
+|   | As Foretold                | 2U           | ench        | Beg up: put a time counter on ~ -- Each turn: you may pay 0 rather than paying the manage cost of spell u cast w/ cmc x or less where x is # time counter                    |
+|   | Dismember                  | 1bb          | inst        | Tgt creat gets -5/-5                                                                                                                                                         |
+|   | Commandeer                 | 5UU          | inst        | You may exile two blue cards instead of paying its mana cost.  Gain control of tgt non creat spell, you may choose new tgts for it                                           |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Arcane Adaptation          | 2U           | ench        | When enters: choose a creat type.  Creat perm, creat spells, and creat cards are of the choosen type                                                                         |
+|   | Xenograft                  | 4U           | ench        | When enters: choose a creat type.  Creat u control are of the choosen type in addition of their type                                                                         |
+|   | Conspiracy                 | 3BB          | ench        | When enters: choose a creat type.  Creat perm, creat spells, and creat cards are of the choosen type                                                                         |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Snuff Out                  | 3B           | inst        | If you control a swamp, you may pay 4 life instead of its cost.  Destroy tgt non black creat.                                                                                |
+|   | Disallow                   | 1UU          | inst        | Counter tgt spell, activated or triggered ability                                                                                                                            |
+|   | Gurmag Swiftwing           | 1B           | 1/2 fly     | First strike, haste                                                                                                                                                          |
+|   | Reckless Imp               | 2B           | 2/2 fly     | Dash 1B -- Can't block                                                                                                                                                       |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Treasure Cruise            | 7U           | sorc        | Delve -- Draw three cards.                                                                                                                                                   |
+|   | Hero's downfall            | 1BB          | inst        | Destroy tgt creature or planeswalker                                                                                                                                         |
+|   | Murderous Cut              | 4B           | inst        | Delve -- Destroy tgt creature                                                                                                                                                |
+|   | Rags // Riches             | 2UU          | sorc        | Aftermath 5UU - All creats gets -2/-2 until eot // Each opp chooses a creat he or she control, you gain control of these.                                                    |
+|   | Discovery // Dispersal     | 1{ub} // 3UB | sorc / inst | Surveil 2, then draw a card. // Each opp returns a non land perm w/ higher CMC to hand then discard a card                                                                   |
+|   | Toxix Deluge               | 2B           | sorc        | Add cost: pay X life - All creats gets -X/-X until eot                                                                                                                       |
+|   | Serum Vision               | U            | sorc        | Draw a card then scry 2.                                                                                                                                                     |
+|   | Decree of Pain             | 6BB          | sorc        | Destroy all creats, they can't be regen -- Cycling: 3BB -- When u cycle ~: all creats gets -2/-2                                                                             |
+|   | Spellseeker                | 2U           | 1/1         | When enters: search lib for a inst or sorc with CMC 2 or less and put it into hand                                                                                           |
+|   | Soothsaying                | U            | ench        | 3UU: shuffle lib -- X: look at top X card, then put them back in any order                                                                                                   |
+|   | Shizo, Death's Storehouse  |              | leg land    | t: add B -- B, t: tgt leg creat gains fear until eot.                                                                                                                        |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Mox Amber                  | 0            | leg art     | t: Add one mana any color amongst leg creat and planeswalker u control                                                                                                       |
+|---+----------------------------+--------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Other possible choices*   |              |             |                                                                                                                                                                              |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Bident of Thassa           | 2UU          | leg art     | Whenever a creat u control deals combat to a player u may draw a card -- 1U, t: Creats u opp controls attack this turn if able                                               |
+|   | Commander's Sphere         | 3            | art         | t: add one mana of any of your commander's color identity -- Sacr ~: draw a card                                                                                             |
+|   | Reality Shift              | 1U           | inst        | Exile tgt creature, its controller manifest the top of his lib.                                                                                                              |
+|   | Murder                     | 1BB          | inst        | Destroy tgt creature                                                                                                                                                         |
+|   | Temporal Trespass          | 8UUU         | sorc        | Delve -- Take an extra turn. Exile ~                                                                                                                                         |
+|   | Diabolic Intent            | 1B           | sorc        | Add cost: sacr a creatr -- Search for a card and put it in ur hand                                                                                                           |
+|---+----------------------------+--------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Too Expensive*            |              |             |                                                                                                                                                                              |
+|   |                            |              |             |                                                                                                                                                                              |
+|   | Imperial Seal              | B            | sorc        | Search lib for a card, and put it on top of deck. You loose 2 life                                                                                                           |
+|   | Personal Tutor             | U            | sorc        | Search your deck for an inst or sorc, reveal it, put it on top of the deck                                                                                                   |
+|   |                            |              |             |                                                                                                                                                                              |
 
-
-To be added:
-- Force of Will
-- Propaganda
-- Equilibrium
-- Meekstone
-- Hypnotic Siren
-- Tetsuko Umezawa, Fugitive
-- Siren Stormtamer
-- Thalakos Seer
-- Snapcaster Mage
-
-- Curse of the Cabal
-- Triton Shorestalker
-- Slither Blade
-[- Imperial Seal]
-[- Personal Tutor]
-
-- As foretold
-- Dismember
-- Commandeer
-
-- Arcane Adaptation
-- Xenograft
-- Conspiracy
-- Snuff Out
-- Disallow
-
-- Gurmag Swiftwing
-- Reckless Imp
-
-
-- Bident of Thassa ?
-- Commander Sphere?
-
-- Commit // Memory
-- Treasure Cruise
-- Reality Shift?
-
-- Murder?
-- Hero's Downfall
-- Murderous Cut?
-- Temporal Trespass ?
-- Rags // Riches
-- Discovery // Dispersal
-
-- Toxic Deluge
-- Serum Vision
-- Decree of Pain
-
-- Spellseeker?
-- Soothsaying
-
-- Shizo, Death's Storehouse
-
-- Mox Amber?
-- Diabolic Intent?
 
 v1.0 -> v1.1:
 -------------
 - Devastation Tide
+- Time Stop
+- Thada Adel, Acquisitor
 + Coastal Breach
++ Commit // Memory
++ Snapcaster
+
+
++ Thalakos Seer
+
+
 
 + Discovery // Dispersal
-+ Commit // Memory
 + Connive // Concoct
 + Nightveil Sprite
-
 + Snapcaster Mage
 + Force of Will
 + Equilibrium
