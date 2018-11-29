@@ -2,8 +2,8 @@ Rhys the Redeemed v1.8
 [sleeved v1.8]
 
 - Finding:
-. doubling season
-. the phase out spell from C18
+. Doubling Season
+. Teferi's Protection (really good, but expensive...)
 
 |    | *Commander*                |               |          |                                                                                                                                                                                                            |
 |  1 | Rhys the Redeemed          | {gw}          | 1/1      | 2{gw}, t: put a 1/1 elf warrior token into play -- 4{gw}{gw}, t: for each creat token u control, make a copy of that creat                                                                                 |
@@ -174,6 +174,33 @@ Rhys the Redeemed v1.8
 |    |                            |               |          |                                                                                                                                                                                                            |
 
 
+Toward v1.9:
+------------
+More mass indestructible spells?
+Also: Acidic Slime?
+Considering removing:
+- Wilt-Leaf Liege -- He doesn't create token, the +2/+2 is nice, but I have many other way to beef the creatures.... No need for this one.
+
+Other card to add:
++1 Triumph of the Hordes
++1 Skullclamp ??
+
+
+Version v1.8:
+-------------
+Played FFA 5 players game.
+The indestructible spells were so good.
+I think the deck could use some more.
+Glare of Subdual is pretty neat! No complain's here; with a lot of token you can prevent any attacks.
+Also: Divine Visitation is brutal.
+
+I did miss Acidic Slime... 
+The reason being: being able to search a creature to destroy an artifact or enchantment is really good.
+
+I'm considering putting it back for v1.9...
+I just don't know what to remove for it.
+
+
 v1.7 -> v1.8:
 -------------
 -1 Green Sun's Zenith
@@ -198,13 +225,6 @@ v1.7 -> v1.8:
 +1 Eldrazi Monument
 -1 Trostani's Summoner
 +1 Luminarch Ascension
-
-
-Other card to add:
-+1 Triumph of the Hordes
-+1 Skullclamp ??
-
-
 
 
 v1.6 -> v1.7:
