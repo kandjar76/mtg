@@ -1,6 +1,34 @@
+Yahenni, undying partisan
+Anointed Procession
+Paradox Engine
+Torment of Hailfire
+Exsanguinate
+Spell Swindle
+Mystic Confluence
+Grip of Phyresis
+Paradox Engine
+Anointed Procession
+The Immortal Sun
+
+History of Benalia
+
+
+
 52.27
 
 - Clever Impersonator x4
+
+
+Currently missing:
+------------------
+1 Sylvan Library
+
+1 Athreos, God of Passage
+
+1 Omnath, Locus of Rage
+2 Research // Development
+
+? Eladamri's call
 
 
 
