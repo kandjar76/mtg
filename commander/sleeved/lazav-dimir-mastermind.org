@@ -1,5 +1,5 @@
-Lazav, Dimir Mastermind v1.9
-[sleeved: v1.9]
+Lazav, Dimir Mastermind v2.0
+[sleeved: v2.0]
 
 Missing:
 - Cabal Coffer
@@ -8,8 +8,7 @@ Missing:
 |   | *Commander*                |         |             |                                                                                                                                                                                       |
 | 1 | Lazav, Dimir Mastermind    | UUBB    | 3/3 hex     | Whenever a creat is put to an opp graveyard from anywhere, ~ may becomes a copy of it, if so: he keeps: this ab, his name, hexproof, and the leg clause                               |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Planeswalkers 2*          |         |             |                                                                                                                                                                                       |
-| 1 | Liliana of the Dark Realms | 2BB     | plwkr 3     | +1: search ur lib for a swamp and put it in hand -- -3: tgt creat gets +X/+X or -X/-X where X is #swamp u control -- -6: emblem: "each swamp has: t, add: BBBB"                       |
+|   | *Planeswalkers 1*          |         |             |                                                                                                                                                                                       |
 | 1 | Jace, Memory Adept         | 3UU     | plwkr 4     | +1 Draw, mill 1 -- 0: Mill 10 -- -7 Any number of players draw 20 cards                                                                                                               |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | *Mana Ramp 8*              |         |             |                                                                                                                                                                                       |
@@ -27,19 +26,20 @@ Missing:
 | 1 | Phyrexian Arena            | 1BB     | ench        | At beg of your upk, you loose a life and draw 1 card                                                                                                                                  |
 | 1 | Underworld Connections     | 1BB     | aura        | Ench land -- land gets: "t, pay 1 life: draw a card"                                                                                                                                  |
 | 1 | Notion Thief               | 2UB     | 3/1         | Flash -- Whenever an opp draw (except the one from his normal draw step), he skips that draw and instead you draw                                                                     |
-| 1 | Jace's Ingenuity           | 3UU     | inst        | Draw 3 cards                                                                                                                                                                          |
 | 1 | Consecrated Sphinx         | 4UU     | 4/6 fly     | When an opp draw: u may draw 2 cards                                                                                                                                                  |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Mill Helpers 11*          |         |             |                                                                                                                                                                                       |
+|   | *Mill Helpers 13*          |         |             |                                                                                                                                                                                       |
+| 1 | Bloodchief Ascension       | B       | ench        | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard                                           |
 | 1 | Mindcrank                  | 2       | art         | When opp loose life, he put that many cards from top of lib to his or her graveyard                                                                                                   |
 | 1 | Glimpse the Unthinkable    | UB      | sorc        | Tgt players mills 10                                                                                                                                                                  |
 | 1 | Dimir Charm                | UB      | inst        | Choos one: Counter tgt spell OR Destroy tgt creat w/ pow 2 or less OR Look top 3 card of tgt opp's lib, put one back, rest in the graveyard                                           |
+| 1 | Riddlekeeper               | 2U      | 1/4         | Whenever a creat attack u or a planeswalker u controller, its controllers mills 2.                                                                                                    |
 | 1 | Thief of Sanity            | 1UB     | 2/2 fly     | When deals damage to a player, look at top 3 cards of his lib, put to in grave, exile 1, you may cast as long as it remain exiled.                                                    |
 | 1 | Mind Grind                 | xUB     | sorc        | Each opp reveals top cards until they reveal X lands, then put the revealed cards in their graveyards                                                                                 |
-| 1 | Sands of Delirium          | 3       | art         | x, t: tgt players mill X.                                                                                                                                                             |
 | 1 | Mind Funeral               | 1UB     | sorc        | Tgt opp reveals top cards until he reveals 4 lands, then put the revealed cards in the graveyard                                                                                      |
 | 1 | Traumatize                 | 3UU     | sorc        | Tgt player mill half of his library rounded down                                                                                                                                      |
 | 1 | Consuming Aberration       | 3UB     | */*         | Pow/Tough equals to #cards in all opp's graveyards.  When u cast a spell, each opp reveal top card until he revelas a land, put them in the graveyard                                 |
+| 1 | Patient Rebuilding         | 3UU     | ench        | At beg of ur upk, tgt opp mills 3; draw a card for each land mills this way                                                                                                           |
 | 1 | Archive Trap               | 3UU     | isnt trap   | Cost 0 if opp search his lib this turn -- Tgt opp put the top 13 cards from his lib to his graveyard                                                                                  |
 | 1 | Phenax, God of Deception   | 3UB     | 4/7 leg     | Indestructible -- Creature if dev is 7+ -- Creats u control gains: "t: tgt player put top X card from lib to grave where X is ~ toughness"                                            |
 |   |                            |         |             |                                                                                                                                                                                       |
@@ -47,9 +47,8 @@ Missing:
 | 1 | Lightning Greaves          | 2       | eqp 0       | Eqp creat gets shroud and haste                                                                                                                                                       |
 | 1 | Sword of Body and Mind     | 3       | eqp 2       | Eqp creat has +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and defending player put top 10 card from lib to graveyaard                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Search Box 3*             |         |             |                                                                                                                                                                                       |
+|   | *Search Box 2*             |         |             |                                                                                                                                                                                       |
 | 1 | Demonic Tutor              | 1B      | sorc        | Search your lib for a card and put it in your hand                                                                                                                                    |
-| 1 | Beseech the Queen          | {bp}x3  | sorc        | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                                       |
 | 1 | Rune-Scarred Demon         | 5BB     | 6/6 fly     | When enters, search your lib for a card and put it in your hand                                                                                                                       |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | *Graveyard playground 10*  |         |             |                                                                                                                                                                                       |
@@ -64,25 +63,26 @@ Missing:
 | 1 | Sepulchral Primordial      | 5BB     | 5/4 int     | When enter, for each opp, put a creature card from their graveyard into play under your control                                                                                       |
 | 1 | Sheoldred, Whispering One  | 5BB     | 6/6         | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                                             |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Counter spells 6*         |         |             |                                                                                                                                                                                       |
+|   | *Counter spells 7*         |         |             |                                                                                                                                                                                       |
 | 1 | Counterspell               | UU      | inst        | Counter target spell                                                                                                                                                                  |
 | 1 | Psychic Strike             | 1UB     | inst        | Counter tgt spell, its controller mills 2                                                                                                                                             |
 | 1 | Thought Collapse           | 1UU     | inst        | Counter tgt spell, its controller mills 3                                                                                                                                             |
-| 1 | Hinder                     | 1UU     | inst        | Counter tgt spell, if so: put that card on top or bottom of its owner's library instead of the graveyard                                                                              |
+| 1 | Sinister Sabotage          | 1UU     | inst        | Counter tgt spell, surveil 1                                                                                                                                                          |
 | 1 | Dissipate                  | 1UU     | inst        | Counter tgt spell, exile it if countered                                                                                                                                              |
 | 1 | Cryptic Command            | 1UUU    | inst        | Choose 2: counter tgt spell OR return tgt perm to its owner's hand OR tap all creats your opps control OR draw a card                                                                 |
+| 1 | Mystic Confluence          | 3UU     | inst        | Choose 3: Counter tgt spell unless its controller pays 3 OR return tgt creat to its owners's hand OR draw a card                                                                      |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | *Copy spells 3*            |         |             |                                                                                                                                                                                       |
-| 1 | Phantasmal Image           | 1U      | 0/0         | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                                                                  |
 | 1 | Evil Twin                  | 2UB     | 0/0         | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                                              |
 | 1 | Clever Impersonator        | 2UU     | 0/0         | You may have ~ enters as a copy of any non land permanent on the battlefield                                                                                                          |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Board sweep spells 7*     |         |             |                                                                                                                                                                                       |
+|   | *Board sweep spells 8*     |         |             |                                                                                                                                                                                       |
 | 1 | Cyclonic Rift              | 1U      | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                         |
 | 1 | Black Sun's Zenith         | xBB     | sorc        | Each creatures gets X -1/-1 counter on it, shuffle ~ to the library                                                                                                                   |
 | 1 | AEtherize                  | 3U      | inst        | Return all attacking creats to their owner's hand                                                                                                                                     |
 | 1 | Damnation                  | 2BB     | sorc        | Destroy all creatures, they can't be regenerated                                                                                                                                      |
 | 1 | Consume the Meek           | 3BB     | inst        | Destroy all creatures with CMC 3 or less -- They can't be regen                                                                                                                       |
+| 1 | Nevinyrral's Disk          | 4       | art         | Enters tapped -- 1, t: destroy all art, creats and enchantments                                                                                                                       |
 | 1 | Life's Finale              | 4BB     | sorc        | Destroy all creatures, search for tgt players library for 3 creatures and put them into its graveyard                                                                                 |
 | 1 | Decree of Pain             | 6BB     | sorc        | Destroy all creats, they can't be regen -- Cycling: 3BB -- When u cycle ~: all creats gets -2/-2                                                                                      |
 |   |                            |         |             |                                                                                                                                                                                       |
@@ -91,7 +91,7 @@ Missing:
 | 1 | Hero's Downfall            | 1BB     | inst        | Destroy tgt creat or planeswalker                                                                                                                                                     |
 | 1 | Far // Away                | 1U / 2B | inst / inst | Ret tgt creat to owner's hand -- Tgt player sac a creature                                                                                                                            |
 |   |                            |         |             |                                                                                                                                                                                       |
-|   | *Lands 37*                 |         |             |                                                                                                                                                                                       |
+|   | *Lands 38*                 |         |             |                                                                                                                                                                                       |
 | 1 | Urborg, Tomb of Yawgmoth   |         | leg land    | Each land is a swamp in addition of its other type                                                                                                                                    |
 | 1 | Darkslick Shore            |         | land        | comes tapped unless u control 2 or less other lands -- t: add B or U                                                                                                                  |
 | * | Cabal Coffers              |         | land        | 2, t: add B for each Swamp u control                                                                                                                                                  |
@@ -113,15 +113,13 @@ Missing:
 | 1 | Jwar Isle Refuge           |         | land        | Enters tapped -- When enters: gain 1 life -- t: add U or B                                                                                                                            |
 | 1 | Temple of the False God    |         | land        | t: add 2 (only if u control 5+ lands)                                                                                                                                                 |
 | 1 | Command Tower              |         | land        | t: add one mana of any color in your commander's color identity                                                                                                                       |
-| 8 | Island                     |         | basic land  |                                                                                                                                                                                       |
+| 9 | Island                     |         | basic land  |                                                                                                                                                                                       |
 | 8 | Swamp                      |         | basic land  |                                                                                                                                                                                       |
-|   |                            |         |             |                                                                                                                                                                                       |
 |---+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To Consider*              |         |             |                                                                                                                                                                                       |
 |   |                            |         |             |                                                                                                                                                                                       |
 |   | /Helper/                   |         |             |                                                                                                                                                                                       |
 |   | Sensei's Divining Top      | 1       | art         | 1: look top 3 card put back in any order -- t: draw a card then put sensei on top of lib                                                                                              |
-|   | Bloodchief Ascension       | B       | ench        | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard                                           |
 |   | Altar of Dementia          | 2       | art         | Sacr a creat: tgt player mill equals to that creat's power                                                                                                                            |
 |   | Praetor's Grasp            | 1BB     | sorc        | Search opp's lib for a card exile it, u may cast it as long as it remains exiled.                                                                                                     |
 |   |                            |         |             |                                                                                                                                                                                       |
@@ -138,6 +136,12 @@ Missing:
 |   | Crypt Incursion            | 2B      | inst        | Exile all creats from tgt player's graveyard, you gain 3 life for each card exiled this way                                                                                           |
 |   | Volrath's Stronghold       |         | land        | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of lib                                                                                                                      |
 |---+----------------------------+---------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Phantasmal Image           | 1U      | 0/0         | When targ: sacr it -- Enter as a copy of tdt creats.                                                                                                                                  |
+|   | Beseech the Queen          | {bp}x3  | sorc        | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                                                       |
+|   | Sands of Delirium          | 3       | art         | x, t: tgt players mill X.                                                                                                                                                             |
+|   | Liliana of the Dark Realms | 2BB     | plwkr 3     | +1: search ur lib for a swamp and put it in hand -- -3: tgt creat gets +X/+X or -X/-X where X is #swamp u control -- -6: emblem: "each swamp has: t, add: BBBB"                       |
+|   | Jace's Ingenuity           | 3UU     | inst        | Draw 3 cards                                                                                                                                                                          |
+|   | Hinder                     | 1UU     | inst        | Counter tgt spell, if so: put that card on top or bottom of its owner's library instead of the graveyard                                                                              |
 |   | Darksteel Plate            | 3       | eqp 2       | ~ is indestructible -- Equipped creat is indestructible                                                                                                                               |
 |   | Rite of Replication        | 2UU     | sorc        | Kicker 5 -- Put copy of tgt creats into play -- if kicked: put 5 copy instead                                                                                                         |
 |   | Aura Thief                 | 3U      | 2/2 fly     | When dies: gain control of all enchantments                                                                                                                                           |
@@ -200,11 +204,25 @@ New cards:
 
 v1.9* -> v2.0:
 -------------
-- Far // Away
-- Consume the Meek
-+ Sphinx Tutelage
-+ Talent of the Telephath
+- Hinder
++ Sinister Sabotage
+- Jace's Ingenuity
++ Mystic Confluence
+- Liliana of the Dark Realm
++ Nevinyrral's Disk
+- Sands of Delirium
++ Patient Rebuilding
+- Beseech the Queen
++ Bloodchief Ascension
+- Phantasmal Image
++ Riddlekeeper
 
+{+ Sphinx Tutelage}
+{+ Talent of the Telephath}
+
+
+Version 1.9:
+------------
 I do think the deck right now needs:
 . A few more ramp cards
 . 1 extra lands.
@@ -212,10 +230,6 @@ I do think the deck right now needs:
 To be considered:
 . Altar of the Brood
 . Darksteel Lingot (I shoudl have some)
-
-
-Version 1.9:
-------------
 
 
 v1.8 -> v1.9:
