@@ -1,5 +1,5 @@
-Sydri, Galvanic Genius v2.6
-[sleeved: v2.6]
+Sydri, Galvanic Genius v2.7
+[sleeved: v2.7]
 
 |   | *Commander*                  |        |          |                                                                                                                                                                                       |
 | 1 | Sydri, Galvanic Genius       | WUB    | 2/2      | U: tgt non-creat art becomes an art creat w/ pow/tough equal to its CMC until eot -- WB: Tgt art creat gain deathtouch and lifelink until eot                                         |
@@ -11,6 +11,7 @@ Sydri, Galvanic Genius v2.6
 |   | *Mana Ramp 13*               |        |          |                                                                                                                                                                                       |
 | 1 | Mox Opal                     | 0      | art      | Metalcraft: "t: add 1 mana any color to your mana pool"                                                                                                                               |
 | 1 | Sol Ring                     | 1      | art      | t: add 2 to mana pool                                                                                                                                                                 |
+| 1 | Etherium Sculptor            | 1U     | 1/2 art  | Art spell u cast cost 1 less                                                                                                                                                          |
 | 1 | Azorius Signet               | 2      | art      | 1, t: add WU to mana pool                                                                                                                                                             |
 | 1 | Dimir Signet                 | 2      | art      | 1, t: add UB to mana pool                                                                                                                                                             |
 | 1 | Orzhov Signet                | 2      | art      | 1, t: add WB to mana pool                                                                                                                                                             |
@@ -20,13 +21,13 @@ Sydri, Galvanic Genius v2.6
 | 1 | Azorius Keyrune              | 3      | art      | t: add W or U to mana pool -- WU: ~ becomes a 2/2 flying bird until eot                                                                                                               |
 | 1 | Dimir Keyrune                | 3      | art      | t: add U or B to mana pool -- UB: ~ becomes a 2/2 unblockable horror until eot                                                                                                        |
 | 1 | Orzhov Keyrune               | 3      | art      | t: add W or B to mana pool -- WB: ~ beocmes a 1/4 lifelink thrull until eot                                                                                                           |
+| 1 | Dimir Locket                 | 3      | art      | t: add U or B -- {ub}x4, t, sacr it: draw 2 cards                                                                                                                                     |
 | 1 | Darksteel Ingot              | 3      | art      | Indestructible -- t: add 1 mana any color to mana pool                                                                                                                                |
 | 1 | Obelisk of Esper             | 3      | art      | t: add W, U or B to mana pool                                                                                                                                                         |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | *1 CMC artifact 5*           |        |          |                                                                                                                                                                                       |
 | 1 | Executioner's Capsule        | B      | art      | 1B, t, sacr it: Destroy tgt nonblack creature                                                                                                                                         |
 | 1 | Expedition Map               | 1      | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                                                    |
-| 1 | Codex Shredder               | 1      | art      | t: tgt player mills 1 -- 5, t, sacr ~: return tgt card from ur graveyard to ur hand                                                                                                   |
 | 1 | Nihil Spellbomb              | 1      | art      | t, sacr it: Exile tgt player's graveyard -- When put to grave from play, you may pay B to draw                                                                                        |
 | 1 | Dispeller's Capsule          | W      | art      | 2W, t, sacr it: destroy tgt art or enchantment                                                                                                                                        |
 |   |                              |        |          |                                                                                                                                                                                       |
@@ -48,25 +49,25 @@ Sydri, Galvanic Genius v2.6
 | 1 | Cyclonic Rift                | 1U     | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                         |
 | 1 | Austere Command              | 4WW    | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                    |
 | 1 | All Is Dust                  | 7      | sorc     | Each player sacr all colored perm he controls                                                                                                                                         |
+| 1 | Supreme Verdict              | 1WWU   | sorc     | Can't be countered -- Destroy all creatures                                                                                                                                           |
+| 1 | Oblivion Stone               | 3      | art      | 4, t: put a fate counter on tgt perm -- 5, t, sacr ~: destroy each non land perm w/o a fate counter, remove all fate counter from all perm.                                           |
 |   |                              |        |          |                                                                                                                                                                                       |
-|   | *Single target removal 3*    |        |          |                                                                                                                                                                                       |
+|   | *Single target removal 2*    |        |          |                                                                                                                                                                                       |
 | 1 | Dispatch                     | W      | inst     | Tap tgt creature -- Metalcraft: exile it instead                                                                                                                                      |
 | 1 | Oblation                     | 2W     | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                            |
-| 1 | Proteus Staff                | 3      | art      | 2U, t: put tgt creat at bottom of lib, that creat's controller reveals top card until he reveals a creat, put the creat into play, and the rest at the bottom of the lib (sorc speed) |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | *Enchantment removals 3*     |        |          |                                                                                                                                                                                       |
 | 1 | Return to Dust               | 2WW    | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                 |
 | 1 | Disenchant                   | 1W     | inst     | Destroy tgt enchant or artifact                                                                                                                                                       |
 | 1 | Leave No Trace               | 1W     | inst     | Destroy tgt enchant and all enchant that share a color with                                                                                                                           |
 |   |                              |        |          |                                                                                                                                                                                       |
-|   | *Search toolbox 3*           |        |          |                                                                                                                                                                                       |
+|   | *Search toolbox 1*           |        |          |                                                                                                                                                                                       |
 | 1 | Treasure Mage                | 2U     | 2/2      | When enters: search for an art with CMC 6+ and put it into your hand                                                                                                                  |
-| 1 | Diabolic Revelation          | x3BB   | sorc     | Search your lib for X cards and put them into your hand                                                                                                                               |
-| 1 | Increasing Ambition          | 4B     | sorc     | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
 |   |                              |        |          |                                                                                                                                                                                       |
-|   | *Ccreatures 10*              |        |          |                                                                                                                                                                                       |
+|   | *Ccreatures 11*              |        |          |                                                                                                                                                                                       |
 | 1 | Spellskite                   | 2      | 0/4 art  | {pu}: Redirect tgt spell or ability to ~                                                                                                                                              |
 | 1 | Baleful Strix                | UW     | 1/1 fly  | Deathtouch -- When enter: draw a card                                                                                                                                                 |
+| 1 | Master of Etherium           | 2U     | */*      | Other art gets +1/+1, ~ pow/toughness are equal to # art u control                                                                                                                    |
 | 1 | Solemn Simulacrum            | 4      | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                                                   |
 | 1 | Sharuum the Hegemon          | 3WUB   | 5/5 art  | Flying -- When enter: return tgt art from graveyard to play                                                                                                                           |
 | 1 | Wurmcoil Engine              | 6      | 6/6 art  | Deathtouch, lifelink -- When dies: put a 3/3 wurm w/ deathtouch and a 3/3 wurm w/ lifelink into play                                                                                  |
@@ -76,16 +77,15 @@ Sydri, Galvanic Genius v2.6
 | 1 | Sphinx of the Steel Wind     | 5WUB   | 6/6 art  | Flying, first strike, vigilance, lifelink, pro-red, pro-green                                                                                                                         |
 | 1 | Enigma Sphinx                | 4WUB   | 5/4 fly  | Cascade -- When dies: put it into your lib, third from the top                                                                                                                        |
 |   |                              |        |          |                                                                                                                                                                                       |
-|   | *Helpers 12*                 |        |          |                                                                                                                                                                                       |
+|   | *Helpers 11*                 |        |          |                                                                                                                                                                                       |
 | 1 | Nim Deathmantle              | 2      | eqp 4    | Eqp creats gets "+2/+2 and intimidate" and is a black zombie -- Whenever non token creat is put into ur graveyard, you may pay 4, if so: return it to play and attach ~ to it         |
 | 1 | Lightning Greaves            | 2      | eqp 0    | Eqp creat has shroud and haste                                                                                                                                                        |
-| 1 | Thirst for Knowledge         | 2U     | inst     | Draw 3 then discard 2 unless u discarded an artifact                                                                                                                                  |
-| 1 | Scarecrone                   | 3      | 1/2 art  | 1: sacr a scarecrow -- 4: return tgt art from graveyard to play                                                                                                                       |
 | 1 | Mimic Vat                    | 3      | art      | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                 |
 | 1 | Bident of Thassa             | 2UU    | art ench | Whenever a creat u control deals combat damage to a player: u may draw a card -- 1U, t: Creats opps control attack this turn if able                                                  |
 | 1 | Vedalken Orrery              | 4      | art      | You may cast non land cards any time you could play an instant                                                                                                                        |
 | 1 | Unwinding Clock              | 4      | art      | Untap all artifacts u control during each other player's upkeep                                                                                                                       |
 | 1 | Trading Post                 | 4      | art      | 1, t, discard: gain 4 life -- 1, t, pay 1: put a 0/1 goat into play -- 1, t, sacr creat: return tgt art from grave to hand -- 1, t, sacr art: draw a card                             |
+| 1 | Thoughtcast                  | 4U     | sorc     | Affinity for art -- Draw 2 cards                                                                                                                                                      |
 | 1 | Staff of Nin                 | 6      | art      | Beg upk: draw a card -- t: deals 1 damage to tgt creat or player                                                                                                                      |
 | 1 | Akroma's Memorial            | 7      | art      | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                 |
 | 1 | Spine of Ish Sah             | 7      | art      | When enter, or put to graveyard: destroy tgt perm                                                                                                                                     |
@@ -93,7 +93,7 @@ Sydri, Galvanic Genius v2.6
 |   | *Lands 35*                   |        |          |                                                                                                                                                                                       |
 | 1 | Academy Ruins                |        | land     | t: add 1 to mana pool -- 1U, t: put tgt art from ur graveyard on top of lib                                                                                                           |
 | 1 | Phyrexia's Core              |        | land     | t: add 1 to mama pool -- 1, t, sacr an art: u gain 1 life                                                                                                                             |
-| * | Godless Shrine               |        | land     | Enters tapped unless u pay 2 -- t: add W or B                                                                                                                                         |
+| 1 | Godless Shrine               |        | land     | Enters tapped unless u pay 2 -- t: add W or B                                                                                                                                         |
 | 1 | Hallowed Fountain            |        | land     | Enters tapped unless u pay 2 -- t: add W or U                                                                                                                                         |
 | 1 | Watery Grave                 |        | land     | Enters tapped unless u pay 2 -- t: add U or B                                                                                                                                         |
 | 1 | Drowned Catacomb             |        | land     | Enters tapped unless u control an island or a swamp -- t: add U or B                                                                                                                  |
@@ -163,7 +163,6 @@ Sydri, Galvanic Genius v2.6
 |   | Hedron Archive               | 4      | art      | t: add 2 -- 2, t, sacr it: draw 2 cards                                                                                                                                               |
 |   | Dreamstone Hedron            | 6      | art      | t: add 3 -- 3, t, sacr it: draw 3 cards                                                                                                                                               |
 |   |                              |        |          |                                                                                                                                                                                       |
-|   | Etherium Sculptor            | 1U     | 1/2 art  | Art spell u cast cost 1 less                                                                                                                                                          |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | *Draw Power*                 |        |          |                                                                                                                                                                                       |
 |   | Well of Lost Dream           | 4      | art      | Whenever u gain life, u may pay X where X is less or equal to the life gain, draw X cards                                                                                             |
@@ -174,7 +173,6 @@ Sydri, Galvanic Genius v2.6
 |   | Padeem, Consul of Innovation | 3U     | 1/4 leg  | Arts u control have hexproof - Beg upk: if u control the highest CMC art, draw a card                                                                                                 |
 |   | Muzzio, Visionary Architect  | 1UU    | 1/3 leg  | 3u, t: Look top X cards where X is highest CMC of art u control, reveal an art, and put it into play. Rest at the bottom of lib.                                                      |
 |   | Thopter Spy Network          | 2UU    | ench     | Beg upk: if u control an art, put a 1/1 art thopter w/ fly into play -- Whenever one or more art u control creat deals combat damage to a player, draw a card.                        |
-|   | Thoughtcast                  | 4U     | sorc     | Affinity for art -- Draw 2 cards                                                                                                                                                      |
 |   | Sphinx's Revelation          | xWUU   | inst     | Draw X cards and gain X life                                                                                                                                                          |
 |   | Pull from Tomorrow           | xUU    | inst     | Draw X cards, then discard one.                                                                                                                                                       |
 |   |                              |        |          |                                                                                                                                                                                       |
@@ -232,6 +230,12 @@ Sydri, Galvanic Genius v2.6
 |   | Temple of Deceit             |        | land     | Enters tapped -- Scry 1 -- t: add U or B                                                                                                                                              |
 |   | Temple of Silence            |        | land     | Enters tapped -- Scry 1 -- t: add W or B                                                                                                                                              |
 |---+------------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Thirst for Knowledge         | 2U     | inst     | Draw 3 then discard 2 unless u discarded an artifact                                                                                                                                  |
+|   | Scarecrone                   | 3      | 1/2 art  | 1: sacr a scarecrow -- 4: return tgt art from graveyard to play                                                                                                                       |
+|   | Diabolic Revelation          | x3BB   | sorc     | Search your lib for X cards and put them into your hand                                                                                                                               |
+|   | Increasing Ambition          | 4B     | sorc     | Search your lib for one (two if flashbacked) card and put it in your hand -- Flashback 7B                                                                                             |
+|   | Proteus Staff                | 3      | art      | 2U, t: put tgt creat at bottom of lib, that creat's controller reveals top card until he reveals a creat, put the creat into play, and the rest at the bottom of the lib (sorc speed) |
+|   | Codex Shredder               | 1      | art      | t: tgt player mills 1 -- 5, t, sacr ~: return tgt card from ur graveyard to ur hand                                                                                                   |
 |   | Revoke Existence             | 1W     | sorc     | Exile tgt art or enchantment                                                                                                                                                          |
 |   | Tower of Fortunes            | 4      | art      | 8, t: draw 4 cards                                                                                                                                                                    |
 |   | Fabricate                    | 2U     | sorc     | Search an art and put it in ur hand                                                                                                                                                   |
@@ -265,10 +269,31 @@ Sydri, Galvanic Genius v2.6
 |   |                              |        |          |                                                                                                                                                                                       |
 |   |                              |        |          |                                                                                                                                                                                       |
 
+To put in:
+- Caltrops
+- Time Sieve
+- Sculpting Steel
+- Aetherflux Reservoir
+- Shipper Myr
+
 Considering:
 +1 Chromatic Lantern
 
 
+v2.6 -> v2.7:
+-------------
++1 Etherium Sculptor
++1 Dimir Locket
+-1 Codec Shredder
++1 Supreme Verdict
++1 Oblivion Stone
+-1 Proteus Staff
+-1 Diabolic Revelation
+-1 Increasing Ambition
++1 Master of Etherium
+-1 Scarecrone
++1 Thoughcast
+-1 Thirst For Knowledge
 
 v2.5 -> v2.6:
 -------------
