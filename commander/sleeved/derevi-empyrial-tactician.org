@@ -127,7 +127,6 @@ Derevi, Empyrial Tactitian v1.0
 |   | Weathered Wayfarer         | W         | 1/1      | W, t: search your lib for a land, and put it in ur hand (activate only if an opp has more land than u)                                                                                                                                          |
 |   | Unbender Tine              | 2WU       | art      | t: untap another target permanent                                                                                                                                                                                                               |
 |   | Consecrated Sphinx         | 4UU       | 4/6 fly  | When an opp draw: u may draw 2 cards                                                                                                                                                                                                            |
-|   | Tamiyo, the Moon Sage      | 3UU       | plwkr 4  | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                                                                                |
 |   |                            |           |          |                                                                                                                                                                                                                                                 |
 |   | Brass Control              | 3         | 1/3      | t: attach tgt equipment you control to tgt creat you control                                                                                                                                                                                    |
 |   | Puresteel Paladin          | WW        | 2/2      | Whenever an eqp enters: draw a card -- Metalcraft: eqp cost is 0                                                                                                                                                                                |
@@ -187,6 +186,41 @@ Derevi, Empyrial Tactitian v1.0
 |   |                            |           |          |                                                                                                                                                                                                                                                 |
 |   | Deathrender                | 4         | eqp 2    | Eqp 2 gets +2/+2.  Whenever eqp creat dies, you may put a creature from ur hand into play and attach deathrender to it                                                                                                                          |
 |   | Spelljack                  | 3UUU      | inst     | Counter tgt spell. Exile it instead of putting in its owner's graveyard.  You may cast it w/o paying its mana cost as long as it remain exiled.                                                                                                 |
+
+
+Note:
+----
+
+Green Sun Zenith's main targets:
+- 2: Scavenging Ooze 
+- 3: Eternal Witness
+- 4: Oracle of Mul Daya
+Additional target for Wargate:
+- 1: Skullclamp
+- 2: Stonerforge Mystic
+- 2: [Swiftfoot Boots]                             -- Better to get stoneforge most likely
+- 3: [Sword of Feast & Famine] or [War and Peace]  /
+- 3: Diviner's Wand?
+- 3: Thousand Year Elixir
+- 5: Nahiri, the Lithomancer
+- 6: [Argentum Armor]
+
+
+v1.0 -> v1.1:
+-------------
+- Gyre Sage
+- Skullclamp? (Although, if there's more way to create 1/1, it may be worth keeping it)
+- Phyrexian's Vault
+- Helm of Possession (doesn't really belong here)
+- Momentous Fall
+
++ <More ramp>
++ Wilderness Reclamation !!!!!
++ Emmara, Sould of the Accord
++ Knight of Autumn
++ Elspeth, Sun Champion?? 
++ Darksteel Mutation
++ * Sigarda's Aid
 
 
 v0.9 -> v1.0:
