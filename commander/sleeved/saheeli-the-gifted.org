@@ -108,11 +108,19 @@ Saheeli The Gifted v0.2:
 | 11 | Mountain                  |                 | bas land  |                                                                                                                                                                                                                            |
 | 12 | Island                    |                 | bas land  |                                                                                                                                                                                                                            |
 |----+---------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Considering*             |                 |           |                                                                                                                                                                                                                            |
+|    | Thopter Spy Network       | 2UU             | ench      | Beg of upk, if u control a art, put a 1/1 thopter w/ flying -- When an art creat u control deals combat damage to a player, draw a card.                                                                                   |
+|----+---------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Removed from v0.1:*      |                 |           |                                                                                                                                                                                                                            |
 |    | Mind Spring               | xUU             | sorc      | Draw X cards                                                                                                                                                                                                               |
 |    | Treasure Mage             | 2U              | 2/2       | When enters: search for an art with CMC 6+ and put it into your hand                                                                                                                                                       |
 |    | Grand Architect           | 1UU             | 1/3       | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                                                                                     |
 |    | Trinket Mage              | 2U              | 2/2       | When enters: search for an art with CMC 1- and put it into your hand                                                                                                                                                       |
+
+v0.2 -> v0.3:
+-------------
+- Thirst for Knowledge
++ ??? (draw? Thopter Spy Network?)
 
 
 v0.1 -> v0.2:

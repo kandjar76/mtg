@@ -118,6 +118,7 @@ Sydri, Galvanic Genius v2.7
 | 5 | Island                       |        | bas land |                                                                                                                                                                                       |
 |---+------------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Cards to really consider*   |        |          |                                                                                                                                                                                       |
+|   | March of the Machines        | 3U     | ench     | Each non art is an art creat w/ pow/toughness equal to its CMC.                                                                                                                       |
 |   | Myr Retriever                | 2      | 1/1      | When ~ dies, return tgt artifact from your graveyard to your hand                                                                                                                     |
 |   | Ethersworn Adjudicator       | 4U     | 4/4 fly  | 1WB, t: destroy tgt creat or enchantment -- 2U: untap ~                                                                                                                               |
 |   | Caltrops                     | 3      | art      | Whenever a creatures attack, ~ deals 1 damage to it                                                                                                                                   |
@@ -127,6 +128,15 @@ Sydri, Galvanic Genius v2.7
 |   | Blightsteel Colossus         | 12     | 11/11    | Trample, infect, indestr - If put to graveyard, shuffle it into lib                                                                                                                   |
 |   | Kudoltha Forgemaster         | 5      | 3/5      | t, sacr 3 arts: search ur lib for an art and put it into play                                                                                                                         |
 |   | Master Transmuter            | 3U     | 1/2 art  | u, t: return an art u control to hand: You may put an art from hand into play                                                                                                         |
+|   | Foundry Inspector            | 3      | 3/2      | Art spell u cast cost 1 less to cast.                                                                                                                                                 |
+|   | Jhoira's Familiar            | 4      | 2/2 fly  | Historic Spell cost 1 less to cast                                                                                                                                                    |
+|   | Steel Overseer               | 2      | 1/1      | t: put a +1c on each art creat u control                                                                                                                                              |
+|   | Ethersworn Adjusdicator      | 4U     | 4/4 fly  | 1UB, t: destroy tgt creat or ench -- 2U: untap ~                                                                                                                                      |
+|   | Darksteel Juggernaut         | 5      | */*      | Indestructible - Pow/Toughness is equal to each art u control -- Must attack each turn                                                                                                |
+|   | Darksteel Colossus           | 11     | 11/11    | Indestructible, Trample -- If put to grave from anywhere, shuffle it to lib                                                                                                           |
+|   | Cranial Plating              | 2      | eqp 1    | Eqp creat gets +1/0 for each art u control -- BB: attach it to tgt creat u control                                                                                                    |
+|   | Planar Bridge                | 6      | art      | 8, t: search for a perm and put it into play.                                                                                                                                         |
+|   |                              |        |          |                                                                                                                                                                                       |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | *Other cards to consider*    |        |          |                                                                                                                                                                                       |
 |   | Etherium Astrolabe           | 2U     | art      | Flash -- B, t, sacr a art: draw a card                                                                                                                                                |
@@ -155,7 +165,7 @@ Sydri, Galvanic Genius v2.7
 |---+------------------------------+--------+----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Mana Ramp*                  |        |          |                                                                                                                                                                                       |
 |   | Mana Vault                   | 1      | art      | Doesn't untap during upkeep -- t: add 3 to mana pool -- Beg upk, you may pay 4 to untap it -- Beg draw step if tapped: ~ deals 1 damage to u                                          |
-|   | Chromatic Lantern            | 3      | art      | Lands u control have: "t: add 1 mana any color to your mana pool" -- t: add 1 mana any color to your mana pool                                                                        |
+| * | Chromatic Lantern            | 3      | art      | Lands u control have: "t: add 1 mana any color to your mana pool" -- t: add 1 mana any color to your mana pool                                                                        |
 |   | Thran Dynamo                 | 4      | art      | t: add 3 to mana pool                                                                                                                                                                 |
 |   | Gilded Lotus                 | 5      | art      | t: add 3 mana any one color to mana pool                                                                                                                                              |
 |   |                              |        |          |                                                                                                                                                                                       |
@@ -222,6 +232,7 @@ Sydri, Galvanic Genius v2.7
 |   | Esper Charm                  | WUB    | inst     | Choose one: destroy tgt ench OR draw 2 cards OR tgt player discards two cards                                                                                                         |
 |   | Time Sieve                   | UB     | art      | t, sacr 5 art: gain an extra turn                                                                                                                                                     |
 |   | Thopter Assembly             | 6      | 5/5 fly  | Beg upk: if u control no other thopter, return ~ to hand, and create 5 1/1 thopter w/ fly                                                                                             |
+|   | AEtherflux Reservoir         | 4      | art      | Whenever u cast a spell, you gain 1 life to each spell u ve cast this turn -- Pay 50 life: deals 50 damage to a creat or player                                                       |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | *Lands*                      |        |          |                                                                                                                                                                                       |
 |   | Ancient Den                  |        | art land | t: add W to mana pool                                                                                                                                                                 |
@@ -253,6 +264,7 @@ Sydri, Galvanic Genius v2.7
 |   | Contagion Engine             | 6      | art      | When enter: put a -1/-1c on each creat tgt opp control -- 4, t: proliferate then proliferate                                                                                          |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   | Thopter Foundry              | {wb}U  | art      | 1, sacr a nontoken art: put a 1/1 blue thopter art w/ flying into play, you gain 1 life                                                                                               |
+|   | Sword of the Meek            | 2      | eqp 2    | Eqp creats get +1/+2 -- Whenever a 1/1 comes into play under u control; u may return ~ from grave to play and attach it to the creature                                               |
 |   | Darksteel Plate              | 3      | eqp 2    | ~ is indestructible -- Eqip creat is indestructible                                                                                                                                   |
 |   | Evil Twin                    | 2UB    | 0/0      | Enters as a copy of a creature on the battlefield and gain: "UB, t: destroy tgt creature with this name"                                                                              |
 |   |                              |        |          |                                                                                                                                                                                       |
@@ -268,6 +280,13 @@ Sydri, Galvanic Genius v2.7
 |   | Mikaeus, the Unhallowed      | 3BBB   | 5/5      | Intimidate -- When a human deals damage to u: destroy it -- Other non human u control gets +1/+1 and have undying                                                                     |
 |   |                              |        |          |                                                                                                                                                                                       |
 |   |                              |        |          |                                                                                                                                                                                       |
+
+More Rocks as well as:
+- Tamiyo's Journal?
+- Mind's Eye
+- Vedalken Archmage
+
+Aetherflux Reservoir
 
 To put in:
 - Caltrops
