@@ -191,6 +191,27 @@ v1.4 -> v1.5:
 -------------
 ??? Master of Cruelties
 
+--
+
+Version v1.4:
+-------------
+Way too many big ass creatures; the deck is not consistent.
+Probably need to drop to like 20 or so creatures
+Solution; reducing the # of creatures, including some cheaper but strong creatures:
+- Thundermaw Hellkite
+- Lyra Dawnbringer (3WW for 5/5 with: Flying, first strike, lifelink -- Other angels you control get +1c and lifelink)
+- Doom Whisperer (3BB for 6/6 with: flying, trample -- Pay 2 life: surveil 2
+- Bloodgift Demon
+More fast answer:
+- Council's Judgement
+Few more planeswalker?
+- Liliana of the Veil?
+- Ajani Vengeant
+Other utilities:
+- Rakdos Charm
+- Experiment... stuff.. (can't play card from hand one)
+- Liliana's Contract (if the deck has a bit more demon in it)
+
 
 v1.3 -> v1.4:
 -------------
