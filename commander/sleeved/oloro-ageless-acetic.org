@@ -1,5 +1,5 @@
-Oloro, Ageless Ascetic v1.5
-[sleeved: v1.5]
+Oloro, Ageless Ascetic v1.6
+[sleeved: v1.6]
 
 
 |   | *Commander*               |           |          |                                                                                                                                                              |
@@ -8,7 +8,7 @@ Oloro, Ageless Ascetic v1.5
 |   | *Planeswalker 1*          |           |          |                                                                                                                                                              |
 | 1 | Ob Nixilis Reignited      | 3BB       | plwr 5   | +1: Draw a card and loose 1 life -- -3: Destroy tgt creature -- -8: Tgt opp gets an emblem "Whenever a player draws a card, u loose 2 life"                  |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Mana Ramp 12*            |           |          |                                                                                                                                                              |
+|   | *Mana Ramp 10*            |           |          |                                                                                                                                                              |
 | 1 | Sol Ring                  | 1         | art      | t: add 2                                                                                                                                                     |
 | 1 | Azorius Signet            | 2         | art      | 1, t: add WU                                                                                                                                                 |
 | 1 | Orzhov Signet             | 2         | art      | 1, t: add WB                                                                                                                                                 |
@@ -20,7 +20,7 @@ Oloro, Ageless Ascetic v1.5
 | 1 | Grand Arbiter Augustin IV | 2WU       | 2/3 leg  | White and blue spell u cast cost 1 less -- Spells ur opp cast cost 1 more to cast                                                                            |
 | 1 | Crypt Ghast               | 3B        | 2/2      | Extort -- Whenever a swamp is tapped for mana, add B to mana pool                                                                                            |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Draw Engine 7*           |           |          |                                                                                                                                                              |
+|   | *Draw Engine 8*           |           |          |                                                                                                                                                              |
 | 1 | Dawn of Hope              | 1W        | ench     | Whenever u gain life, u may pay 2, if so: draw a card -- 3W: create a 1/1 soldier token w/ lifelink                                                          |
 | 1 | Well of Lost Dreams       | 4         | art      | Whenever u gain life, you may pay X where X is <= life gained. If u do: draw X cards                                                                         |
 | 1 | Phyrexian Arena           | 1BB       | ench     | Beg upkeep: loose a life and draw a card                                                                                                                     |
@@ -30,10 +30,10 @@ Oloro, Ageless Ascetic v1.5
 | 1 | Bloodgift Demon           | 3BB       | 5/4 fly  | Beg upk: draw a card and loose a life                                                                                                                        |
 | 1 | Sphinx's Revelation       | xWBB      | ench     | You gain X life and draw X cards                                                                                                                             |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Threats 6*               |           |          |                                                                                                                                                              |
+|   | *Threats 11*              |           |          |                                                                                                                                                              |
 | 1 | Ajani's Primate           | 1W        | 2/2      | Whenever u gain life, put a +1c on ~                                                                                                                         |
 | 1 | Resplenish Angel          | 1WW       | 3/3 fly  | Beg each end step, if u gain 5 or more life, create a 4/4 angel token w/ fly and vig. -- 3WWW: ~ gains +2/+2 and lifelink until eot                          |
-| 1 | Phyrexian Gargantus       | 4BB       | 4/4      | When enters: draw 2 cards and loose 2 life                                                                                                                   |
+| 1 | Aetherflux Reservoir      | 4         | art      | Whenever u cast a spell, gain 1 life for each spell u cast this turn -- Pay 50 life: ~ deals 50 damage to tgt creat or player                                |
 | 1 | Batterskull               | 5         | eqp 5    | Living Weapon -- Eqp creat gets "+4/+4 vig and lifelink" -- 3: return ~ to hand                                                                              |
 | 1 | Divinity of Pride         | {bw}x5    | 4/4 fly  | Lifelink -- ~ gets +4/+4 as long as u have 25 life or more                                                                                                   |
 | 1 | Archangel of Thune        | 3WW       | 3/4 fly  | Lifelink -- Whenever u gain life, put a +1c on each creat u control                                                                                          |
@@ -53,12 +53,12 @@ Oloro, Ageless Ascetic v1.5
 | 1 | Price of Knowledge        | 6B        | ench     | Players have no maximum hand size -- Beg each opp: ~ deals damage to that player equal to # cards in hand                                                    |
 | 1 | Exquisite Blood           | 4B        | ench     | Whenever an opp loose life, u gain that much life.                                                                                                           |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Counter spells 4*        |           |          |                                                                                                                                                              |
+|   | *Counter spells 3*        |           |          |                                                                                                                                                              |
 | 1 | Render Silent             | WBB       | inst     | Counter tgt spell, its controller cannot cast spells this turn                                                                                               |
 | 1 | Dissipate                 | 1UU       | inst     | Counter tgt spell, exile it                                                                                                                                  |
 | 1 | Dream Fracture            | 1UU       | inst     | Counter tgt spell, its controller draw a card. Draw a card.                                                                                                  |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Board Wipes 6*           |           |          |                                                                                                                                                              |
+|   | *Board Wipes 7*           |           |          |                                                                                                                                                              |
 | 1 | Supreme Verdict           | 1WWU      | sorc     | Can't be countered -- Destroy all creatures                                                                                                                  |
 | 1 | Toxic Deluge              | 2B        | sorc     | Add cost: pay X life -- All creats get -X/-X until eot.                                                                                                      |
 | 1 | Merciless Eviction        | 4WB       | sorc     | Choose one: exile all art OR exile all enchantment OR exile all creatures OR exile all planeswalkers                                                         |
@@ -81,7 +81,7 @@ Oloro, Ageless Ascetic v1.5
 | 1 | Caustic Rain              | 2BB       | sorc     | Exile tgt land                                                                                                                                               |
 | 1 | Utter End                 | 2WB       | inst     | Exile tgt non land perm                                                                                                                                      |
 |   |                           |           |          |                                                                                                                                                              |
-|   | *Tutors 3*                |           |          |                                                                                                                                                              |
+|   | *Tutors 1*                |           |          |                                                                                                                                                              |
 | 1 | Demonic Tutor             | 1B        | sorc     | Search your lib for a card, put it to hand                                                                                                                   |
 |   |                           |           |          |                                                                                                                                                              |
 |   | *Lands 38*                |           |          |                                                                                                                                                              |
@@ -153,6 +153,7 @@ Oloro, Ageless Ascetic v1.5
 |   | Lim-Dul's Vault           | UB        | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order  |
 |   | Return to Dust            | 2WW       | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                        |
 |   |                           |           |          |                                                                                                                                                              |
+|   | Phyrexian Gargantus       | 4BB       | 4/4      | When enters: draw 2 cards and loose 2 life                                                                                                                   |
 |   | Painful Truths            | 2B        | sorc     | Converge: draw X and loose X life where X is # color used to cast this card.                                                                                 |
 |   | Bitterblossom             | 1B        | ench     | Beg upk: loose a life and put a 1/1 flying faerie into play                                                                                                  |
 |   | Beseech the Queen         | {bp}x3    | sorc     | Search your lib for a card w/ CMC <= of # lands you control, reveal it, and put it in your hand                                                              |
@@ -195,6 +196,11 @@ Oloro, Ageless Ascetic v1.5
 |   | Test of Endurance         | 2WW       | ench     | At beg of ur upkeep: if you have 50+ life, you win the game.                                                                                                 |
 
 --
+
+v1.5 -> v1.6:
+-------------
+- Phyrexian Gargantus
++ Aetherflux Reservoir
 
 v1.4 -> v1.5:
 -------------
