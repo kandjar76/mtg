@@ -1,3 +1,5 @@
+https://deckstats.net/decks/82803/905433--list-the-best-targeted-creatu/en
+
 Yahenni, undying partisan
 Anointed Procession
 Paradox Engine
@@ -29,6 +31,14 @@ Currently missing:
 2 Research // Development
 
 ? Eladamri's call
+
+--------------------------------------------------------------------------------
+
+While cheap-ish:
+- Courser of Kruphix
+- Standstill
+- Disallow
+- Mystical Tutor
 
 
 
