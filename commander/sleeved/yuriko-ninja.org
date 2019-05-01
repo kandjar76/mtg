@@ -118,8 +118,13 @@ Yuriko, the Tiger's Shadow! v1.2
 | 5 | Swamp                      |                  | bas land    |                                                                                                                                                                              |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To be added*              |                  |             |                                                                                                                                                                              |
+|   | Temporal Trespass          | 8UUU             | sorc        | Delve -- Take an extra turn after this one, shuffle ~ to lib                                                                                                                 |
+|   | Perplex                    | 1UB              | inst        | Transmute 1UB -- Counter tgt spell unless its controller discard his or her hand                                                                                             |
+|   | Telling Time               | 1U               | inst        | Look top 3, put one on top, one on the bottom and one in hand                                                                                                                |
+|   | Consign // Oblivion        | 1U // 4B         | inst / sorc | Aftermath -- Return tgt perm to owner's hand // tgt opp discard two cards                                                                                                    |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | Ash Barren                 |                  | land        | t: add -- Basic land cycling                                                                                                                                                 |
+|   | Discovery // Dispersal     | 1{ub} // 3UB     | sorc / inst | Surveil 2, then draw a card. // Each opp returns a non land perm w/ higher CMC to hand then discard a card                                                                   |
 |   | Triton Shorestalker        | U                | 1/1         | Can't be blocked                                                                                                                                                             |
 |   | Phantasmal Image           | 1U               | 0/0         | Enters as a copy of tgt creat -- When tgt by spell or ability: sacrifice it.                                                                                                 |
 |   | Spellseeker                | 2U               | 1/1         | When enters: search lib for a inst or sorc with CMC 2 or less and put it into hand                                                                                           |
@@ -133,7 +138,6 @@ Yuriko, the Tiger's Shadow! v1.2
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | Hero's downfall            | 1BB              | inst        | Destroy tgt creature or planeswalker                                                                                                                                         |
 |   | Murderous Cut              | 4B               | inst        | Delve -- Destroy tgt creature                                                                                                                                                |
-|   | Discovery // Dispersal     | 1{ub} // 3UB     | sorc / inst | Surveil 2, then draw a card. // Each opp returns a non land perm w/ higher CMC to hand then discard a card                                                                   |
 |   | Toxix Deluge               | 2B               | sorc        | Add cost: pay X life - All creats gets -X/-X until eot                                                                                                                       |
 |   | Soothsaying                | U                | ench        | 3UU: shuffle lib -- X: look at top X card, then put them back in any order                                                                                                   |
 |   | Shizo, Death's Storehouse  |                  | leg land    | t: add B -- B, t: tgt leg creat gains fear until eot.                                                                                                                        |
@@ -141,6 +145,8 @@ Yuriko, the Tiger's Shadow! v1.2
 |   | Mox Amber                  | 0                | leg art     | t: Add one mana any color amongst leg creat and planeswalker u control                                                                                                       |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Other possible choices*   |                  |             |                                                                                                                                                                              |
+|   | Brainspoil                 | 3BB              | sorc        | Transmute 3BB -- Destroy tgt creat that isn't enchanted.                                                                                                                     |
+|   | Potent                     | U                | sorc        | Look top 3, put back in any order, u may shuffle, then draw a card at beg of next turn's upk.                                                                                |
 |   | Flusterstorm               | U                | inst        | Storm - Counter tgt spell or ability unless its controller pay 1.                                                                                                            |
 |   | Serum Vision               | U                | sorc        | Draw a card then scry 2.                                                                                                                                                     |
 |   | Connive // Concoct         | 2{ub}{ub} // 3UB | sorc        | Gain control of tgt creat w/ power 2 or less // Surveil 3 then return a creat from your graveyard to play                                                                    |
@@ -214,6 +220,12 @@ v1.1 -> v1.2:
 + Mystic Confluence
 - Lightning Greave
 + Nexus of Fate
+
+
+v1.1 -> v1.2:
+-------------
+- AEthersnipe
++ Consign // Oblivion
 
 
 v1.0 -> v1.1:
