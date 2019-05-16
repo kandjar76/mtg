@@ -1,5 +1,5 @@
-Yuriko, the Tiger's Shadow! v1.3
-[sleeved v1.3]
+Yuriko, the Tiger's Shadow! v1.4
+[sleeved v1.4]
 
 
 |   | *Commander*                |                  |             |                                                                                                                                                                              |
@@ -59,15 +59,17 @@ Yuriko, the Tiger's Shadow! v1.3
 |   | *Search Toolbox 1*         |                  |             |                                                                                                                                                                              |
 | 1 | Demonic Tutor              | 1B               | sorc        | Search lib for a card, put it into hand                                                                                                                                      |
 |   |                            |                  |             |                                                                                                                                                                              |
-|   | *Counterspells 8*          |                  |             |                                                                                                                                                                              |
+|   | *Counterspells 6*          |                  |             |                                                                                                                                                                              |
 | 1 | Swan Song                  | U                | inst        | Counter tgt ench, inst or sorc spell -- Its controller gets a 2/2 blue bird w/ flying                                                                                        |
 | 1 | Counter spell              | UU               | inst        | Counter tgt spell                                                                                                                                                            |
 | 1 | Disallow                   | 1UU              | inst        | Counter tgt spell, activated or triggered ability                                                                                                                            |
-| 1 | Admiral's Order            | 1UU              | inst        | Raid: cost U instead if u attacked with a creat -- Counter tgt spell                                                                                                         |
 | 1 | Foil                       | 2UU              | inst        | You may discard an island and another card rather than paying its MC.  Counter tgt spell                                                                                     |
 | 1 | Cryptic Command            | 1UUU             | inst        | Choose 2: counter tgt spell; return tgt perm to owner's hand; tap all creats opps control; draw 1 card                                                                       |
 | 1 | Force of Will              | 3UU              | inst        | You may pay 1 life and exile one blue card from hand instead of paying its mana cost -- Counter tgt spell                                                                    |
-| 1 | Mystic Confluence          | 3UU              | inst        | Choose 3: counter tgt spell unless its controller pay 3 -- return tgt creats to its owner's hand -- draw a card                                                              |
+|   |                            |                  |             |                                                                                                                                                                              |
+|   | *Target Removal 2*         |                  |             |                                                                                                                                                                              |
+| 1 | Snuff Out                  | 3B               | inst        | If you control a swamp, you may pay 4 life instead of its cost.  Destroy tgt non black creat.                                                                                |
+| 1 | Hero's downfall            | 1BB              | inst        | Destroy tgt creature or planeswalker                                                                                                                                         |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Board cleaner 4*          |                  |             |                                                                                                                                                                              |
 | 1 | Cyclonic Rift              | 1U               | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                |
@@ -86,12 +88,12 @@ Yuriko, the Tiger's Shadow! v1.3
 | 1 | Misdirection               | 3UU              | inst        | You may exile a blue card from hand instead of paying its mana cost -- Change tgt of spell with a single target                                                              |
 | 1 | Coastal Breach             | 6U               | sorc        | Undaunted (cost 1 less for each opp) -- Return all non land perm to owner's hand                                                                                             |
 | 1 | Commit // Memory           | 3U / 4UU         | inst / sorc | Aftermath - Put tgt spell or nonland perm second from the top of owner's lib // Each play shuffles hand and graveyard to lib and draws 7                                     |
+| 1 | Rags // Riches             | 2UU / 5UU        | sorc / sorc | Aftermath - All creats gets -2/-2 until eot // Each opp chooses a creat he or she control, you gain control of these.                                                        |
 | 1 | Temporal Mastery           | 5UU              | sorc        | Miracle 1U -- Take an extra turn                                                                                                                                             |
 | 1 | Treasure Cruise            | 7U               | sorc        | Delve -- Draw three cards.                                                                                                                                                   |
 | 1 | Nexus of Fate              | 5UU              | inst        | Take extra turn after this one -- If put to grave from anywhere: shuffle it to lib                                                                                           |
 | 1 | Commandeer                 | 5UU              | inst        | You may exile two blue cards instead of paying its mana cost.  Gain control of tgt non creat spell, you may choose new tgts for it                                           |
 | 1 | Dig Through Time           | 6UU              | inst        | Delve -- Loop top 7 cards of lib, put 2 in hand, rest at the bottom                                                                                                          |
-| 1 | Beacon of Tomorrows        | 6UU              | sorc        | Tgt player takes an extra turn.  Shuffle ~ to lib                                                                                                                            |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Land 34*                  |                  |             |                                                                                                                                                                              |
 | 1 | Polluted Delta             |                  | land        | t, pay 1: search lib for a island or a swamp                                                                                                                                 |
@@ -121,6 +123,8 @@ Yuriko, the Tiger's Shadow! v1.3
 | 5 | Swamp                      |                  | bas land    |                                                                                                                                                                              |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To be added*              |                  |             |                                                                                                                                                                              |
+|   | Mothdust Changeling        | U                | 1/1         | Changeling -- Tap an untap creature u control: ~ gains flying until eot                                                                                                      |
+|   | Mausoleum Wanderer         | U                | 1/1 fly     | When another spirit enters: ~ gets +1/+1 until eot -- Sac ~: counter tgt inst or sorc spell unless its controller pays X where X is ~'s power                                |
 |   | Serum Visions              | U                | sorc        | Draw then Scry 2                                                                                                                                                             |
 |   | Temporal Trespass          | 8UUU             | sorc        | Delve -- Take an extra turn after this one, shuffle ~ to lib                                                                                                                 |
 |   | Perplex                    | 1UB              | inst        | Transmute 1UB -- Counter tgt spell unless its controller discard his or her hand                                                                                             |
@@ -133,15 +137,12 @@ Yuriko, the Tiger's Shadow! v1.3
 |   | Triton Shorestalker        | U                | 1/1         | Can't be blocked                                                                                                                                                             |
 |   | Phantasmal Image           | 1U               | 0/0         | Enters as a copy of tgt creat -- When tgt by spell or ability: sacrifice it.                                                                                                 |
 |   | Spellseeker                | 2U               | 1/1         | When enters: search lib for a inst or sorc with CMC 2 or less and put it into hand                                                                                           |
-|   | Rags // Riches             | 2UU / 5UU        | sorc / sorc | Aftermath - All creats gets -2/-2 until eot // Each opp chooses a creat he or she control, you gain control of these.                                                        |
 |   | Wipe Away                  | 1UU              | inst        | Split second -- Return tgt perm to its owner's hand                                                                                                                          |
 |   | Curse of the cabal         | 9B               | sorc        | Suspend 2: 2BB -- Tgt player sacrifices half of the perm they control rounded down -- At beg each player upk: that play may sacr a perm, if so, put 2 counter on ~           |
 |   | As Foretold                | 2U               | ench        | Beg up: put a time counter on ~ -- Each turn: you may pay 0 rather than paying the manage cost of spell u cast w/ cmc x or less where x is # time counter                    |
 |   | Dismember                  | 1bb              | inst        | Tgt creat gets -5/-5                                                                                                                                                         |
 |   |                            |                  |             |                                                                                                                                                                              |
-|   | Snuff Out                  | 3B               | inst        | If you control a swamp, you may pay 4 life instead of its cost.  Destroy tgt non black creat.                                                                                |
 |   |                            |                  |             |                                                                                                                                                                              |
-|   | Hero's downfall            | 1BB              | inst        | Destroy tgt creature or planeswalker                                                                                                                                         |
 |   | Murderous Cut              | 4B               | inst        | Delve -- Destroy tgt creature                                                                                                                                                |
 |   | Toxic Deluge               | 2B               | sorc        | Add cost: pay X life - All creats gets -X/-X until eot                                                                                                                       |
 |   | Soothsaying                | U                | ench        | 3UU: shuffle lib -- X: look at top X card, then put them back in any order                                                                                                   |
@@ -150,7 +151,14 @@ Yuriko, the Tiger's Shadow! v1.3
 |   | Mox Amber                  | 0                | leg art     | t: Add one mana any color amongst leg creat and planeswalker u control                                                                                                       |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Other possible choices*   |                  |             |                                                                                                                                                                              |
+|   | Unnatural Selection        | 1U               | ench        | 1: Choose a creat type other than wall, tgt creature becomes that type.                                                                                                      |
+|   | Skullsnatcher              | 1B               | 2/1         | Ninjutsu B -- When deals combat damage to player: exile up to 2 cards from that player's graveyard                                                                           |
 |   | Notorious Throng           | 3U               | sorc        | Prowl 5U -- Put X 1/1 Flying faery into play where X is damage dealt to your opponents this turn; if prowl was paid: take an extra turn                                      |
+|   | Snap                       | 1U               | inst        | Return tgt creat to hand, untap 2 lands                                                                                                                                      |
+|   | Shizo, Death's Storehouse  |                  | land        | t: add B -- B, t; tgt leg creature gain fear until eot.                                                                                                                      |
+|   | River of Tears             |                  | land        | t: add U, if you play a land this turn, add B instead                                                                                                                        |
+|   | Underground River          |                  | land        | t: add 1 -- t, pay 1 life: add U or B.                                                                                                                                       |
+|   |                            |                  |             |                                                                                                                                                                              |
 |   | Potent                     | U                | sorc        | Look top 3, put back in any order, u may shuffle, then draw a card at beg of next turn's upk.                                                                                |
 |   | Flusterstorm               | U                | inst        | Storm - Counter tgt spell or ability unless its controller pay 1.                                                                                                            |
 |   | Serum Vision               | U                | sorc        | Draw a card then scry 2.                                                                                                                                                     |
@@ -168,7 +176,6 @@ Yuriko, the Tiger's Shadow! v1.3
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | Brainspoil                 | 3BB              | sorc        | Transmute 3BB -- Destroy tgt creat that isn't enchanted.                                                                                                                     |
 |   | Sidisi's Faithful          | U                | 0/4         | Eploit (when enters: sac a creat) -- If exploit: return tgt creat to player's hand                                                                                           |
-|   | Snap                       | 1U               | inst        | Return tgt creat to hand, untap 2 lands                                                                                                                                      |
 |   |                            |                  |             |                                                                                                                                                                              |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Too Expensive*            |                  |             |                                                                                                                                                                              |
@@ -176,6 +183,11 @@ Yuriko, the Tiger's Shadow! v1.3
 |   | Imperial Seal              | B                | sorc        | Search lib for a card, and put it on top of deck. You loose 2 life                                                                                                           |
 |   | Personal Tutor             | U                | sorc        | Search your deck for an inst or sorc, reveal it, put it on top of the deck                                                                                                   |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v1.3*        |                  |             |                                                                                                                                                                              |
+|   | Admiral's Order            | 1UU              | inst        | Raid: cost U instead if u attacked with a creat -- Counter tgt spell                                                                                                         |
+|   | Mystic Confluence          | 3UU              | inst        | Choose 3: counter tgt spell unless its controller pay 3 -- return tgt creats to its owner's hand -- draw a card                                                              |
+|   | Beacon of Tomorrows        | 6UU              | sorc        | Tgt player takes an extra turn.  Shuffle ~ to lib                                                                                                                            |
+|   |                            |                  |             |                                                                                                                                                                              |
 |   | *Removed from v1.2*        |                  |             |                                                                                                                                                                              |
 |   | Terramorphic Expanse       |                  | land        | t: sacr it; search lib for basic land put into play tapped                                                                                                                   |
 |   | Dimir Guildgate            |                  | land        | Enters tapped -- t: U or B                                                                                                                                                   |
@@ -217,6 +229,15 @@ Yuriko, the Tiger's Shadow! v1.3
 |   | Amoeboid Changeling        | 1U               | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
 |   | Cloudstone Curio           | 3                | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
 
+
+v1.3 -> v1.4:
+-------------
+- Mystic Confluence
+- Admiral's Order
+- Beacon of Tomorrow
++ Hero's Downfall
++ Snuff Out
++ Rags // Riches
 
 v1.2 -> v1.3:
 -------------
