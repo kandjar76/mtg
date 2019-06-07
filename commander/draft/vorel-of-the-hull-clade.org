@@ -1,7 +1,7 @@
-Vorel of the Hull Clade v0.1
+Prime Speaker Zegana v0.1
 
 |   | *Commander*                   |           |           |                                                                                                                                                                                               |
-| 1 | Vorel of the Hull Clade       | 1GU       | 1/4       | GU, t: double counter on tgt art, creat or land                                                                                                                                               |
+| 1 | Prime Speaker Zegana          | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                                                        |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Planeswalker 1*              |           |           |                                                                                                                                                                                               |
 | 1 | Jiang Yanggu, Wildcrafter     | 2G        | plwkr 3   | Each creat u control w/ +1c has "t: add 1 mana any color to mana pool" -- -1: Put a +1c on tgt creature                                                                                       |
@@ -42,6 +42,7 @@ Vorel of the Hull Clade v0.1
 | 1 | Thrummingbird                 | 1U        | 1/1 fly   | When deals combat damage to a player, proliferate                                                                                                                                             |
 | 1 | Simic Ascendancy              | GU        | ench      | 1GU: put as +1c on tgt creat u control -- When one or more counter is placed on creat u control, put that many on ~ -- At beg of ur upk, if ~ has 20 or more counters on it, u win            |
 | 1 | Gilder Bairn                  | 1{gu}x2   | 1/3       | 2{gu}, u: for each counter on tgt perm, put another of those counters on that permanent                                                                                                       |
+| 1 | Vorel of the Hull Clade       | 1GU       | 1/4       | GU, t: double counter on tgt art, creat or land                                                                                                                                               |
 | 1 | Master Biomancer              | 2GU       | 2/4       | Each other creatures enters the battlefield with X +1c where X is its power                                                                                                                   |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Untap Helper 1*              |           |           |                                                                                                                                                                                               |
@@ -64,13 +65,13 @@ Vorel of the Hull Clade v0.1
 | 1 | Aetherize                     | 3U        | inst      | Return all attacking creats to their owner's hand                                                                                                                                             |
 | 1 | Contagious Engine             | 6         | art       | When enter: put -1 on each creat tgt player control -- 4: proliferate then proliferate                                                                                                        |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Draw Power 6*                |           |           |                                                                                                                                                                                               |
+|   | *Draw Power 5*                |           |           |                                                                                                                                                                                               |
 | 1 | Zameck Guildmage              | GU        | 2/2       | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card                                                                               |
 | 1 | Inspiring Call                | 2G        | inst      | Draw a card for each creat w/ +1c on it; those creatures gains indestructible until eot.                                                                                                      |
 | 1 | Bred for the Hunt             | 1GU       | ench      | When a creat u control w/ +1c on it deals damage to a player, you may draw a card                                                                                                             |
 | 1 | Fathom Mage                   | 2GU       | 1/1       | Evolve -- When a +1c is put on her, draw a card                                                                                                                                               |
 | 1 | Give // Take                  | 2G//2U    | sorc      | Fuse -- Put 3 +1c on tgt creat // Remove all +1c on tgt creat, draw that many cards                                                                                                           |
-| 1 | Prime Speaker Zegana          | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                                                        |
+| 1 | Commence the Endgame          | 4UU       | inst      | Can't be countered -- Draw 2 then Amass X where X is # cards in hands                                                                                                                         |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Generic Helpers 5*           |           |           |                                                                                                                                                                                               |
 | 1 | Worldly Tutor                 | G         | inst      | Seach lib for a creat and put it on top                                                                                                                                                       |
@@ -85,12 +86,11 @@ Vorel of the Hull Clade v0.1
 | 1 | Acidic Slime                  | 4G        | 2/2       | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                      |
 | 1 | Trygon Predator               | 1GU       | 2/3 fly   | When it deals damage to player: u may destr tgt art or enchant that player control                                                                                                            |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Counter spells 5*            |           |           |                                                                                                                                                                                               |
+|   | *Counter spells 4*            |           |           |                                                                                                                                                                                               |
 | 1 | Frilled Mystic                | GGUU      | 3/2       | Flash -- When enters, u may counter tgt spell                                                                                                                                                 |
 | 1 | Voidslime                     | GUU       | inst      | Counter tgt spell, activated or triggered ability                                                                                                                                             |
 | 1 | Muddle the Mixture            | UU        | inst      | Transmute 1UU - Counter tgt inst or sorc spell                                                                                                                                                |
 | 1 | Counterspell                  | UU        | inst      | Counter tgt spell                                                                                                                                                                             |
-| 1 | Plasm Capture                 | GGUU      | inst      | Counter tgt spell, at the beg of ur next main, add X mana of any color to mana pool, where X is countered spell's CMC                                                                         |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Lands 36*                    |           |           |                                                                                                                                                                                               |
 | 1 | Temple of Mystery             |           | land      | Enters tapped -- When enters: scry 1 -- t: add G or U                                                                                                                                         |
@@ -252,7 +252,20 @@ Vorel of the Hull Clade v0.1
 |   | River Kelpie                  | 3UU       | 3/3       | Persist -- When ~ or another perm enters play from a graveyard, draw a card -- When a player casts a spell from a graveyard, draw a card                                                      |
 |---+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | Tamiyo, the Moon Sage         | 3UU       | plwkr 4   | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                              |
+|   | Plasm Capture                 | GGUU      | inst      | Counter tgt spell, at the beg of ur next main, add X mana of any color to mana pool, where X is countered spell's CMC                                                                         |
 |   |                               |           |           |                                                                                                                                                                                               |
 
 
+Version v0.1:
+-------------
+Prime Speaker Zegana is so much more fun than Vorel
+The card draw engine she provides is insane...
 
+The deck now needs to be tuned to her.
+Some cards should be removed and replaced.  Maybe a few more counters.
+
+v0.1 -> v0.1 :
+--------------
+Commander swap:
+- Vorel of the Hull Clade
++ Prime Speaker Zegana
