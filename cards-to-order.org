@@ -8,7 +8,18 @@ Nekusar:
 Muldrotha:
 - Muldrotha, the Gravetide
 
+For sacr/recurring deck:
+- Tattered Mummy 
 
+Great Red card, worth having at least one copy!
+- Grenzo, Havoc Raiser
+
+Prime Speaker Zenaga:
+- Hadana's Climb
+- Altered Ego
+- Rishkar, Peema Renegade
+- Mystic Snake
+- Chasm Skulker
 
 https://deckstats.net/decks/82803/905433--list-the-best-targeted-creatu/en
 
@@ -51,7 +62,6 @@ While cheap-ish:
 - Standstill
 - Disallow
 - Mystical Tutor
-
 
 
 | Name                    | Price | Count | Decks      | From              | Abbrev Text                                                                                                                    |
