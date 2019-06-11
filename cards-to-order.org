@@ -7,6 +7,35 @@ Nekusar:
 - Library of Leng
 Muldrotha:
 - Muldrotha, the Gravetide
+Arcades:
+- Slaughter the Strong
+- Wave of Reckoning
+- Fell the Mighty
+- Faith's Reward
+- Colfenor's Urn
+- Assault Formation
+- Sight of the Scalelords
+- Tetsuko Umezawa, Fugitive
+- Panharmonicon *X!!
+- Stalwart Shield-Bearers
+- Hornet Nest
+- Wall of Mulch
+- Wall of Blossoms
+- Carven Caryatid
+- Jungle Barrier
+- Orator of Ojutai
+- Overgrown Battlement
+- Sylvan Caryatid
+- Jeskai Barricade
+- Sidar Kondo of Jamuraa (if cheap)
+- Slagwurm Armor
+- Meekstone ?
+- Dusk // Dawn
+- Reveillark (if cheap)
+- Mnemonic Wall
+- Ghostly Flicker
+- Sunscape Familiar
+- Heroic Intervention (??)
 
 For sacr/recurring deck:
 - Tattered Mummy 
@@ -26,7 +55,13 @@ Prime Speaker Zenaga:
 - Mystic Snake
 - Chasm Skulker
 
-Ashiok, Dream Render -> A LOT
+Additional:
+- Ashiok, Dream Render -> A LOT
+- Emeria Shepherd
+- Casualties of War
+- Deathsprout
+- Tendershoot Dryad x2 (Emmara + Sacr deck)
+- Nath of the Gilt-Leaf
 
 
 https://deckstats.net/decks/82803/905433--list-the-best-targeted-creatu/en
