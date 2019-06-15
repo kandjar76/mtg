@@ -1,5 +1,5 @@
 Oloro, Ageless Ascetic v1.7
-[sleeved: v1.6]
+[sleeved: v1.7]
 
 
 |   | *Commander*               |           |          |                                                                                                                                                                              |
@@ -50,8 +50,8 @@ Oloro, Ageless Ascetic v1.7
 | 1 | Painful Quandary          | 3BB       | ench     | Whenever an opp cast a spell, that player looses 5 life unless he discards a card                                                                                            |
 | 1 | Sanguine Blood            | 3BB       | ench     | Whenever u gain life, tgt opp looses that much HP                                                                                                                            |
 | 1 | Exquisite Blood           | 4B        | ench     | Whenever an opp loose life, u gain that much life.                                                                                                                           |
-| * | Command the Dreadhorde    | 4BB       | sorc     | Choose any # of tgt creats/planeswalkers in graveyards; loose life equal to the total CMC, put them into play under ur control                                               |
-| * | Bolas's Citadel           | 3BBB      | leg art  | You may look at top of lib at anytime -- You may play top of lib using life eq to CMC to cast the spell instead of mana -- t, sacr 10 non land perm: each opp looses 10 life |
+| 1 | Command the Dreadhorde    | 4BB       | sorc     | Choose any # of tgt creats/planeswalkers in graveyards; loose life equal to the total CMC, put them into play under ur control                                               |
+| 1 | Bolas's Citadel           | 3BBB      | leg art  | You may look at top of lib at anytime -- You may play top of lib using life eq to CMC to cast the spell instead of mana -- t, sacr 10 non land perm: each opp looses 10 life |
 |   |                           |           |          |                                                                                                                                                                              |
 |   | *Counter spells 3*        |           |          |                                                                                                                                                                              |
 | 1 | Render Silent             | WBB       | inst     | Counter tgt spell, its controller cannot cast spells this turn                                                                                                               |
