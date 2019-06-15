@@ -1,5 +1,5 @@
-Feather the Redeemed v0.3
-[sleeved v0.3]
+Feather the Redeemed v0.4
+[sleeved v0.4]
 
 |    | *Commander 1*              |         |          |                                                                                                                                                                                           |
 |  1 | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
@@ -28,9 +28,9 @@ Feather the Redeemed v0.3
 |  1 | Stoneforge Mystic          | 1W      | 1/2      | When enters: search your lib for an equipment -- 1W, t: put an eqp from hand to play                                                                                                      |
 |  1 | Balefire Liege             | 2{rw}x3 | 2/4      | Other red creats get +1/+1, other white creats get +1/+1c -- Whenever u cast a red spell: ~ deals 3 damage to tgt player -- Whenever u cast a white spell: gain 3 life                    |
 |  1 | Sun Titan                  | 4WW     | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                                      |
-|  1 | Aurelia, the Warleader     | 2RRWW   | 3/4 fly  | Vigilance, haste -- When attacks for the first time each turn: untap all creat u control; after this phase, there's an additional combat phase                                            |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell targets*            |         |          |                                                                                                                                                                                           |
+|  1 | Akroan Crusader            | R       | 1/1      | Heroic: When u cast a spell that tgt ~, put a 1/1 red soldier w/ haste into play                                                                                                          |
 |  1 | Young Pyromancer           | 1R      | 2/1      | Whenever u cast a inst or sorc spell, put a 1/1 red Elemental token into play                                                                                                             |
 |  1 | Phalanx Leader             | WW      | 1/1      | Heroic: when u cast a spell that tgt ~, put a +1c on each creat u control                                                                                                                 |
 |  1 | Tenth District Legionnaire | RW      | 2/2      | Haste -- Whenever u cast a spell that tgt ~: put a +1c on ~ and scry 1                                                                                                                    |
@@ -39,6 +39,7 @@ Feather the Redeemed v0.3
 |  1 | Spellgorger Weird          | 2R      | 2/2      | Whenever u cast a non creat spell, put a +1c on ~                                                                                                                                         |
 |  1 | Monastery Mentor           | 2W      | 2/2      | Prowess (when casting a non creat spell, this creat gets +1/+1 until eot) -- When u cast a non creat spell: put a 1/1 white Monk token w/ prowess into play                               |
 |  1 | Fabled Hero                | 1WW     | 2/2      | Double Strike -- Heroic: Whenever u cast a spell that tgt ~, put a +1c on ~                                                                                                               |
+|  1 | Zada, Hedron Grinder       | 3R      | 3/3      | Whenever u cast an inst or sorc that tgt ~, copy that spell for each creat u control that could be tgt by it; each copy tgt a diff one of these creats                                    |
 |  1 | Labyrinth Champion         | 3R      | 2/2      | Heroic: Whenever u cast a spell that tgt ~, ~ deals 2 damage to tgt any target                                                                                                            |
 |  1 | Mirrorwing Dragon          | 3RR     | 4/5 fly  | When a player cast a spell that tgt only ~, that player copy that spell for each other creat he control that can be tgt by it; each copy tgt a diff one of those creatures                |
 |    |                            |         |          |                                                                                                                                                                                           |
@@ -65,7 +66,6 @@ Feather the Redeemed v0.3
 |    | *Spell: Aggro*             |         |          |                                                                                                                                                                                           |
 |  1 | Samut's Sprint             | R       | inst     | Tgt creat gets +2/+1 and haste until eot, scry 1                                                                                                                                          |
 |  1 | Launch the Fleet           | W       | sorc     | Strive (cost one more to cast for each tgt beyond the first one) -- Until eot, any # of tgt creat gain: "Whenever this creat attacks, put a 1/1 White Soldier token tapped and attacking" |
-|  1 | Battlefield Promotion      | 1W      | inst     | Put a +1c on tgt creat; that creat gains first strike until eot, u gain 2 life                                                                                                            |
 |  1 | Soul's Fire                | 2R      | inst     | Tgt creat u control deals damage equal to its power to tgt creat or player                                                                                                                |
 |  1 | Impact Resonance           | 1R      | inst     | ~ deals X damage divided as u choose amongst any # of tgt creats, where X is the greatest damage dealt by a source to a perm or player this turn                                          |
 |  1 | Rally the Righteous        | 1RW     | inst     | Radiance: untap tgt creat and each creat that share a color w/ it; those creats gets +2/+0 until eot                                                                                      |
@@ -106,6 +106,10 @@ Feather the Redeemed v0.3
 | 13 | Plains                     |         | bas land |                                                                                                                                                                                           |
 | 12 | Mountains                  |         | bas land |                                                                                                                                                                                           |
 |----+----------------------------+---------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.3*        |         |          |                                                                                                                                                                                           |
+|    | Battlefield Promotion      | 1W      | inst     | Put a +1c on tgt creat; that creat gains first strike until eot, u gain 2 life                                                                                                            |
+|    | Aurelia, the Warleader     | 2RRWW   | 3/4 fly  | Vigilance, haste -- When attacks for the first time each turn: untap all creat u control; after this phase, there's an additional combat phase                                            |
+|    |                            |         |          |                                                                                                                                                                                           |
 |    | *Removed from v0.2*        |         |          |                                                                                                                                                                                           |
 |    | Valor Made Real            | W       | inst     | Tgt creat can block any # of creatures this turn                                                                                                                                          |
 |    | Armillary Sphere           | 2       | art      | 2, t, sacr ~: search for 2 basic land, and put them into hand                                                                                                                             |
@@ -123,7 +127,6 @@ Feather the Redeemed v0.3
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *To put in the deck*       |         |          |                                                                                                                                                                                           |
 |  * | Dire Fleet Daredevil       | 1R      | 2/1      | First strike -- When enters, u may exile tgt inst or sorc from tgt opp's graveyard, u may cast that card this turn, while spending mana of any color for it; if u cast it, exile it       |
-|  * | Akroan Crusader            | R       | 1/1      | Heroic: When u cast a spell that tgt ~, put a 1/1 red soldier w/ haste into play                                                                                                          |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Also being considered*    |         |          |                                                                                                                                                                                           |
 |  * | Favored Hoplite            | W       | 1/2      | Heroic: when u cast a spell that tgt ~, put a +1c on ~, and prevent all damage that would be dealt to him this turn                                                                       |
@@ -134,7 +137,6 @@ Feather the Redeemed v0.3
 |  * | Goblin Dark-Dwellers       | 3RR     | 4/4      | Menace -- When ~ enters: u may cast a inst or sorc w/ CMC 3 or less w/o paying its mana cost, if put to graveyard, exile it instead                                                       |
 |  * | Dreadhorde Arcanist        | 1R      | 1/3      | Trample -- Whenever ~ attacks, u may cast inst or sorc from ur graveyard w/ CMC less than ~ w/o paying its mana cost, if put to graveyard, exile it instead                               |
 |  * | Chaos Warp                 | 2R      | inst     | Owner of tgt perm shuffle it to lib, then reveal top card of lib, if it's a perm, put it onto the battlefield                                                                             |
-|  * | Zada, Hedron Grinder       | 3R      | 3/3      | Whenever u cast an inst or sorc that tgt ~, copy that spell for each creat u control that could be tgt by it; each copy tgt a diff one of these creats                                    |
 |  * | Shelter                    | 1W      | inst     | Tgt creat u control gains prot from the color of ur choice until eot -- Draw a card                                                                                                       |
 |  * | Isochron Scepter           | 2       | art      | Imprint (exile inst from hand w/ CMC 2 or less) -- 2, t: u may copy the exile card and cast the copy w/o paying its CMC                                                                   |
 |    | Oracle of Bones            | 2RR     | 3/1      | Haste -- Tribute 2 (an opp of ur choice may put two +1c on him) -- When enters if tribute wasn't paid: u may cast an inst or sorc from ur hand w/o paying its mana cost                   |
@@ -174,6 +176,13 @@ Card to still add:
 + Akroan Crusader
 ...
 + Favored Hoplite
+
+v0.3 -> v0.4:
+-------------
++ Akroan Crusader
++ Zada, Hedron Grider
+- Battlefield Promotion
+- Aurelia the Warleader
 
 v0.2 -> v0.3:
 -------------
