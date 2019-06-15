@@ -1,10 +1,30 @@
-Oloro:
-- Command the Dreadhorde
++ Smuggler's Copter
++ Sunbird's Invocation
++ Hapatra, Vizier of Poisons
++ Dictate of Erebos
++ Neheb the Worthy 
++ Crypt of Agadeem
++ Balthor the Defiled
+
 Nekusar:
 - Nicol Bolas, Planeswalker
 - Mikokoro, Center of the Sea
 - Geier Reach Sanitarium
 - Library of Leng
+- Talisman of Dominance
+- Talisman of Indulgence
+- Gilded Lotus
+- Mana Geyser
+- Kederekt Parasite
+- Faith of the Devoted
+- Teferi's Puzzle Box
+- Wings of Change
+- Wheel and Deal
+- The Locus God
+- Archfiend of Ifnir
+- Chasm Skulker
+- Mizzix's Mastery
+- Phyrexian Tyranny
 Muldrotha:
 - Muldrotha, the Gravetide
 Arcades:
@@ -62,6 +82,13 @@ Additional:
 - Deathsprout
 - Tendershoot Dryad x2 (Emmara + Sacr deck)
 - Nath of the Gilt-Leaf
+- Jodah, Archmage Eternal
+- Vivien, Champion of the Wilds (while still cheap)
+- Sisay, Weatherlight Captain
+- Lightning Coil
+- Soothsaying
+
+------------------------------------------------------
 
 
 https://deckstats.net/decks/82803/905433--list-the-best-targeted-creatu/en
