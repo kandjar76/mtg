@@ -16,8 +16,6 @@ Nekusar:
 - Gilded Lotus
 - Mana Geyser
 - Kederekt Parasite
-- Faith of the Devoted
-- Teferi's Puzzle Box
 - Wings of Change
 - Wheel and Deal
 - The Locus God
@@ -25,15 +23,12 @@ Nekusar:
 - Chasm Skulker
 - Mizzix's Mastery
 - Phyrexian Tyranny
-Muldrotha:
-- Muldrotha, the Gravetide
 Arcades:
 - Slaughter the Strong
 - Wave of Reckoning
 - Fell the Mighty
 - Faith's Reward
 - Colfenor's Urn
-- Assault Formation
 - Sight of the Scalelords
 - Tetsuko Umezawa, Fugitive
 - Panharmonicon *X!!
@@ -42,9 +37,6 @@ Arcades:
 - Wall of Mulch
 - Wall of Blossoms
 - Carven Caryatid
-- Jungle Barrier
-- Orator of Ojutai
-- Overgrown Battlement
 - Sylvan Caryatid
 - Jeskai Barricade
 - Sidar Kondo of Jamuraa (if cheap)
@@ -52,17 +44,15 @@ Arcades:
 - Meekstone ?
 - Dusk // Dawn
 - Reveillark (if cheap)
-- Mnemonic Wall
 - Ghostly Flicker
 - Sunscape Familiar
 - Heroic Intervention (??)
 
 For sacr/recurring deck:
-- Tattered Mummy 
+- Avenger of Zendikar
+- Meren
 
 For Feather:
-- Zada, Hedron Grinder
-- Akroan Crusader
 - Shelter
 
 Great Red card, worth having at least one copy!
@@ -71,7 +61,6 @@ Great Red card, worth having at least one copy!
 Prime Speaker Zenaga:
 - Hadana's Climb
 - Altered Ego
-- Rishkar, Peema Renegade
 - Mystic Snake
 - Chasm Skulker
 
