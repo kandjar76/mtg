@@ -1,12 +1,13 @@
-Saheeli The Gifted v0.2:
-[sleeved v0.2]
+Saheeli The Gifted v0.3:
+[sleeved v0.3]
 
 |    | *Commander*                  |                 |           |                                                                                                                                                                                                                            |
 |  1 | Saheeli, the Gifted          | 2UR             | plwkr 4   | +1: Create a 1/1 servo artifact token -- +1: next spell u cast this turn cost 1 less for each art u control as u cast it -- -7: For each art, create a token that's a copy of it, they gain haste, exile the tokens at eot |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
 |    | *Planewalkers 1*             |                 |           |                                                                                                                                                                                                                            |
 |  1 | Tezzeret the Seeker          | 3UU             | plwkr 4   | +1: Untap 2 tgt artifact -- -X: Search lib for an art w/ CMC X or less and put into play -- -5: Artifacts u control become 5/5 creatures until eot                                                                         |
-|  1 | Saheeli Rai                  | 1UR             | plwkr 3   | +1: Scry 1, ~ deals 1 damage to each opp. -- -2: Create a copy of tgt creat or art, it gains art type, exile it a eot -- -7: Search lib for up to 3 art w/ diff name, put them into play                                   |
+|  1 | Saheeli Rai                  | 1UR             | plwkr 3   | +1: Scry 1, ~ deals 1 damage to each opp. -- -2: Create a copy w/ haste of tgt creat or art, it gains art type, exile it a eot -- -7: Search lib for up to 3 art w/ diff name, put them into play                          |
+|  1 | Saheeli, Sublime Artificer   | 1{ur}x2         | plwkr 5   | Whenever u cast a non creat spell, put a 1/1 servo art -- -2: tgt art u control becomes a copy of tgt creat or art u control untli eot, it's an artifact                                                                   |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
 |    | *Ramping 10*                 |                 |           |                                                                                                                                                                                                                            |
 |  1 | Mox Opal                     | 0               | art       | metalcraft: t: add 1 mana any color to mana pool                                                                                                                                                                           |
@@ -38,10 +39,9 @@ Saheeli The Gifted v0.2:
 |  1 | It That Betrays              | 12              | 11/11     | Annihilator 2 -- When an opp sacrs a non token perm, put that card onto the battlefield under ur control                                                                                                                   |
 |  1 | Blightsteel Colossus         | 12              | 11/11     | Trample, Infect, indestructible -- When put to grave from anywhere, shuffle it into lib.                                                                                                                                   |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
-|    | *Draw Engine 5*              |                 |           |                                                                                                                                                                                                                            |
+|    | *Draw Engine 4*              |                 |           |                                                                                                                                                                                                                            |
 |  1 | Nim, the Pain Artist         | UR              | 1/1       | xUR, t: deals X damage to tgt creats, its controller draws X cards                                                                                                                                                         |
 |  1 | Expansion // Explosion       | {ur}x2 // xUURR | inst/inst | Copy tgt inst or sorc w/ CMC 4 or less; u may choose a new tgt // Explosion deals X damage to any tgt. Tgt player draws X cards                                                                                            |
-|  1 | Thirst for Knowledge         | 2U              | inst      | Draw 3 cards, discard 2 unless u discard an art.                                                                                                                                                                           |
 |  1 | Staff of Nim                 | 6               | art       | At beg of your upk, draw a card -- t: deals 1 damage to tgt creat or player                                                                                                                                                |
 |  1 | Niv-Mizzet, Parum            | UUURRR          | 5/5 fly   | Can't be countered -- Whenever u draw, ~ deals 1 to any target -- When a player cast inst or sorc: draw a card.                                                                                                            |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
@@ -53,13 +53,13 @@ Saheeli The Gifted v0.2:
 |  1 | Torpor Orb                   | 2               | art       | Creats enters the battlefield don't cause abilities to trigger                                                                                                                                                             |
 |  1 | Silent Arbiter               | 4               | 1/5       | No more than one creat can attack each combat, no more than one creat can block each combat                                                                                                                                |
 |  1 | Domineering Will             | 3U              | inst      | Tgt player gains control of u to 3 tgt non attacking creats, untap those, they block this turn if able.                                                                                                                    |
+|  1 | God-Pharaoh's Status         | 6               | art       | Spells ur opp control cost 2 more to cast -- Beg ur end step: each opp looses 1 life                                                                                                                      |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
 |    | *Control spell 1*            |                 |           |                                                                                                                                                                                                                            |
 |  1 | Mass Manipulation            | xxUUUU          | sorc      | Gain control of X tgt creats or planeswalkers                                                                                                                                                                              |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
-|    | *Copycats 5*                 |                 |           |                                                                                                                                                                                                                            |
+|    | *Copycats 4*                 |                 |           |                                                                                                                                                                                                                            |
 |  1 | Mizzium Transreliquat        | 3               | art       | 3: becomes copy of tgt art until eot -- 1UR: becomes copy of tgt art and gain this ability                                                                                                                                 |
-|  1 | Clever Impersonator          | 2UU             | 0/0       | You may have ~ enters as a copy of any nonland perm in play                                                                                                                                                                |
 |  1 | Phyrexian Metamorph          | 3{up}           | 0/0 art   | You may have ~ enters as a copy of tgt creature or tgt artifact, it remains an artifact in addition of its other types                                                                                                     |
 |  1 | Rite of Replication          | 2UU             | sorc      | Kicker 5 -- Put copy of tgt creats into play -- if kicked: put 5 copy instead                                                                                                                                              |
 |  1 | Saheeli's Artistry           | 4UU             | sorc      | Choose one or both: create a token that's a copy of tgt art -- create a token that a copy of tgt creat, it's an art in addition of his other types                                                                         |
@@ -114,17 +114,30 @@ Saheeli The Gifted v0.2:
 |    | Sai, Master Thopterist       | 2U              | 1/4 leg   | When u cast an art: create a 1/1 thopter w/ flying -- 1U, sacr 2 arts: draw a card.                                                                                                                                        |
 |    | Jhoira, Weatherlight Captain | 2UR             | 3/3 leg   | Whenever u cast an historic spell, draw a card                                                                                                                                                                             |
 |----+------------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | *Removed from v0.1:*         |                 |           |                                                                                                                                                                                                                            |
+|    | *Removed from v0.2*          |                 |           |                                                                                                                                                                                                                            |
+|    | Clever Impersonator          | 2UU             | 0/0       | You may have ~ enters as a copy of any nonland perm in play                                                                                                                                                                |
+|    | Thirst for Knowledge         | 2U              | inst      | Draw 3 cards, discard 2 unless u discard an art.                                                                                                                                                                           |
+|    |                              |                 |           |                                                                                                                                                                                                                            |
+|    | *Removed from v0.1*          |                 |           |                                                                                                                                                                                                                            |
 |    | Mind Spring                  | xUU             | sorc      | Draw X cards                                                                                                                                                                                                               |
 |    | Treasure Mage                | 2U              | 2/2       | When enters: search for an art with CMC 6+ and put it into your hand                                                                                                                                                       |
 |    | Grand Architect              | 1UU             | 1/3       | Other blue gets +1/+1 -- U: tgt art creat becomes blue -- Tap untap blue creat: add 2 mana tp spend on art spell or ab                                                                                                     |
 |    | Trinket Mage                 | 2U              | 2/2       | When enters: search for an art with CMC 1- and put it into your hand                                                                                                                                                       |
 
+
+
+
++ ??? (draw? Thopter Spy Network?)
++ More draw engine
+
+
+
 v0.2 -> v0.3:
 -------------
 - Thirst for Knowledge
-+ ??? (draw? Thopter Spy Network?)
-
+- Clever Impersonator
++ Saheeli, Sublime Artificer
++ God-Pharaoh's Statue
 
 v0.1 -> v0.2:
 -------------
