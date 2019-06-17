@@ -10,9 +10,9 @@ Feather the Redeemed v0.4
 |  1 | Expedition Map             | 1       | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                                                        |
 |  1 | Runaway Steam-Kin          | 1R      | 1/1      | Whenever u cast a red spell, there's less than 3 +1c on ~: put a +1c on ~. -- Remove 3 +1c from ~: add RRR                                                                                |
 |  1 | Boros Signet               | 2       | art      | 1, t: add RW to mana pool                                                                                                                                                                 |
+|  1 | Talisman of Conviction     | 2       | art      | t: add 1 -- t: add R or W, ~ deals 1 damage to u                                                                                                                                          |
 |  1 | Boros Keyrune              | 3       | art      | t: add R or W -- RW: ~ becomes a 1/1 red/white soldier w/ double strike                                                                                                                   |
 |  1 | Boros Locket               | 3       | art      | t: add R or W -- {rw}x4, t, sacr ~: draw 2 cards                                                                                                                                          |
-|  1 | Spectral Searchlight       | 3       | art      | t: tgt player add 1 mana any color to its mana pool                                                                                                                                       |
 |  1 | Barnished Hart             | 3       | 2/2 art  | 3, sacr ~: search lib for 2 basic land, and put them into play tapped                                                                                                                     |
 |  1 | Thran Dynamo               | 4       | art      | t: add 3                                                                                                                                                                                  |
 |  1 | Smothering Tithe           | 3W      | ench     | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                         |
@@ -44,7 +44,6 @@ Feather the Redeemed v0.4
 |  1 | Mirrorwing Dragon          | 3RR     | 4/5 fly  | When a player cast a spell that tgt only ~, that player copy that spell for each other creat he control that can be tgt by it; each copy tgt a diff one of those creatures                |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell: Cantrip*           |         |          |                                                                                                                                                                                           |
-|  1 | Withstand                  | 2W      | inst     | Prevent next 3 damage that would be dealt to tgt creat or player this turn -- Draw a card                                                                                                 |
 |  1 | Psychotic Fury             | 1R      | inst     | Tgt multiplayer creat gains double until eot -- Draw a card                                                                                                                               |
 |  1 | Crimson Wisps              | R       | inst     | Tgt creat becomes red and gains haste until eot -- Draw a card                                                                                                                            |
 |  1 | Niveous Wisps              | W       | inst     | Tgt creat becomes white and tapped until eot -- Draw a card                                                                                                                               |
@@ -54,7 +53,7 @@ Feather the Redeemed v0.4
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell: Protection*        |         |          |                                                                                                                                                                                           |
 |  1 | Faith's Shield             | W       | inst     | Tgt perm gains protection from the color of ur choice until eot -- Fatehour: if u have 5 or less life, instead you and each perm u control gain protection                                |
-|  1 | Stave Off                  | W       | inst     | Tgt creature gains protection against color of your choice                                                                                                                                |
+|  1 | Gods Willing               | W       | inst     | Tgt creat u control gains prot from color of ur choice, scry 1                                                                                                                            |
 |  1 | Bathe In Light             | 1W      | inst     | Radiance: choose a color, tgt creat and all creat sharing a color with it gain protection from the choosen color until eot                                                                |
 |  1 | Boros Charm                | RW      | inst     | Choose 1: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                                                           |
 |  1 | Ephemeral Shields          | 1W      | inst     | Convoke -- Tgt creat gain indestructible until eot                                                                                                                                        |
@@ -106,6 +105,11 @@ Feather the Redeemed v0.4
 | 13 | Plains                     |         | bas land |                                                                                                                                                                                           |
 | 12 | Mountains                  |         | bas land |                                                                                                                                                                                           |
 |----+----------------------------+---------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0,4*        |         |          |                                                                                                                                                                                           |
+|    | Withstand                  | 2W      | inst     | Prevent next 3 damage that would be dealt to tgt creat or player this turn -- Draw a card                                                                                                 |
+|    | Stave Off                  | W       | inst     | Tgt creature gains protection against color of your choice                                                                                                                                |
+|    | Spectral Searchlight       | 3       | art      | t: tgt player add 1 mana any color to its mana pool                                                                                                                                       |
+|    |                            |         |          |                                                                                                                                                                                           |
 |    | *Removed from v0.3*        |         |          |                                                                                                                                                                                           |
 |    | Battlefield Promotion      | 1W      | inst     | Put a +1c on tgt creat; that creat gains first strike until eot, u gain 2 life                                                                                                            |
 |    | Aurelia, the Warleader     | 2RRWW   | 3/4 fly  | Vigilance, haste -- When attacks for the first time each turn: untap all creat u control; after this phase, there's an additional combat phase                                            |
@@ -176,6 +180,15 @@ Card to still add:
 + Akroan Crusader
 ...
 + Favored Hoplite
+
+v0.4 -> v0.5:
+-------------
++ Gods Willing
++ Talisman of Conviction
++ Fists of Flamme
+- Stave Off
+- Spectral Searchlight
+- Withstand
 
 v0.3 -> v0.4:
 -------------
