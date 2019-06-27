@@ -1,5 +1,5 @@
-Feather the Redeemed v0.4
-[sleeved v0.4]
+Feather the Redeemed v0.6
+[sleeved v0.6]
 
 |    | *Commander 1*              |         |          |                                                                                                                                                                                           |
 |  1 | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
@@ -44,12 +44,12 @@ Feather the Redeemed v0.4
 |  1 | Mirrorwing Dragon          | 3RR     | 4/5 fly  | When a player cast a spell that tgt only ~, that player copy that spell for each other creat he control that can be tgt by it; each copy tgt a diff one of those creatures                |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell: Cantrip*           |         |          |                                                                                                                                                                                           |
-|  1 | Psychotic Fury             | 1R      | inst     | Tgt multiplayer creat gains double until eot -- Draw a card                                                                                                                               |
 |  1 | Crimson Wisps              | R       | inst     | Tgt creat becomes red and gains haste until eot -- Draw a card                                                                                                                            |
 |  1 | Niveous Wisps              | W       | inst     | Tgt creat becomes white and tapped until eot -- Draw a card                                                                                                                               |
 |  1 | Defiant Strike             | W       | inst     | Tgt creat gets +1/+0 until eot -- Draw a card                                                                                                                                             |
+|  1 | Shelter                    | 1W      | inst     | Tgt creat u control gains prot from the color of ur choice until eot -- Draw a card                                                                                                       |
+|  1 | Psychotic Fury             | 1R      | inst     | Tgt multiplayer creat gains double until eot -- Draw a card                                                                                                                               |
 |  1 | Oblation                   | 2W      | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                |
-|  1 | Carom                      | 1W      | inst     | The next 1 damage that would be dealt to this creat is dealt to another tgt creat instead -- Draw a card                                                                                  |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell: Protection*        |         |          |                                                                                                                                                                                           |
 |  1 | Faith's Shield             | W       | inst     | Tgt perm gains protection from the color of ur choice until eot -- Fatehour: if u have 5 or less life, instead you and each perm u control gain protection                                |
@@ -105,6 +105,9 @@ Feather the Redeemed v0.4
 | 13 | Plains                     |         | bas land |                                                                                                                                                                                           |
 | 12 | Mountains                  |         | bas land |                                                                                                                                                                                           |
 |----+----------------------------+---------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.5*        |         |          |                                                                                                                                                                                           |
+|    | Carom                      | 1W      | inst     | The next 1 damage that would be dealt to this creat is dealt to another tgt creat instead -- Draw a card                                                                                  |
+|    |                            |         |          |                                                                                                                                                                                           |
 |    | *Removed from v0,4*        |         |          |                                                                                                                                                                                           |
 |    | Withstand                  | 2W      | inst     | Prevent next 3 damage that would be dealt to tgt creat or player this turn -- Draw a card                                                                                                 |
 |    | Stave Off                  | W       | inst     | Tgt creature gains protection against color of your choice                                                                                                                                |
@@ -141,7 +144,6 @@ Feather the Redeemed v0.4
 |  * | Goblin Dark-Dwellers       | 3RR     | 4/4      | Menace -- When ~ enters: u may cast a inst or sorc w/ CMC 3 or less w/o paying its mana cost, if put to graveyard, exile it instead                                                       |
 |  * | Dreadhorde Arcanist        | 1R      | 1/3      | Trample -- Whenever ~ attacks, u may cast inst or sorc from ur graveyard w/ CMC less than ~ w/o paying its mana cost, if put to graveyard, exile it instead                               |
 |  * | Chaos Warp                 | 2R      | inst     | Owner of tgt perm shuffle it to lib, then reveal top card of lib, if it's a perm, put it onto the battlefield                                                                             |
-|  * | Shelter                    | 1W      | inst     | Tgt creat u control gains prot from the color of ur choice until eot -- Draw a card                                                                                                       |
 |  * | Isochron Scepter           | 2       | art      | Imprint (exile inst from hand w/ CMC 2 or less) -- 2, t: u may copy the exile card and cast the copy w/o paying its CMC                                                                   |
 |    | Oracle of Bones            | 2RR     | 3/1      | Haste -- Tribute 2 (an opp of ur choice may put two +1c on him) -- When enters if tribute wasn't paid: u may cast an inst or sorc from ur hand w/o paying its mana cost                   |
 |  * | Afterlife                  | 2W      | inst     | Destroy tgt creat, it can't be regen, its controller put a 1/1 white spirit token w/ flying into play                                                                                     |
@@ -180,6 +182,11 @@ Card to still add:
 + Akroan Crusader
 ...
 + Favored Hoplite
+
+v0.5 -> v0.6:
+-------------
++ Shelter
+- Carom
 
 v0.4 -> v0.5:
 -------------
