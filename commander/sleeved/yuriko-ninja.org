@@ -19,14 +19,14 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | *Planeswalker 1*           |                  |             |                                                                                                                                                                              |
 | 1 | Jace the Mind Sculptor     | 2UU              | plwkr 3     | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                                                       |
 |   |                            |                  |             |                                                                                                                                                                              |
-|   | *Ninja 4*                  |                  |             |                                                                                                                                                                              |
+|   | *Ninja 5*                  |                  |             |                                                                                                                                                                              |
 | 1 | Mistblade Shinobi          | 2U               | 1/1         | Ninjutsu U -- When deals damage to a player: return tgt creat to owner's hand                                                                                                |
+| 1 | Ingenious Infiltrator      | 2UB              | 2/3         | Ninjutsu UB -- Whenever a ninja u control deals damage to a player, draw a card                                                                                              |
 | 1 | Throat Slitter             | 4B               | 2/2         | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                                                       |
 | 1 | Sakashima's Student        | 2UU              | 0/0         | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                                                             |
 | 1 | Higure, the Still Wind     | 3UU              | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
 |   |                            |                  |             |                                                                                                                                                                              |
-|   | *Sneaker 17*               |                  |             |                                                                                                                                                                              |
-| 1 | Masterful Ninja            | [2B]             | 1/1         | Haste - Reveal ~, ~ is both in hand and on the battlefield until eot. 1B: ~ gets +1/+1 until eot                                                                             |
+|   | *Sneaker 16*               |                  |             |                                                                                                                                                                              |
 | 1 | Tormented Soul             | B                | 1/1         | Can't blocked and is unblockable                                                                                                                                             |
 | 1 | Changeling Outcast         | B                | 1/1         | Changeling -- Can't be blocked, can't block                                                                                                                                  |
 | 1 | Faerie Seer                | U                | 1/1 fly     | When enters: scry 2                                                                                                                                                          |
@@ -189,6 +189,9 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Imperial Seal              | B                | sorc        | Search lib for a card, and put it on top of deck. You loose 2 life                                                                                                           |
 |   | Personal Tutor             | U                | sorc        | Search your deck for an inst or sorc, reveal it, put it on top of the deck                                                                                                   |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v1.5*        |                  |             |                                                                                                                                                                              |
+|   | Masterful Ninja            | [2B]             | 1/1         | Haste - Reveal ~, ~ is both in hand and on the battlefield until eot. 1B: ~ gets +1/+1 until eot                                                                             |
+|   |                            |                  |             |                                                                                                                                                                              |
 |   | *Removed from v1.4*        |                  |             |                                                                                                                                                                              |
 |   | Augury Owl                 | 1U               | 1/1 fly     | When enters: scry 3                                                                                                                                                          |
 |   | Dimir Infiltrator          | UB               | 1/3         | Transmute 1UB -- Unblockable                                                                                                                                                 |
@@ -239,6 +242,11 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Amoeboid Changeling        | 1U               | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
 |   | Cloudstone Curio           | 3                | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
 
+
+v1.5 -> v1.6:
+-------------
++ Ingenious Infiltrator
+- Masterful Ninja
 
 v1.4 -> v1.5:
 -------------
