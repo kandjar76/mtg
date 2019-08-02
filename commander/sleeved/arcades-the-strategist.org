@@ -1,5 +1,5 @@
-Arcades, the Strategist v0.3
-[trial-sleeved v0.3]
+Arcades, the Strategist v0.4
+[sleeved v0.4]
 
 
 |    | *Commander 1*                 |            |             |                                                                                                                                                                                 |
@@ -26,7 +26,7 @@ Arcades, the Strategist v0.3
 |  1 | Lightning Greaves             | 2          | eqp 0       | Eqp creat has shroud and haste                                                                                                                                                  |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *The defenders 26*            |            |             |                                                                                                                                                                                 |
-|  1 | Saruli Caretaker              | G          | 0/3         | Defender -- t, tap an untap creat: add one mana any color                                                                                                                       |
+|  1 | Shield Sphere                 | 0          | 0/6         | Defender -- If block: put a 0/-1 counter on it                                                                                                                                  |
 |  1 | Resolute Watchdog             | W          | 1/3         | Defender -- 1, sacr ~: Tgt creat u control gains indestr until eot                                                                                                              |
 |  1 | Perimeter Captain             | W          | 0/4         | Defender -- When a creat u control w/ defender blocks, u may gain 2 life                                                                                                        |
 |  1 | Wall of Runes                 | U          | 0/4         | Defender -- When enters: scry 1                                                                                                                                                 |
@@ -76,11 +76,11 @@ Arcades, the Strategist v0.3
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Single Target Removal 3*     |            |             |                                                                                                                                                                                 |
 |  1 | Swords to Plowshares          | W          | inst        | Exile tgt creat, its controller gain life eqp to its power                                                                                                                      |
-|  1 | Oblivion Ring                 | 2W         | ench        | When enter: exile non land perm -- When leave: return it to play                                                                                                                |
+|  1 | Generous Gift                 | 2W         | inst        | Destroy tgt non land permanent, it's controller put a 3/3 elephant.                                                                                                             |
 |  1 | Crib Swag                     | 2W         | inst        | Changeling -- Exile tgt creature, its controller put a 1/1 colorless changeling into play                                                                                       |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Counter spells 3*            |            |             |                                                                                                                                                                                 |
-|  1 | Cancel                        | 1UU        | inst        | Counter tgt spell                                                                                                                                                               |
+|  1 | Counterspell                  | UU         | inst        | Counter target spell                                                                                                                                                            |
 |  1 | Render Silent                 | WUU        | inst        | Counter tgt spell -- its controller can't cast spell this turn                                                                                                                  |
 |  1 | Dovin's Veto                  | WU         | inst        | Can't be counter -- Counter tgt non creat spell                                                                                                                                 |
 |    |                               |            |             |                                                                                                                                                                                 |
@@ -109,24 +109,29 @@ Arcades, the Strategist v0.3
 | 10 | Forest                        |            | bas land    |                                                                                                                                                                                 |
 |  6 | Island                        |            | bas land    |                                                                                                                                                                                 |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.3*           |            |             |                                                                                                                                                                                 |
+|    | Oblivion Ring                 | 2W         | ench        | When enter: exile non land perm -- When leave: return it to play                                                                                                                |
+|    | Saruli Caretaker              | G          | 0/3         | Defender -- t, tap an untap creat: add one mana any color                                                                                                                       |
+|    | Cancel                        | 1UU        | inst        | Counter tgt spell                                                                                                                                                               |
+|    |                               |            |             |                                                                                                                                                                                 |
 |    | *Removed from v0.2*           |            |             |                                                                                                                                                                                 |
-|  1 | Rally to Battle               | 3W         | inst        | Creats u control get +1/+3 until eot, untap them                                                                                                                                |
-|  1 | Doorkeeper                    | 1U         | 0/4         | Defender -- 2U, t: tgt player mills X card where X is # creats w/ defender u control                                                                                            |
+|    | Rally to Battle               | 3W         | inst        | Creats u control get +1/+3 until eot, untap them                                                                                                                                |
+|    | Doorkeeper                    | 1U         | 0/4         | Defender -- 2U, t: tgt player mills X card where X is # creats w/ defender u control                                                                                            |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Removed from v0.1*           |            |             |                                                                                                                                                                                 |
-|  1 | No Escape                     | 2U         | inst        | Counter tgt creat/planeswalker, if countered this way, exile the spell -- scry 1                                                                                                |
-|  1 | Disdainful Stroke             | 1U         | inst        | Counter tgt spell w/ CMC 4 or greater                                                                                                                                           |
-|  1 | Mystic Confluence             | 3UU        | inst        | Choose 3: counter tgt spell unless its controller pays 3 OR return tgt creat to owner's hand OR draw a card                                                                     |
-|  1 | Plains                        |            | bas land    |                                                                                                                                                                                 |
-|  1 | Forest                        |            | bas land    |                                                                                                                                                                                 |
-|  1 | Island                        |            | bas land    |                                                                                                                                                                                 |
+|    | No Escape                     | 2U         | inst        | Counter tgt creat/planeswalker, if countered this way, exile the spell -- scry 1                                                                                                |
+|    | Disdainful Stroke             | 1U         | inst        | Counter tgt spell w/ CMC 4 or greater                                                                                                                                           |
+|    | Mystic Confluence             | 3UU        | inst        | Choose 3: counter tgt spell unless its controller pays 3 OR return tgt creat to owner's hand OR draw a card                                                                     |
+|    | Plains                        |            | bas land    |                                                                                                                                                                                 |
+|    | Forest                        |            | bas land    |                                                                                                                                                                                 |
+|    | Island                        |            | bas land    |                                                                                                                                                                                 |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |                               |            |             |                                                                                                                                                                                 |
 |  * | Sylvan Caryatid               | 1G         | 0/3         | Defender, hexproof -- t: add 1 mana any color to ur mana pool                                                                                                                   |
 |  * | Stalwart Shield-Bearers       | 1W         | 0/3         | Defender -- Other defenders gets +0/+2                                                                                                                                          |
 |  * | Sunscape Familiar             | 1W         | 0/3         | Defender -- Green and Blue spells cost 1 less to cast                                                                                                                           |
 |  * | Wave of Reckoning             | 4W         | sorc        | Each creat deals damage to itself equal to its power                                                                                                                            |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    |                               |            |             |                                                                                                                                                                                 |
 |    | Simic Signet                  | 2          | art         | 1, t: add GU                                                                                                                                                                    |
 |    |                               |            |             |                                                                                                                                                                                 |
 |  - | Huatli, the Sun's Heart       | 2{gw}      | plwkr 7     | Creats u control assigns combat damage eq to their toughness -- -3: You gain life eq to the greatest toughness amongst creats u control                                         |
@@ -164,6 +169,15 @@ To consider:
 - Hornet Nest
 + Sylvan Caryatid
 
+
+v0.3 -> v0.4:
+-------------
+- Oblivion Ring
++ Generous Gift
+- Cancel
++ Counterspell
+- Saruli Caretaker
++ Shield Sphere
 
 v0.2 -> v0.3:
 -------------
