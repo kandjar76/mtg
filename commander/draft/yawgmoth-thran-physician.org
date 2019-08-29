@@ -1,3 +1,10 @@
+Yawgmoth, Thran Physician v0.2
+[sleeved v0.2]
+
+Missing: 
+- Kokusho, the Evening Star
+
+
 |    | *Commander 1*                |        |         |                                                                                                                                                                                                                       |
 |  1 | Yawgmoth, Thran Physician    | 2BB    | 2/4     | Prot from human -- Pay 1 life, sacr a creat: tgt creature get -1c and draw a card -- BB, discard: Proliferate                                                                                                         |
 |    |                              |        |         |                                                                                                                                                                                                                       |
@@ -6,7 +13,7 @@
 |  1 | Ob Nixilis of the Black Oath | 3BB    | plwkr 3 | +2: each opp looses 1 life, u gain life equal to total life loss -- -2: put a 5/5 black demon w/ flying, u loose 2 life -- -8: Emblem: "1B: sacr a creat, u gain X life and draw X cards where X is sacr creat power" |
 |  1 | Liliana, Dreadhorde General  | 4BB    | plwkr 6 | Whenever a creat u control die: draw a card -- +1: Create a 2/2 black zombie -- -4: Each player sacr 2 creatures -- -9: Each opp choose a perm they control of each perm type and sacr the rest                       |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *Mana ramp 12*               |        |         |                                                                                                                                                                                                                       |
+|    | *Mana ramp 13*               |        |         |                                                                                                                                                                                                                       |
 |  1 | Everflowing Chalice          | 0      | art     | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                                                                       |
 |  1 | Sol Ring                     | 1      | art     | t: add 2 to mana pool                                                                                                                                                                                                 |
 |  1 | Dark Ritual                  | B      | inst    | Add BBB                                                                                                                                                                                                               |
@@ -14,6 +21,7 @@
 |  1 | Charcoal Diamond             | 2      | art     | Enters tapped -- t: add B                                                                                                                                                                                             |
 |  1 | Prismatic Lens               | 2      | art     | t: add 1 -- 1, t: add mana any one color                                                                                                                                                                              |
 |  1 | Burnished Hart               | 3      | 2/2     | 3, sacr it: Search lib for up to two basic land, put them into play tapped                                                                                                                                            |
+|  1 | Ashnod's Altar               | 3      | art     | Sacr a creat: add 2 to mana pool                                                                                                                                                                                      |
 |  1 | Thran Dynamo                 | 4      | art     | t: add 3                                                                                                                                                                                                              |
 |  1 | Solemn Simulacrum            | 4      | 2/2     | When enters: search basic land put into play tapped -- When leave: draw                                                                                                                                               |
 |  1 | Crypt Ghast                  | 3B     | 2/2     | Extort -- When u tap a swamp for mana, add an additional B                                                                                                                                                            |
@@ -23,9 +31,8 @@
 |    | *Equip 1*                    |        |         |                                                                                                                                                                                                                       |
 |  1 | Lightning Greaves            | 2      | eqp 0   | Eqp creat gets shroud and haste                                                                                                                                                                                       |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *Easy sacr tgt 3*            |        |         |                                                                                                                                                                                                                       |
+|    | *Easy sacr tgt 2*            |        |         |                                                                                                                                                                                                                       |
 |  1 | Reassembling Skeleton        | 1B     | 1/1     | 1B: Return ~ to the battlefield tapped                                                                                                                                                                                |
-|  1 | Geralf's Messenger           | BBB    | 3/2     | Undying -- When enters: tgt opp looses 2 life                                                                                                                                                                         |
 |  1 | Gravecrawler                 | B      | 2/1     | Can't block -- U may cast ~ from the graveyard if u control a zombie                                                                                                                                                  |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Counter Combo 2*            |        |         |                                                                                                                                                                                                                       |
@@ -38,9 +45,8 @@
 |  1 | Zulaport Cutthroat           | 1B     | 1/1     | When ~ or another creat dies, each player looses 1 life,and u gain 1 life                                                                                                                                             |
 |  1 | Vindictive Vampire           | 3B     | 2/3     | When another creat or contol dies, ~ deals 1 damage to each opp and u gain 1 life                                                                                                                                     |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *More Sacr outlet 2*         |        |         |                                                                                                                                                                                                                       |
+|    | *More Sacr outlet 1*         |        |         |                                                                                                                                                                                                                       |
 |  1 | Priest of Forgotten Gods     | 1B     | 1/2     | t, sacr 2 other creatures: any number of tgt players, each looses 2 life and sacr a creat.  You add BB and draw a card                                                                                                |
-|  1 | Bontu the Glorified          | 2B     | 4/6     | Menace, indestructible -- Can't attack or block unless a creat u control died this turn -- 1B, sacr a creat: Scry 1, each opp looses a life, u gain 1                                                                 |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *True cost of Sacrifice 3*   |        |         |                                                                                                                                                                                                                       |
 |  1 | Grave Pact                   | 1BBB   | ench    | Whenever a creat u control dies, each other player sacr a creat                                                                                                                                                       |
@@ -69,15 +75,16 @@
 |  1 | Demonic Tutor                | 1B     | sorc    | Search your lib for a card and put it in your hand                                                                                                                                                                    |
 |  1 | Mausoleum Secrets            | 1B     | inst    | Undergrowth -- Search lib for a black card w/ CMC less or eq than the # of creat in ur graveyard                                                                                                                      |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *Threats 5*                  |        |         |                                                                                                                                                                                                                       |
-|  1 | Abyssal Persecutor           | 2BB    | 6/6 fly | U can't win and ur opp can't loose the game                                                                                                                                                                           |
+|    | *Threats 6*                  |        |         |                                                                                                                                                                                                                       |
 |  1 | Phyrexian Obliterator        | BBBB   | 5/5     | Trample, when a source deals damage to ~, that source controller sacr that many permanent.                                                                                                                            |
+|  1 | Skithiryx, the Blight Dragon | 3BB    | 4/4 fly | Infect -- B: gain haste until eot -- BB: regen ~                                                                                                                                                                      |
+|  * | Kokusho, the Evening Star    | 4BB    | 5/5 fly | When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.                                                                                                       |
 |  1 | Sepulchral Primordial        | 5BB    | 5/4 int | When enter, for each opp, put a creature card from their graveyard into play under your control                                                                                                                       |
 |  1 | Sheoldred, Whispering One    | 5BB    | 6/6     | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                                                                             |
 |  1 | Vilis, Broker of Blood       | 5BBB   | 8/8 fly | B, pay 2 life: tgt creat gets -1/-1 until eot -- Whenever u pay life: draw that many cards                                                                                                                            |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Graveyard playground 2*     |        |         |                                                                                                                                                                                                                       |
-|  1 | Aid the Fallen               | 1B     | sorc    | Choose 1 or both: Return tgt creat from grave to hand OR Return tgt planeswalker from graveyard to hand                                                                                                               |
+|  1 | Whip of Erebos               | 2BB    | art     | Creats u control have lifelink -- 2BB, t: return tgt creat from your graveyard to the battefield, exile it when it leaves the battlefield                                                                             |
 |  1 | Victimize                    | 2B     | sorc    | Choose two tgt creat in ur graveyard. Sacr a creat, if u do, return the choosen card to play tapped                                                                                                                   |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Single Tgt Removal 5*       |        |         |                                                                                                                                                                                                                       |
@@ -105,7 +112,18 @@
 | 31 | Swamp                        |        |         |                                                                                                                                                                                                                       |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |----+------------------------------+--------+---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.1*          |        |         |                                                                                                                                                                                                                       |
+|    | Aid the Fallen               | 1B     | sorc    | Choose 1 or both: Return tgt creat from grave to hand OR Return tgt planeswalker from graveyard to hand                                                                                                               |
+|    | Bontu the Glorified          | 2B     | 4/6     | Menace, indestructible -- Can't attack or block unless a creat u control died this turn -- 1B, sacr a creat: Scry 1, each opp looses a life, u gain 1                                                                 |
+|    | Geralf's Messenger           | BBB    | 3/2     | Undying -- When enters: tgt opp looses 2 life                                                                                                                                                                         |
+|    | Abyssal Persecutor           | 2BB    | 6/6 fly | U can't win and ur opp can't loose the game                                                                                                                                                                           |
+|    |                              |        |         |                                                                                                                                                                                                                       |
+|----+------------------------------+--------+---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Cards to add*               |        |         |                                                                                                                                                                                                                       |
+|    |                              |        |         |                                                                                                                                                                                                                       |
+|    | Sifter of Skulls             | 3B     | 4/3     | Devoid -- When another non token creat u control dies, create a 1/1 colorless Eldrazy onto the battlefield. Is has "Sacr it: add 1 to mana pool"                                                                      |
+|    | Ichor Rats                   | 1BB    | 2/1     | Infect -- When enters, each player gets a poison counter                                                                                                                                                              |
+|    | Perilous Vault               | 4      | art     | 5, t, exile ~: exile all non land permanents                                                                                                                                                                          |
 |    | Pawn of Ulamog               | 1BB    | 2/2     | Whenever ~ of another non-token creat dies, u may create a 0/l eldrazi pawn w/ "sacr: add 1 to mana pool"                                                                                                             |
 |    | Butcher Ghoul                | 1B     | 1/1     | Undying                                                                                                                                                                                                               |
 |    | Bloodghast                   | 1B     | 2/1     | Can't block -- Gain haste if life is 10 or less -- Landfall: if in graveyard, u may put him into play                                                                                                                 |
@@ -155,3 +173,19 @@
 |    | Prismatic Talisman           | 3      | art     | t: add 1 mana, gain 1 life                                                                                                                                                                                            |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 
+
+v0.1 -> v0.2:
+-------------
+- Aid the Fallen
++ Whip of Erebos
+- Bontu the Glorified
++ Ashnod's Altar
+- Geralf's Messenger
++ Skithiryx, the Blight Dragon
+- Abyssal Persecutor
++ Kokusho, the Evening Star
+
+Version 0.1:
+------------
+Deck was really fun to play with and turned out really good to keep the board clear, especially when "Dictatos of Erebos" or "Grave Pact" was in play.
+Main issue was the life...
