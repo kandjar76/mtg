@@ -130,6 +130,13 @@ Saheeli The Gifted v0.3:
 + ??? (draw? Thopter Spy Network?)
 + More draw engine
 
+Version 0.3:
+------------
+Played the deck at a commander event, it was a lot of fun, some cards shined:
+  [Saheeli's Artistry / Saheeli Rai]  -> Myr Battlesphere
+
+The deck would benefits from more draw engine.
+Also, it's weak against flying creature which makes it hard to defend Saheeli.
 
 
 v0.2 -> v0.3:
