@@ -153,7 +153,7 @@ Kadena, Slinking Sorcerer v1.2
 |   | *To consider*                 |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Quicksilver Dragon            | 4UU       | 5/5 fly  | Morph 4U -- U: change tgt of tgt spell targetting only ~ to another tgt                                                                                                                                                                                |
 | 1 | Counterspell                  | UU        | inst     | Counter tgt spell                                                                                                                                                                                                                                      |
-| 1 | Torpor Orb                    | 2         | art      | Creatures entering battlefield don't cause abilities to trigger                                                                                                                                                                                        |
+| x | Torpor Orb                    | 2         | art      | Creatures entering battlefield don't cause abilities to trigger                                                                                                                                                                                        |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Dulcet Sirens                 | 2U        | 1/3      | Morph U -- t: tgt creature attack tgt opp if able                                                                                                                                                                                                      |
 | 1 | Ruthless Ripper               | B         | 1/1      | Morph: reveal a black card -- Deathtouch -- When turned face up: tgt player loses 2 life                                                                                                                                                               |
@@ -163,6 +163,35 @@ Kadena, Slinking Sorcerer v1.2
 | 1 | Villainous Wealth             | xBGU      | sorc     | Tgt opp exile top X card of his lib. You may cast any # of cards w/ CMC X or less w/o paying their mana cost.                                                                                                                                          |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Tribute Mage                  | 2U        | 2/2      | When ~ enters: you may search you lib for an art w/ CMC 2, put it into hand                                                                                                                                                                            |
+
+
+v1.2 -> v1.3: (in progress)
+-------------
++ Zendikar Resurgent
+- Guardian Project
++ Land upgrade?
++ More search?
+- ???
+
+Version v1.2:
+-------------
+Super fun deck still, love the morph ability.
+
+Strionic Resonator is quite strong in this deck
+Also Kheru Spellsnatcher and Chromeshell Crab were super good.
+I used "Kheru Spellsnatcher" to take "Zendikar Resurgent" which was insanely good!!
+
+Having an extra search (Demonic Tutor or Beseech the Queen) would be good.
+However what needs to go in the deck is: "Zendikar Resurgent" once I had it on my side of the field, its effect was too good.
+
+I'm not sure if I like: "Trail of Mystery"; that said, it was mostly coz I couldn't drop more than one land a turn...
+It's still good to thin the deck I think.
+
+Additional information:
+-----------------------
+Torpor Orb is a TERRIBLE CARD for this deck.
+Although it's true that morph ability is not an ETB; the commander itself has ETB triggers when a face down creature enters!
+
 
 v1.1 -> v1.2:
 -------------
