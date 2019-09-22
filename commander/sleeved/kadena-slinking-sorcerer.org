@@ -1,5 +1,5 @@
-Kadena, Slinking Sorcerer v1.2
-[sleeved: v1.2]
+Kadena, Slinking Sorcerer v1.3
+[sleeved: v1.3]
 
 |   | *Commander*                   |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Kadena, Slinking Sorcerer     | 1GBU      | 3/3      | First face-down creature u cast each turn cost 3 less -- When a face-down creat enters under u control: draw a card                                                                                                                                    |
@@ -94,7 +94,6 @@ Kadena, Slinking Sorcerer v1.2
 | 1 | Yavimaya Coast                |           | land     | t: add 1 -- t: add G or U, ~ deals 1 damage to u                                                                                                                                                                                                       |
 | 1 | Bojuka Bog                    |           | land     | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                                                                                                                 |
 | 1 | Evolving Wilds                |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                                                                                        |
-| 1 | Terramorphic Expanse          |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                                                                                        |
 | 1 | Sunken Hollow                 |           | land     | Island/Swamp -- Enters tapped unless u control two or more basic land                                                                                                                                                                                  |
 | 1 | Dimir Guildgate               |           | land     | Enters tapped -- t: add B or U                                                                                                                                                                                                                         |
 | 1 | Golgari Guildgate             |           | land     | Enters tapped -- t: add B or G                                                                                                                                                                                                                         |
@@ -106,6 +105,7 @@ Kadena, Slinking Sorcerer v1.2
 | 1 | Dimir Aqueduct                |           | land     | Enters tapped -- When enters, return a land u control to owner's hand -- t: add UB                                                                                                                                                                     |
 | 1 | Golgari Rot Farm              |           | land     | Enters tapped -- When enters: return a land u control to owner's hand -- t: add GB                                                                                                                                                                     |
 | 1 | Ash Barrens                   |           | land     | Basic landcycling 1 -- t: add 1                                                                                                                                                                                                                        |
+| 1 | Zoetic Cavern                 |           | land     | Morph 2 -- t: add 1                                                                                                                                                                                                                                    |
 | 1 | Tomb of the Spirit Dragon     |           | land     | t: add 1 -- 2, t: you gain 1 life for each colorless creature you control                                                                                                                                                                              |
 | 1 | Reliquary Tower               |           | land     | t: add 1 -- You have no max hand size                                                                                                                                                                                                                  |
 | 1 | Shrine of the Forsaken Gods   |           | land     | t: add 1 -- t: add 2, only spend mana on colorless spell (only if you control 7+ lands)                                                                                                                                                                |
@@ -116,6 +116,9 @@ Kadena, Slinking Sorcerer v1.2
 | 6 | Forest                        |           | bas land |                                                                                                                                                                                                                                                        |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 |---+-------------------------------+-----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v1.2*           |           |          |                                                                                                                                                                                                                                                        |
+|   | Terramorphic Expanse          |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                                                                                        |
+|   |                               |           |          |                                                                                                                                                                                                                                                        |
 |   | *Removed from v1.1*           |           |          |                                                                                                                                                                                                                                                        |
 |   | Thran Dynamo                  | 4         | art      | t: add 3 to mana pool                                                                                                                                                                                                                                  |
 |   | Foul Orchard                  |           | land     | Enters tapped -- t: add B or G                                                                                                                                                                                                                         |
@@ -165,13 +168,18 @@ Kadena, Slinking Sorcerer v1.2
 | 1 | Tribute Mage                  | 2U        | 2/2      | When ~ enters: you may search you lib for an art w/ CMC 2, put it into hand                                                                                                                                                                            |
 
 
-v1.2 -> v1.3: (in progress)
+v1.3 -> v1.4: (in progress)
 -------------
 + Zendikar Resurgent
 - Guardian Project
 + Land upgrade?
 + More search?
 - ???
+
+v1.2 -> v1.3:
+-------------
++ Zoetic Cavern
+- Terramorphic Expanse
 
 Version v1.2:
 -------------
