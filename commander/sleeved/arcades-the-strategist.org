@@ -50,8 +50,8 @@ Arcades, the Strategist v0.4
 |  1 | Cavern Caryatid               | 1GG        | 2/5         | Defender -- When enters: draw a card                                                                                                                                            |
 |  1 | Jungle Barrier                | 2GU        | 2/6         | Defender -- When enters: draw a card                                                                                                                                            |
 |  1 | Tree of Redemption            | 3G         | 0/13        | Defender -- t: exchange ur life and ~'s toughness                                                                                                                               |
+|  1 | Wall of Stolen Identity       | 3G         | 0/0         | Defender -- May enter as a copy of a creature, if so: tap that creature, it doesn't untap as long as u control ~                                                                |
 |  1 | Wall of Reverence             | 3W         | 1/6 fly     | Defender -- Beg end step: gain life eq to power of tgt creat u control                                                                                                          |
-|  1 | Mnemonic Wall                 | 4U         | 0/4         | Defender -- When enters: u may return tgt inst/sorc from u graveyard to hand                                                                                                    |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Battle tricks 4*             |            |             |                                                                                                                                                                                 |
 |  1 | Mizzium Skin                  | U          | inst        | Overload 1U -- Tgt creat u control gets +0/+1 and hexproof until eot                                                                                                            |
@@ -109,6 +109,9 @@ Arcades, the Strategist v0.4
 | 10 | Forest                        |            | bas land    |                                                                                                                                                                                 |
 |  6 | Island                        |            | bas land    |                                                                                                                                                                                 |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.4*           |            |             |                                                                                                                                                                                 |
+|    | Mnemonic Wall                 | 4U         | 0/4         | Defender -- When enters: u may return tgt inst/sorc from u graveyard to hand                                                                                                    |
+|    |                               |            |             |                                                                                                                                                                                 |
 |    | *Removed from v0.3*           |            |             |                                                                                                                                                                                 |
 |    | Oblivion Ring                 | 2W         | ench        | When enter: exile non land perm -- When leave: return it to play                                                                                                                |
 |    | Saruli Caretaker              | G          | 0/3         | Defender -- t, tap an untap creat: add one mana any color                                                                                                                       |
@@ -163,12 +166,18 @@ Arcades, the Strategist v0.4
 |  - | Lignify                       | 1G         | aura        | Ench creat is a 0/4 treefolk w/ no abilities                                                                                                                                    |
 |  - | Steady Arm                    | 1G         | inst        | Untap tgt creat, it gets +1/+4 and reach until eot                                                                                                                              |
 |  - | Neurok Stealthsuit            | 2          | eqp 1       | Eqp creat gains shroud -- UU: attach ~ to tgt creat                                                                                                                             |
-
+|    |                               |            |             |                                                                                                                                                                                 |
+|    |                               |            |             |                                                                                                                                                                                 |
 
 To consider:
 - Hornet Nest
 + Sylvan Caryatid
 
+
+v0.4 -> v0.5:
+-------------
++ Wall of Stolen Identity
+- Mnemonic Wall
 
 v0.3 -> v0.4:
 -------------
