@@ -53,7 +53,7 @@ Saheeli The Gifted v0.3:
 |  1 | Torpor Orb                   | 2               | art       | Creats enters the battlefield don't cause abilities to trigger                                                                                                                                                             |
 |  1 | Silent Arbiter               | 4               | 1/5       | No more than one creat can attack each combat, no more than one creat can block each combat                                                                                                                                |
 |  1 | Domineering Will             | 3U              | inst      | Tgt player gains control of u to 3 tgt non attacking creats, untap those, they block this turn if able.                                                                                                                    |
-|  1 | God-Pharaoh's Status         | 6               | art       | Spells ur opp control cost 2 more to cast -- Beg ur end step: each opp looses 1 life                                                                                                                      |
+|  1 | God-Pharaoh's Status         | 6               | art       | Spells ur opp control cost 2 more to cast -- Beg ur end step: each opp looses 1 life                                                                                                                                       |
 |    |                              |                 |           |                                                                                                                                                                                                                            |
 |    | *Control spell 1*            |                 |           |                                                                                                                                                                                                                            |
 |  1 | Mass Manipulation            | xxUUUU          | sorc      | Gain control of X tgt creats or planeswalkers                                                                                                                                                                              |
@@ -109,6 +109,7 @@ Saheeli The Gifted v0.3:
 | 12 | Island                       |                 | bas land  |                                                                                                                                                                                                                            |
 |----+------------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Considering*                |                 |           |                                                                                                                                                                                                                            |
+|    | Inspiring Statuary           | 3               | art       | Non art spells you cast have improvise (u can tap art to pay to 1).                                                                                                                                                        |
 |    | Retrofitter Foundry          | 1               | art       | 3: untap ~ -- 2, t: create a 1/1 servo token -- 1, t, sacr a servo: create a 1/1 thopter w/ flying -- t, sacr a thopter: create a 4/4 construct                                                                            |
 |    | Thopter Spy Network          | 2UU             | ench      | Beg of upk, if u control a art, put a 1/1 thopter w/ flying -- When an art creat u control deals combat damage to a player, draw a card.                                                                                   |
 |    | Sai, Master Thopterist       | 2U              | 1/4 leg   | When u cast an art: create a 1/1 thopter w/ flying -- 1U, sacr 2 arts: draw a card.                                                                                                                                        |
@@ -129,6 +130,7 @@ Saheeli The Gifted v0.3:
 
 + ??? (draw? Thopter Spy Network?)
 + More draw engine
++ Inspiring Statuary (maybe: -Izzet Locket)
 
 Version 0.3:
 ------------
