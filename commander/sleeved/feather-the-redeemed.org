@@ -171,6 +171,11 @@ Feather the Redeemed v0.6
 |    | Test of Faith              | 1W      | inst     | Prevent next 3 damage that would be dealt to tgt creature; put a +1c on that creat for each damage prevented                                                                              |
 |    | Fall of the Hammer         | 1R      | inst     | Tgt creature u control deals damage equal to its power to another tgt creature                                                                                                            |
 |    | Swift Justice              | W       | inst     | Until eot, tgt creature gets +1/+0, first strike and lifelink                                                                                                                             |
+|    |                            |         |          |                                                                                                                                                                                           |
+|    | Expedite                   | R       | inst     | Tgt creat gains haste until eot, draw a card                                                                                                                                              |
+|    | Fists of Flame             | 1R      | inst     | Draw a card. Until eot, tgt creat gain trample and +1/0 for each card u ve drawn this turn                                                                                                |
+|    | Titan's Strength           | R       | inst     | Tgt creat gets +3/+1 until eot, scry 1                                                                                                                                                    |
+|    |                            |         |          |                                                                                                                                                                                           |
 
 Card to still add:
 -------------------
@@ -182,6 +187,16 @@ Card to still add:
 + Akroan Crusader
 ...
 + Favored Hoplite
+
+v0.6 -> v0.7:
+-------------
++ Expedite ?
++ Fists of Flame
+- ??? Cast Out
+- ??? Expedition Map
+- Madblind Mountain
++ ??? Command Tower
+- Everflowing Chalice
 
 v0.5 -> v0.6:
 -------------
