@@ -4,7 +4,7 @@
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | *Planeswalker 3*           |          |           |                                                                                                                                                                                                          |
 | 1 | Elspeth Tirel              | 3WW      | plwkr 4   | +2: Gain 1 life for each creat u control -- -2: Put three 1/1 soldier into play -- -5: Destroy all other non-land, non-token permanents                                                                  |
-| 1 | Elspeth, Sun's Champion    | 4WW      | plwkr 4   | +1: Create 3 1/1 white soldier tokens -- -3: Destroy all creat w/ pow 4 or greater -- -7: emblem: "Creats u control get +2/+2 and have flying"                                                           |
+| 1 | Elspeth, Sun's Champion    | 4WW      | plwkr 4   | +1: Create three 1/1 white soldier tokens -- -3: Destroy all creat w/ pow 4 or greater -- -7: emblem: "Creats u control get +2/+2 and have flying"                                                       |
 | 1 | Ajani Unyielding           | 4GW      | plwkr 4   | +2: Reveal top 3 cards, put all non land to hand, rest in bottom -- -2: Exile tgt creat, its controller gain life eq to its power -- -9: Put five +1c on creats and 5 loy on each planeswalker u control |
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | *Mana Ramp 10*             |          |           |                                                                                                                                                                                                          |
@@ -46,7 +46,7 @@
 | 1 | Impervious Greatwurm       | 7GGG     | 16/16     | Convoke -- Indestructible                                                                                                                                                                                |
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | *Additional tapper 3*      |          |           |                                                                                                                                                                                                          |
-| 1 | Nature's Choosen           | G        | aura      | Only on creat u control, it gets: "0: untap, only during u turn and only once -- 0: untap tgt art, creat or enchant, only once each turn, only if the enchanted creat is white                           |
+| 1 | Nature's Chosen            | G        | aura      | Only on creat u control, it gets: "0: untap, only during u turn and only once -- 0: untap tgt art, creat or enchant, only once each turn, only if the enchanted creat is white                           |
 | 1 | Ledev Champion             | 1GW      | 2/2       | When attacks: you may tap any number of creatures u control, he gets +X/+X where X is # of tapped creature -- 3GW: create a 1/1 white soldier w/ lifelink                                                |
 | 1 | Glare of Subdual           | 2GW      | ench      | Tap a creat u control: tap tgt creat or artifact                                                                                                                                                         |
 |   |                            |          |           |                                                                                                                                                                                                          |
@@ -73,7 +73,7 @@
 |   | *Token Helper 7*           |          |           |                                                                                                                                                                                                          |
 | 1 | Entreat the Angels         | xxWWW    | sorc      | Miracle: xWW -- Put X 4/4 angel flying into play                                                                                                                                                         |
 | 1 | Legion's Landing           | W        | ench      | When enters: put a 1/1 vamp w/ lifelink -- When attacks w/ 3+ creatures: transform it // land -- t: add W -- 2W, t: create a 1/1 white vamp token w/ lifelink                                            |
-| 1 | Stonnybrook Schoolmaster   | 2W       | 1/2       | When becomes tapped: Create a 1/1 blue merfolk wizard                                                                                                                                                    |
+| 1 | Stonybrook Schoolmaster    | 2W       | 1/2       | When becomes tapped: Create a 1/1 blue merfolk wizard                                                                                                                                                    |
 | 1 | Raise the Alarm            | 1W       | inst      | Put two 1/1 white soldier tokens into play                                                                                                                                                               |
 | 1 | Patrol Signaler            | 1W       | 1/1       | 1W, u: Put a 1/1 white kithkin soldier creature token into play                                                                                                                                          |
 | 1 | Parallel Lives             | 3G       | ench      | If an effect would put one or more token on u side, put twice that many tokens instead                                                                                                                   |
@@ -154,3 +154,12 @@
 | 1 | Angel of Salvation         | 6WW      | 5/5 fly   | Flash, Convoke -- When enters: prevent next 5 damage as divided as you choose amongst any # of tgt creats/players                                                                                        |
 |   |                            |          |           |                                                                                                                                                                                                          |
 
+Tokens:
+
+| 1/1 | W   | Soldier w/ Lifelink     |
+| 1/1 | W   | Soldier                 |
+| 4/4 | W   | Angel w/ Vigilance      |
+| 2/2 | W   | Elf Knight w/ Vigilance |
+| 1/1 | W   | Vampire w/ Lifelink     |
+| 1/1 | W   | Kithkin Soldier         |
+| 8/8 | G/W | Elemental               |
