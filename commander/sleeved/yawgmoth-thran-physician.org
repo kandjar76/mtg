@@ -1,9 +1,6 @@
 Yawgmoth, Thran Physician v0.2
 [sleeved v0.2]
 
-Missing: 
-- Kokusho, the Evening Star
-
 
 |    | *Commander 1*                |        |         |                                                                                                                                                                                                                       |
 |  1 | Yawgmoth, Thran Physician    | 2BB    | 2/4     | Prot from human -- Pay 1 life, sacr a creat: tgt creature get -1c and draw a card -- BB, discard: Proliferate                                                                                                         |
@@ -78,7 +75,7 @@ Missing:
 |    | *Threats 6*                  |        |         |                                                                                                                                                                                                                       |
 |  1 | Phyrexian Obliterator        | BBBB   | 5/5     | Trample, when a source deals damage to ~, that source controller sacr that many permanent.                                                                                                                            |
 |  1 | Skithiryx, the Blight Dragon | 3BB    | 4/4 fly | Infect -- B: gain haste until eot -- BB: regen ~                                                                                                                                                                      |
-|  * | Kokusho, the Evening Star    | 4BB    | 5/5 fly | When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.                                                                                                       |
+|  1 | Kokusho, the Evening Star    | 4BB    | 5/5 fly | When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.                                                                                                       |
 |  1 | Sepulchral Primordial        | 5BB    | 5/4 int | When enter, for each opp, put a creature card from their graveyard into play under your control                                                                                                                       |
 |  1 | Sheoldred, Whispering One    | 5BB    | 6/6     | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                                                                             |
 |  1 | Vilis, Broker of Blood       | 5BBB   | 8/8 fly | B, pay 2 life: tgt creat gets -1/-1 until eot -- Whenever u pay life: draw that many cards                                                                                                                            |
