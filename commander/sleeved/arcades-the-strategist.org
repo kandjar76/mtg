@@ -136,6 +136,7 @@ Arcades, the Strategist v0.4
 |  * | Wave of Reckoning             | 4W         | sorc        | Each creat deals damage to itself equal to its power                                                                                                                            |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Simic Signet                  | 2          | art         | 1, t: add GU                                                                                                                                                                    |
+|    | Retribution of the meek       | 2W         | sorc        | Destroy all creats w/ pow 4 or greater; they can't be regenerated                                                                                                               |
 |    |                               |            |             |                                                                                                                                                                                 |
 |  - | Huatli, the Sun's Heart       | 2{gw}      | plwkr 7     | Creats u control assigns combat damage eq to their toughness -- -3: You gain life eq to the greatest toughness amongst creats u control                                         |
 |  - | Accorder's Shield             | 0          | eqp 3       | Eqp creat gain +0/+3 and vigilance                                                                                                                                              |
@@ -172,6 +173,10 @@ Arcades, the Strategist v0.4
 To consider:
 - Hornet Nest
 + Sylvan Caryatid
+
+To add: 
++ Retribution of the Meek
+- Fell teh Mighty???
 
 
 v0.4 -> v0.5:
