@@ -109,7 +109,9 @@ Saheeli The Gifted v0.3:
 | 12 | Island                       |                 | bas land  |                                                                                                                                                                                                                            |
 |----+------------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *Considering*                |                 |           |                                                                                                                                                                                                                            |
+|    | Tezzeret, Artifice Master    | 3UU             | plwkr 5   | +1: Create a 1/1 thopter artifact w/ flying -- 0: Draw a card, if you control 3 or more art, draw 2 instead -- -9: Emblem: "Beg end step: search lib for a perm and put it in play"                                        |
 |    | Inspiring Statuary           | 3               | art       | Non art spells you cast have improvise (u can tap art to pay to 1).                                                                                                                                                        |
+|    | Akroma's Memorial            | 7               | art       | Creats u control have: fly, first strike, vigilance, trample, haste and pro red/black                                                                                                                                      |
 |    | Retrofitter Foundry          | 1               | art       | 3: untap ~ -- 2, t: create a 1/1 servo token -- 1, t, sacr a servo: create a 1/1 thopter w/ flying -- t, sacr a thopter: create a 4/4 construct                                                                            |
 |    | Thopter Spy Network          | 2UU             | ench      | Beg of upk, if u control a art, put a 1/1 thopter w/ flying -- When an art creat u control deals combat damage to a player, draw a card.                                                                                   |
 |    | Sai, Master Thopterist       | 2U              | 1/4 leg   | When u cast an art: create a 1/1 thopter w/ flying -- 1U, sacr 2 arts: draw a card.                                                                                                                                        |
@@ -131,6 +133,15 @@ Saheeli The Gifted v0.3:
 + ??? (draw? Thopter Spy Network?)
 + More draw engine
 + Inspiring Statuary (maybe: -Izzet Locket)
+
+
+v0.3 -> v0.4:
+-------------
++ Tezzeret, Artifice Master
++ Akroma's Memorial
++ Inspiring Statuary
+- ????
+
 
 Version 0.3:
 ------------
