@@ -1,4 +1,5 @@
-Zedruu, the Greathearted
+Zedruu, the Greathearted v0.1
+[sleeved v0.1]
 
 |   | *Commander 1*                 |            |              |                                                                                                                                                                                                                                         |
 | 1 | Zedruu, the Greathearted      | 1RWU       | 2/4          | At beg of ur upk: gain X life and draw X cards where X is the # of cards u own an opp control -- RWU: tgt opp gains control of tgt perm u control                                                                                       |
@@ -20,6 +21,7 @@ Zedruu, the Greathearted
 | 1 | Counterspell                  | UU         | inst         | Counter tgt spell.                                                                                                                                                                                                                      |
 | 1 | Dovin's Veto                  | WU         | inst         | Can't be countered -- Counter tgt non creature spell                                                                                                                                                                                    |
 | 1 | Wild Ricochet                 | 2RR        | inst         | You may choose new tgt for tgt inst or sorc, then copy the spell, you may choose a new inst for the copy                                                                                                                                |
+| 1 | Sudden Substitution           | 2UU        | inst         | Split second -- Exchange control of tgt perm non creat spell and tgt creature.  Then the spell controller may choose a new tgt for it                                                                                                   |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Draw synergy 2*              |            |              |                                                                                                                                                                                                                                         |
 | 1 | Psychosis Crawler             | 5          | */*          | Power and toughness is eq to # cards in ur hand -- Whenever u draw a card, each opposant loose a life                                                                                                                                   |
@@ -29,10 +31,9 @@ Zedruu, the Greathearted
 | 1 | Agent of Treachery            | 5UU        | 2/3          | When enters: gain control of tgt perm -- Beg end step: if u control 3 perm u don't own, draw 3 cards                                                                                                                                    |
 | 1 | Zealous Conscripts            | 4R         | 3/3          | Haste -- When enters: gain control of tgt perm until eot.  Untap that perm, it gains haste until eot                                                                                                                                    |
 | 1 | Dominus of Fealty             | {ur}x5     | 4/4 fly      | Beg ur upk: you may gain control of tgt perm until eot, if so, untap it and it gains haste until eot                                                                                                                                    |
-| 1 | Sudden Substitution           | 2UU        | inst         | Split second -- Exchange control of tgt perm non creat spell and tgt creature.  Then the spell controller may choose a new tgt for it                                                                                                   |
 | 1 | Role Reversal                 | UUR        | sorc         | Exchange control of two tgt perms that share a perm type                                                                                                                                                                                |
 | 1 | Debt of Loyalty               | 1WW        | inst         | Regenerate tgt creature - if it gets regenerated: gain control of it                                                                                                                                                                    |
-| 1 | Catch // Release              | 1UR // 4RW | sorc // sorc | Fuse -- Gain control of tgt perm until eot. Untap it, it gains haste until eot // Each player sacr an art, a creat, an ench, a land AND a planeswaler                                                                                   |
+| ? | Catch // Release              | 1UR // 4RW | sorc // sorc | Fuse -- Gain control of tgt perm until eot. Untap it, it gains haste until eot // Each player sacr an art, a creat, an ench, a land AND a planeswaler                                                                                   |
 | 1 | Harmless Offering             | 2R         | sorc         | Tgt opp gains control of tgt perm u control                                                                                                                                                                                             |
 | 1 | Donate                        | 2U         | sorc         | Tgt player gains conrtol of tgt perm u control                                                                                                                                                                                          |
 | 1 | Vedalken Plotter              | 2U         | 1/1          | When enters: exchange control of tgt land u control and tgt land an opp control                                                                                                                                                         |
@@ -44,7 +45,7 @@ Zedruu, the Greathearted
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Token to give away 2*        |            |              |                                                                                                                                                                                                                                         |
 | 1 | Kykar, Wind's Fury            | 1URW       | 3/3 fly      | Whenever u cast a non-creature spell, create a 1/1 white spirit token w/ fly. -- Sacr a spirit: add R                                                                                                                                   |
-| 1 | Assemble the Legion           | 3RW        | ench         | Beg upk: put a muster counter on ~, then create a 1/1 red and white soldier token w/ haste for each muster counter on ~                                                                                                                 |
+| ? | Assemble the Legion           | 3RW        | ench         | Beg upk: put a muster counter on ~, then create a 1/1 red and white soldier token w/ haste for each muster counter on ~                                                                                                                 |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Self defense 8*              |            |              |                                                                                                                                                                                                                                         |
 | 1 | Pramikon, Sky Rampart         | URW        | 1/5 fly      | defender -- When enters: choose left or right -- Each player may attack only the nearest opp in the choosen direction and planeswalkers that opponent controls                                                                          |
@@ -67,7 +68,7 @@ Zedruu, the Greathearted
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Single tgt removal 6*        |            |              |                                                                                                                                                                                                                                         |
 | 1 | Swords to Plowshares          | W          | inst         | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                                              |
-| 1 | Electrodominance              | xRR        | inst         | Deals X damage to any tgt.  You may cast a card whose CMC = X or less from ur hand w/o paying its mana cost                                                                                                                             |
+| ? | Electrodominance              | xRR        | inst         | Deals X damage to any tgt.  You may cast a card whose CMC = X or less from ur hand w/o paying its mana cost                                                                                                                             |
 | 1 | Detention Sphere              | 1WU        | ench         | When enters: u may exile tgt perm and all other perm w/ same name.  When leave: return the exiled cards under their owner's control                                                                                                     |
 | 1 | Chaos Warp                    | 2R         | inst         | Owner of tgt perm shuffle it to lib, then reveal top card of lib, if it's a perm, put it onto the battlefield                                                                                                                           |
 | 1 | Oblation                      | 2W         | inst         | The owner of tgt non land perm shuffle it into his lib then draws 2 cards                                                                                                                                                               |
@@ -181,8 +182,50 @@ Zedruu, the Greathearted
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
-|   | Grenzo, Havoc Raizer          | RR         | 2/2          | Whenever a creature u control deals combat damage to a player, choose one: Goad tgt creat that player controls OR Exile top of that player's lib; until eot, u may play that card w/ any color mana                                     |
+| - | Grenzo, Havoc Raizer          | RR         | 2/2          | Whenever a creature u control deals combat damage to a player, choose one: Goad tgt creat that player controls OR Exile top of that player's lib; until eot, u may play that card w/ any color mana                                     |
 |   | Perplexing Chimera            | 4U         | 3/3          | Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell.                                                                                 |
 |   | Thought Lash                  | 2UU        | ench         | Cumul upkeep: exile top card if your lib, if not: exile your library and sacr ~. --  Exile top lib: prevent next 1 damage dealt to u                                                                                                    |
 |   | Crown of Doom                 | 3          | art          | When a creature attacks u or planeswalker u control, it gets +2/+0 -- 2: tgt player other than ~'s owner gain control of it.  Activate only during your turn                                                                            |
+|   | Council's Judgment            | 1WW        | inst         | Will of the Council: Starting with you, each player votes for a non-land permanent you don't control; exile each permanent with the maximum number of votes                                                                             |
+|   | Land Tax                      | W          | ench         | Beg upk: if an opp control more land than you, you may search your lib for up to 3 basic lands and put them into your hand                                                                                                              |
+|   | The Locus God                 | 4UR        | 4/4          | Whenever u draw, create a 1/1 blue and red insect w/ flying and haste -- 2UR: Draw then discard -- When dies: return to hand at beg of next end step                                                                                    |
+|   | Curse of Exhaustion           | 2WW        | ench         | Ench player cannot cast more than one spell each turn.                                                                                                                                                                                  |
+|   | Blood Moon                    | 2R         | ench         | Non-basic lands are mountain                                                                                                                                                                                                            |
+|   | Rewind                        | 2UU        | inst         | Counter tgt spell, untap 4 lands                                                                                                                                                                                                        |
+|   | Glen Elendra Archmage         | 3U         | 2/2 fly      | Persist -- U, sacr her: counter tgt non creat spell                                                                                                                                                                                     |
+|   |                               |            |              |                                                                                                                                                                                                                                         |
+|   | Dockside Extorsionist         | 1R         | 1/2          | When enters: create a treasure token with "t, sacr: add 1 mana any color" for each artifacts your opps control                                                                                                                          |
+|   | Loyal Apprentice              | 1R         | 2/1          | Haste - Lieutenant: beg combat, if u control ur commander, create a 1/1 thopter art token w/ flying. It gain haste until eot                                                                                                            |
 
++ Council's Judjement
++ Crown of Doom
++ Render Silent
++ Dockside Extorsionist
++ Loyal Apprentice
++ 2/3x board wipes....
+
+v0.1 -> v0.2:
+-------------
+- Assembly the Legion
++ The Locus God
+- Norn's Annex
++ Glen Elendra Archmage
+- Wild Ricochet
++ Snapcaster Mage
+- Electrodominance
++ Leyline of Anticipation
+- Puca's Mischief
++ Perplexing Chimera
+- Catch // Release
++ Rewind
+
+Version 0.1:
+------------
+Deck super fun, but needs a lot more answers.
+Needs more instant play.
+-> Counter spells
+-> Leyline of Anticipation
+-> Kill/Exile spells
+-> More board wipes.
+-> Possibly some graveyard recursion... 
+Yeah I know, a lot of work...
