@@ -1,10 +1,11 @@
-Kaalia of the Vast v1.4
+Kaalia of the Vast v1.5
 [sleeved: v1.4]
+
 
 |   | *Commander*                |         |          |                                                                                                                                                                  |
 | 1 | Kaalia of the Vast         | 1WBR    | 2/2 fly  | When ~ attacks: you may put a Angel, Demon or Dragon creat from ur hand onto the battlefield tapped and attacking                                                |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Mana Boost 8*             |         |          |                                                                                                                                                                  |
+|   | *Mana Boost 10*            |         |          |                                                                                                                                                                  |
 | 1 | Everflowing Chalice        | 0       | art      | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                  |
 | 1 | Sol Ring                   | 1       | art      | t: add 2 to mana pool                                                                                                                                            |
 | 1 | Boros Signet               | 2       | art      | 1, t: add RW to mana pool                                                                                                                                        |
@@ -12,94 +13,86 @@ Kaalia of the Vast v1.4
 | 1 | Rakdos Signet              | 2       | art      | 1, t: add BR to mana pool                                                                                                                                        |
 | 1 | Chromatic Lantern          | 3       | art      | Lands u control have: t: add one mana any color to mana pool -- t: add 1 mana any color to mana pool                                                             |
 | 1 | Mardu Banner               | 3       | art      | t: add R, W, or B -- RWB, t, sacr it: draw a card.                                                                                                               |
-| - | Solemn Simulacrum          | 4       | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
 | + | Talisman of Hierarchy      | 2       | art      | t: add 1 -- t: add W or B, ~ deals 1 damage to you                                                                                                               |
 | + | Talisman of Conviction     | 2       | art      | t: add 1 -- t: add R or W, ~ deals 1 damage to you                                                                                                               |
 | + | Smothering Tithe           | 3W      | ench     | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Angels 14*                |         |          |                                                                                                                                                                  |
+|   | *Planeswalker 1*           |         |          |                                                                                                                                                                  |
+| + | Nahiri, the Harbinger      | 2RW     | plnwk 4  | +2: u may discard, if u do, draw -- -2: exile tgt art, ench or tapped creat -- -8: search lib for a creat and put it into play, has haste, return to hand at eot |
+|   |                            |         |          |                                                                                                                                                                  |
+|   | *Angels 11*                |         |          |                                                                                                                                                                  |
 | 1 | Archangel of Thune         | 3WW     | 3/4 fly  | Lifelink -- When you gain life, put a +1c on each creat u control                                                                                                |
-| 1 | Baneslayer Angel           | 3WW     | 5/5 fly  | First strike, lifelink, pro demon, pro dragon                                                                                                                    |
 | 1 | Archangel Avacyn           | 3WW     | 4/4 fly  | Flash, vigilance -- When enters: creats u control are indest until eot -- When a non angel dies, transform ~ nxt upk: 6/5, trans: deals 3 dam all creats/players |
-| - | Adarkar Valkyrie           | 4WW     | 4/5 fly  | Vigilance -- t: if tgt creat other than ~ is put to the graveyard this turn, return it to play under ur control                                                  |
-| - | Angelic Skirmisher         | 4WW     | 4/4 fly  | Beg each combat: choose first strike, vig, lifelink, creats u control gain that ability until eot                                                                |
 | 1 | Twilight Shepherd          | 3WWW    | 5/5 fly  | Vigilance -- When enters: return to hand all cards in the graveyard put there from play this turn -- Persist                                                     |
 | 1 | Aurelia, the Warleader     | 2RRWW   | 3/4 fly  | Vigilance, Haste -- When attack first time each turn: untap all creat u control, after this, there's addition combat phase                                       |
-| - | Angelic Arbiter            | 5WW     | 5/6 fly  | Each opp who cast spell can't attack w/ creatures -- Each opp who attack w/ creature can't cast spell                                                            |
-| - | Tariel, Reckoner of Souls  | 4WBR    | 4/7 fly  | Vigilance -- t: choose a creat card at random from tgt opp graveyard, put it into play under ur control                                                          |
 | 1 | Gisela, Blade of Goldnight | 4RWW    | 5/5 fly  | First strike -- When src deals damage to u, deals half that damage -- When src deals damage an opp: deals twice that damage                                      |
-| - | Angel of Serenity          | 4WWW    | 5/6 fly  | When enters: you exile up to 3 tgt creatures from play or graveyard -- When leave: return exiled creatures to owner's hand                                       |
 | 1 | Angel of Despair           | 3WWBB   | 5/5 fly  | When enters: destroy tgt perm                                                                                                                                    |
-| - | Akroma, Angel of Fury      | 5RRR    | 6/6 fly  | Can't be countered -- Trample, pro white, pro blue -- R: ~ gets +1/0 until eot -- Morph 3RRR                                                                     |
-| - | Reya Dawnbringer           | 6WWW    | 4/6 fly  | Beg upk: return tgt creat from ur graveyard to play                                                                                                              |
 | + | Sephara, Sky's Blade       | 4WWW    | 7/7 fly  | Lifelink -- You may pay W and tap 4 creatures w/ flying rather than paying its CMC -- Other creats u control w/ flying have indestructible                       |
 | + | Linvala, Keeper of Silence | 2WW     | 3/4 fly  | Activated abilities of creats u opp control can't be activated                                                                                                   |
+| + | Karmic Guide               | 3WW     | 2/2 fly  | Pro Black -- Echo -- When enters: return tgt creat from ur graveyard to play                                                                                     |
+| 1 | Reya Dawnbringer           | 6WWW    | 4/6 fly  | Beg upk: return tgt creat from ur graveyard to play                                                                                                              |
+| * | Avacyn, Angel of Hope      | 5WWW    | 8/8 fly  | Vigilance -- Perm u control are indestructible                                                                                                                   |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Dragons 6*                |         |          |                                                                                                                                                                  |
+|   | *Dragons 9*                |         |          |                                                                                                                                                                  |
 | 1 | Skarrgan Hellkite          | 3RR     | 4/4 fly  | Riot -- 3R: deals 2 damage to any of up to two tgt, only if ~ has +1c on it.                                                                                     |
 | 1 | Steel Hellkite             | 6       | 5/5 fly  | 2: Gain +1/0 until eot -- X: destroy each perm w/ CMC = X whose controller was dealt damage by ~                                                                 |
 | 1 | Hellkite Tyrant            | 4RR     | 6/5 fly  | Trample -- When deals damage to opp, gain contr of all art that player controls -- Beg upk: if u control 20 or more art, u win                                   |
-| - | Hoard-Smelter Dragon       | 4RR     | 5/5 fly  | 3R: destroy tgt art, ~ gets +X/0 where X is that art CMC                                                                                                         |
 | 1 | Balefire Dragon            | 5RR     | 6/6 fly  | When deals combat damage to a player: it deals that much damage to each creature that player controls                                                            |
-| - | Utvara Hellkite            | 6RR     | 6/6 fly  | When dragon u control attack: put a 6/6 red dragon token w/ flying on the battlefield                                                                            |
+| 1 | Utvara Hellkite            | 6RR     | 6/6 fly  | When dragon u control attack: put a 6/6 red dragon token w/ flying on the battlefield                                                                            |
 | + | Thundermaw Hellkite        | 3RR     | 5/5 fly  | Haste -- When enter: it deals 1 damage to each creat w/ flying ur opps control, tap those creatures                                                              |
+| + | Hellkite Charger           | 4RR     | 5/5 fly  | Haste -- When attacks: u may pay 5RR, if so, after this phase, untap all attacking creatures, there's an additional combat phase.                                |
+| + | Runehorn Hellkite          | 5R      | 5/5 fly  | 5B: exile ~ from the graveyard, each player discard their hand and draw 7.                                                                                       |
+| + | Yosei, the Morning Star    | 4WW     | 5/5 fly  | When dies: tgt player skips his nxt untap step. Tap up to 5 tgt perm that player control.                                                                        |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Demons 3*                 |         |          |                                                                                                                                                                  |
+|   | *Demons 7*                 |         |          |                                                                                                                                                                  |
 | 1 | Rune-Scarred Demon         | 5BB     | 6/6 fly  | When enters: search lib for a card, put it in ur hand                                                                                                            |
-| - | Lord of the Void           | 4BBB    | 7/7 fly  | When deals combat damage to player: exile to 7 cards of that player's lib, then put a creat from them into play under ur control                                 |
 | 1 | Rakdos the Defiler         | 2BBRR   | 7/6 fly  | Trample -- When attks: sacr half (r-up) of non demons creat u control -- When deals damage to an opp: he sacs half (r-up) of non demon creats he controls        |
+| * | Archfiend of Depravity     | 3BB     | 5/4 fly  | At the beg of each opp end step, that player chooses up to 2 creatures and sacr the rest                                                                         |
+| 1 | Vilis, Broker of Blood     | 5BBB    | 8/8 fly  | B, pay 2 life: tgt creat gets -1/-1 until eot. -- When u lose life: draw that many cards                                                                         |
+| + | Bloodgift Demon            | 3BB     | 5/4 fly  | Beg upk: tgt player draws a card and looses 1 life                                                                                                               |
+| 1 | Lord of the Void           | 4BBB    | 7/7 fly  | When deals combat damage to player: exile to 7 cards of that player's lib, then put a creat from them into play under ur control                                 |
+| + | Master of Cruelties        | 3BR     | 1/4 fly  | First strike, deathtouch -- Can only attack alone -- When ~ attack and isn't blocked, def player's life becomes 1, ~ assigns no combat damage.                   |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *Equipment 2*              |         |          |                                                                                                                                                                  |
 | 1 | Lightning Greaves          | 2       | eqp 0    | Eqp creat has shroud and haste                                                                                                                                   |
 | 1 | Swiftfoot Boots            | 2       | eqp 1    | Eqp creat has hexproof and haste                                                                                                                                 |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Draw power 4 - 8?*        |         |          |                                                                                                                                                                  |
+|   | *Draw power 4*             |         |          |                                                                                                                                                                  |
 | + | Kaalia, Zenith Seeker      | RWB     | 3/3 fly  | Vigilance -- When enter: look at top 6 cards of ur library. You may reveal an Angel, Demon, and/or Dragon cards from among them, put to hand. Rest bottom at rnd |
 | 1 | Phyrexian Arena            | 1BB     | ench     | Beg upk: draw a card and loose a life                                                                                                                            |
-| - | Erebos, God of the Dead    | 3B      | 5/7 ind  | Devotion 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                            |
-| - | Ancient Craving            | 3B      | sorc     | You draw 3 cards and loose 3 life                                                                                                                                |
 | 1 | Experimental Frenzy        | 3R      | ench     | You may look and play card from top of lib -- You can't play card from hand -- 3R: destroy ~                                                                     |
-|   | ????                       |         |          |                                                                                                                                                                  |
 | + | Syphon Mind                | 3B      | sorc     | Each other player discard a card -- Draw a card for each card discarded this way                                                                                 |
-| + | Bloodgift Demon            | 3BB     | 5/4 fly  | Beg upk: tgt player draws a card and looses 1 life                                                                                                               |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Search engine 1*          |         |          |                                                                                                                                                                  |
-| - | Beseech the Queen          | {bp}x3  | sorc     | Search lib for a card w/ CMC less or equal to # lands u control                                                                                                  |
-|   |                            |         |          |                                                                                                                                                                  |
-|   | *Single target removals 8* |         |          |                                                                                                                                                                  |
-| 1 | Condemn                    | W       | inst     | Put attack creat to bottom of its owner's lib. Its control gains lifee equal to its toughness                                                                    |
+|   | *Single target removals 4* |         |          |                                                                                                                                                                  |
 | 1 | Swords to Plowshares       | W       | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                       |
-| - | Path to Exile              | W       | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                            |
 | 1 | Terminate                  | BR      | inst     | Destroy tgt creature                                                                                                                                             |
-| 1 | Oblation                   | 2W      | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                       |
 | 1 | Mortify                    | 1WB     | inst     | Destroy tgt creature or enchantment                                                                                                                              |
-| 1 | Unmake                     | {wb}x3  | inst     | Exile tgt creatures                                                                                                                                              |
 | 1 | Utter End                  | 2UB     | inst     | Exile tgt non land perm                                                                                                                                          |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *Ench and Art removals 2*  |         |          |                                                                                                                                                                  |
 | 1 | Return to Dust             | 2WW     | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                            |
 | 1 | Vandalblast                | R       | sorc     | Destroy tgt art u don't control -- Overload 4R                                                                                                                   |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Board sweepers 6*         |         |          |                                                                                                                                                                  |
-| 1 | Magmaquake                 | xRR     | inst     | Deals X damage to each creats w/o flying and each planeswalker                                                                                                   |
+|   | *Board sweepers 4*         |         |          |                                                                                                                                                                  |
 | 1 | Merciless Eviction         | 4WB     | sorc     | Choose 1 -- Exile all art OR exile all ench OR exile all creats OR exile all planeswalkers                                                                       |
-| 1 | Life's Finale              | 4BB     | sorc     | Destroy all creature then search tgt opp's lib for up to 3 creatures and put them in his graveyard                                                               |
 | 1 | Wrath of God               | 2WW     | sorc     | Destroy all creats, they can't be regen                                                                                                                          |
 | 1 | Fumigate                   | 3WW     | sorc     | Destroy all creats, u gain 1 life for each creat destroy this way                                                                                                |
 | 1 | Austere Command            | 4WW     | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                               |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *General Helpers 8*        |         |          |                                                                                                                                                                  |
-| 1 | Generous Servant           | 1R      | 2/1      | t, sacr it: add 2. If spent to cast a creature spell, it gains haste until eot.                                                                                  |
-| ? | Anger                      | 3R      | 2/2      | Haste -- As long as he's in ur graveyard and u control a mountain, creats u control have haste                                                                   |
+|   | *General Helpers 7*        |         |          |                                                                                                                                                                  |
+| + | Dolmen Gate                | 2       | art      | Prevent combat damage dealt to attacking creatures u control                                                                                                     |
+| 1 | Anger                      | 3R      | 2/2      | Haste -- As long as he's in ur graveyard and u control a mountain, creats u control have haste                                                                   |
 | 1 | Iroas, God of Victory      | 3RW     | 7/4      | Indestructible -- Devotion red/white = 7 -- Creats u control can't be block except by 2 or more creats -- Prevent all damage deald to attacking creats u control |
 | 1 | Mother of Runes            | W       | 1/1      | t: tgt creat gain protection against choosed color until eot                                                                                                     |
-| ? | Quicksilver Amulet         | 4       | art      | 4, t: put a creat from hand to play                                                                                                                              |
 | 1 | Boros Charm                | RW      | inst     | Choose 1: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                                  |
 | 1 | Unburial Rites             | 4B      | sorc     | Flashback 3W -- Return tgt creat from graveyard to play                                                                                                          |
 | 1 | Cloudshift                 | W       | inst     | Exile tgt creat u control then return it under u control                                                                                                         |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | *Lands 37*                 |         |          |                                                                                                                                                                  |
-| 1 | Thespian's Stage           |         | land     | t: add 1 -- 2, t: ~ becomes a copy of tgt land and gains this ability                                                                                            |
+|   | *Kaalia's Replacement 2*   |         |          |                                                                                                                                                                  |
+| 1 | Quicksilver Amulet         | 4       | art      | 4, t: put a creat from hand to play                                                                                                                              |
+| + | Sneak Attack               | 3R      | ench     | R: put a creat from hand to play, it gains haste, sacr it at eot.                                                                                                |
+|   |                            |         |          |                                                                                                                                                                  |
+|   | *Lands 36*                 |         |          |                                                                                                                                                                  |
 | 1 | Hanweir Battlements        |         | land     | t: add 1 -- R, t: tgt creat gain haste until eot                                                                                                                 |
 | 1 | Slayers' Stronghold        |         | land     | t: add 1 -- WB, t: tgt creat gain +2/0, vigilance and haste until eot                                                                                            |
 | 1 | Vivid Meadow               |         | land     | Enters tapped w/ 2 counters -- t: add W -- t, remove a counter: add 1 mana any color to mana pool                                                                |
@@ -110,7 +103,6 @@ Kaalia of the Vast v1.4
 | 1 | Orzhov Basilica            |         | land     | Enters tapped -- When enters return land u control to hand -- t: add WB                                                                                          |
 | 1 | Boros Garrison             |         | land     | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                          |
 | 1 | Nomad Outpost              |         | land     | Enters tapped -- t: add R or W or B                                                                                                                              |
-| 1 | Molten Slagheap            |         | land     | t: add 1 -- 1, t: put charge counter on it -- 1, remove X charge counter: add X combination of B or R to mana pool                                               |
 | 1 | Evolving Wilds             |         | land     | t, sacr ~: Search lib for bas land and put it into play tapped                                                                                                   |
 | 1 | Command Tower              |         | land     | t: add one mana of any color in your commander's color identity                                                                                                  |
 | 1 | Bojuka Bog                 |         | land     | Enters tapped -- When enters, exile tgt player's lib -- t: add B                                                                                                 |
@@ -120,27 +112,26 @@ Kaalia of the Vast v1.4
 | 7 | Plains                     |         | bas land |                                                                                                                                                                  |
 | 6 | Swamp                      |         | bas land |                                                                                                                                                                  |
 | 6 | Mountain                   |         | bas land |                                                                                                                                                                  |
-|   |                            |         |          |                                                                                                                                                                  |
+| + | Castle Locthwain           |         | land     | Enters tapped unless u control a swamp -- t: add B -- 1BB, t: draw a card. ~ deals damage to u equal to # cards in hand                                          |
+| - | Thespian's Stage           |         | land     | t: add 1 -- 2, t: ~ becomes a copy of tgt land and gains this ability                                                                                            |
+| - | Molten Slagheap            |         | land     | t: add 1 -- 1, t: put charge counter on it -- 1, remove X charge counter: add X combination of B or R to mana pool                                               |
 |---+----------------------------+---------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | Vilis, Broker of Blood     | 5BBB    | 8/8 fly  | B, pay 2 life: tgt creat gets -1/-1 until eot. -- When u lose life: draw that many cards                                                                         |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *To Consider*              |         |          |                                                                                                                                                                  |
+| * | Red Element Blast          | R       | inst     | Choose one: Counter tgt blue spell OR Destroy tgt blue permanent                                                                                                 |
+|   | Generator Servant          | 1R      | 2/1      | t, sacr it: add 2. If spent to cast a creature spell, it gains haste until eot.                                                                                  |
+| * | Phyrexian Reclamation      | B       | ench     | 1B, pay 2 life: return tgt creat from grave to hand                                                                                                              |
+|   |                            |         |          |                                                                                                                                                                  |
 |   | Angel of the Dire Hour     | 5WW     | 5/4 fly  | Flash -- When enters, exile all attacking creatures                                                                                                              |
-| * | Avacyn, Angel of Hope      | 5WWW    | 8/8 fly  | Vigilance -- Perm u control are indestructible                                                                                                                   |
 |   | Angelic Field Marshal ?    | 2WW     | 3/3 fly  | Lieutenant: gets +2/+2 if your commander is on the battlefield                                                                                                   |
-|   | Karmic Guide               | 3WW     | 2/2 fly  | Pro Black -- Echo -- When enters: return tgt creat from ur graveyard to play                                                                                     |
 |   | Demon of Wailing Agonies   | 3BB     | 4/4 fly  | Lieutenant: gets +2/+2 and "when deals combat damage to an opp, that opp sacr a creature"                                                                        |
 |   | Overseer of the Damned     | 5BB     | 5/5 fly  | When enters: destroy tgt creature -- When a non tok creat an opp controls dies, create a 2/2 zombie token creat                                                  |
 |   | Pestilence Demon           | 5BBB    | 7/6 fly  | B: Deals 1 damage to each creat and each player                                                                                                                  |
-|   | Runehorn Hellkite          | 5R      | 5/5 fly  | 5B: exile ~ from the graveyard, each player discard their hand and draw 7.                                                                                       |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | Nahiri, the Harbinger      | 2RW     | plnwk 4  | +2: u may discard, if u do, draw -- -2: exile tgt art, ench or tapped creat -- -8: search lib for a creat and put it into play, has haste, return to hand at eot |
 |   | Avacyn, Guardian Angel     | 2WWW    | 5/4 fly  | Vigilance -- 1W: Prevent all damage dealt to another tgt creat by srcs of chosen color -- 5WW: Prevent damages dealt to tgt player by srcs chosen color          |
 |   | Ob Nixilis, Unshackled     | 4BB     | 4/4 fly  | Trample -- When an opp search his lib: that player sacr a creat and looses 10 life -- When another creat dies: put a +1c on ~                                    |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | Balefire Dragon            | 5RR     | 6/6 fly  | Whenever ~ deals damage to a player, it deals that much damage to each creat that player controls                                                                |
 |   | Scourge of Kher Ridges     | 6RR     | 6/6 fly  | 1R: ~ deals 2 damage to each creat w/o flying -- 5R: deals 6 damage to each other creat w/ flying                                                                |
-|   | Yosei, the Morning Star    | 4WW     | 5/5 fly  | When dies: tgt player skips his nxt untap step. Tap up to 5 tgt perm that player control.                                                                        |
 |   | Victory's Herald           | 3WWW    | 4/4 fly  | When attack, creats u control gain lifelink and flying until eot                                                                                                 |
 |   | Moonveil Dragon            | 3RRR    | 5/5 fly  | R: Each creats u control get +1/0                                                                                                                                |
 |   |                            |         |          |                                                                                                                                                                  |
@@ -157,7 +148,7 @@ Kaalia of the Vast v1.4
 |   | Duress                     | B       | sorc     | Tgt player reveals his hand, choose a non creat, non land, he discards it                                                                                        |
 |   | Thoughtseize               | B       | sorc     | Tgt player reveals his hand, choose a non land, he discards it, you loose 2 life                                                                                 |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | Progane Command            | xBB     | sorc     | Choose 2: tgt play looses X life OR ret tgt creat w/ CMC X from ur grave to play OR tgt creat gets -X/-X OR up to X creats gain fear                             |
+|   | Profane Command            | xBB     | sorc     | Choose 2: tgt play looses X life OR ret tgt creat w/ CMC X from ur grave to play OR tgt creat gets -X/-X OR up to X creats gain fear                             |
 |   | Necromancy                 | 1BB     | ench     | If cast as instant speed, sacr it at eot -- When enter: ret tgt creat from a grave to play, it becomes an aura attached to it                                    |
 |   | Obzedat's Aid              | 3WB     | sorc     | Return tgt permanent from ur graveyard to play                                                                                                                   |
 |   | Grim Return                | 2B      | inst     | Return tgt creat to the battlefield that was put to the graveyard this turn                                                                                      |
@@ -179,7 +170,7 @@ Kaalia of the Vast v1.4
 |   | Darksteel Plate            | 3       | eqp 2    | ~ is indestructible -- Eqip creat is indestructible                                                                                                              |
 |   | Gilded Lotus               | 5       | art      | t: add 3 mana of any one color to ur mana pool                                                                                                                   |
 |   | Mana-Charged Dragon        | 4RR     | 5/5 fly  | Trample -- Join Force: When ~ attacks or blocks, each player starting w/ u may pay X, ~ gets +X/0 until eot                                                      |
-|   | Diabolic Tutor             | 2BB     | sorc     | Searcg lib for a card and put it into your hand                                                                                                                  |
+|   | Diabolic Tutor             | 2BB     | sorc     | Search lib for a card and put it into your hand                                                                                                                  |
 |   | Sheoldred, Whispering One  | 5BB     | 6/6      | Swampwalk -- Beg your upk: return a creat from your graveyard to play -- Beg of each opp upk: that player sacr a creature                                        |
 |   | Ashen Rider                | 4WWBB   | 5/5 fly  | When enters or dies: exile tgt perm                                                                                                                              |
 |   | True Conviction            | 3WWW    | ench     | Creats u control gain double strike                                                                                                                              |
@@ -197,9 +188,32 @@ Kaalia of the Vast v1.4
 |   |                            |         |          |                                                                                                                                                                  |
 |   | Dreadbore                  | BR      | sorc     | Destroy tgt creat or planewalker                                                                                                                                 |
 |   | Underworld Connections     | 1BB     | aura     | Ench land -- Land has: "t, pay 1 life: draw a card"                                                                                                              |
+|   |                            |         |          |                                                                                                                                                                  |
+|   | *Removed from v1.4*        |         |          |                                                                                                                                                                  |
+| - | Baneslayer Angel           | 3WW     | 5/5 fly  | First strike, lifelink, pro demon, pro dragon                                                                                                                    |
+| - | Solemn Simulacrum          | 4       | 2/2 art  | When enter: search basic land, into play tapped -- When leave: draw                                                                                              |
+| - | Adarkar Valkyrie           | 4WW     | 4/5 fly  | Vigilance -- t: if tgt creat other than ~ is put to the graveyard this turn, return it to play under ur control                                                  |
+| - | Angelic Skirmisher         | 4WW     | 4/4 fly  | Beg each combat: choose first strike, vig, lifelink, creats u control gain that ability until eot                                                                |
+| - | Angelic Arbiter            | 5WW     | 5/6 fly  | Each opp who cast spell can't attack w/ creatures -- Each opp who attack w/ creature can't cast spell                                                            |
+| - | Tariel, Reckoner of Souls  | 4WBR    | 4/7 fly  | Vigilance -- t: choose a creat card at random from tgt opp graveyard, put it into play under ur control                                                          |
+| - | Angel of Serenity          | 4WWW    | 5/6 fly  | When enters: you exile up to 3 tgt creatures from play or graveyard -- When leave: return exiled creatures to owner's hand                                       |
+| - | Akroma, Angel of Fury      | 5RRR    | 6/6 fly  | Can't be countered -- Trample, pro white, pro blue -- R: ~ gets +1/0 until eot -- Morph 3RRR                                                                     |
+| - | Hoard-Smelter Dragon       | 4RR     | 5/5 fly  | 3R: destroy tgt art, ~ gets +X/0 where X is that art CMC                                                                                                         |
+| - | Erebos, God of the Dead    | 3B      | 5/7 ind  | Devotion 5 -- Your opp can't gain life -- 1B, pay 2 life: draw a card                                                                                            |
+| - | Ancient Craving            | 3B      | sorc     | You draw 3 cards and loose 3 life                                                                                                                                |
+| - | Beseech the Queen          | {bp}x3  | sorc     | Search lib for a card w/ CMC less or equal to # lands u control                                                                                                  |
+| - | Path to Exile              | W       | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                            |
+| - | Magmaquake                 | xRR     | inst     | Deals X damage to each creats w/o flying and each planeswalker                                                                                                   |
+| - | Life's Finale              | 4BB     | sorc     | Destroy all creature then search tgt opp's lib for up to 3 creatures and put them in his graveyard                                                               |
+| - | Condemn                    | W       | inst     | Put attack creat to bottom of its owner's lib. Its control gains lifee equal to its toughness                                                                    |
+| - | Oblation                   | 2W      | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                       |
+| - | Unmake                     | {wb}x3  | inst     | Exile tgt creatures                                                                                                                                              |
+| - | Thespian's Stage           |         | land     | t: add 1 -- 2, t: ~ becomes a copy of tgt land and gains this ability                                                                                            |
+| - | Molten Slagheap            |         | land     | t: add 1 -- 1, t: put charge counter on it -- 1, remove X charge counter: add X combination of B or R to mana pool                                               |
 
 v1.4 -> v1.5:
 -------------
+- Baneslayer Angel
 - Solemn Simulacrum
 - Adarkar Valkyrie
 - Angelic Skirmisher
@@ -207,19 +221,39 @@ v1.4 -> v1.5:
 - Tariel, Reckoner of Souls
 - Angel of Serenity
 - Akroma, Angel of Fury
-- Reya Dawnbringer
 - Hoard-Smelter Dragon
-- Utvara Hellkite
-- Lord of the Void
 - Erebos, God of the Dead
 - Ancient Craving
 - Beseech the Queen
 - Path to Exile
-- 
+- Magmaquake
+- Life's Finale
+- Condemn
+- Oblation
+- Unmake
+- Thespian's Stage
+- Molten Slagheap
++ Talisman of Hierarchy
++ Talisman of Conviction
++ Smothering Tithe
++ Nahiri, the Harbinger
++ Sephara, Sky's Blade
++ Linvala, Keeper of Silence
++ Karmic Guide
++ Avacyn, Angel of Hope
++ Thundermaw Hellkite
++ Hellkite Charger
++ Runehorn Hellkite
++ Yosei, the Morning Star
++ Archfiend of Depravity
++ Bloodgift Demon
++ Master of Cruelties
++ Kaalia, Zenith Seeker
++ Syphon Mind
++ Dolmen Gate
++ Sneak Attack
++ Castle Locthwain
 
-??? Master of Cruelties
-
---
 
 Version v1.4:
 -------------
@@ -299,7 +333,7 @@ v0.9 -> v1.0:
 
 Version 0.9:
 ------------
-Wow, Anger is SOO GOOD!!! 
+Wow, Anger is SOO GOOD!!!
 
 v0.8 -> v0.9:
 -------------
@@ -334,7 +368,7 @@ v0.6 -> v0.7:
 
 Version v0.6:
 -------------
-The deck feels a lot better; however the mana color is awful! 
+The deck feels a lot better; however the mana color is awful!
 Need to be fixed!!!
 
 Some of the Angel/Dragon/Demon needs to be replaced:
@@ -369,7 +403,7 @@ v0.5 -> v0.6:
 +1 Underworld Connections
 -1 Dread Cacodemon
 +1 Lord of the Void
--1 Hide // Seek 
+-1 Hide // Seek
 +1 Shattering Spree
 -1 Stoneforge Mystic
 +1 Condemn
@@ -428,4 +462,3 @@ v0.1 -> v0.2:
 +1 Erebos, God of the dead
 -1 Diabolic Tutor
 +1 demonic tutor
-
