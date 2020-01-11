@@ -1,13 +1,14 @@
-Roon of the Hidden Realm v0.9
-[sleeved v0.9]
+Roon of the Hidden Realm v1.0
+[sleeved v1.0]
 
 
 |    | *Commander*                   |           |           |                                                                                                                                                                                               |
 |  1 | Roon of the Hidden Realm      | 2GWU      | 4/4 vig   | Trample -- 2, t: Exile another tgt creature, return it to play at the beg of next end step                                                                                                    |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Planeswalker 2*              |           |           |                                                                                                                                                                                               |
+|    | *Planeswalker 3*              |           |           |                                                                                                                                                                                               |
 |  1 | Jace Beleren                  | 1UU       | plwkr 3   | +2: each player draws -- -1: draw -- -10: mill 20 cards                                                                                                                                       |
 |  1 | Venser, the Sojourner         | 3WU       | plwkr 3   | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                                                                      |
+|  1 | Vivien, Champion of the Wilds | 2G        | plwkr 4   | You may cast creat spells as though they had flash -- +1: until ur next turn, up to 1 tgt creat gains vigilance and reach -- -2: look top 3, exile 1 face down, u may cast it if it's a creat |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *Ramp 7*                      |           |           |                                                                                                                                                                                               |
 |  1 | Sol Ring                      | 1         | art       | t: add 2 to mana pool                                                                                                                                                                         |
@@ -17,10 +18,6 @@ Roon of the Hidden Realm v0.9
 |  1 | Cultivate                     | 2G        | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                 |
 |  1 | Kodama's Reach                | 2G        | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                 |
 |  1 | Oracle of Mul Daya            | 3G        | 2/2       | You may play an add land this turn -- Play with top lib revealed, if its a land, you may play it                                                                                              |
-|    |                               |           |           |                                                                                                                                                                                               |
-|    | *Equipment 2*                 |           |           |                                                                                                                                                                                               |
-|  1 | Lightning Greaves             | 2         | eqp 0     | Eqp creat has shroud and haste                                                                                                                                                                |
-|  1 | Swiftfoot Boots               | 2         | eqp 1     | Eqp creat has hexproof and haste                                                                                                                                                              |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *Wrath 4*                     |           |           |                                                                                                                                                                                               |
 |  1 | Wrath of God                  | 2WW       | sorc      | Destroy all creatures, they can't be regenerated                                                                                                                                              |
@@ -58,24 +55,25 @@ Roon of the Hidden Realm v0.9
 |  1 | Return to Dust                | 2WW       | inst      | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                         |
 |  1 | Acidic Slime                  | 4G        | 2/2       | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                      |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Other Helpers 7*             |           |           |                                                                                                                                                                                               |
+|    | *Other Helpers 8*             |           |           |                                                                                                                                                                                               |
 |  1 | Worldly Tutor                 | G         | inst      | Seach lib for a creat and put it on top                                                                                                                                                       |
 |  1 | Green Sun's Zenith            | xG        | sorc      | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                         |
 |  1 | Cyclonic Rift                 | 1U        | inst      | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                                 |
 |  1 | Mimic Vat                     | 3         | art       | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                         |
 |  1 | Blue Sun's Zenith             | xUUU      | inst      | Target player draw X cards -- Shuffle ~ to its owner's lib.                                                                                                                                   |
 |  1 | Leyline of Anticipation       | 2UU       | ench      | if in opening hand -> in play -- non land cards have flash                                                                                                                                    |
+|  1 | Glen Elendra Archmage         | 3U        | 2/2 fly   | Persist -- U, sacr her: counter tgt non creat spell                                                                                                                                           |
 |  1 | AEthermage's Touch            | 2WU       | inst      | Reveal top 4 cards. You may put a creat from them into play. It gains: "Beg ur end step, return it to hand", rest bot                                                                         |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *ETB Creatures 21*            |           |           |                                                                                                                                                                                               |
 |  1 | Eternal Witness               | 1GG       | 2/1       | When enters: return tgt card from graveyard to hand                                                                                                                                           |
+|  1 | Knight of Autumn              | 1GW       | 2/1       | When enters, choose one: destroy tgt art or ench OR gain 4 life OR put 2 +1c on ~                                                                                                             |
 |  1 | Solemn Simulacrum             | 4         | 2/2       | When enters: search basic land put into play tapped -- When leave: draw                                                                                                                       |
 |  1 | Venser, Shaper Savant         | 2UU       | 2/2 flash | When enters: return tgt spell or tgt perm to its owner's hand                                                                                                                                 |
 |  1 | Archaeomancer                 | 2UU       | 1/2       | When enters: return tgt instant or sorcery from your graveyard to your hand                                                                                                                   |
 |  1 | Angel of Finality             | 3W        | 3/4 fly   | When enters: exile tgt player's graveyard                                                                                                                                                     |
 |  1 | Restoration Angel             | 3W        | 3/4 fly   | Flash -- When enters: blink tgt non angel creatures u control                                                                                                                                 |
 |  1 | Phyrexian Metamorph           | 3{up}     | 0/0       | You may have ~ enter the battlefield as a copy of any creature or artifact -- It remains an artifact in addition of its other types                                                           |
-|  1 | Karmic Guide                  | 3WW       | 2/2 fly   | Pro black -- Echo 3WW -- When enters: return tgt creat from ur graveyard to play                                                                                                              |
 |  1 | Thragtusk                     | 4G        | 5/3       | When enters: gain 5 life, when leaves: put a 3/3 token                                                                                                                                        |
 |  1 | Reveillark                    | 4W        | 4/3 fly   | Evoke 5W -- When leaves: you may return up to 2 tgt creat w/ pow 2 or less from ur grave to play                                                                                              |
 |  1 | Mulldrifter                   | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                                                         |
@@ -114,7 +112,6 @@ Roon of the Hidden Realm v0.9
 |  6 | Forest                        |           | bas land  |                                                                                                                                                                                               |
 |----+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To really consider*          |           |           |                                                                                                                                                                                               |
-|  * | Vivien, Champion of the Wilds | 2G        | plwkr 4   | You may cast creat spells as though they had flash -- +1: until ur next turn, up to 1 tgt creat gains vigilance and reach -- -2: look top 3, exile 1 face down, u may cast it if it's a creat |
 |    | Panharmonicon                 | 4         | art       | If an art or creat entering causes a triggered ability of a perm u control, that ability triggers an additional time                                                                          |
 |    | Eerie Interlude               | 2W        | inst      | Exile any # of tgt creatures u control, return those creats under their owner's control at the beg of next end step                                                                           |
 |    |                               |           |           |                                                                                                                                                                                               |
@@ -139,6 +136,9 @@ Roon of the Hidden Realm v0.9
 |    | Fiend Hunter                  | 1WW       | 1/3       | When enters: exile tgt creatre -- When leave: return exile card to play                                                                                                                       |
 |    | Condemn                       | W         | inst      | Put tgt attacking creat on bottom of its owner's library -- Its controller gain life equal to its toughness                                                                                   |
 |----+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Lightning Greaves             | 2         | eqp 0     | Eqp creat has shroud and haste                                                                                                                                                                |
+|    | Swiftfoot Boots               | 2         | eqp 1     | Eqp creat has hexproof and haste                                                                                                                                                              |
+|    | Karmic Guide                  | 3WW       | 2/2 fly   | Pro black -- Echo 3WW -- When enters: return tgt creat from ur graveyard to play                                                                                                              |
 |    | Woodfall Primus               | 5GGG      | 6/6       | Persist, trample -- When enter: destroy tgt non creat permanent                                                                                                                               |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | Prophet of Kruphix            | 3GU       | 2/3       | Untap all creatures during each other player's untap step -- You may cast creatures as though they had flash                                                                                  |
@@ -171,14 +171,23 @@ Roon of the Hidden Realm v0.9
 |    |                               |           |           |                                                                                                                                                                                               |
 
 
-v0.9 -> v1.0:
+v1.0 -> v1.1:
 -------------
 + Panharmonicon
 + Eerie Interlude
-+ Vivien, Champion of the Wilds
++ Seedborn Muse
+- Mistmeadow Witch
+- ???
+
+
+v0.9 -> v1.0:
+------------
+- Karmic Guide
 - Lightning Greave
 - Swiftfoot Boots
-- Mistmeadow Witch
++ Knight of Autumn
++ Glen Elendra Archmage
++ Vivien, Champion of the Wilds
 
 
 v0.8 -> v0.9:
