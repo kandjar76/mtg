@@ -196,6 +196,10 @@ Zedruu, the Greathearted v0.1
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | Dockside Extorsionist         | 1R         | 1/2          | When enters: create a treasure token with "t, sacr: add 1 mana any color" for each artifacts your opps control                                                                                                                          |
 |   | Loyal Apprentice              | 1R         | 2/1          | Haste - Lieutenant: beg combat, if u control ur commander, create a 1/1 thopter art token w/ flying. It gain haste until eot                                                                                                            |
+|   | Humble Defector               | 1R         | 2/1          | t: draw two cards. Tgt opp gains control of it; activate only during your turn.                                                                                                                                                         |
+|   | Fog Bank                      | 1U         | 0/2          | Defender -- Prevent all combat damage that would be dealt to ~                                                                                                                                                                          |
+|   | Middle the Mixture            | UU         | inst         | Transmute 1UU -- Counter tgt inst or sorc                                                                                                                                                                                               |
+|   | Angel of the Dire Hour        | 5WW        | 5/4 fly      | Flash - If u cast ~ from hand, exile all attacking creatures                                                                                                                                                                            |
 
 + Council's Judjement
 + Crown of Doom
@@ -203,6 +207,9 @@ Zedruu, the Greathearted v0.1
 + Dockside Extorsionist
 + Loyal Apprentice
 + 2/3x board wipes....
++ Middle the Mixture
++ Snapcaster Mage?
++ Fog Bank?
 
 v0.1 -> v0.2:
 -------------
