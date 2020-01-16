@@ -1,5 +1,5 @@
-Prime Speaker Zegana v0.2
-[sleeved v0.2]
+Prime Speaker Zegana v0.3
+[sleeved v0.3]
 
 |   | *Commander*                   |           |           |                                                                                                                                                                                               |
 | 1 | Prime Speaker Zegana          | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                                                        |
@@ -21,7 +21,7 @@ Prime Speaker Zegana v0.2
 | 1 | Oracle of Mul Daya            | 3G        | 2/2       | You may play an add land this turn -- Play with top lib revealed, if its a land, you may play it                                                                                              |
 | 1 | Skyshroud Claim               | 3G        | sorc      | Search lib for up to 2 forest, put them into play                                                                                                                                             |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Counters Source 16*          |           |           |                                                                                                                                                                                               |
+|   | *Counters Source 15*          |           |           |                                                                                                                                                                                               |
 | 1 | Primordial Hydra              | xGG       | 0/0       | Enters w/ X +1c -- Beg upk: double its counters -- It has trample when it has 10 or more counters.                                                                                            |
 | 1 | Predator Ooze                 | GGG       | 1/1       | Indestructible -- When attacks or when a creat dealt damage by ~ this turn dies: put a +1c on ~                                                                                               |
 | 1 | Plaxcaster Frogling           | 1GU       | 0/0       | Graft 3 -- 2: tgt creat w/ +1c on it gain shroud until eot                                                                                                                                    |
@@ -37,13 +37,13 @@ Prime Speaker Zegana v0.2
 | 1 | Triskelion                    | 6         | 1/1 art   | Enters w/ 3 +1c -- Remove a +1c from ~: deals 1 damage to tgt creat or player                                                                                                                 |
 | 1 | Realm Seekers                 | 4GG       | 0/0       | Enters with X +1c where X is total # cards in all players' hand -- 2G, remove +1c from ~: Search lib for a land card, reveal it, put into hand                                                |
 | 1 | Experiment Kraj               | 2GGUU     | 4/6 leg   | Has activated abilities of each creat w/ +1 -- t: put a +1 on tgt creat                                                                                                                       |
-| 1 | Sandsteppe Mastodon           | 5GG       | 5/5       | Reach -- When enters, bolster 5 (choose creat w/ least toughness, and put 5 +1c on it)                                                                                                        |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Counter helpers 5*           |           |           |                                                                                                                                                                                               |
+|   | *Counter helpers 6*           |           |           |                                                                                                                                                                                               |
 | 1 | Hardened Scales               | G         | ench      | Whenever N +1c is placed on creat u control, put N+1 counter on it instead                                                                                                                    |
 | 1 | Thrummingbird                 | 1U        | 1/1 fly   | When deals combat damage to a player, proliferate                                                                                                                                             |
 | 1 | Simic Ascendancy              | GU        | ench      | 1GU: put as +1c on tgt creat u control -- When one or more counter is placed on creat u control, put that many on ~ -- At beg of ur upk, if ~ has 20 or more counters on it, u win            |
 | 1 | Solidarity of Heroes          | 1G        | inst      | Strive (cost 1G more per extra tgt) -- Double number of +1c on any number of tgt creatures                                                                                                    |
+| 1 | Pir, Imaginative Rascal       | 2G        | 1/1       | Partner with Toothy, Imaginary Friend -- If one or more counter would be put on a perm u control, put that many + 1 of each of those kind of counters                                         |
 | 1 | Master Biomancer              | 2GU       | 2/4       | Each other creatures enters the battlefield with X +1c where X is its power                                                                                                                   |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Untap Helper 1*              |           |           |                                                                                                                                                                                               |
@@ -68,7 +68,7 @@ Prime Speaker Zegana v0.2
 | 1 | Contagion Engine              | 6         | art       | When enter: put -1 on each creat tgt player control -- 4: proliferate then proliferate                                                                                                        |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Draw Power 4*                |           |           |                                                                                                                                                                                               |
-| 1 | Zameck Guildmage              | GU        | 2/2       | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card                                                                               |
+| 1 | Toothy, Imaginary Friend      | 3U        | 1/1       | Partner with Pir, Imaginative Rascal -- When u draw: put a +1c on ~ -- When dies: draw a card for each +1c on ~                                                                               |
 | 1 | Inspiring Call                | 2G        | inst      | Draw a card for each creat w/ +1c on it; those creatures gains indestructible until eot.                                                                                                      |
 | 1 | Bred for the Hunt             | 1GU       | ench      | When a creat u control w/ +1c on it deals damage to a player, you may draw a card                                                                                                             |
 | 1 | Fathom Mage                   | 2GU       | 1/1       | Evolve -- When a +1c is put on her, draw a card                                                                                                                                               |
@@ -78,20 +78,20 @@ Prime Speaker Zegana v0.2
 | 1 | Evolution Charm               | 1G        | inst      | Choose one: Search lib for a basic land, put it into hand OR return tgt creat from grave to hand OR tgt creat gains flying until eot                                                          |
 | 1 | Bow of Nylea                  | 1GG       | ench art  | Attack creats u ctrl have deathtouch -- 1G, t: Choose one: Put +1c on tgt creat OR 2 damage to creat w/ fly OR gain 3 life OR put up to 4 cards from ur graveyard to bottom of your lib       |
 | 1 | Yeva, Nature's Herald         | 2GG       | 4/4       | Flash - You may cast green creats as though they had flash                                                                                                                                    |
-| 1 | Creeping Renaissance          | 3GG       | sorc      | Choose a perm type, return all cards of the choosen type from ur graveyard to your hand -- Flashback 5GG                                                                                      |
+| 1 | Biomass Mutation              | x{gu}{gu} | inst      | Creatures u control have base pow/toughness X/X until eot.                                                                                                                                    |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Art/Ench Removal 4*          |           |           |                                                                                                                                                                                               |
+|   | *Art/Ench Removal 3*          |           |           |                                                                                                                                                                                               |
 | 1 | Deglamer                      | 1G        | inst      | Choose tgt art or ench, its owner shuffles it to his or her library                                                                                                                           |
-| 1 | Unravel the AEther            | 1G        | inst      | Choose tgt art or ench, its owner shuffles it to his or her library                                                                                                                           |
 | 1 | Acidic Slime                  | 4G        | 2/2       | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                      |
 | 1 | Trygon Predator               | 1GU       | 2/3 fly   | When it deals damage to player: u may destr tgt art or enchant that player control                                                                                                            |
 |   |                               |           |           |                                                                                                                                                                                               |
-|   | *Counter spells 5*            |           |           |                                                                                                                                                                                               |
+|   | *Counter spells 6*            |           |           |                                                                                                                                                                                               |
 | 1 | Frilled Mystic                | GGUU      | 3/2       | Flash -- When enters, u may counter tgt spell                                                                                                                                                 |
 | 1 | Voidslime                     | GUU       | inst      | Counter tgt spell, activated or triggered ability                                                                                                                                             |
 | 1 | Muddle the Mixture            | UU        | inst      | Transmute 1UU - Counter tgt inst or sorc spell                                                                                                                                                |
 | 1 | Counterspell                  | UU        | inst      | Counter tgt spell                                                                                                                                                                             |
 | 1 | Plasm Capture                 | GGUU      | inst      | Counter tgt spell, at the beg of ur next main, add X mana of any color to mana pool, where X is countered spell's CMC                                                                         |
+| 1 | Mystic Snake                  | 1GUU      | 2/2       | Flash -- When enters: counter tgt spell                                                                                                                                                       |
 |   |                               |           |           |                                                                                                                                                                                               |
 |   | *Lands 36*                    |           |           |                                                                                                                                                                                               |
 | 1 | Temple of Mystery             |           | land      | Enters tapped -- When enters: scry 1 -- t: add G or U                                                                                                                                         |
@@ -117,6 +117,12 @@ Prime Speaker Zegana v0.2
 | 8 | Island                        |           | bas land  |                                                                                                                                                                                               |
 | 8 | Forest                        |           | bas land  |                                                                                                                                                                                               |
 |---+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.1*           |           |           |                                                                                                                                                                                               |
+| 1 | Creeping Renaissance          | 3GG       | sorc      | Choose a perm type, return all cards of the choosen type from ur graveyard to your hand -- Flashback 5GG                                                                                      |
+| 1 | Zameck Guildmage              | GU        | 2/2       | GU: this turn, each creats u control enters w/ a +1c -- GU, remove a +1c from a creature u control: draw a card                                                                               |
+| 1 | Sandsteppe Mastodon           | 5GG       | 5/5       | Reach -- When enters, bolster 5 (choose creat w/ least toughness, and put 5 +1c on it)                                                                                                        |
+| 1 | Unravel the AEther            | 1G        | inst      | Choose tgt art or ench, its owner shuffles it to his or her library                                                                                                                           |
+|   |                               |           |           |                                                                                                                                                                                               |
 |   | *Removed from v0.1*           |           |           |                                                                                                                                                                                               |
 | 1 | Vorel of the Hull Clade       | 1GU       | 1/4       | GU, t: double counter on tgt art, creat or land                                                                                                                                               |
 | 1 | Commence the Endgame          | 4UU       | inst      | Can't be countered -- Draw 2 then Amass X where X is # cards in hands                                                                                                                         |
@@ -261,8 +267,21 @@ Prime Speaker Zegana v0.2
 |   | River Kelpie                  | 3UU       | 3/3       | Persist -- When ~ or another perm enters play from a graveyard, draw a card -- When a player casts a spell from a graveyard, draw a card                                                      |
 |---+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | Tamiyo, the Moon Sage         | 3UU       | plwkr 4   | +1: Tap tgt perm, doesn't untap nxt upk -- -2: draw card for each tap creat -- -8: emblem "no max hand size -- when card put to grave u may put to hand instead"                              |
-|   |                               |           |           |                                                                                                                                                                                               |
+|   | Toothy, Imaginary Friend      | 3U        | 1/1       | Partner with Pir, Imaginative Rascal -- When u draw: put a +1c on ~ -- When dies: draw a card for each +1c on ~                                                                               |
+|   | Pir, Imaginative Rascal       | 2G        | 1/1       | Partner with Toothy, Imaginary Friend -- If one or more counter would be put on a perm u control, put that many + 1 of each of those kind of counters                                         |
+|   | Mystic Snake                  | 1GUU      | 2/2       | Flash -- When enters: counter tgt spell                                                                                                                                                       |
 
+
+v0.2 -> v0.3:
+-------------
+- Creeping Renaissance
++ Mystic Snake
+- Zameck Guildmage
++ Toothy, Imaginary Friend
+- Sandsteppe Mastodon
++ Pir, Imaginative Rascal
+- Unravel the AEther
++ Biomass Mutation
 
 v0.1 -> v0.2:
 -------------
