@@ -152,11 +152,16 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Mox Amber                  | 0                | leg art     | t: Add one mana any color amongst leg creat and planeswalker u control                                                                                                       |
 |---+----------------------------+------------------+-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Other possible choices*   |                  |             |                                                                                                                                                                              |
+|   | Narset's Reversal          | UU               | inst        | Copy tgt inst or sorc then return it to owner's hand.  You may choose a new tgt for the copy                                                                                 |
+|   | Gingerbrute                | 1                | 1/1         | 1: ~ can't be blocked except by creatures w/ haste -- 2, t, sacr ~: gain 3 life                                                                                              |
+| * | Wingcrafter                | U                | 1/1         | Soulbound -- When paired, both creatures have flying                                                                                                                         |
 | * | Universal Automaton        | 1                | 1/1         | Changeling                                                                                                                                                                   |
+| * | Spectral Sailor            | U                | 1/1 fly     | Flash -- 3U: draw a card                                                                                                                                                     |
 | * | Curtain's Call             | 5B               | inst        | Undaunted -- Destroy 2 tgt creatures                                                                                                                                         |
 | * | Spark Double               | 3U               | 0./0        | Enters as a copy of tgt creat/planeswalker u control except it enters with an additional +1c or loyalty counter, he's not legendary                                          |
 | * | Twilight Prophet           | 2BB              | 2/4 fly     | Ascend -- Beg upk, if u have city of blessing, reveal top of lib, each opp looses life equal to the reveal cards's CMC, then put it in your end                              |
 | * | Never // Return            | 1BB / 3B         | sorc / sorc | Aftermath -- Destroy tgt creat or planeswalker // Exile tgt card from a graveyard, create a 2/2 zombie token                                                                 |
+| * | Timewarp                   | 3UU              | sorc        | Take an extra turn after this one                                                                                                                                            |
 |   | Unnatural Selection        | 1U               | ench        | 1: Choose a creat type other than wall, tgt creature becomes that type.                                                                                                      |
 |   | Skullsnatcher              | 1B               | 2/1         | Ninjutsu B -- When deals combat damage to player: exile up to 2 cards from that player's graveyard                                                                           |
 |   | Notorious Throng           | 3U               | sorc        | Prowl 5U -- Put X 1/1 Flying faery into play where X is damage dealt to your opponents this turn; if prowl was paid: take an extra turn                                      |
@@ -241,6 +246,13 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Spellstutter Sprite        | 1U               | 1/1 fly     | Flash -- When enter: counter tgt spell w/ CMC <=X where X is # faeries you control                                                                                           |
 |   | Amoeboid Changeling        | 1U               | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
 |   | Cloudstone Curio           | 3                | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
+
+
++ Wingcrafter
++ Universal Automaton
++ Spectral Sailor
++ Skullsnatcher
++ Narset's Reversal
 
 
 v1.5 -> v1.6:
