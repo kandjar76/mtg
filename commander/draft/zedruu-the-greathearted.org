@@ -18,11 +18,11 @@ Zedruu, the Greathearted v0.1
 | 1 | Grand Arbiter Augustin IV     | 2WU        | 2/3 leg      | White and blue spell u cast cost 1 less -- Spells ur opp cast cost 1 more to cast                                                                                                                                                       |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Control spells 4*            |            |              |                                                                                                                                                                                                                                         |
-| 1 | Torpor Orb                    | 2          | art          | Creatures entering battlefield don't cause abilities to trigger                                                                                                                                                                         |
+| - | Torpor Orb                    | 2          | art          | Creatures entering battlefield don't cause abilities to trigger                                                                                                                                                                         |
 | 1 | Counterspell                  | UU         | inst         | Counter tgt spell.                                                                                                                                                                                                                      |
 | 1 | Dovin's Veto                  | WU         | inst         | Can't be countered -- Counter tgt non creature spell                                                                                                                                                                                    |
 | + | Narset's Reversal             | UU         | inst         | Copy tgt inst or sorc then return it to owner's hand.  You may choose a new tgt for the copy                                                                                                                                            |
-| 1 | Wild Ricochet                 | 2RR        | inst         | You may choose new tgt for tgt inst or sorc, then copy the spell, you may choose a new inst for the copy                                                                                                                                |
+| - | Wild Ricochet                 | 2RR        | inst         | You may choose new tgt for tgt inst or sorc, then copy the spell, you may choose a new inst for the copy                                                                                                                                |
 | 1 | Sudden Substitution           | 2UU        | inst         | Split second -- Exchange control of tgt perm non creat spell and tgt creature.  Then the spell controller may choose a new tgt for it                                                                                                   |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Draw synergy 2*              |            |              |                                                                                                                                                                                                                                         |
@@ -35,20 +35,19 @@ Zedruu, the Greathearted v0.1
 | 1 | Dominus of Fealty             | {ur}x5     | 4/4 fly      | Beg ur upk: you may gain control of tgt perm until eot, if so, untap it and it gains haste until eot                                                                                                                                    |
 | 1 | Role Reversal                 | UUR        | sorc         | Exchange control of two tgt perms that share a perm type                                                                                                                                                                                |
 | 1 | Debt of Loyalty               | 1WW        | inst         | Regenerate tgt creature - if it gets regenerated: gain control of it                                                                                                                                                                    |
-| ? | Catch // Release              | 1UR // 4RW | sorc // sorc | Fuse -- Gain control of tgt perm until eot. Untap it, it gains haste until eot // Each player sacr an art, a creat, an ench, a land AND a planeswaler                                                                                   |
+| - | Catch // Release              | 1UR // 4RW | sorc // sorc | Fuse -- Gain control of tgt perm until eot. Untap it, it gains haste until eot // Each player sacr an art, a creat, an ench, a land AND a planeswaler                                                                                   |
 | 1 | Harmless Offering             | 2R         | sorc         | Tgt opp gains control of tgt perm u control                                                                                                                                                                                             |
 | 1 | Donate                        | 2U         | sorc         | Tgt player gains conrtol of tgt perm u control                                                                                                                                                                                          |
 | 1 | Vedalken Plotter              | 2U         | 1/1          | When enters: exchange control of tgt land u control and tgt land an opp control                                                                                                                                                         |
-| 1 | Puca's Mischief               | 3U         | ench         | Beg upk: you may exchange tgt non land perm u control and tgt non land perm an opp controls with an eq or less CMC                                                                                                                      |
+| - | Puca's Mischief               | 3U         | ench         | Beg upk: you may exchange tgt non land perm u control and tgt non land perm an opp controls with an eq or less CMC                                                                                                                      |
 | 1 | Chromeshell Crab              | 4U         | 3/3          | Morph 4U -- When turned face up: you may exchange control of tgt creat u control, and tgt creat an opp control                                                                                                                          |
-| ? | Beguiler of Wills             | 3UU        | 1/1          | t: gain control of tgt creat w/ power less or equal to the # of creats u control                                                                                                                                                        |
+| - | Beguiler of Wills             | 3UU        | 1/1          | t: gain control of tgt creat w/ power less or equal to the # of creats u control                                                                                                                                                        |
 | 1 | Djinn of Infinite Deceits     | 4UU        | 2/7 fly      | t: exchange control of 2 non-legendary creature.  You can't activate this during combat.                                                                                                                                                |
 | 1 | Bazaar Trader                 | 1R         | 1/1          | t: tgt player gains control of tgt art, creat, or land u control                                                                                                                                                                        |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Token to give away 2*        |            |              |                                                                                                                                                                                                                                         |
 | 1 | Kykar, Wind's Fury            | 1URW       | 3/3 fly      | Whenever u cast a non-creature spell, create a 1/1 white spirit token w/ fly. -- Sacr a spirit: add R                                                                                                                                   |
 | - | Assemble the Legion           | 3RW        | ench         | Beg upk: put a muster counter on ~, then create a 1/1 red and white soldier token w/ haste for each muster counter on ~                                                                                                                 |
-| + | Mad Ratter                    | 3R         | 1/2          | Whenever u draw your second card each turn, create two 1/1 black rat tokens                                                                                                                                                             |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Self defense 8*              |            |              |                                                                                                                                                                                                                                         |
 | 1 | Pramikon, Sky Rampart         | URW        | 1/5 fly      | defender -- When enters: choose left or right -- Each player may attack only the nearest opp in the choosen direction and planeswalkers that opponent controls                                                                          |
@@ -56,13 +55,13 @@ Zedruu, the Greathearted v0.1
 | 1 | Sphere of Safety              | 4W         | ench         | Creats can't attack u or a planeswalker u control unless their controller pays X where X is # of ench u control                                                                                                                         |
 | - | Heat Stroke                   | 2R         | ench         | End of each combat: destroy all creat blocking or blocked this turn.                                                                                                                                                                    |
 | 1 | Statecraft                    | 3U         | ench         | Prevent damage that would be dealt to and by creatures you control                                                                                                                                                                      |
-| 1 | Windborn Muse                 | 3W         | 2/3 fly      | Creatures can't attack u unless their controller pays 2 for each creature attacking you                                                                                                                                                 |
+| - | Windborn Muse                 | 3W         | 2/3 fly      | Creatures can't attack u unless their controller pays 2 for each creature attacking you                                                                                                                                                 |
 | 1 | Ghostly Prison                | 2W         | ench         | Creats can't attack u unless their controller pays 2 for each attacking creature attacking u                                                                                                                                            |
-| 1 | Norn's Annex                  | 3{pw}{pw}  | ench         | Creats can't attack u or a planeswalker u control unless their controller pays {pw} for each of those creatures                                                                                                                         |
+| - | Norn's Annex                  | 3{pw}{pw}  | ench         | Creats can't attack u or a planeswalker u control unless their controller pays {pw} for each of those creatures                                                                                                                         |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | *Poisonous and other gifts 7* |            |              |                                                                                                                                                                                                                                         |
 | 1 | Goblin Cadets                 | R          | 2/1          | When block or becomes blocked, tgt opp gains control of it                                                                                                                                                                              |
-| 1 | Goldnight Castigator          | 2RR        | 4/9 fly      | Haste -- If a source would deals damage to u, it deals twice that damage -- If a source would deals damage to ~, it deals twice that damage instead                                                                                     |
+| - | Goldnight Castigator          | 2RR        | 4/9 fly      | Haste -- If a source would deals damage to u, it deals twice that damage -- If a source would deals damage to ~, it deals twice that damage instead                                                                                     |
 | 1 | Steel Golem                   | 3          | 3/4          | You can't cast creature spells                                                                                                                                                                                                          |
 | 1 | Grid Monitor                  | 4          | 4/6          | You can't cast creature spells                                                                                                                                                                                                          |
 | 1 | Rust Elemental                | 4          | 4/4 fly      | Beg upk: sacr another art, if you can't: loose 4 life                                                                                                                                                                                   |
@@ -135,6 +134,7 @@ Zedruu, the Greathearted v0.1
 | * | Daxos of Meletis              | 1WU        | 2/2          | Can't be blocked by creat w/ pow 3 or greater -- When deals combat damage to a player: exile top card of that player's lib, u gain life eq to it's CMC, you may cast it w/ any color mana until eot                                     |
 | ? | Curse of Stalked Prey         | 1R         | curse        | Whenever a creat deals combat damage to enchanted player, put a +1c on that creat.                                                                                                                                                      |
 | ? | Ephemerate                    | W          | inst         | Rebound -- Exile tgt creat u control, return it under its owner's control                                                                                                                                                               |
+|   | Mad Ratter                    | 3R         | 1/2          | Whenever u draw your second card each turn, create two 1/1 black rat tokens                                                                                                                                                             |
 |   |                               |            |              |                                                                                                                                                                                                                                         |
 |   | Bronze Bombshell              | 4          | 4/1          | When a player other that its owner controls `: sacr it and ~ deals 7 damage to that player                                                                                                                                              |
 |   | Expedition Map                | 1          | art          | 2, t, sacr ~: Search your lib for a land, put it into hand.                                                                                                                                                                             |
@@ -202,6 +202,15 @@ Zedruu, the Greathearted v0.1
 |   | Fog Bank                      | 1U         | 0/2          | Defender -- Prevent all combat damage that would be dealt to ~                                                                                                                                                                          |
 |   | Middle the Mixture            | UU         | inst         | Transmute 1UU -- Counter tgt inst or sorc                                                                                                                                                                                               |
 |   | Angel of the Dire Hour        | 5WW        | 5/4 fly      | Flash - If u cast ~ from hand, exile all attacking creatures                                                                                                                                                                            |
+|   |                               |            |              |                                                                                                                                                                                                                                         |
+| + | Kiki-Jiki, Mirror Breaker     | 2RRR       | 2/2          | Haster -- t: Create a token that's a copy of non leg creat, it gains haste. Sacr it at beg of next end step.                                                                                                                            |
+| + | Venser, the Sojourner         | 3WU        | plwkr 3      | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                                                                                                                |
+| * | Brand                         | R          | inst         | Gain control of all permanents you own -- Cycling 2                                                                                                                                                                                     |
+| + | Nadir Kraken                  | 1UU        | 2/3          | Whenever u draw, you may pay 1, if so: put a +1c on ~ and create a 1/1 blue Tentacle token                                                                                                                                              |
+| + | Idyllic Tutor                 | 2W         | sorc         | Search lib for a ench and put it to hand                                                                                                                                                                                                |
+| * | Wild Research                 | 2R         | ench         | 1W: search lib for an ench, put in hand, then discard a card at random -- 1U: search lib for an inst, put in hand, then discard a card at random                                                                                        |
+| + | One with the Stars            | 3U         | aura         | Ench creat or ench -- Ench perm looses all other card type and becomes an enchantment                                                                                                                                                   |
+| + | Redirect                      | UU         | inst         | You may choose new targets for tgt spell                                                                                                                                                                                                |
 
 + Council's Judjement
 + Crown of Doom
@@ -210,32 +219,52 @@ Zedruu, the Greathearted v0.1
 + Loyal Apprentice
 + 2/3x board wipes....
 + Middle the Mixture
-+ Snapcaster Mage?
 + Fog Bank?
-+ Land Tax
 + Solemn Simulacrum
++ The Locus God
++ Decree of Silence
 + Solemnity
+
 
 v0.1 -> v0.2:
 -------------
-- Assembly the Legion
-+ The Locus God
-- Norn's Annex
++ Land Tax
 + Glen Elendra Archmage
-- Wild Ricochet
-+ Snapcaster Mage
-- Electrodominance
++ Venser, the Sojourner
++ Kiki-Jiki, Mirror Breaker
 + Leyline of Anticipation
-- Puca's Mischief
 + Perplexing Chimera
-- Catch // Release
++ Brand
++ Snapcaster Mage
 + Rewind
++ Idyllic Tutor
++ Narset's Reversal
 
+- Assembly the Legion
+- Torpor Orb
+- Catch // Release
+- Norn's Annex
+- Wild Ricochet
+- Electrodominance
+- Puca's Mischief
+- Windborn Muse
 - Beguiler of Wills
-- 
+- Goldnight Castigator
+- Heat Stroke
 
-Decree of Silence
-Solemnity
+????
++ Thought Lash
++ One with the Stars
++ Redirect
+- ??
+
+Toward v0.2:
+------------
+I realized that Kiki Jiki would be a good fit for the deck, removing Torpor Orb from it.
+Kiki Jiki has many advantages:
+- Instant win in conjonction with Zealous Conscript.
+- But can also make copy of Djinn of Infinite Deceits, Agent of Treachery... to instant gain control of another creature, giving the token away will
+prevent him from being sacrifice and will therefore benefit Zedruu's ability.
 
 
 Version 0.1:
