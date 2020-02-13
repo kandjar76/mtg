@@ -1,35 +1,35 @@
-Feather the Redeemed v0.6
-[sleeved v0.6]
+Feather the Redeemed v0.7
+[sleeved v0.7]
 
 |    | *Commander 1*              |         |          |                                                                                                                                                                                           |
-|  1 | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
+|    | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Mana Ramp*                |         |          |                                                                                                                                                                                           |
-|  1 | Everflowing Chalice        | 0       | art      | Multikick 2 -- t`: add X mana where X is # kicks                                                                                                                                          |
+|    | *Mana Ramp 11*             |         |          |                                                                                                                                                                                           |
 |  1 | Sol Ring                   | 1       | art      | t: add 2 to mana pool                                                                                                                                                                     |
 |  1 | Expedition Map             | 1       | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                                                        |
+|  1 | Wayfarer's Bauble          | 1       | art      | 2, t, sacr ~: search your lib for a basic land and put it into play tapped.                                                                                                               |
+|  1 | Curse of Opulence          | R       | aura     | Ench player -- Whenever ench player is attacked, create a colorless artifact name Gold which has: "Sacr it: add 1 mana any color", opp attacking does the same                            |
 |  1 | Runaway Steam-Kin          | 1R      | 1/1      | Whenever u cast a red spell, there's less than 3 +1c on ~: put a +1c on ~. -- Remove 3 +1c from ~: add RRR                                                                                |
 |  1 | Boros Signet               | 2       | art      | 1, t: add RW to mana pool                                                                                                                                                                 |
 |  1 | Talisman of Conviction     | 2       | art      | t: add 1 -- t: add R or W, ~ deals 1 damage to u                                                                                                                                          |
 |  1 | Boros Keyrune              | 3       | art      | t: add R or W -- RW: ~ becomes a 1/1 red/white soldier w/ double strike                                                                                                                   |
 |  1 | Boros Locket               | 3       | art      | t: add R or W -- {rw}x4, t, sacr ~: draw 2 cards                                                                                                                                          |
 |  1 | Burnished Hart             | 3       | 2/2 art  | 3, sacr ~: search lib for 2 basic land, and put them into play tapped                                                                                                                     |
-|  1 | Thran Dynamo               | 4       | art      | t: add 3                                                                                                                                                                                  |
 |  1 | Smothering Tithe           | 3W      | ench     | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                         |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Equipment 2*              |         |          |                                                                                                                                                                                           |
-|  1 | Sword of Feast and Famine  | 3       | eqp 2    | Eqp creat gets +2/+2, pro black, pro green and: when deals damage to a player, that player discard a card, and you untap all your lands                                                   |
+|    | *Equipment 3*              |         |          |                                                                                                                                                                                           |
 |  1 | Sunforger                  | 3       | eqp 3    | Eqp creat gets +4/0 -- RW: Unattach ~ and search lib for inst or sorc w/ CMC 4 or less, and play it w/o paying its mana cost.                                                             |
+|  1 | Sword of Vengeance         | 3       | eqp 3    | Eqp creat gets +2/0 and has first strike, vigilance, trample and haste                                                                                                                    |
 |  1 | Livewire Lash              | 2       | eqp 2    | Equip creat gets "+2/+0 and 'whenever that creat becomes tgt of spell or ability, ~ deals 2 damage to tgt creat or player'"                                                               |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *General Helper*           |         |          |                                                                                                                                                                                           |
+|    | *General Helper 5*         |         |          |                                                                                                                                                                                           |
 |  1 | Gamble                     | R       | sorc     | Search lib for a card, put it in hand, then discard a card at random                                                                                                                      |
 |  1 | Mother of Runes            | W       | 1/1      | t: tgt creat gain protection against choosed color until eot                                                                                                                              |
 |  1 | Stoneforge Mystic          | 1W      | 1/2      | When enters: search your lib for an equipment -- 1W, t: put an eqp from hand to play                                                                                                      |
 |  1 | Balefire Liege             | 2{rw}x3 | 2/4      | Other red creats get +1/+1, other white creats get +1/+1c -- Whenever u cast a red spell: ~ deals 3 damage to tgt player -- Whenever u cast a white spell: gain 3 life                    |
 |  1 | Sun Titan                  | 4WW     | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                                      |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell targets*            |         |          |                                                                                                                                                                                           |
+|    | *Spell targets 12*         |         |          |                                                                                                                                                                                           |
 |  1 | Akroan Crusader            | R       | 1/1      | Heroic: When u cast a spell that tgt ~, put a 1/1 red soldier w/ haste into play                                                                                                          |
 |  1 | Young Pyromancer           | 1R      | 2/1      | Whenever u cast a inst or sorc spell, put a 1/1 red Elemental token into play                                                                                                             |
 |  1 | Phalanx Leader             | WW      | 1/1      | Heroic: when u cast a spell that tgt ~, put a +1c on each creat u control                                                                                                                 |
@@ -43,7 +43,8 @@ Feather the Redeemed v0.6
 |  1 | Labyrinth Champion         | 3R      | 2/2      | Heroic: Whenever u cast a spell that tgt ~, ~ deals 2 damage to tgt any target                                                                                                            |
 |  1 | Mirrorwing Dragon          | 3RR     | 4/5 fly  | When a player cast a spell that tgt only ~, that player copy that spell for each other creat he control that can be tgt by it; each copy tgt a diff one of those creatures                |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell: Cantrip*           |         |          |                                                                                                                                                                                           |
+|    | *Spell: Cantrip 7*         |         |          |                                                                                                                                                                                           |
+|  1 | Fists of Flame             | 1R      | inst     | Draw a card. Until eot, tgt creat gain trample and +1/0 for each card u ve drawn this turn                                                                                                |
 |  1 | Crimson Wisps              | R       | inst     | Tgt creat becomes red and gains haste until eot -- Draw a card                                                                                                                            |
 |  1 | Niveous Wisps              | W       | inst     | Tgt creat becomes white and tapped until eot -- Draw a card                                                                                                                               |
 |  1 | Defiant Strike             | W       | inst     | Tgt creat gets +1/+0 until eot -- Draw a card                                                                                                                                             |
@@ -51,18 +52,18 @@ Feather the Redeemed v0.6
 |  1 | Psychotic Fury             | 1R      | inst     | Tgt multiplayer creat gains double until eot -- Draw a card                                                                                                                               |
 |  1 | Oblation                   | 2W      | inst     | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell: Protection*        |         |          |                                                                                                                                                                                           |
+|    | *Spell: Protection 5*      |         |          |                                                                                                                                                                                           |
 |  1 | Faith's Shield             | W       | inst     | Tgt perm gains protection from the color of ur choice until eot -- Fatehour: if u have 5 or less life, instead you and each perm u control gain protection                                |
 |  1 | Gods Willing               | W       | inst     | Tgt creat u control gains prot from color of ur choice, scry 1                                                                                                                            |
 |  1 | Bathe In Light             | 1W      | inst     | Radiance: choose a color, tgt creat and all creat sharing a color with it gain protection from the choosen color until eot                                                                |
 |  1 | Boros Charm                | RW      | inst     | Choose 1: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                                                           |
 |  1 | Ephemeral Shields          | 1W      | inst     | Convoke -- Tgt creat gain indestructible until eot                                                                                                                                        |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell: Blink Effect*      |         |          |                                                                                                                                                                                           |
+|    | *Spell: Blink Effect 2*    |         |          |                                                                                                                                                                                           |
 |  1 | Eerie Interlude            | 2W      | inst     | Exile any # of tgt creatures u control, return those creats under their owner's control at the beg of next end step                                                                       |
 |  1 | Cloudshift                 | W       | inst     | Exile tgt creat u control, then return it to play                                                                                                                                         |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell: Aggro*             |         |          |                                                                                                                                                                                           |
+|    | *Spell: Aggro 6*           |         |          |                                                                                                                                                                                           |
 |  1 | Samut's Sprint             | R       | inst     | Tgt creat gets +2/+1 and haste until eot, scry 1                                                                                                                                          |
 |  1 | Launch the Fleet           | W       | sorc     | Strive (cost one more to cast for each tgt beyond the first one) -- Until eot, any # of tgt creat gain: "Whenever this creat attacks, put a 1/1 White Soldier token tapped and attacking" |
 |  1 | Soul's Fire                | 2R      | inst     | Tgt creat u control deals damage equal to its power to tgt creat or player                                                                                                                |
@@ -70,41 +71,48 @@ Feather the Redeemed v0.6
 |  1 | Rally the Righteous        | 1RW     | inst     | Radiance: untap tgt creat and each creat that share a color w/ it; those creats gets +2/+0 until eot                                                                                      |
 |  1 | Seize the Day              | 3R      | sorc     | Flashback 2R -- Untap tgt creat, after this main phase, there's an additional combat phase followed by an additional main                                                                 |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Spell: Special Utility*   |         |          |                                                                                                                                                                                           |
+|    | *Spell: Special Utility 1* |         |          |                                                                                                                                                                                           |
 |  1 | Magnetic Theft             | R       | inst     | Attach tgt eqp to tgt creat                                                                                                                                                               |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Artifact/Ench Removal*    |         |          |                                                                                                                                                                                           |
+|    | *Artifact/Ench Removal 4*  |         |          |                                                                                                                                                                                           |
 |  1 | Vandalblast                | R       | sorc     | Overload 4R -- Destroy tgt (each) artifact you don't control                                                                                                                              |
-|  1 | Duergar Hedge-Mage         | 2{rw}   | 2/2      | When enters, if u control 2 or more mountain: destroy tgt art, if you control 2 or more plains: destroy tgt ench                                                                          |
+|  1 | Duergar Hedge-Mage         | 2{rw}   | 2/2      | When enters, if u control 2 or more mountains: destroy tgt art, if you control 2 or more plains: destroy tgt ench                                                                         |
+|  1 | Paraselene                 | 2W      | sorc     | Destroy all enchantment. Gain 1 life for each enchantment destroyed this way                                                                                                              |
 |  1 | Return to Dust             | 2WW     | inst     | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                     |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Removal*                  |         |          |                                                                                                                                                                                           |
+|    | *Removal 7*                |         |          |                                                                                                                                                                                           |
 |  1 | Swords to Plowshares       | W       | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                |
 |  1 | Path to Exile              | W       | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                     |
-|  1 | Cast Out                   | 3W      | ench     | Flash -- When enters: exile tgt non land perm until ~ leaves.  Cycling W                                                                                                                  |
 |  1 | Fell the Mighty            | 4W      | sorc     | Destroy all creats w/ pow greater than tgt creature's power                                                                                                                               |
 |  1 | Aurelia's Fury             | xRW     | inst     | ~ deals X divided as you choose amonst any # of tgt creats/player. Tap each creat dealt damage by ~. Player dealt damage by ~ can't cast non creat spell this turn                        |
 |  1 | Hour of Revelation         | 3WWW    | sorc     | Cost 3 less if there's 10 or more perm on the battlefield -- Destroy all non land perm                                                                                                    |
 |  1 | Austere Command            | 4WW     | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                        |
 |  1 | Blasphemous Act            | 8R      | sorc     | Cost 1 less for each creat in play -- Deals 13 damage to each creat                                                                                                                       |
 |    |                            |         |          |                                                                                                                                                                                           |
-|    | *Utility Enchantment*      |         |          |                                                                                                                                                                                           |
+|    | *Utility Enchantment 1*    |         |          |                                                                                                                                                                                           |
 |  1 | Rest In Peace              | 1W      | ench     | Exile all graveyards -- If a card or token would be put in a graveyard from anywhere, exile it instead                                                                                    |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Lands 35*                 |         |          |                                                                                                                                                                                           |
 |  1 | Evolving Wilds             |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
 |  1 | Terramorphic Expanse       |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
 |  1 | Boros Guildgate            |         | land     | Enters tapped -- t: add R or W                                                                                                                                                            |
-|  - | Madblind Mountain          |         | land     | Mountain -- Enters tapped -- R, t: shuffle ur lib, play only if u control 2 red perm                                                                                                      |
 |  1 | Boros Garrison             |         | land     | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                                                   |
 |  1 | Sacred Foundry             |         | land     | Enters tapped unless u pay 2 life -- t: add R or W                                                                                                                                        |
-|  1 | Clifftop Retreat           |         | land     | Enters tapped unless u control a plain or mountain -- t: add R or W                                                                                                                       |
+|  1 | Clifftop Retreat           |         | land     | Enters tapped unless u control a plains or mountain -- t: add R or W                                                                                                                      |
 |  1 | Temple of Triumph          |         | land     | Enters tapped -- When enters: scry 1 -- t: add R or W                                                                                                                                     |
+|  1 | Dwarven Mine               |         | land     | Enters tapped unless u control 3+ other Mountains -- When enters untapped: create a 1/1 red Dwarf creature token                                                                          |
 |  1 | Reliquary Tower            |         | land     | t: add 1 -- You have no max hand size                                                                                                                                                     |
 |  1 | Slayers' Stronghold        |         | land     | t: add 1 -- WB, t: tgt creat gain +2/+0, vigilance and haste until eot                                                                                                                    |
 | 13 | Plains                     |         | bas land |                                                                                                                                                                                           |
 | 12 | Mountain                   |         | bas land |                                                                                                                                                                                           |
 |----+----------------------------+---------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.6*        |         |          |                                                                                                                                                                                           |
+|    | Madblind Mountain          |         | land     | Mountain -- Enters tapped -- R, t: shuffle ur lib, play only if u control 2 red perm                                                                                                      |
+|    | Everflowing Chalice        | 0       | art      | Multikick 2 -- t`: add X mana where X is # kicks                                                                                                                                          |
+|    | Thran Dynamo               | 4       | art      | t: add 3                                                                                                                                                                                  |
+|    | Cast Out                   | 3W      | ench     | Flash -- When enters: exile tgt non land perm until ~ leaves.  Cycling W                                                                                                                  |
+|    | Sword of Feast and Famine  | 3       | eqp 2    | Eqp creat gets +2/+2, pro black, pro green and: when deals damage to a player, that player discard a card, and you untap all your lands                                                   |
+|    |                            |         |          |                                                                                                                                                                                           |
 |    | *Removed from v0.5*        |         |          |                                                                                                                                                                                           |
 |    | Carom                      | 1W      | inst     | The next 1 damage that would be dealt to this creat is dealt to another tgt creat instead -- Draw a card                                                                                  |
 |    |                            |         |          |                                                                                                                                                                                           |
@@ -173,30 +181,30 @@ Feather the Redeemed v0.6
 |    | Swift Justice              | W       | inst     | Until eot, tgt creature gets +1/+0, first strike and lifelink                                                                                                                             |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | Expedite                   | R       | inst     | Tgt creat gains haste until eot, draw a card                                                                                                                                              |
-|    | Fists of Flame             | 1R      | inst     | Draw a card. Until eot, tgt creat gain trample and +1/0 for each card u ve drawn this turn                                                                                                |
 |    | Titan's Strength           | R       | inst     | Tgt creat gets +3/+1 until eot, scry 1                                                                                                                                                    |
 |    |                            |         |          |                                                                                                                                                                                           |
 
 Card to still add:
 -------------------
 + Aetherflux Reservoir
-+ Land destruction of some sort??
-+ Art/Ench destruction
 + Grand Abolisher
-+ Zada, Hedron Grinder
-+ Akroan Crusader
 ...
 + Favored Hoplite
++ Expedite ?
+- ??? Expedition Map
 
 v0.6 -> v0.7:
 -------------
-+ Expedite ?
-+ Fists of Flame
-- ??? Cast Out
-- ??? Expedition Map
 - Madblind Mountain
-+ ??? Command Tower
++ Dwarven Mine
 - Everflowing Chalice
++ Wayfarer's Bauble
+- Thran Dynamo
++ Curse of Opulence
+- Cast Out
++ Paraselene
+- Sword of Feast and Famine
++ Sword of Vengeance
 
 v0.5 -> v0.6:
 -------------
