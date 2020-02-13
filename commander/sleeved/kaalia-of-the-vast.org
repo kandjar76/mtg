@@ -1,5 +1,5 @@
-Kaalia of the Vast v1.5
-[sleeved: v1.4]
+Kaalia of the Vast v1.6
+[sleeved: v1.6]
 
 
 |   | *Commander*                |         |          |                                                                                                                                                                  |
@@ -31,8 +31,7 @@ Kaalia of the Vast v1.5
 | 1 | Linvala, Keeper of Silence | 2WW     | 3/4 fly  | Activated abilities of creats u opp control can't be activated                                                                                                   |
 | 1 | Karmic Guide               | 3WW     | 2/2 fly  | Pro Black -- Echo -- When enters: return tgt creat from ur graveyard to play                                                                                     |
 | 1 | Reya Dawnbringer           | 6WWW    | 4/6 fly  | Beg upk: return tgt creat from ur graveyard to play                                                                                                              |
-| - | Angelic Arbiter            | 5WW     | 5/6 fly  | Each opp who cast spell can't attack w/ creatures -- Each opp who attack w/ creature can't cast spell                                                            |
-| + | Avacyn, Angel of Hope      | 5WWW    | 8/8 fly  | Vigilance -- Perm u control are indestructible                                                                                                                   |
+| 1 | Avacyn, Angel of Hope      | 5WWW    | 8/8 fly  | Vigilance -- Perm u control are indestructible                                                                                                                   |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *Dragons 9*                |         |          |                                                                                                                                                                  |
 | 1 | Skarrgan Hellkite          | 3RR     | 4/4 fly  | Riot -- 3R: deals 2 damage to any of up to two tgt, only if ~ has +1c on it.                                                                                     |
@@ -111,10 +110,12 @@ Kaalia of the Vast v1.5
 | 1 | Fetid Heath                |         | land     | t: add 1 -- {wb}, t: add WW or BB or BW                                                                                                                          |
 | 1 | Blood Crypt                |         | land     | Enters tapped unless u pay 2 life -- t: add R or B                                                                                                               |
 | 1 | Castle Locthwain           |         | land     | Enters tapped unless u control a swamp -- t: add B -- 1BB, t: draw a card. ~ deals damage to u equal to # cards in hand                                          |
-| 7 | Plains                     |         | bas land |                                                                                                                                                                  |
+| 1 | Volrath's Stronghold       |         | land     | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of ur lib                                                                                              |
+| 6 | Plains                     |         | bas land |                                                                                                                                                                  |
 | 6 | Swamp                      |         | bas land |                                                                                                                                                                  |
 | 6 | Mountain                   |         | bas land |                                                                                                                                                                  |
 |---+----------------------------+---------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - | Angelic Arbiter            | 5WW     | 5/6 fly  | Each opp who cast spell can't attack w/ creatures -- Each opp who attack w/ creature can't cast spell                                                            |
 |   |                            |         |          |                                                                                                                                                                  |
 |   | *To Consider*              |         |          |                                                                                                                                                                  |
 | * | Archfiend of Depravity     | 3BB     | 5/4 fly  | At the beg of each opp end step, that player chooses up to 2 creatures and sacr the rest                                                                         |
@@ -140,7 +141,6 @@ Kaalia of the Vast v1.5
 |   | Disciple of Bolas          | 3B      | 2/1      | When enters, sacr another creat: draw X and gain X where X is the sac creat's power                                                                              |
 |   | Magus of the Moat          | 2WW     | 0/3      | Creats w/o flying can't attack                                                                                                                                   |
 |   |                            |         |          |                                                                                                                                                                  |
-|   | Volrath's Stronghold       |         | land     | t: add 1 -- 1B, t: put tgt creat from ur graveyard on top of ur lib                                                                                              |
 |   | Maze of Ith                |         | land     | t: untap tgt attacking creature, prevent all combat damage that would be dealt to and by that creatures this turn                                                |
 |   | Mystifying Maze            |         | land     | t: add 1 -- 4, t: exile tgt attacking creat an opp controls, return it to play under its owner's control at beg of end step                                      |
 |   |                            |         |          |                                                                                                                                                                  |
@@ -210,6 +210,11 @@ Kaalia of the Vast v1.5
 | - | Thespian's Stage           |         | land     | t: add 1 -- 2, t: ~ becomes a copy of tgt land and gains this ability                                                                                            |
 | - | Molten Slagheap            |         | land     | t: add 1 -- 1, t: put charge counter on it -- 1, remove X charge counter: add X combination of B or R to mana pool                                               |
 | - | Experimental Frenzy        | 3R      | ench     | You may look and play card from top of lib -- You can't play card from hand -- 3R: destroy ~                                                                     |
+
+v1.5 -> v1.6:
+-------------
+- Plains
++ Volrath's Stronghold
 
 v1.4 -> v1.5:
 -------------
