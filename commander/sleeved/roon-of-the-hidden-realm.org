@@ -1,5 +1,5 @@
-Roon of the Hidden Realm v1.0
-[sleeved v1.0]
+Roon of the Hidden Realm v1.1
+[sleeved v1.1]
 
 
 |    | *Commander*                   |           |           |                                                                                                                                                                                               |
@@ -10,14 +10,17 @@ Roon of the Hidden Realm v1.0
 |  1 | Venser, the Sojourner         | 3WU       | plwkr 3   | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                                                                      |
 |  1 | Vivien, Champion of the Wilds | 2G        | plwkr 4   | You may cast creat spells as though they had flash -- +1: until ur next turn, up to 1 tgt creat gains vigilance and reach -- -2: look top 3, exile 1 face down, u may cast it if it's a creat |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Ramp 7*                      |           |           |                                                                                                                                                                                               |
+|    | *Ramp 10*                     |           |           |                                                                                                                                                                                               |
 |  1 | Sol Ring                      | 1         | art       | t: add 2 to mana pool                                                                                                                                                                         |
 |  1 | Selesnya Signet               | 2         | art       | 1, t: add GW to mana pool                                                                                                                                                                     |
 |  1 | Simic Signet                  | 2         | art       | 1, t: add GU to mana pool                                                                                                                                                                     |
 |  1 | Azorius Signet                | 2         | art       | 1, t: add WU to mana pool                                                                                                                                                                     |
+|  1 | Coiling Oracle                | GU        | 1/1       | When enters: reveal top card, if land -> into play, if not, in hand.                                                                                                                          |
+|  1 | Farhaven Elf                  | 2G        | 1/1       | When enters: search ur lib for a basic land, put it into play tapped.                                                                                                                         |
 |  1 | Cultivate                     | 2G        | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                 |
 |  1 | Kodama's Reach                | 2G        | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                 |
 |  1 | Oracle of Mul Daya            | 3G        | 2/2       | You may play an add land this turn -- Play with top lib revealed, if its a land, you may play it                                                                                              |
+|  1 | Solemn Simulacrum             | 4         | 2/2       | When enters: search basic land put into play tapped -- When leave: draw                                                                                                                       |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *Wrath 4*                     |           |           |                                                                                                                                                                                               |
 |  1 | Wrath of God                  | 2WW       | sorc      | Destroy all creatures, they can't be regenerated                                                                                                                                              |
@@ -25,16 +28,16 @@ Roon of the Hidden Realm v1.0
 |  1 | Supreme Verdict               | 1UWW      | sorc      | Can't be countered -- Destroy all creatures                                                                                                                                                   |
 |  1 | Akroma's Vengeance            | 4WW       | sorc      | Destroy all art/enchant/creatures -- Cycling 3                                                                                                                                                |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Targetted Removal 4*         |           |           |                                                                                                                                                                                               |
+|    | *Targetted Removal 3*         |           |           |                                                                                                                                                                                               |
 |  1 | Swords to Plowshares          | W         | inst      | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                    |
 |  1 | Path to Exile                 | W         | inst      | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                         |
 |  1 | Oblation                      | 2W        | inst      | The owner of tgt non land perm shuffle it in its library then draw 2 cards                                                                                                                    |
-|  1 | Detention Sphere              | 1WU       | ench      | When enter: exile tgt perm and all perm sharing its name -- When leave: return the exiled permanent to the battlefield                                                                        |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Blink Spell 6*               |           |           |                                                                                                                                                                                               |
+|    | *Blink Spell 7*               |           |           |                                                                                                                                                                                               |
 |  1 | Momentary Blink               | 1W        | inst      | Flashback 3U -- Blink tgt creat u control                                                                                                                                                     |
 |  1 | Mistmeadow Witch              | 1{wu}     | 1/1       | 2WU: exile tgt creat, return it to play under its owner's control at eot                                                                                                                      |
 |  1 | Ghostway                      | 2W        | inst      | Exile all creats u control -- Return them to play under their owner's control at eot                                                                                                          |
+|  1 | Eerie Interlude               | 2W        | inst      | Exile any # of tgt creatures u control, return those creats under their owner's control at the beg of next end step                                                                           |
 |  1 | Brago, King Eternal           | 2WU       | 2/4 fly   | Legendary -- When ~ deals combat damage to a player, blink any number of target non land perms you control.                                                                                   |
 |  1 | Conjurer's Closet             | 5         | art       | Beg end step: u may blink tgt creat u control                                                                                                                                                 |
 |  1 | Deadeye Navigator             | 4UU       | 5/5       | Soulbound -- Soulbounded have: "1U: blink this creat"                                                                                                                                         |
@@ -43,46 +46,43 @@ Roon of the Hidden Realm v1.0
 |  1 | Sundial of the Infinite       | 2         | art       | 1, t: End the turn (activate only during ur turn)                                                                                                                                             |
 |  1 | Time Stop                     | 4UU       | inst      | End the turn                                                                                                                                                                                  |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *Counter Spells 4*            |           |           |                                                                                                                                                                                               |
+|    | *Counter Spells 5*            |           |           |                                                                                                                                                                                               |
 |  1 | Counterspell                  | UU        | inst      | Counter target spell                                                                                                                                                                          |
 |  1 | Spell Crumple                 | 1UU       | inst      | Counter tgt spell, if countered: put it on the bottom of lib -- Put spell crumple at bottom of lib                                                                                            |
 |  1 | Hinder                        | 1UU       | inst      | Counter tgt spell, if countered: put it on top or bottom of owner's lib                                                                                                                       |
 |  1 | Mindbreak Trap                | 2UU       | inst      | Cost 0 if an opp cast 3 or more spell this turn -- Exile any number of target spells.                                                                                                         |
+|  1 | Mystic Snake                  | 1GUU      | 2/2       | Flash -- When enters: counter tgt spell                                                                                                                                                       |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *Art and Ench Removals 4*     |           |           |                                                                                                                                                                                               |
-|  1 | Harmonic Silver               | 1WG       | 1/1       | All slivers have: "When this enter, destroy tgt artifact or enchantment"                                                                                                                      |
+|  1 | Harmonic Sliver               | 1WG       | 1/1       | All slivers have: "When this enter, destroy tgt artifact or enchantment"                                                                                                                      |
 |  1 | Krosan Grip                   | 2G        | inst      | Split second -- Destroy tgt art or ench                                                                                                                                                       |
 |  1 | Return to Dust                | 2WW       | inst      | Exile tgt art or enchantment, if cast during main phase, u may exile up to 1 other art or enchantment                                                                                         |
 |  1 | Acidic Slime                  | 4G        | 2/2       | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                      |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | *Other Helpers 8*             |           |           |                                                                                                                                                                                               |
 |  1 | Worldly Tutor                 | G         | inst      | Seach lib for a creat and put it on top                                                                                                                                                       |
-|  1 | Green Sun's Zenith            | xG        | sorc      | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                         |
 |  1 | Cyclonic Rift                 | 1U        | inst      | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                                 |
 |  1 | Mimic Vat                     | 3         | art       | Imprint: creat ->graveyard u may exile it -- 3,t: put copy w/ haste and exile tok eot                                                                                                         |
-|  1 | Blue Sun's Zenith             | xUUU      | inst      | Target player draw X cards -- Shuffle ~ to its owner's lib.                                                                                                                                   |
+|  1 | Guardian Project              | 3G        | ench      | When a nontoken creat enters the battlefield under ur control, if it doesn't have the same name as another creature u control or a creat card in ur graveyard, draw a card                    |
 |  1 | Leyline of Anticipation       | 2UU       | ench      | if in opening hand -> in play -- non land cards have flash                                                                                                                                    |
 |  1 | Glen Elendra Archmage         | 3U        | 2/2 fly   | Persist -- U, sacr her: counter tgt non creat spell                                                                                                                                           |
 |  1 | AEthermage's Touch            | 2WU       | inst      | Reveal top 4 cards. You may put a creat from them into play. It gains: "Beg ur end step, return it to hand", rest bot                                                                         |
+|  * | Seedborn Muse                 | 3GG       | 2/4       | Untap all perm u control during each other player's upk                                                                                                                                       |
 |    |                               |           |           |                                                                                                                                                                                               |
-|    | *ETB Creatures 21*            |           |           |                                                                                                                                                                                               |
+|    | *ETB Creatures 17*            |           |           |                                                                                                                                                                                               |
 |  1 | Eternal Witness               | 1GG       | 2/1       | When enters: return tgt card from graveyard to hand                                                                                                                                           |
 |  1 | Knight of Autumn              | 1GW       | 2/1       | When enters, choose one: destroy tgt art or ench OR gain 4 life OR put 2 +1c on ~                                                                                                             |
-|  1 | Solemn Simulacrum             | 4         | 2/2       | When enters: search basic land put into play tapped -- When leave: draw                                                                                                                       |
 |  1 | Venser, Shaper Savant         | 2UU       | 2/2 flash | When enters: return tgt spell or tgt perm to its owner's hand                                                                                                                                 |
 |  1 | Archaeomancer                 | 2UU       | 1/2       | When enters: return tgt instant or sorcery from your graveyard to your hand                                                                                                                   |
 |  1 | Angel of Finality             | 3W        | 3/4 fly   | When enters: exile tgt player's graveyard                                                                                                                                                     |
 |  1 | Restoration Angel             | 3W        | 3/4 fly   | Flash -- When enters: blink tgt non angel creatures u control                                                                                                                                 |
 |  1 | Phyrexian Metamorph           | 3{up}     | 0/0       | You may have ~ enter the battlefield as a copy of any creature or artifact -- It remains an artifact in addition of its other types                                                           |
-|  1 | Thragtusk                     | 4G        | 5/3       | When enters: gain 5 life, when leaves: put a 3/3 token                                                                                                                                        |
 |  1 | Reveillark                    | 4W        | 4/3 fly   | Evoke 5W -- When leaves: you may return up to 2 tgt creat w/ pow 2 or less from ur grave to play                                                                                              |
 |  1 | Mulldrifter                   | 4U        | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                                                         |
-|  1 | Lavinia of the Tenth          | 3WU       | 4/4       | Pro red -- When enters: detain each non land perm w/ CMC 4 or less                                                                                                                            |
 |  1 | Twilight Shepherd             | 3WWW      | 5/5 fly   | Vigilance -- When enters: return to hand all creats put into ur graveyard from play this turn -- Persist                                                                                      |
 |  1 | Prime Speaker Zegana          | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                                                        |
 |  1 | Progenitor Mimic              | 4GU       | 0/0       | You may have ~ enter the battlefield as a copy of any creature and it gain: "Beg upk: if ~ isn't a token, put a token which is a copy of this creature"                                       |
 |  1 | Sun Titan                     | 4WW       | 6/6 vig   | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                                          |
-|  1 | Frost Titan                   | 4UU       | 6/6       | When enters or when attacks: tap tgt perm, it doesn't untap during its controller next untap phase -- When tgt of an opp spell or ab: counter it unless he pays 2                             |
 |  1 | Sphinx of Uthuun              | 5UU       | 5/6 fly   | When enters: reveal top 5 card of lib. An opp split those into two piles. Put one in hand and the other in the graveyard                                                                      |
 |  1 | Diluvian Primordial           | 5UU       | 5/5 fly   | When enters: for each opp, you may cast one tgt inst or sorc w/o paying its mana cost. If cast: exile it.                                                                                     |
 |  1 | Luminate Primordial           | 5WW       | 4/7 vig   | When enters: for each opp, exile up to one tgt creature, he gains life equals to its power                                                                                                    |
@@ -113,7 +113,6 @@ Roon of the Hidden Realm v1.0
 |----+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To really consider*          |           |           |                                                                                                                                                                                               |
 |    | Panharmonicon                 | 4         | art       | If an art or creat entering causes a triggered ability of a perm u control, that ability triggers an additional time                                                                          |
-|    | Eerie Interlude               | 2W        | inst      | Exile any # of tgt creatures u control, return those creats under their owner's control at the beg of next end step                                                                           |
 |    |                               |           |           |                                                                                                                                                                                               |
 |    | Ephara, God of Polis          | 2WU       | 6/5       | Indestructible -- As long as ur devotion in white/blue is less than 7, ~ isnt a creature -- At beg of each upk, if anotehr creat enters last turn, draw a card                                |
 |    | Azor, the Lawbringer          | 2WWUU     | 6/6 fly   | When enters: each opp can't cast inst or sorc during their next turn -- When ~ attacks, you may pay xWUU, if u do, gain X life and draw X cards                                               |
@@ -136,6 +135,14 @@ Roon of the Hidden Realm v1.0
 |    | Fiend Hunter                  | 1WW       | 1/3       | When enters: exile tgt creatre -- When leave: return exile card to play                                                                                                                       |
 |    | Condemn                       | W         | inst      | Put tgt attacking creat on bottom of its owner's library -- Its controller gain life equal to its toughness                                                                                   |
 |----+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v1.0*           |           |           |                                                                                                                                                                                               |
+|    | Detention Sphere              | 1WU       | ench      | When enter: exile tgt perm and all perm sharing its name -- When leave: return the exiled permanent to the battlefield                                                                        |
+|    | Green Sun's Zenith            | xG        | sorc      | Search ur lib for a green creat w/ CMC X or less and put it into play                                                                                                                         |
+|    | Blue Sun's Zenith             | xUUU      | inst      | Target player draw X cards -- Shuffle ~ to its owner's lib.                                                                                                                                   |
+|    | Thragtusk                     | 4G        | 5/3       | When enters: gain 5 life, when leaves: put a 3/3 token                                                                                                                                        |
+|    | Lavinia of the Tenth          | 3WU       | 4/4       | Pro red -- When enters: detain each non land perm w/ CMC 4 or less                                                                                                                            |
+|    | Frost Titan                   | 4UU       | 6/6       | When enters or when attacks: tap tgt perm, it doesn't untap during its controller next untap phase -- When tgt of an opp spell or ab: counter it unless he pays 2                             |
+|----+-------------------------------+-----------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Lightning Greaves             | 2         | eqp 0     | Eqp creat has shroud and haste                                                                                                                                                                |
 |    | Swiftfoot Boots               | 2         | eqp 1     | Eqp creat has hexproof and haste                                                                                                                                                              |
 |    | Karmic Guide                  | 3WW       | 2/2 fly   | Pro black -- Echo 3WW -- When enters: return tgt creat from ur graveyard to play                                                                                                              |
@@ -149,7 +156,6 @@ Roon of the Hidden Realm v1.0
 |    | Yavimaya Coast                |           | land      | t: add 1 -- t: add G or U, ~ deals 1 damage to u                                                                                                                                              |
 |    | Krosan Verge                  |           | land      | Enters tapped -- t: add 1 -- 2, t, sacr: search for a Plains and a Forest and put them into play tapped.                                                                                      |
 |    | Beck // Call                  | GU // 4WU | sorc      | Fuse -- Beck = whenever a creatures enters: draw a card // Call: put 4 1/1 bird w/ flying into play                                                                                           |
-|    | Coiling Oracle                | GU        | 1/1       | When enters: reveal top card, if land -> into play, if not, in hand.                                                                                                                          |
 |    | Dissipate                     | 1UU       | inst      | Counter tgt spell, if countered: exile it instead                                                                                                                                             |
 |    | Tel-Jilad Justice             | 1G        | inst      | Destroy tgt artifact -- Scry 2                                                                                                                                                                |
 |    | Sunblast Angel                | 4WW       | 4/5 fly   | When enters: destroy all tapped creatures                                                                                                                                                     |
@@ -168,16 +174,37 @@ Roon of the Hidden Realm v1.0
 |    | Mystical Tutor                |           |           |                                                                                                                                                                                               |
 |    | Personal Tutor                |           |           |                                                                                                                                                                                               |
 |    | Merchant Scroll               |           |           |                                                                                                                                                                                               |
-|    |                               |           |           |                                                                                                                                                                                               |
+|    | Thassa, Deep Dwelling         | 3U        | 6/5       | Indestructible -- Devotion 5U -- Beg end step: blink another creature u control. -- 3U: tap another tgt creature                                                                              |
+|    | Soulherder                    | 1WU       | 1/1       | When a create is exiled: put a +1c on ~ -- Beg end step: blink another creature u control, return under his owner's control                                                                   |
+|    | Cloudblazer                   | 3WU       | 2/2 fly   | When enters: gain 2 life and draw 2 cards                                                                                                                                                     |
+|    | Reflector Mage                | 1WU       | 2/3       | When enters: return tgt creature an opp control to its owner's hand.  That creature's owner can't cast spell with the same name until ur next turn.                                           |
+|    | Agent of Treachery            | 5UU       | 2/3       | When enters: gain control of tgt perm -- Beg end step: if u control 3 perm u don't own, draw 3 cards                                                                                          |
+|    | Eldrazi Displacer             | 2W        | 3/3       | Devoid - 2c: exile another tgt creature, return it to its owner's control tapped                                                                                                              |
+
++ Panharmonicon
++ Azor, the Lawbringer
++ Thassa, Deep-Dwelling
++ Agent of Treachery
++ Eldrazi Displacer
+- [?] Sundial of the Infinite
+- [?] Spell Crumble | Find better counter spells
+- [?] Hinder        |
 
 
 v1.0 -> v1.1:
 -------------
-+ Panharmonicon
+- Detention Sphere
+- Blue Sun's Zenith
+- Lavinia of the Tenth
+- Frost Titan
+- Thragtusk
+- Green Sun's Zenith
++ Mystic Snake
++ Guardian Project
 + Eerie Interlude
++ Coiling Oracle
++ Farhaven Elf
 + Seedborn Muse
-- Mistmeadow Witch
-- ???
 
 
 v0.9 -> v1.0:
