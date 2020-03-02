@@ -70,7 +70,7 @@ Yawgmoth, Thran Physician v0.2
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Search Toolbox 2*           |        |         |                                                                                                                                                                                                                       |
 |  1 | Demonic Tutor                | 1B     | sorc    | Search your lib for a card and put it in your hand                                                                                                                                                                    |
-|  1 | Mausoleum Secrets            | 1B     | inst    | Undergrowth -- Search lib for a black card w/ CMC less or eq than the # of creat in ur graveyard                                                                                                                      |
+|  - | Mausoleum Secrets            | 1B     | inst    | Undergrowth -- Search lib for a black card w/ CMC less or eq than the # of creat in ur graveyard                                                                                                                      |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Threats 6*                  |        |         |                                                                                                                                                                                                                       |
 |  1 | Phyrexian Obliterator        | BBBB   | 5/5     | Trample, when a source deals damage to ~, that source controller sacr that many permanent.                                                                                                                            |
@@ -99,13 +99,13 @@ Yawgmoth, Thran Physician v0.2
 |  1 | Mutilate                     | 2BB    | sorc    | All creats gets -1/-1 for each swamp u control                                                                                                                                                                        |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Lands 38*                   |        |         |                                                                                                                                                                                                                       |
-|  1 | Radiant Fountain             |        | land    | When enter: gain 2 life -- t: add 1 to mana pool                                                                                                                                                                      |
+|  - | Radiant Fountain             |        | land    | When enter: gain 2 life -- t: add 1 to mana pool                                                                                                                                                                      |
 |  1 | Bojuka Bog                   |        | land    | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                                                                                |
-|  1 | Barren Moor                  |        | land    | Enters tapped -- t: add B -- Cycling B                                                                                                                                                                                |
+|  - | Barren Moor                  |        | land    | Enters tapped -- t: add B -- Cycling B                                                                                                                                                                                |
 |  1 | Tectonite Edge               |        | land    | t: add 1 -- 1, t, sacr it: destr tgt land opp control (only if opp control 4+ lands)                                                                                                                                  |
 |  1 | Myriad Landscape             |        | land    | Enters tapped -- t: add 1 -- 2, sacr: seach for two basic land that share a type and put them into play tapped                                                                                                        |
-|  1 | Crypt of Agadeem             |        | land    | Enters tapped -- t: add B -- 2, t: add B for each black creat in ur graveyard                                                                                                                                         |
-|  1 | Leechridden Swamp            |        | swamp   | Enters tapped -- B, t: each opp looses 1 life, only if u control 2 or more black perm                                                                                                                                 |
+|  - | Crypt of Agadeem             |        | land    | Enters tapped -- t: add B -- 2, t: add B for each black creat in ur graveyard                                                                                                                                         |
+|  - | Leechridden Swamp            |        | swamp   | Enters tapped -- B, t: each opp looses 1 life, only if u control 2 or more black perm                                                                                                                                 |
 | 31 | Swamp                        |        |         |                                                                                                                                                                                                                       |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |----+------------------------------+--------+---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -172,7 +172,41 @@ Yawgmoth, Thran Physician v0.2
 |    | Druid Satchel                | 3      | art     | 2, t: reveal top lib, if it's a creat put a 1/1 green saprolin, if land: put it into play, otherwise: gain 2 life                                                                                                     |
 |    | Prismatic Talisman           | 3      | art     | t: add 1 mana, gain 1 life                                                                                                                                                                                            |
 |    |                              |        |         |                                                                                                                                                                                                                       |
+|    | Crumbling Ashes              | 1B     | ench    | Beg upk: destroy tgt creature with -1c on it                                                                                                                                                                          |
+|    | Nyx Lotus                    | 4      | leg art | Enters tapped -- t, choose a color: add an amount of mana equal to your devotion in that color                                                                                                                        |
+|    | Drag to the Underworld       | 2BB    | inst    | Cost X less where X is ur devotion in black -- Destroy tgt creature                                                                                                                                                   |
+|    | Imp's Mischief               | 1B     | inst    | Change tgt of spell with a single tgt, you loose life equal to the spell's CMC                                                                                                                                        |
+|    | Slaughter Pact               | 0      | inst    | Destroy tgt non black creature -- Beg next upkeep: pay 2B, if not, u loose the game                                                                                                                                   |
 
+v0.2 -> v0.3:
+-------------
+- Prismatic Lens
++ Nyx Lotus
+- Swamp
++ Phyrexian Arena
+- Swamp
++ Crumbling Ashes
+- Mausoleum Secrets
++ Beseech the Queen
+- Life's Finale
++ Damnation
+- Attrition
++ Murderous Rider
+- Go For the Throat
++ Drag to the Underworld
+
++ Archfiend of Ifnir
+- ???
++ Skullclamp
+- ???
++ (?) Sengir Autocrat
++ Nykthos, Shrine to Nyx
+
+Version v0.2:
+-------------
+Maybe a bit too many swamps.
+More draws would be great... 
+More token generator.
 
 v0.1 -> v0.2:
 -------------
