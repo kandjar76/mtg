@@ -1,5 +1,5 @@
-Oloro, Ageless Ascetic v1.8
-[sleeved: v1.8]
+Oloro, Ageless Ascetic v1.9
+[sleeved: v1.9]
 
 
 |   | *Commander*                  |           |          |                                                                                                                                                                              |
@@ -30,15 +30,14 @@ Oloro, Ageless Ascetic v1.8
 | 1 | Bloodgift Demon              | 3BB       | 5/4 fly  | Beg upk: draw a card and loose a life                                                                                                                                        |
 | 1 | Sphinx's Revelation          | xWBB      | ench     | You gain X life and draw X cards                                                                                                                                             |
 |   |                              |           |          |                                                                                                                                                                              |
-|   | *Threats 17*                 |           |          |                                                                                                                                                                              |
+|   | *Threats 15*                 |           |          |                                                                                                                                                                              |
 | 1 | Serra Ascendant              | W         | 1/1      | Lifelink -- As long as u have 30+ life, ~ gets +5/+5 and flying                                                                                                              |
-| 1 | Ajani's Primate              | 1W        | 2/2      | Whenever u gain life, put a +1c on ~                                                                                                                                         |
 | 1 | Vizkopa Guildmage            | WB        | 2/2      | 1WB: Tgt creat gain lifelink -- 1WB: Whenever u gain life, each opp loses that much life.                                                                                    |
 | 1 | Karlov of the Ghost Council  | WB        | 2/2 leg  | Whenever u gain life: put 2 +1c on ~ -- WB, remove 6 +1c from ~: exile tgt creature                                                                                          |
 | 1 | Resplenish Angel             | 1WW       | 3/3 fly  | Beg each end step, if u gain 5 or more life, create a 4/4 angel token w/ fly and vig. -- 3WWW: ~ gains +2/+2 and lifelink until eot                                          |
 | 1 | Aetherflux Reservoir         | 4         | art      | Whenever u cast a spell, gain 1 life for each spell u cast this turn -- Pay 50 life: ~ deals 50 damage to tgt creat or player                                                |
 | 1 | Batterskull                  | 5         | eqp 5    | Living Weapon -- Eqp creat gets "+4/+4 vig and lifelink" -- 3: return ~ to hand                                                                                              |
-| * | Crested Sunmare              | 3WW       | 5/5      | Other horse have indestructible -- Beg each end step: if you gain life this turn, create a 5/5 white horse                                                                   |
+| 1 | Crested Sunmare              | 3WW       | 5/5      | Other horse have indestructible -- Beg each end step: if you gain life this turn, create a 5/5 white horse                                                                   |
 | 1 | Divinity of Pride            | {bw}x5    | 4/4 fly  | Lifelink -- ~ gets +4/+4 as long as u have 25 life or more                                                                                                                   |
 | 1 | Indulgent Tormentor          | 3BB       | 5/3 fly  | Beg upk: draw a card unless tgt opp sacr a creat or pays 3 life                                                                                                              |
 | 1 | Archangel of Thune           | 3WW       | 3/4 fly  | Lifelink -- Whenever u gain life, put a +1c on each creat u control                                                                                                          |
@@ -46,14 +45,14 @@ Oloro, Ageless Ascetic v1.8
 | 1 | Blood Baron of Vizkopa       | 3WB       | 4/4      | Lifelink -- Pro white; pro black -- It gets +6/+6 and flying if you have >30 life AND opp has 10 or less life                                                                |
 | 1 | Felidar Sovereign            | 4WW       | 4/6      | At beg of ur upkeep: if you have 40 or more life, you win the game.                                                                                                          |
 | 1 | Serra Avatar                 | 4WWW      | */*      | ~ Power and toughness is equal to your life total. When put to graveyard from anywhere, shuffle it to lib.                                                                   |
-| 1 | Ashen Rider                  | 4WWBB     | 5/5 fly  | When enters or leaves: exile tgt permanent                                                                                                                                   |
 | 1 | Vilis, Broker of Blood       | 5BBB      | 8/8 fly  | B, pay 2 life: tgt creat gets -1/-1 until eot -- Whenever u pay life: draw that many cards                                                                                   |
 |   |                              |           |          |                                                                                                                                                                              |
-|   | *General Helper 10*          |           |          |                                                                                                                                                                              |
+|   | *General Helper 11*          |           |          |                                                                                                                                                                              |
+| 1 | Authority of the Consuls     | W         | ench     | Creats ur opp enters tapped -- When a creat enters under an opp controls: gain 1 life                                                                                        |
+| 1 | Soul's Attendant             | W         | 1/1      | Whenever another creature enters: u may gain 1 life                                                                                                                          |
 | 1 | Phyrexian Reclamation        | B         | ench     | 1B, pay 2 life: return tgt creat from your graveyard to your hand                                                                                                            |
 | 1 | Blind Obedience              | 1W        | ench     | Extort -- Artifacts and creats ur opponent control enter the battlefield tapped                                                                                              |
 | 1 | Angelic Accord               | 3W        | ench     | Beg each end step: if u gain 4 or more life, put a 4/4 white angel w/ flying onto the battlefield                                                                            |
-| 1 | Painful Quandary             | 3BB       | ench     | Whenever an opp cast a spell, that player looses 5 life unless he discards a card                                                                                            |
 | 1 | Sanguine Blood               | 3BB       | ench     | Whenever u gain life, tgt opp looses that much HP                                                                                                                            |
 | 1 | Exquisite Blood              | 4B        | ench     | Whenever an opp loose life, u gain that much life.                                                                                                                           |
 | 1 | Command the Dreadhorde       | 4BB       | sorc     | Choose any # of tgt creats/planeswalkers in graveyards; loose life equal to the total CMC, put them into play under ur control                                               |
@@ -73,7 +72,7 @@ Oloro, Ageless Ascetic v1.8
 | 1 | Terminus                     | 4WW       | sorc     | Miracle W -- Put all creats on the bottom of their owner's library                                                                                                           |
 | 1 | Hours of Revelation          | 3WWW      | sorc     | Cost 3 less if there are 10 or more non land perm on the battlefield -- Destroy all non land perm                                                                            |
 |   |                              |           |          |                                                                                                                                                                              |
-|   | *Target removal 7*           |           |          |                                                                                                                                                                              |
+|   | *Target removal 8*           |           |          |                                                                                                                                                                              |
 | 1 | Swords to Plowshares         | W         | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                   |
 | 1 | Revoke Existence             | 1W        | sorc     | Exile tgt art or enchantment                                                                                                                                                 |
 | 1 | Celestial Purge              | 1W        | inst     | Exile tgt black or red perm                                                                                                                                                  |
@@ -81,6 +80,7 @@ Oloro, Ageless Ascetic v1.8
 | 1 | Murderous Rider              | 1BB       | 2/3      | [Adv: Inst(2B) - Destroy tgt creat or planeswalker and loose 2 life] Lifelink                                                                                                |
 | 1 | Act of Authority             | 1WW       | ench     | When ~ enters: you may exile tgt art or ench -- Beg upk: you may exile tgt art or ench; if u do, its controller gain control of ~                                            |
 | 1 | Utter End                    | 2WB       | inst     | Exile tgt non land perm                                                                                                                                                      |
+| 1 | Snuff Out                    | 3B        | inst     | If you control a swamp, you may pay 4 life rather that ~ cost -- Destroy tgt non black creat. It can't be regen                                                              |
 |   |                              |           |          |                                                                                                                                                                              |
 |   | *Tutors 1*                   |           |          |                                                                                                                                                                              |
 | 1 | Demonic Tutor                | 1B        | sorc     | Search your lib for a card, put it to hand                                                                                                                                   |
@@ -110,7 +110,12 @@ Oloro, Ageless Ascetic v1.8
 | 8 | Plains                       |           | bas land |                                                                                                                                                                              |
 |   |                              |           |          |                                                                                                                                                                              |
 |---+------------------------------+-----------+----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   | *Removed from 1.7*           |           |          |                                                                                                                                                                              |
+|   | *Removed from v1.8*          |           |          |                                                                                                                                                                              |
+|   | Ajani's Primate              | 1W        | 2/2      | Whenever u gain life, put a +1c on ~                                                                                                                                         |
+|   | Ashen Rider                  | 4WWBB     | 5/5 fly  | When enters or leaves: exile tgt permanent                                                                                                                                   |
+|   | Painful Quandary             | 3BB       | ench     | Whenever an opp cast a spell, that player looses 5 life unless he discards a card                                                                                            |
+|   |                              |           |          |                                                                                                                                                                              |
+|   | *Removed from v1.7*          |           |          |                                                                                                                                                                              |
 |   | Expedition Map               | 1         | art      | 2, t, sacr ~: Search your lib for a land, put it into hand.                                                                                                                  |
 |   | Vampire Hexmage              | BB        | 2/1      | First strike -- Sacr ~: remove all counters from tgt perm                                                                                                                    |
 |   | Retaliate                    | 2WW       | inst     | Destroy all creats that dealt damage to you this turn                                                                                                                        |
@@ -157,7 +162,6 @@ Oloro, Ageless Ascetic v1.8
 |   | Sorin Markov                 | 3BBB      | plwk 4   | +2: deals 2 damage to tgt creat or player u gain 2 life -- -3: tgt opp's life becomes 10 -- -7: you control tgt player's next turn                                           |
 |   | Solemn Simulacrum            | 4         | 2/2      | When enters: search basic land put into play tapped -- When leave: draw                                                                                                      |
 |   | Dismember                    | 1{pb}{pb} | inst     | Tgt creature gets -5/-5                                                                                                                                                      |
-|   | Snuff Out                    | 3B        | inst     | If you control a swamp, you may pay 4 life rather that ~ cost -- Destroy tgt non black creat. It can't be regen                                                              |
 |   | Slaughter                    | 2BB       | inst     | Buyback: pay 4 life -- Destroy tgt non black creature. It can't be regen                                                                                                     |
 |   | Lim-Dul's Vault              | UB        | inst     | Look top 5 cards, u may pay 1 if u do: put those 5 cards at the bottom and look at next 5 cards; then shuffle lib and put last set of 5 on top in any order                  |
 |   | Killing Wave                 | xB        | sorc     | For each creatures. Its controller sacr it unless he pays X                                                                                                                  |
@@ -216,23 +220,23 @@ Oloro, Ageless Ascetic v1.8
 |   | Boon Reflection              | 4W        | ench     | If you would gain life, you gain twice as much life instead                                                                                                                  |
 --
 
-? Phyrexian Reclamation
-? Detention Sphere
-? Act of Authority
+- Demonic Tutor   -- I'm not sure if I want a search spell in this deck.
++ Boon Reflection?
 
 
 Toward v1.9:
 ------------
-- Demonic Tutor   -- I'm not sure if I want a search spell in this deck.
-- Ajani's Primate -- Unless I have a good chance to gain life more than once a turn, he's gonna be a dead card mid to late game.
-- Ashen Rider     -- Good card but no synergy with the deck
-+ Boon Reflection? 
+- Ajani's Primate
++ Soul's Attendant
+- Painful Quandary
++ Snuff Out
+- Ashen Rider
++ Authority of the Consuls
 
 Version v1.8:
 -------------
 A big improvement, for sure.
 Kaya's Guile added at the last minute ended up being an amazing card, breaking an infinite loop combo.
-
 
 v1.7 -> v1.8:
 -------------
@@ -250,7 +254,7 @@ v1.7 -> v1.8:
 - Reckless Spite
 + Serra Ascendant
 + Angelic Accord
-+ * Crested Sunmare
++ Crested Sunmare
 + Vizkopa Guildmage
 + Karlov of the Ghost Council
 + Indulgent Tormentor
