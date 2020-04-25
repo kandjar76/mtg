@@ -107,7 +107,7 @@ Kadena, Slinking Sorcerer v1.3
 | 1 | Ash Barrens                   |           | land     | Basic landcycling 1 -- t: add 1                                                                                                                                                                                                                        |
 | 1 | Zoetic Cavern                 |           | land     | Morph 2 -- t: add 1                                                                                                                                                                                                                                    |
 | 1 | Tomb of the Spirit Dragon     |           | land     | t: add 1 -- 2, t: you gain 1 life for each colorless creature you control                                                                                                                                                                              |
-| 1 | Reliquary Tower               |           | land     | t: add 1 -- You have no max hand size                                                                                                                                                                                                                  |
+| 1 | Strip Mine                    |           | land     | t: add 1 -- t, sacr ~: destroy tgt land                                                                                                                                                                                                                |
 | 1 | Shrine of the Forsaken Gods   |           | land     | t: add 1 -- t: add 2, only spend mana on colorless spell (only if you control 7+ lands)                                                                                                                                                                |
 | 1 | Alchemist's Refuge            |           | land     | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                                                                                          |
 | 1 | Ancient Tomb                  |           | land     | t: add 2, ~ deals 2 damage to you                                                                                                                                                                                                                      |
@@ -118,6 +118,7 @@ Kadena, Slinking Sorcerer v1.3
 |---+-------------------------------+-----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *Removed from v1.2*           |           |          |                                                                                                                                                                                                                                                        |
 |   | Terramorphic Expanse          |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                                                                                        |
+|   | Reliquary Tower               |           | land     | t: add 1 -- You have no max hand size                                                                                                                                                                                                                  |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 |   | *Removed from v1.1*           |           |          |                                                                                                                                                                                                                                                        |
 |   | Thran Dynamo                  | 4         | art      | t: add 3 to mana pool                                                                                                                                                                                                                                  |
@@ -193,6 +194,9 @@ v1.2 -> v1.3:
 -------------
 + Zoetic Cavern
 - Terramorphic Expanse
++ Strip Mine
+- Reliquary Tower
+
 
 Version v1.2:
 -------------
