@@ -14,7 +14,7 @@ Yuriko, the Tiger's Shadow! v1.5
 | 1 | Mind Stone                 | 2                | art         | t: add 1 to mana pool -- 1, t, sacr it: draw                                                                                                                                 |
 | 1 | Dimir Signet               | 2                | art         | 1, t: add UB to mana pool                                                                                                                                                    |
 | 1 | Fellwar Stone              | 2                | art         | t: add one mana of any color a land an opp controls could produce                                                                                                            |
-| 1 | Commander's Sphere         | 3                | art         | t: add one mana any color of ur commande -- sacr it: draw a card                                                                                                             |
+| - | Commander's Sphere         | 3                | art         | t: add one mana any color of ur commande -- sacr it: draw a card                                                                                                             |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Planeswalker 1*           |                  |             |                                                                                                                                                                              |
 | 1 | Jace the Mind Sculptor     | 2UU              | plwkr 3     | +2: look at top card opp lib; 0: brainstorm; -1: ret tgt creat to hand; -12: exile lib                                                                                       |
@@ -24,7 +24,7 @@ Yuriko, the Tiger's Shadow! v1.5
 | 1 | Ingenious Infiltrator      | 2UB              | 2/3         | Ninjutsu UB -- Whenever a ninja u control deals damage to a player, draw a card                                                                                              |
 | 1 | Throat Slitter             | 4B               | 2/2         | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                                                       |
 | 1 | Sakashima's Student        | 2UU              | 0/0         | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                                                             |
-| 1 | Higure, the Still Wind     | 3UU              | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
+| - | Higure, the Still Wind     | 3UU              | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Sneaker 16*               |                  |             |                                                                                                                                                                              |
 | 1 | Tormented Soul             | B                | 1/1         | Can't blocked and is unblockable                                                                                                                                             |
@@ -45,8 +45,8 @@ Yuriko, the Tiger's Shadow! v1.5
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Ninja Maker 3*            |                  |             |                                                                                                                                                                              |
 | 1 | Arcane Adaptation          | 2U               | ench        | When enters: choose a creat type.  Creat perm, creat spells, and creat cards are of the choosen type                                                                         |
-| 1 | Xenograft                  | 4U               | ench        | When enters: choose a creat type.  Creat u control are of the choosen type in addition of their type                                                                         |
-| 1 | Conspiracy                 | 3BB              | ench        | When enters: choose a creat type.  Creat perm, creat spells, and creat cards are of the choosen type                                                                         |
+| - | Xenograft                  | 4U               | ench        | When enters: choose a creat type.  Creat u control are of the choosen type in addition of their type                                                                         |
+| - | Conspiracy                 | 3BB              | ench        | When enters: choose a creat type.  Creat perm, creat spells, and creat cards are of the choosen type                                                                         |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Top lib setup 6*          |                  |             |                                                                                                                                                                              |
 | 1 | Preordain                  | U                | sorc        | Scry 2, the draw                                                                                                                                                             |
@@ -246,14 +246,33 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Spellstutter Sprite        | 1U               | 1/1 fly     | Flash -- When enter: counter tgt spell w/ CMC <=X where X is # faeries you control                                                                                           |
 |   | Amoeboid Changeling        | 1U               | 1/1         | Changeling -- t: tgt creats gains all creat types until eot -- t: tgt creats looses all creat types until eot                                                                |
 |   | Cloudstone Curio           | 3                | art         | When a non-art perm enters, u may return another perm which shares permanent type with it to its owner's hand                                                                |
-
-
+|   |                            |                  |             |                                                                                                                                                                              |
+|   | Fallen Shinobi             | 3UB              | 5/4         | Ninjutsu 5/4 -- When deals combat damage to a player, exile top 2 cards of his lib. Until eot: you may play those cards w/o paying their mana cost                           |
+|   | Phantom Ninja              | 1UU              | 2/2         | Ninja - Unblockable                                                                                                                                                          |
+|   | Ginger Brute               | 1                | 1/1         | Haste -- 1: can't be blocked except by creature w/ haste -- 2, t, sacr ~: gain 3 life                                                                                        |
 + Wingcrafter
 + Universal Automaton
 + Spectral Sailor
 + Skullsnatcher
 + Narset's Reversal
 
+
+v1.6 -> v1.7:
+-------------
++ Mist-Syndicate Naga
++ Fallen Shinobi
++ Arcane Signet
++ Ninja of the Deep Hours
++ Scheming Symmetry
++ Ginger Brute
++ Dreadship Reef (land)
++ Mystic Remora
+
+- Xenograft
+- Conspiracy
+- Commander Sphere
+- ??
+- ??
 
 v1.5 -> v1.6:
 -------------
