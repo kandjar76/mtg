@@ -1,5 +1,8 @@
-Syr Gwyn, Hero of Ashvale v0.2
-[sleeved v0.2]
+Syr Gwyn, Hero of Ashvale v0.3
+[sleeved v0.3]
+
+Last Update: 05/15/2020
+
 
 |   | *Commander 1*              |                |             |                                                                                                                                                                                                                |
 | 1 | Syr Gwyn, Hero of Ashvale  | 3RWB           | 5/5         | Vigilance, menace -- Whenever an equip creat u control attack, u draw a card and loose a life -- Equipment you control have "eqp knight 0"                                                                     |
@@ -15,17 +18,16 @@ Syr Gwyn, Hero of Ashvale v0.2
 | 1 | Thran Dynamo               | 4              | art         | t: add 3                                                                                                                                                                                                       |
 | 1 | Smothering Tithe           | 3W             | ench        | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                                              |
 |   |                            |                |             |                                                                                                                                                                                                                |
-|   | *Knights 19*               |                |             |                                                                                                                                                                                                                |
+|   | *Knights 18*               |                |             |                                                                                                                                                                                                                |
+| 1 | Fervant Champion           | R              | 1/1         | Haste, first strike -- When attack, another knight gets +1/0 -- Eqp that tgt ~ have equip cost reduce by 3                                                                                                     |
 | 1 | Knight of the Ebon Legion  | B              | 1/2         | 3B: gets +3/+3 and deathtouch until eot -- Beg end step: if an opp lost 4 or more life this turn, ~ gain a +1c.                                                                                                |
 | 1 | Smitten Swordmaster        | 1B             | 2/1         | [Adv: Sorc(B) - Gain X life, each opp looses X life where X is # knights u control] Lifelink                                                                                                                   |
-| 1 | Order of Midnight          | 1B             | 2/2         | [Adv: Sorc(1B) - Return tgt creature card from ur graveyard to your hand] Flying, can't block                                                                                                                  |
+| 1 | Blacklance Paragon         | 1B             | 3/1         | Flash -- When enters: tgt knight gain deathtouch and lifelink until eot                                                                                                                                        |
 | 1 | Inspiring Veteran          | RW             | 2/2         | Other knights gets +1/+1                                                                                                                                                                                       |
-| 1 | Wintermoor Commander       | WB             | 2/*         | Deathtouch -- Toughness eq to # knights u control. -- When attacks: another tgt knight gains indestructible until eot.                                                                                         |
 | 1 | Knight of the White Orchid | WW             | 2/2         | First strike -- When enters: if an opp control more lands than u; search lib for a Plains card, put it onto the battlefield.                                                                                   |
 | 1 | Puresteel Paladin          | WW             | 2/2         | Whenever an eqp enters under ur control: u may draw a card -- Metalcraft: eqp u control have "eqp 0"                                                                                                           |
 | 1 | Danitha Capashen, Paragon  | 2W             | 2/2 leg     | First strike, Vigilance, Lifelink -- Eqp and Aura cost 1 less to cast.                                                                                                                                         |
 | 1 | Acclaimed Contender        | 2W             | 3/3         | When enters, if u control another knight: look top 5 cards, u may put a knight, eqp, aura or leg art to hand, rest at bottom of lib in random order                                                            |
-| 1 | Taurean Mauler             | 2R             | 2/2         | Changeling -- When an opp cast a spell, put a +1c on ~                                                                                                                                                         |
 | 1 | Midnight Reaper            | 2B             | 3/2         | Whenever a non token creat u control dies: draw a card and ~ deals 1 damage to u                                                                                                                               |
 | 1 | Murderous Rider            | 1BB            | 2/3         | [Adv: Inst(2B) - Destroy tgt creat or planeswalker and loose 2 life] Lifelink                                                                                                                                  |
 | 1 | Mirran Crusader            | 1WW            | 2/2         | Double strike -- Protection from green and black                                                                                                                                                               |
@@ -36,7 +38,7 @@ Syr Gwyn, Hero of Ashvale v0.2
 | 1 | Kinsbaile Cavalier         | 3W             | 2/2         | Knights u control have double strike                                                                                                                                                                           |
 | 1 | Valiant Knight             | 3W             | 3/5         | Other knights gets +1/+1 -- 3WW: Knights u control gains double strike until eot                                                                                                                               |
 |   |                            |                |             |                                                                                                                                                                                                                |
-|   | *Equipments 15*            |                |             |                                                                                                                                                                                                                |
+|   | *Equipments 16*            |                |             |                                                                                                                                                                                                                |
 | 1 | Colossus Hammer            | 1              | eqp 8       | Eqp gets +10/+10 and loose flying.                                                                                                                                                                             |
 | 1 | Swiftfoot Boots            | 2              | eqp 1       | Eqp creat has hexproof and haste                                                                                                                                                                               |
 | 1 | Sword of the Animist       | 2              | eqp 2       | Eqp gets +1/+1 and when attacks: search lib for a basic land and put it into play tapped.                                                                                                                      |
@@ -52,6 +54,7 @@ Syr Gwyn, Hero of Ashvale v0.2
 | 1 | Heartseeker                | 4              | eqp 5       | Eqp creat gets +2/+1 and has: "t, uneqp ~: destroy tgt creat"                                                                                                                                                  |
 | 1 | Batterskull                | 5              | eqp 5       | Living Weapon -- Eqp creat gets "+4/+4 vig and lifelink" -- 3: return ~ to hand                                                                                                                                |
 | 1 | Argentum Armor             | 6              | eqp 6       | Eqp creat gets +6/+6 and when eqp creat attacks, destroy tgt permanent                                                                                                                                         |
+| 1 | Embercleave                | 4RR            | eqp 3       | Flash -- Cost 1 less to cast for each attacking creature you control -- When enters: attach it to tgt creat u control -- Eqp creat gets +1/+1, has double strike and trample                                   |
 |   |                            |                |             |                                                                                                                                                                                                                |
 |   | *Search spells 3*          |                |             |                                                                                                                                                                                                                |
 | 1 | Steelshaper's Gift         | W              | sorc        | Search lib for an equip and put it into hand.                                                                                                                                                                  |
@@ -114,13 +117,16 @@ Syr Gwyn, Hero of Ashvale v0.2
 | 6 | Swamp                      |                | bas land    |                                                                                                                                                                                                                |
 | 2 | Mountain                   |                | bas land    |                                                                                                                                                                                                                |
 |---+----------------------------+----------------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.2*        |                |             |                                                                                                                                                                                                                |
+|   | Wintermoor Commander       | WB             | 2/*         | Deathtouch -- Toughness eq to # knights u control. -- When attacks: another tgt knight gains indestructible until eot.                                                                                         |
+|   | Taurean Mauler             | 2R             | 2/2         | Changeling -- When an opp cast a spell, put a +1c on ~                                                                                                                                                         |
+|   | Order of Midnight          | 1B             | 2/2         | [Adv: Sorc(1B) - Return tgt creature card from ur graveyard to your hand] Flying, can't block                                                                                                                  |
+|   |                            |                |             |                                                                                                                                                                                                                |
 |   | *Removed from v0.1*        |                |             |                                                                                                                                                                                                                |
 |   | Sword of Body and Mind     | 3              | eqp 2       | Eqp creat gets +2/+2 prot G/U and: when deals damage, put a 2/2 wolf into play and defending player put top 10 card from lib to graveyaard                                                                     |
 |   |                            |                |             |                                                                                                                                                                                                                |
 |---+----------------------------+----------------+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ? | Blacklance Paragon         | 1B             | 3/1         | Flash -- When enters: tgt knight gain deathtouch and lifelink until eot                                                                                                                                        |
 |   |                            |                |             |                                                                                                                                                                                                                |
-| ? | Fervant Champion           | R              | 1/1         | Haste, first strike -- When attack, another knight gets +1/0 -- Eqp that tgt ~ have equip cost reduce by 3                                                                                                     |
 | ? | Silverblade Paladin        | 1WW            | 2/2         | Soulbound -- Souldbound creature and ~ have double strike                                                                                                                                                      |
 | ? | Cavalier of Dawn           | 2WWW           | 4/6         | Vigilance -- When enters: destroy up to one tgt non-land perm, its controller gets a 3/3 golem -- When dies: return tgt art or ench from graveyard to play                                                     |
 | ? | Blackblade Reforged        | 2              | eqp 7       | Eqp leg 3 -- Eqp gets +1/+1 for each land u control                                                                                                                                                            |
@@ -159,8 +165,15 @@ Syr Gwyn, Hero of Ashvale v0.2
 |   | Dolmen Gate                | 2              | art         | Prevent all damage that would be dealt to attacking creatures u control.                                                                                                                                       |
 |   |                            |                |             |                                                                                                                                                                                                                |
 
+
+v0.2 -> v0.3:
+-------------
 + Blacklance Paragon
-- ???
++ Fervent Champion
+- Order of Midnight
+- Taurean Mauler
++ Embercleave
+- Wintermoor Commander
 
 v0.1 -> v0.2:
 -------------
