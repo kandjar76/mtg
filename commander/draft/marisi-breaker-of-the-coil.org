@@ -111,3 +111,25 @@ Marisi, Breaker of the Coil v0.1
 | 8 | Forest                      |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Mountain                    |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Plains                      |           | bas land |                                                                                                                                                                                                                                  |
+|---+-----------------------------+-----------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | Soltari Visionary           | 1WW       | 2/2      | Shadow - When deals damage to a player, destroy tgt enchantment that player control                                                                                                                                              |
+|   | Lifecrafter's Bestiary      | 3         | art      | Beg upk: scry 1 -- Whenever u cast a creature, u may pay G, if u do draw a card                                                                                                                                                  |
+|   | Odric Master Tactician      | 2WW       | 3/4      | First strike -- When attack w/ 3 other creatures, u choose which creats blocks and how they block                                                                                                                                |
+|   | Destiny Spinner             | 1G        | 2/3      | Creat and ench u control can't be countered -- 3G: tgt land u control becomes a X/X elemental creat w/ trample and haste where X is # of ench u control                                                                          |
+|   |                             |           |          |                                                                                                                                                                                                                                  |
+
+v0.1 -> v0.2:
+-------------
++ Avenger of Zendikar
++ Lifecrafter's Bestiary
++ Odric, Master Tactician
++ Destiny Spinner
+
+limunarch ascension?
+
+
+
+Version v0.1:
+-------------
+Tried once so far, the deck was quite fun; threatening.
+But my hand lacked in 'instant' speed answer
