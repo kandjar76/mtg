@@ -221,6 +221,8 @@ Zedruu, the Greathearted v0.3
 | + | One with the Stars            | 3U         | aura         | Ench creat or ench -- Ench perm looses all other card type and becomes an enchantment                                                                                                                                                   |
 | + | Redirect                      | UU         | inst         | You may choose new targets for tgt spell                                                                                                                                                                                                |
 |   | Island Sanctuary              | 1W         | ench         | During you draw phase, u may decide to skip your draw, if so: until your next turn, creatures w/o flying or islandwalk can't attack u                                                                                                   |
+|   | Web of Inertia                | 2U         | ench         | At beg of each opp combat step, that opp may exile a card from his graveyard, if he doesn't creatures he control cannot attack u                                                                                                        |
+|   |                               |            |              |                                                                                                                                                                                                                                         |
 
 + Council's Judjement
 + Crown of Doom
