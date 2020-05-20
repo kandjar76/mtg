@@ -2,7 +2,7 @@ Yawgmoth, Thran Physician v0.3
 [sleeved v0.3]
 
 Last update: 05/04/2020
-
+Last tested: v0.2
 
 |    | *Commander 1*                |        |         |                                                                                                                                                                                                                       |
 |  1 | Yawgmoth, Thran Physician    | 2BB    | 2/4     | Prot from human -- Pay 1 life, sacr a creat: tgt creature get -1c and draw a card -- BB, discard: Proliferate                                                                                                         |
@@ -186,6 +186,13 @@ Last update: 05/04/2020
 |    | Nyx Lotus                    | 4      | leg art | Enters tapped -- t, choose a color: add an amount of mana equal to your devotion in that color                                                                                                                        |
 |    | Imp's Mischief               | 1B     | inst    | Change tgt of spell with a single tgt, you loose life equal to the spell's CMC                                                                                                                                        |
 |    | Slaughter Pact               | 0      | inst    | Destroy tgt non black creature -- Beg next upkeep: pay 2B, if not, u loose the game                                                                                                                                   |
+|    | Pitiless Plunderer           | 3B     | 1/4     | Whenever another creature u control dies, create a treasure token with "t, sacr it: add 1 mana to ur mana pool"                                                                                                       |
+|    | Deathgreeter                 | B      | 1/1     | Whenever another creature dies, you gain 1 life                                                                                                                                                                       |
+
+
++ Pitiless Plunderer
++ Pawn of Ulamog
++ Butcher Ghoul?
 
 v0.2 -> v0.3:
 -------------
