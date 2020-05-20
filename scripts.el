@@ -56,7 +56,7 @@
    (switch-to-buffer buffer)))
 
 (setq mtg-regexp--title "^|[ ]+|[ ]+\\*[^|]+?\\([0-9]*\\)\\*"
-      mtg-regexp--card  "^|[ ]+\\([0-9*]+\\)[ ]+|"
+      mtg-regexp--card  "^|[ ]+\\([0-9*?+-]+\\)[ ]+|"
       mtg-regexp--empty "^|[ ]+|[ ]+|")
 
 (defun mtg-update-block-count()
@@ -104,6 +104,8 @@
 								     (match-end 1)))
 	  (mtg-debug-printf " `- Processing line: %s" current-count-string)
 	  (setq count (+ count (or (and (string-equal current-count-string "*") 1)
+				   (and (string-equal current-count-string "+") 1)
+				   (and (string-equal current-count-string "?") 1)
 				   (string-to-number current-count-string))))
 	  (forward-line))
 
