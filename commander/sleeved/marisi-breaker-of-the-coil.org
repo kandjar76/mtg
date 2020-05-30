@@ -1,5 +1,5 @@
-Marisi, Breaker of the Coil v0.1
-[sleeved v0.1]
+Marisi, Breaker of the Coil v0.2
+[sleeved v0.2]
 
 |   | *Commander 1*               |           |          |                                                                                                                                                                                                                                  |
 | 1 | Marisi, Breaker of the Coil | 1RGW      | 5/4      | Opps can't casts spell during combat -- Whenever a creat u control deals combat damage to a player, goad each creat that player control                                                                                          |
@@ -98,6 +98,7 @@ Marisi, Breaker of the Coil v0.1
 | 1 | Temple of the False God     |           | land     | t: add 2 (activate only if u control 5+ lands)                                                                                                                                                                                   |
 | 1 | Boros Guildgate             |           | land     | Enters tapped -- t: add R or W                                                                                                                                                                                                   |
 | 1 | Cinder Glade                |           | land     | Mountain, Forest -- Enters tapped unless u control 2 or more basic land                                                                                                                                                          |
+| 1 | Temple Garden               |           | land     | Forest, Plains  -- Enters tapped unless u pay 2 life
 | 1 | Sunpetal Grove              |           | land     | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                                                                             |
 | 1 | Gavony Township             |           | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                           |
 | 1 | Gruul Turf                  |           | land     | Enters tapped -- When enters: return a land u control to hand -- t: add RG                                                                                                                                                       |
@@ -108,7 +109,7 @@ Marisi, Breaker of the Coil v0.1
 | 1 | Blossoming Sands            |           | land     | Enters tapped -- When enters: gain 1 life -- t: add G or W                                                                                                                                                                       |
 | 1 | Kazandu Refuge              |           | land     | Enters tapped -- When enters: gain 1 life -- t: add R or G                                                                                                                                                                       |
 | 1 | Rugged Highlands            |           | land     | Enters tapped -- When enters: gain 1 life -- t: add R or G                                                                                                                                                                       |
-| 8 | Forest                      |           | bas land |                                                                                                                                                                                                                                  |
+| 7 | Forest                      |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Mountain                    |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Plains                      |           | bas land |                                                                                                                                                                                                                                  |
 |---+-----------------------------+-----------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -118,7 +119,7 @@ Marisi, Breaker of the Coil v0.1
 |   | Destiny Spinner             | 1G        | 2/3      | Creat and ench u control can't be countered -- 3G: tgt land u control becomes a X/X elemental creat w/ trample and haste where X is # of ench u control                                                                          |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
 
-v0.1 -> v0.2:
+v0.2 -> v0.3:
 -------------
 + Avenger of Zendikar
 + Lifecrafter's Bestiary
@@ -126,6 +127,11 @@ v0.1 -> v0.2:
 + Destiny Spinner
 
 limunarch ascension?
+
+v0.1 -> v0.2:
+-------------
+- Forest
++ Temple Garden
 
 
 
