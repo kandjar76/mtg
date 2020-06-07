@@ -1,6 +1,10 @@
 Marisi, Breaker of the Coil v0.2
 [sleeved v0.2]
 
+Last Update: 06/06/2020
+Last Tested: v0.1
+
+
 |   | *Commander 1*               |           |          |                                                                                                                                                                                                                                  |
 | 1 | Marisi, Breaker of the Coil | 1RGW      | 5/4      | Opps can't casts spell during combat -- Whenever a creat u control deals combat damage to a player, goad each creat that player control                                                                                          |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
@@ -30,11 +34,12 @@ Marisi, Breaker of the Coil v0.2
 | 1 | Garruk, Primal Hunter       | 2GGG      | plwkr 3  | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control                                                                                                |
 | 1 | Ajani Unyielding            | 4GW       | plwkr 4  | +2: Reveal top 3 cards, put all non land to hand, rest in bottom -- -2: Exile tgt creat, its controller gain life eq to its power -- -9: Put five +1c on creats and 5 loy on each planeswalker u control                         |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
-|   | *Army builder 5*            |           |          |                                                                                                                                                                                                                                  |
+|   | *Army builder 6*            |           |          |                                                                                                                                                                                                                                  |
 | 1 | Legion's Landing            | W         | ench     | When enters: create a 1/1 white vamp w/ lifelink -- When u attack w/ 3 or more creat transform it // land: t: add W -- 2W, t: Create a 1/1 white vamp token w/ lifelink                                                          |
 | 1 | March of the Multitudes     | xGWW      | inst     | Convoke -- Create X 1/1 white soldier tokens w/ lifelink                                                                                                                                                                         |
 | 1 | Assemble the Legion         | 3RW       | ench     | Beg upk: put a muster counter on ~, then create a 1/1 red and white soldier token w/ haste for each muster counter on ~                                                                                                          |
 | 1 | Legion Warboss              | 2R        | 2/2      | Mentor -- Beg of combat, create a 1/1 red goblin, it gains haste until eot and attack this combat if able                                                                                                                        |
+| 1 | Avenger of Zendikar         | 5GG       | 5/5      | When enters, put a 0/1 plant for each land u control -- Landfall: put a +1c on each plant u control                                                                                                                              |
 | 1 | Verdant Force               | 3GGG      | 7/7      | Beg each upk: create a 1/1 green Saproling token                                                                                                                                                                                 |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
 |   | *Haste Enabler 5*           |           |          |                                                                                                                                                                                                                                  |
@@ -44,11 +49,10 @@ Marisi, Breaker of the Coil v0.2
 | 1 | Fires of Yavimaya           | 1RG       | ench     | Creats u control have haste -- Sacr ~: tgt creat gains +2/+2 until eot                                                                                                                                                           |
 | 1 | Domri, Chaos Bringer        | 2RB       | plwkr 5  | +1: Add R or G. If used to cast a creat, it gains riot -- -3: look top 4 cards, u may reveal up to 2 creat, put them in hand, rest at the bottom -- -8: Emblem: "Beg each end step: create a 4/4 red and green beast w/ trample" |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
-|   | *Invasion Helpers 7*        |           |          |                                                                                                                                                                                                                                  |
+|   | *Invasion Helpers 6*        |           |          |                                                                                                                                                                                                                                  |
 | 1 | Naya Charm                  | RGW       | inst     | ~ deals 3 damage to tgt create OR return tgt card from a graveyard to its owner's hand OR tap all creats tgt player controls                                                                                                     |
 | 1 | Frontline Medic             | 2W        | 3/3      | Battalion: when attack w/ 2 other creat; creats u control are indestructible this turn -- Sacr ~: counter tgt spell w/ X in his mana cost unless its controller pays 3                                                           |
 | 1 | Thalia, Heretic Cathar      | 2W        | 3/2      | First strike -- Creats and non basic lands ur opps control enters tapped                                                                                                                                                         |
-| 1 | Aven Mindcensor             | 2W        | 2/1 fly  | Flash -- If an opp would search a lib -- That player searches the top 4 cards only                                                                                                                                               |
 | 1 | War's Toll                  | 3R        | ench     | Whenever an opp taps a land for mana, tap all lands that player's controls -- If a creature an opp controls attacks, all creats that opp controls attack if able                                                                 |
 | 1 | Master Warcraft             | 2{rw}{rw} | inst     | Cast only before attackers are declared.  You choose which creatures attack this turn.  You choose which creatures block this turn and how they block..                                                                          |
 | 1 | Loxodon Gatekeeper          | 2WW       | 2/3      | Arts, creats, lands ur opp control enters tapped                                                                                                                                                                                 |
@@ -65,19 +69,19 @@ Marisi, Breaker of the Coil v0.2
 | 1 | Molten Primordial           | 5RR       | 6/4      | Haste -- When enters: for each opp, gain control of up to one creat that player control, until eot.  Untap them, They gain haste until eot                                                                                       |
 | 1 | Gisela, Blade of Goldnight  | 4RWW      | 5/5 fly  | First strike -- If a source would deal damage to an opp, it deals double that damage -- If a souce would deal damage to you or to a perm u control, prevent half of that damage, rounded up                                      |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
-|   | *Utility 8*                 |           |          |                                                                                                                                                                                                                                  |
+|   | *Utility 7*                 |           |          |                                                                                                                                                                                                                                  |
 | 1 | Boros Charm                 | RW        | inst     | Choose 1: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                                                                                                  |
 | 1 | Reverberate                 | RR        | inst     | Copy tgt inst or sorc; u may choose new targets for the copy                                                                                                                                                                     |
 | 1 | Rest In Peace               | 1W        | ench     | When ~ enters: exile all graveyard -- When a card or token is put into a graveyard from anywhere, exile it instead                                                                                                               |
 | 1 | Mimic Vat                   | 3         | art      | Imprint: when a creat dies, u may imprint it -- 3, t: put a token of imprint creat                                                                                                                                               |
 | 1 | Unbreakable Formation       | 2W        | inst     | Creats u control gain indestructible until eot -- If cast during ur main phase: put a +1c on each of those creat, they gain vigilance until eot                                                                                  |
-| 1 | Hellrider                   | 2RR       | 3/3      | Haste -- Whenever a creat u control attack, ~ deals 1 damage to def player                                                                                                                                                       |
 | 1 | Purphoros, God of the Forge | 3R        | 6/5      | Devotion 5R -- Indestructible -- When a creat enters u control, ~ deals 2 damage to each opp. -- 2R: Creats u control gets +1/0 until eot                                                                                        |
 | 1 | Aurelia, the Warleader      | 2RRWW     | 3/4 fly  | Vigilance, haste -- When ~ attacks for the first time each turn, untap all creats u control, after this phase, there's an additional combat phase                                                                                |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
-|   | *Target removal 6*          |           |          |                                                                                                                                                                                                                                  |
+|   | *Target removal 7*          |           |          |                                                                                                                                                                                                                                  |
 | 1 | Swords to Plowshares        | W         | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                                       |
 | 1 | Wear // Tear                | 1R // W   | inst     | Fuse -- Destroy tgt art // Destroy tgt ench                                                                                                                                                                                      |
+| 1 | Generous Gift               | 2W        | inst     | Destroy tgt perm.  Its controller creates a 3/3 green elephant token.                                                                                                                                                            |
 | 1 | Beast Within                | 2G        | inst     | Destroy tgt perm - Its controller put a 3/3 green beast into play                                                                                                                                                                |
 | 1 | Acidic Slime                | 4G        | 2/2      | Deathtouch -- When enters: destroy tgt art, ench or land                                                                                                                                                                         |
 | 1 | Hull Breach                 | RG        | sorc     | Choose one or both: Destroy tgt art OR destroy tgt ench                                                                                                                                                                          |
@@ -98,7 +102,7 @@ Marisi, Breaker of the Coil v0.2
 | 1 | Temple of the False God     |           | land     | t: add 2 (activate only if u control 5+ lands)                                                                                                                                                                                   |
 | 1 | Boros Guildgate             |           | land     | Enters tapped -- t: add R or W                                                                                                                                                                                                   |
 | 1 | Cinder Glade                |           | land     | Mountain, Forest -- Enters tapped unless u control 2 or more basic land                                                                                                                                                          |
-| 1 | Temple Garden               |           | land     | Forest, Plains  -- Enters tapped unless u pay 2 life
+| 1 | Temple Garden               |           | land     | Forest, Plains  -- Enters tapped unless u pay 2 life                                                                                                                                                                             |
 | 1 | Sunpetal Grove              |           | land     | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                                                                             |
 | 1 | Gavony Township             |           | land     | t: add 1 -- 2GW, t: put a +1c on each creats u control                                                                                                                                                                           |
 | 1 | Gruul Turf                  |           | land     | Enters tapped -- When enters: return a land u control to hand -- t: add RG                                                                                                                                                       |
@@ -113,20 +117,29 @@ Marisi, Breaker of the Coil v0.2
 | 5 | Mountain                    |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Plains                      |           | bas land |                                                                                                                                                                                                                                  |
 |---+-----------------------------+-----------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.1*         |           |          |                                                                                                                                                                                                                                  |
+|   | Aven Mindcensor             | 2W        | 2/1 fly  | Flash -- If an opp would search a lib -- That player searches the top 4 cards only                                                                                                                                               |
+|   | Hellrider                   | 2RR       | 3/3      | Haste -- Whenever a creat u control attack, ~ deals 1 damage to def player                                                                                                                                                       |
+|   |                             |           |          |                                                                                                                                                                                                                                  |
 |   | Soltari Visionary           | 1WW       | 2/2      | Shadow - When deals damage to a player, destroy tgt enchantment that player control                                                                                                                                              |
 |   | Lifecrafter's Bestiary      | 3         | art      | Beg upk: scry 1 -- Whenever u cast a creature, u may pay G, if u do draw a card                                                                                                                                                  |
 |   | Odric Master Tactician      | 2WW       | 3/4      | First strike -- When attack w/ 3 other creatures, u choose which creats blocks and how they block                                                                                                                                |
 |   | Destiny Spinner             | 1G        | 2/3      | Creat and ench u control can't be countered -- 3G: tgt land u control becomes a X/X elemental creat w/ trample and haste where X is # of ench u control                                                                          |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
 
-v0.2 -> v0.3:
--------------
-+ Avenger of Zendikar
+
 + Lifecrafter's Bestiary
 + Odric, Master Tactician
 + Destiny Spinner
+Luminarch Ascension?
 
-limunarch ascension?
+
+v0.2 -> v0.3:
+-------------
++ Avenger of Zendikar
++ Generous Gift
+- Hellrider
+- Aven Mindcensor
 
 v0.1 -> v0.2:
 -------------
