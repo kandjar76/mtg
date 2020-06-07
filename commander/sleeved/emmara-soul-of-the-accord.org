@@ -1,5 +1,9 @@
-Emmara, Soul of the Accord v0.1
-[sleeved v0.1]
+Emmara, Soul of the Accord v0.2
+[sleeved v0.2]
+
+Last Update: 06/06/2020
+Last Tested: v0.1
+
 
 |   | *Commander 1*              |          |           |                                                                                                                                                                                                          |
 | 1 | Emmara, Soul of the Accord | GW       | 2/2       | When ~ becomes tapped: create a 1/1 white soldier w/ lifelink                                                                                                                                            |
@@ -9,7 +13,7 @@ Emmara, Soul of the Accord v0.1
 | 1 | Elspeth, Sun's Champion    | 4WW      | plwkr 4   | +1: Create three 1/1 white soldier tokens -- -3: Destroy all creat w/ pow 4 or greater -- -7: emblem: "Creats u control get +2/+2 and have flying"                                                       |
 | 1 | Ajani Unyielding           | 4GW      | plwkr 4   | +2: Reveal top 3 cards, put all non land to hand, rest in bottom -- -2: Exile tgt creat, its controller gain life eq to its power -- -9: Put five +1c on creats and 5 loy on each planeswalker u control |
 |   |                            |          |           |                                                                                                                                                                                                          |
-|   | *Mana Ramp 10*             |          |           |                                                                                                                                                                                                          |
+|   | *Mana Ramp 11*             |          |           |                                                                                                                                                                                                          |
 | 1 | Paradise Mantle            | 0        | eqp 1     | Eqp has: "t: add 1 mana any color to mana pool"                                                                                                                                                          |
 | 1 | Sakura-Tribe Elder         | 1G       | 1/1       | sacr it: Search basic land, put it into play tapped                                                                                                                                                      |
 | 1 | Selesnya Signet            | 2        | art       | 1, t: add WG to mana pool                                                                                                                                                                                |
@@ -17,6 +21,7 @@ Emmara, Soul of the Accord v0.1
 | 1 | Song of Freyalise          | 1G       | ench saga | I/II: Until ur next turn, creats u control have "t: add 1 mana any color to mana pool" -- III: Put a +1c on each creat u control, they gain, vig, trample and indest until eot                           |
 | 1 | Harvest Season             | 2G       | sorc      | Search for X basic lands, where X is # of tapped creats u control                                                                                                                                        |
 | 1 | Rishkar, Peema Renegade    | 2G       | 2/2       | When enters: put a +1c on up to two creatures.  Each creat w/ +1c has: "t: add G to mana pool"                                                                                                           |
+| 1 | Druids' Repository         | 2G       | ench      | Whenever a creature u control attack: put a charge counter on ~ -- Remove a charge counter: add 1 mana any color to your mana pool                                                                       |
 | 1 | Scaretiller                | 4        | 1/4       | When becomes tapped: put land from hand or graveyard to play                                                                                                                                             |
 | 1 | Fertilid                   | 2G       | 0/0       | Enters w/ 2 +1c -- 1G, remove a +1c from ~: tgt player search his lib for a basic land and put it into play tapped.                                                                                      |
 | 1 | Nissa's Pilgrimage         | 2G       | sorc      | Search your lib for up to two basic forest and put one into play, rest in hand -- Spell mastery: search 3 basic forest instead                                                                           |
@@ -62,11 +67,10 @@ Emmara, Soul of the Accord v0.1
 | 1 | Mercy Killing              | 2{gw}    | inst      | Tgt creat's controller sacr it, then put X 1/1 green and white elf warrior into play where X is sacr creat's power                                                                                       |
 | 1 | Catapult Master            | 3WW      | 3/3       | Tap 5 untapped soldiers: exile tgt creature                                                                                                                                                              |
 |   |                            |          |           |                                                                                                                                                                                                          |
-|   | *Protection 4*             |          |           |                                                                                                                                                                                                          |
+|   | *Protection 3*             |          |           |                                                                                                                                                                                                          |
 | 1 | Rebuff the Wicked          | W        | inst      | Counter tgt spell that tgt a perm u control                                                                                                                                                              |
 | 1 | Dauntless Escort           | 1GW      | 3/3       | Sacr ~: Creats u control are indestructible this turn                                                                                                                                                    |
 | 1 | Brought Back               | WW       | inst      | Choose up to two tgt perm in ur graveyard put there from play this turn.  Return them to play tapped                                                                                                     |
-| 1 | Knight-Captain of Eos      | 4W       | 2/2       | When enters: put two 1/1 white soldier into play -- W, sacr a soldier: prevent all damage dealt this turn                                                                                                |
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | *Anthem-like 2*            |          |           |                                                                                                                                                                                                          |
 | 1 | Beastmaster Ascension      | 2G       | ench      | When creat u contr attack: put a quest counter on ~ -- Creats u control gain +5/+5 if ~ has 7 or more quest counters                                                                                     |
@@ -92,7 +96,7 @@ Emmara, Soul of the Accord v0.1
 |   | *Finisher 3*               |          |           |                                                                                                                                                                                                          |
 | 1 | Finale of Devastation      | xGG      | sorc      | Search lib or graveyard for a creat w/ CMC X or less and put it into play.  If X > 10: creats u control gets +X/+X and haste until eot                                                                   |
 | 1 | End-Raze Forerunners       | 5GGG     | 7/7       | Vigilcance, trample, haste -- When enters: other creats u control get +2/+2, vig and trample until eot                                                                                                   |
-| 1 | Overrun                    | 2GGG     | sorc      | Creats u control get +3/+3 and trample until eot                                                                                                                                                         |
+| 1 | Overwhelming Stampede      | 3GG      | sorc      | Until eot: creats u control gains +X/+X and trample where X is greatest power amongst creats u control                                                                                                   |
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | *General Helper 2*         |          |           |                                                                                                                                                                                                          |
 | 1 | Camaraderie                | 4GW      | sorc      | You gain X life, and draw X cards, where X is # creats u control.  Creats u control gets +1/+1 until eot                                                                                                 |
@@ -121,7 +125,11 @@ Emmara, Soul of the Accord v0.1
 | 8 | Plains                     |          | bas land  |                                                                                                                                                                                                          |
 | 8 | Forest                     |          | bas land  |                                                                                                                                                                                                          |
 |---+----------------------------+----------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Sapseep Forest             |          | land      | Enters tapped -- Forest -- G, t: gain 1 life (use only if u need 2 green permanent)                                                                                                                      |
+|   | *Removed from v0.1*        |          |           |                                                                                                                                                                                                          |
+|   | Knight-Captain of Eos      | 4W       | 2/2       | When enters: put two 1/1 white soldier into play -- W, sacr a soldier: prevent all damage dealt this turn                                                                                                |
+|   | Overrun                    | 2GGG     | sorc      | Creats u control get +3/+3 and trample until eot                                                                                                                                                         |
+|   |                            |          |           |                                                                                                                                                                                                          |
+|   | Sapseep Forest             |          | land      | Enters tapped -- Forest -- G, t: gain 1 life (use only if u need 2 green permanent)                                                                                                                      |
 |   |                            |          |           |                                                                                                                                                                                                          |
 |   | Advent of the Wurm         | 1GGW     | inst      | Put a 5/5 wurm w/ trample into play                                                                                                                                                                      |
 |   |                            |          |           |                                                                                                                                                                                                          |
@@ -167,3 +175,11 @@ Tokens:
 | 1/1 | W   | Vampire w/ Lifelink     |
 | 1/1 | W   | Kithkin Soldier         |
 | 8/8 | G/W | Elemental               |
+
+
+v0.1 -> v0.2:
+-------------
++ Druids' Repository
+- Knight-Captain of Eos
++ Overwhelming Stampede
+- Overrun
