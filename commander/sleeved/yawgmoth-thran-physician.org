@@ -1,15 +1,14 @@
-Yawgmoth, Thran Physician v0.3
-[sleeved v0.3]
+Yawgmoth, Thran Physician v0.4
+[sleeved v0.4]
 
-Last update: 05/04/2020
-Last tested: v0.2
+Last update: 06/06/2020
+Last tested: v0.3
 
 |    | *Commander 1*                |        |         |                                                                                                                                                                                                                       |
 |  1 | Yawgmoth, Thran Physician    | 2BB    | 2/4     | Prot from human -- Pay 1 life, sacr a creat: tgt creature get -1c and draw a card -- BB, discard: Proliferate                                                                                                         |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *Planeswalker 3*             |        |         |                                                                                                                                                                                                                       |
+|    | *Planeswalker 2*             |        |         |                                                                                                                                                                                                                       |
 |  1 | Liliana of the Dark Realms   | 2BB    | plwkr 3 | +1: Search lib for a swamp and put it in hand. -- -3: Tgt creat get +X/+X or -X/-X where X is # swamps u control -- -6: Emblem: "Swamp u control have: 't: add BBBB'"                                                 |
-|  1 | Ob Nixilis of the Black Oath | 3BB    | plwkr 3 | +2: each opp looses 1 life, u gain life equal to total life loss -- -2: put a 5/5 black demon w/ flying, u loose 2 life -- -8: Emblem: "1B: sacr a creat, u gain X life and draw X cards where X is sacr creat power" |
 |  1 | Liliana, Dreadhorde General  | 4BB    | plwkr 6 | Whenever a creat u control die: draw a card -- +1: Create a 2/2 black zombie -- -4: Each player sacr 2 creatures -- -9: Each opp choose a perm they control of each perm type and sacr the rest                       |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Mana ramp 13*               |        |         |                                                                                                                                                                                                                       |
@@ -94,11 +93,12 @@ Last tested: v0.2
 |  1 | Big Game Hunter              | 1BB    | 1/1     | Madness B -- When enters: destroy tgt creat w/ power 4 or greater                                                                                                                                                     |
 |  1 | Drag to the Underworld       | 2BB    | inst    | Cost X less where X is ur devotion in black -- Destroy tgt creature                                                                                                                                                   |
 |    |                              |        |         |                                                                                                                                                                                                                       |
-|    | *Board cleaner 4*            |        |         |                                                                                                                                                                                                                       |
+|    | *Board cleaner 5*            |        |         |                                                                                                                                                                                                                       |
 |  1 | Force of Despair             | 1BB    | inst    | If it's not ur turn, u may exile a black card rather than paying its mana cost -- Destroy all creat that enters play this turn                                                                                        |
 |  1 | Black Sun's Zenith           | xBB    | sorc    | Each creatures gets X -1/-1 counter on it, shuffle ~ to the library                                                                                                                                                   |
 |  1 | Nevinyrral's Disk            | 4      | art     | Enters tapped -- 1, t: destroy all art, creats and enchantments                                                                                                                                                       |
 |  1 | Mutilate                     | 2BB    | sorc    | All creats gets -1/-1 for each swamp u control                                                                                                                                                                        |
+|  1 | Phyrexian Scriptures         | 2BB    | saga    | I: Put a +1c on tgt creature, it becomes an artifact in addition to its other type -- II: Destroy all non artifacts creatures -- III: Exile all cards from all opponents' graveyards                                  |
 |    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Lands 36*                   |        |         |                                                                                                                                                                                                                       |
 |  1 | Radiant Fountain             |        | land    | When enter: gain 2 life -- t: add 1 to mana pool                                                                                                                                                                      |
@@ -111,6 +111,9 @@ Last tested: v0.2
 |  1 | Witch's Cottage              |        | land    | Enters tapped unless u control 3 or more other swamp -- If enters untapped: you may put tgt creat from ur graveyard on top of your lib                                                                                |
 | 28 | Swamp                        |        |         |                                                                                                                                                                                                                       |
 |----+------------------------------+--------+---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.3*          |        |         |                                                                                                                                                                                                                       |
+|    | Ob Nixilis of the Black Oath | 3BB    | plwkr 3 | +2: each opp looses 1 life, u gain life equal to total life loss -- -2: put a 5/5 black demon w/ flying, u loose 2 life -- -8: Emblem: "1B: sacr a creat, u gain X life and draw X cards where X is sacr creat power" |
+|    |                              |        |         |                                                                                                                                                                                                                       |
 |    | *Removed from v0.2*          |        |         |                                                                                                                                                                                                                       |
 |    | Charcoal Diamond             | 2      | art     | Enters tapped -- t: add B                                                                                                                                                                                             |
 |    | Gravecrawler                 | B      | 2/1     | Can't block -- U may cast ~ from the graveyard if u control a zombie                                                                                                                                                  |
@@ -193,6 +196,11 @@ Last tested: v0.2
 + Pitiless Plunderer
 + Pawn of Ulamog
 + Butcher Ghoul?
+
+v0.3 -> v0.4:
+-------------
++ Phyrexian Scriptures
+- Ob Nixilis of the Black Oath
 
 v0.2 -> v0.3:
 -------------
