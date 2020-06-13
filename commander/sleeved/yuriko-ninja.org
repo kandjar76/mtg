@@ -24,7 +24,7 @@ Yuriko, the Tiger's Shadow! v1.5
 | 1 | Ingenious Infiltrator      | 2UB              | 2/3         | Ninjutsu UB -- Whenever a ninja u control deals damage to a player, draw a card                                                                                              |
 | 1 | Throat Slitter             | 4B               | 2/2         | Ninjutsu 2B -- When deals combat damage to player: destroy tgt non black creature that player controls                                                                       |
 | 1 | Sakashima's Student        | 2UU              | 0/0         | Ninjutsu 1U -- Enter as a copy of any creature (remains a Ninja)                                                                                                             |
-| - | Higure, the Still Wind     | 3UU              | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
+| 1 | Higure, the Still Wind     | 3UU              | 3/4 leg     | Ninjutsu 2UU -- When deals combat damage to player: search lib for a Ninja and put into hand -- 2: Tgt Ninja is unblockable                                                  |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Sneaker 16*               |                  |             |                                                                                                                                                                              |
 | 1 | Tormented Soul             | B                | 1/1         | Can't blocked and is unblockable                                                                                                                                             |
@@ -74,11 +74,11 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | *Board cleaner 4*          |                  |             |                                                                                                                                                                              |
 | 1 | Cyclonic Rift              | 1U               | inst        | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                |
 | 1 | Damnation                  | 2UU              | sorc        | Destroy all creats, they can't be regenerated                                                                                                                                |
-| 1 | Evacuation                 | 3UU              | inst        | Return all creats to their owner's hand                                                                                                                                      |
+| - | Evacuation                 | 3UU              | inst        | Return all creats to their owner's hand                                                                                                                                      |
 | 1 | Decree of Pain             | 6BB              | sorc        | Destroy all creats, they can't be regen -- Cycling: 3BB -- When u cycle ~: all creats gets -2/-2                                                                             |
 |   |                            |                  |             |                                                                                                                                                                              |
 |   | *Utilities 5*              |                  |             |                                                                                                                                                                              |
-| 1 | Meekstone                  | 1                | art         | Creats with power 3+ don't untap during their controller untap step                                                                                                          |
+| - | Meekstone                  | 1                | art         | Creats with power 3+ don't untap during their controller untap step                                                                                                          |
 | 1 | Thassa, God of the Sea     | 2U               | 5/5 leg     | Indestructible -- Devotion 5 -- Beg upk: scry 1 -- 1U: tgt creat u control is unblockable this turn                                                                          |
 | 1 | Frantic Search             | 2U               | inst        | Draw 2, then discard 2, untap up to 3 lands                                                                                                                                  |
 | 1 | Bitterblossom              | 1B               | ench        | Beg upk: loose 1 life and put a 1/1 faery rogue w/ flying into play                                                                                                          |
@@ -250,12 +250,19 @@ Yuriko, the Tiger's Shadow! v1.5
 |   | Fallen Shinobi             | 3UB              | 5/4         | Ninjutsu 5/4 -- When deals combat damage to a player, exile top 2 cards of his lib. Until eot: you may play those cards w/o paying their mana cost                           |
 |   | Phantom Ninja              | 1UU              | 2/2         | Ninja - Unblockable                                                                                                                                                          |
 |   | Ginger Brute               | 1                | 1/1         | Haste -- 1: can't be blocked except by creature w/ haste -- 2, t, sacr ~: gain 3 life                                                                                        |
+|   | Mist-Syndicate Naga        | 2U               | 3/1         | Ninjutsu 3/1 -- When ~ deals combat damage to a player, create a token that's a copy of ~                                                                                    |
+|   | Scheming Symmetry          | B                | sorc        | Choose two tgt player. Each search for a card and put that cards on top of their library.                                                                                    |
+|   | Mystic Remora              | U                | ench        | Cumulative Upkeep: 1 -- Whenever an opp cast a non-creat spell, draw a card unless that player pays 4                                                                        |
+|   | Cabal Therapist            | B                | 1/1         | Menace -- Beg precombat main phase, u may sacr a creat.  When u do, choose a nonland card, then tgt player reveal their hand and discard all cards with that name            |
+|   | Mist-Cloaked Herald        | U                | 1/1         | Can't be blocked                                                                                                                                                             |
+|   | Submerge                   | 4U               | inst        | If an opp controls a forest and u control an island, u may cast it without paying its CMC. -- Put tgt creat on top of its owner's lib                                        |
+|   |                            |                  |             |                                                                                                                                                                              |
+
 + Wingcrafter
 + Universal Automaton
 + Spectral Sailor
 + Skullsnatcher
 + Narset's Reversal
-
 
 v1.6 -> v1.7:
 -------------
@@ -265,13 +272,21 @@ v1.6 -> v1.7:
 + Ninja of the Deep Hours
 + Scheming Symmetry
 + Ginger Brute
-+ Dreadship Reef (land)
 + Mystic Remora
++ Cabal Therapist
++ Ornithopter
++ Universal Automaton
 
++ Hope of Ghirapur
++ Mist-Cloaked Herald
++ Temporal Trespass
+
+
+- Dreadship Reef (land)
 - Xenograft
 - Conspiracy
 - Commander Sphere
-- ??
+- Underground River
 - ??
 
 v1.5 -> v1.6:
