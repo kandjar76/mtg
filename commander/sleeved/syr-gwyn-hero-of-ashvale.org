@@ -2,6 +2,7 @@ Syr Gwyn, Hero of Ashvale v0.3
 [sleeved v0.3]
 
 Last Update: 05/15/2020
+Last Tested: v0.3
 
 
 |   | *Commander 1*              |                |             |                                                                                                                                                                                                                |
@@ -164,6 +165,14 @@ Last Update: 05/15/2020
 |   | Epic Downfall              | 1B             | sorc        | Exile tgt creat w/ CMC 3+                                                                                                                                                                                      |
 |   | Dolmen Gate                | 2              | art         | Prevent all damage that would be dealt to attacking creatures u control.                                                                                                                                       |
 |   |                            |                |             |                                                                                                                                                                                                                |
+
+
+Version v0.3:
+-------------
+Well... I was able to play a game today...
+The deck ended up playing very Voltron-style.
+My oppening hand was 3 land, 2 signet and 2 equips....
+Then I drew more equipment; the deck was pretty good, my life during the game reached a dangerously low point (2 hp).
 
 
 v0.2 -> v0.3:
