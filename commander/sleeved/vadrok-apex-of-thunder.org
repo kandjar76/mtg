@@ -2,7 +2,7 @@ Vadrok, Apex of Thunder v0.4
 [sleeved v0.4]
 
 Last Update: 06/06/2020
-Last Tested: v0.1
+Last Tested: v0.4
 
 
 |   | *Commander 1*              |         |         |                                                                                                                                                                                                                                                                |
@@ -20,7 +20,7 @@ Last Tested: v0.1
 | 1 | Commander's Sphere         | 3       | art     | t: add one mana any color of ur commande -- sacr it: draw a card                                                                                                                                                                                               |
 | 1 | Raugrin Crystal            | 3       | art     | Cycling 2 -- t: add U, R or W                                                                                                                                                                                                                                  |
 | 1 | Smothering Tithe           | 3W      | ench    | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                                                                                              |
-| 1 | Mana Geyser                | 3RR     | sorc    | Add R for each tapped land your opps control.                                                                                                                                                                                                                  |
+| - | Mana Geyser                | 3RR     | sorc    | Add R for each tapped land your opps control.                                                                                                                                                                                                                  |
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
 |   | *Planeswalker 1*           |         |         |                                                                                                                                                                                                                                                                |
 | 1 | The Royal Scions           | 1RU     | plwr 5  | +1: Draw then discard // +1: Tgt creat gets +2/+0, first strike and trample until eot. // +8: Draw 4 cards, then ~ deals damage to any tgt equals to # cards in your hand                                                                                      |
@@ -62,7 +62,7 @@ Last Tested: v0.1
 | 1 | Thing in the Ice           | 1U      | 0/4     | Defender, enters with 4 ice counter -- when u cast an inst/sorc, remove a counter, then if it has 0, transform it // 7/8 -- When transform: return all non-horror to hand                                                                                      |
 | 1 | Cloud of Faeries           | 1U      | 1/1     | When enters: untap up to two lands                                                                                                                                                                                                                             |
 | 1 | Aven Mindcensor            | 2W      | 2/1 fly | Flash -- If an opp would search his lib, he searches for the top 4 cards of his lib instead                                                                                                                                                                    |
-| 1 | Geist of Saint Traft       | 1WU     | 2/2     | Hexproof -- When attacks: create a 4/4 angel token w/ flying tapped and attacking, exile it at eot                                                                                                                                                             |
+| - | Geist of Saint Traft       | 1WU     | 2/2     | Hexproof -- When attacks: create a 4/4 angel token w/ flying tapped and attacking, exile it at eot                                                                                                                                                             |
 | 1 | Charmbreaker Devils        | 5R      | 4/4     | Beg upk: return a inst or sorc from ur graveyard to your hand at random -- When u cast an inst or sorcery, ~ gets +4/0                                                                                                                                         |
 | 1 | Malignus                   | 3RR     | */*     | Power and toughness are equal to half of highest life total rounded up; damage dealt by ~ can't be prevented                                                                                                                                                   |
 | 1 | Hushwing Gryff             | 2W      | 2/1 fly | Flash -- Creats entering don't cause abilities to trigger                                                                                                                                                                                                      |
@@ -143,11 +143,44 @@ Last Tested: v0.1
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
 |   | Fabricate                  | 2U      | sorc    | Search lib for an art and put it to hand                                                                                                                                                                                                                       |
 |   | Thrill of Possibility      | 1R      | inst    | Add cost: discard a card -- Draw 2 cards.                                                                                                                                                                                                                      |
+|   | Dockside Extortionist      | 1R      | 1/2     | When enters: create X Treasure Tokens, where X is # art and ench ur opp controls                                                                                                                                                                               |
+|   |                            |         |         |                                                                                                                                                                                                                                                                |
+|   | Curfew                     | U       | inst    | Each player return a creature he or she control to hand                                                                                                                                                                                                        |
+|   |                            |         |         |                                                                                                                                                                                                                                                                |
 
 
 Considering:
 + Duelist's Heritage
 
+
+v0.4 -> v0.5:
+-------------
+- Mana Geyser
++ Kykar, Wind Fury
+- Geist of Saint Traft
++ The Locust God
+
++ Palinchron
++ Silence
++ Narset, Parter of Veils
++ Dockside Extortionist
++ Flusterstorm
++ Curfew
++ High Tide
++ Menmite
++ Brain Freeze
++ Swan Song
++ Ornithopter
+
+
+Version v0.4:
+-------------
+Super fun, but I lacked ways to bounce my cmdr to my hand...
+Sadly, didn't draw them.
+I was able to recur "Cloud of Faeries" several times, it felt so powerful.
+
+I didn't draw any counter spells until the end of the game and I notice a lack of interactive spells.
+That said, I'm not sure I need a lot of them.  I really feel that adding more untap land creature would make a big diff.
 
 v0.3 -> v0.4:
 -------------
