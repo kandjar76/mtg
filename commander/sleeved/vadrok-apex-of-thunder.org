@@ -147,7 +147,7 @@ Last Tested: v0.4
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
 |   | Curfew                     | U       | inst    | Each player return a creature he or she control to hand                                                                                                                                                                                                        |
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
-
+| * | Rielle, the Everwise       | 1UR     | 0/3     | Gets +1/0 for each inst/sorc in ur graveyard -- Whenever u discard one more more cards, the first time each turn, draw that many                                                                                                                               |
 
 Considering:
 + Duelist's Heritage
@@ -171,6 +171,7 @@ v0.4 -> v0.5:
 + Brain Freeze
 + Swan Song
 + Ornithopter
++ Rielle, the Everwise
 
 
 Version v0.4:
