@@ -18,7 +18,7 @@ Last Tested: v0.4
 | 1 | Talisman of Creativity     | 2       | art     | t: add 1 -- t: add U or R, ~ deals 1 damage to u                                                                                                                                                                                                               |
 | 1 | Talisman of Conviction     | 2       | art     | t: add 1 -- t: add R or W, ~ deals 1 damage to u                                                                                                                                                                                                               |
 | 1 | Commander's Sphere         | 3       | art     | t: add one mana any color of ur commande -- sacr it: draw a card                                                                                                                                                                                               |
-| 1 | Raugrin Crystal            | 3       | art     | Cycling 2 -- t: add U, R or W                                                                                                                                                                                                                                  |
+| - | Raugrin Crystal            | 3       | art     | Cycling 2 -- t: add U, R or W                                                                                                                                                                                                                                  |
 | 1 | Smothering Tithe           | 3W      | ench    | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                                                                                              |
 | - | Mana Geyser                | 3RR     | sorc    | Add R for each tapped land your opps control.                                                                                                                                                                                                                  |
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
@@ -145,33 +145,36 @@ Last Tested: v0.4
 |   | Thrill of Possibility      | 1R      | inst    | Add cost: discard a card -- Draw 2 cards.                                                                                                                                                                                                                      |
 |   | Dockside Extortionist      | 1R      | 1/2     | When enters: create X Treasure Tokens, where X is # art and ench ur opp controls                                                                                                                                                                               |
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
+|---+----------------------------+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Considering*              |         |         |                                                                                                                                                                                                                                                                |
+|   | Rielle, the Everwise       | 1UR     | 0/3     | Gets +1/0 for each inst/sorc in ur graveyard -- Whenever u discard one more more cards, the first time each turn, draw that many                                                                                                                               |
+|   | Duelist's Heritage         | 2W      | ench    | When one or more creatures attack, u may have tgt creature gain double strike until eot                                                                                                                                                                        |
+|   | Menmite                    | 0       | 1/1     |                                                                                                                                                                                                                                                                |
+|   | Or                         |         |         |                                                                                                                                                                                                                                                                |
 |   | Curfew                     | U       | inst    | Each player return a creature he or she control to hand                                                                                                                                                                                                        |
+|   | Narset, Parter of Veils    | 1UU     | plwkr 5 | Each opp can't draw more than 1 card -- -2: Look top 4 card, u may reveal a non-creat non-land, put it into hand, rest at the bottom in random order                                                                                                           |
+|   | Silence                    | W       | inst    | Your opp can't cast spell this turn                                                                                                                                                                                                                            |
 |   |                            |         |         |                                                                                                                                                                                                                                                                |
-| * | Rielle, the Everwise       | 1UR     | 0/3     | Gets +1/0 for each inst/sorc in ur graveyard -- Whenever u discard one more more cards, the first time each turn, draw that many                                                                                                                               |
-
-Considering:
-+ Duelist's Heritage
+|   | Council's Judgment         | 1WW     | inst    | Will of the Council: Starting with you, each player votes for a non-land permanent you don't control; exile each permanent with the maximum number of votes                                                                                                    |
 
 
 v0.4 -> v0.5:
 -------------
 - Mana Geyser
-+ Kykar, Wind Fury
-- Geist of Saint Traft
++ (???) Kykar, Wind Fury
+- Strionic Resonator
 + The Locust God
+- Raugrin Crystal
++ Dockside Extortionist
 
 + Palinchron
 + Silence
-+ Narset, Parter of Veils
-+ Dockside Extortionist
 + Flusterstorm
-+ Curfew
++ Narset, Parter of Veils
 + High Tide
-+ Menmite
-+ Brain Freeze
 + Swan Song
-+ Ornithopter
-+ Rielle, the Everwise
++ Brain Freeze
++ Council's Judgement
 
 
 Version v0.4:
