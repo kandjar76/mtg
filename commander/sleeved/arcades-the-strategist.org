@@ -1,5 +1,5 @@
-Arcades, the Strategist v0.6
-[sleeved v0.6]
+Arcades, the Strategist v0.8
+[sleeved v0.8]
 
 Last update: 05/30/2020
 Last tested: v0.5
@@ -15,36 +15,39 @@ Last tested: v0.5
 |  1 | Assault Formation             | 1G         | ench        | Each creat u control assigns combat damage eq to its toughness -- G: tgt creat w/ def can attack this turn -- 2G: Creats u control get +0/+1 until eot                          |
 |  1 | High Alert                    | 1WU        | ench        | Each creat assigns combat damage eq to its toughness -- Creatures u control w/ def can attack -- 2WU: untap tgt creature                                                        |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Ramp 7*                      |            |             |                                                                                                                                                                                 |
+|    | *Ramp 8*                      |            |             |                                                                                                                                                                                 |
+|  1 | Sol Ring                      | 1          | art         | t: add 2                                                                                                                                                                        |
+|  1 | Selesnya Signet               | 2          | art         | 1, t: add GW                                                                                                                                                                    |
+|  1 | Simic Signet                  | 2          | art         | 1, t: add GU                                                                                                                                                                    |
 |  1 | Talisman of Unity             | 2          | art         | t: add 1 -- t: add G or W, ~ deals 1 damage to you                                                                                                                              |
 |  1 | Farseek                       | 1G         | sorc        | Search lib for a plains, island, mountain or swamp and put it into play tapped                                                                                                  |
-|  1 | Nature's Lore                 | 1G         | sorc        | Search lib for a forest, put it on the battlefield.                                                                                                                             |
 |  1 | Rampant Growth                | 1G         | sorc        | Search lib for a ba land, put it into play tapped                                                                                                                               |
 |  1 | Song of Freyalise             | 1G         | ench saga   | I/II: Until ur next turn, creats u control have "t: add 1 mana any color to mana pool" -- III: Put a +1c on each creat u control, they gain, vig, trample and indest until eot  |
 |  1 | Cultivate                     | 2G         | sorc        | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                   |
-|  1 | Kodama's Reach                | 2G         | sorc        | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                   |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Equipment 1*                 |            |             |                                                                                                                                                                                 |
 |  1 | Lightning Greaves             | 2          | eqp 0       | Eqp creat has shroud and haste                                                                                                                                                  |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *The defenders 24*            |            |             |                                                                                                                                                                                 |
+|    | *The defenders 26*            |            |             |                                                                                                                                                                                 |
 |  1 | Shield Sphere                 | 0          | 0/6         | Defender -- If block: put a 0/-1 counter on it                                                                                                                                  |
 |  1 | Resolute Watchdog             | W          | 1/3         | Defender -- 1, sacr ~: Tgt creat u control gains indestr until eot                                                                                                              |
 |  1 | Perimeter Captain             | W          | 0/4         | Defender -- When a creat u control w/ defender blocks, u may gain 2 life                                                                                                        |
 |  1 | Wall of Runes                 | U          | 0/4         | Defender -- When enters: scry 1                                                                                                                                                 |
 |  1 | Wall of Tanglecord            | 2          | 0/6         | Defender -- G: gains reach until eot                                                                                                                                            |
+|  1 | Crashing Drawbridge           | 2          | 0/4         | Defender -- 2, t: creatures u control have haste                                                                                                                                |
+|  1 | Sylvan Caryatid               | 1G         | 0/3         | Defender, hexproof -- t: add 1 mana any color to ur mana pool                                                                                                                   |
 |  1 | Overgrown Battlement          | 1G         | 0/4         | Defender -- t: add G for each defender u control                                                                                                                                |
 |  1 | Vine Trellis                  | 1G         | 0/4         | Defender -- t: add G                                                                                                                                                            |
 |  1 | Wall of Roots                 | 1G         | 0/5         | Defender -- Put a -0/-1 counter on ~: add G to mana pool, only once each turn                                                                                                   |
 |  1 | Wall of Blossoms              | 1G         | 0/4         | Defender -- When enters: draw a card                                                                                                                                            |
 |  1 | Wall of Mulch                 | 1G         | 0/4         | Defender -- G, sacr a wall: draw a card                                                                                                                                         |
+|  1 | Sunscape Familiar             | 1W         | 0/3         | Defender -- Green and Blue spells cost 1 less to cast                                                                                                                           |
 |  1 | Orator of Ojutai              | 1W         | 0/4 fly     | Defender -- Additional cost: u may reveal a dragon from hand -- When enters, if u revealed or controlled a dragon, draw a card                                                  |
 |  1 | Wall of Omens                 | 1W         | 0/4         | Defender -- When enters: draw                                                                                                                                                   |
 |  1 | Jeskai Barricade              | 1W         | 0/4         | Defender, flash -- When enters: u may return another tgt creat u control to its owner's hand                                                                                    |
-|  1 | Ludevic's Test Subject        | 1U         | 0/3         | Defender -- 1U: Put a hatchling counter on ~; if they are 5+ counters, remove them and transform it // 13/13 w/ trample                                                         |
 |  1 | Hornet Nest                   | 2G         | 0/2         | Defender -- When ~ is dealt damage: create that many 1/1 green Insect w/ flying and deathtouch onto the battlefield                                                             |
 |  1 | Axebane Guardian              | 2G         | 0/3         | Defender -- t: add X mana any color, where X is # creats w/ defender u control                                                                                                  |
-|  1 | Drift of Phantasm             | 2U         | 0/5 fly     | Defender -- Transmute: 1UU                                                                                                                                                      |
+|  1 | Drift of Phantasms            | 2U         | 0/5 fly     | Defender -- Transmute: 1UU                                                                                                                                                      |
 |  1 | Hover Barrier                 | 2U         | 0/6 fly     | Defender                                                                                                                                                                        |
 |  1 | Soulsworn Jury                | 2W         | 1/4         | Defender -- 1U, sacr it: counter tgt creat spell                                                                                                                                |
 |  1 | Wall of Denial                | 1WU        | 0/8 fly     | Defender, shroud                                                                                                                                                                |
@@ -53,9 +56,8 @@ Last tested: v0.5
 |  1 | Wall of Stolen Identity       | 3G         | 0/0         | Defender -- May enter as a copy of a creature, if so: tap that creature, it doesn't untap as long as u control ~                                                                |
 |  1 | Wall of Reverence             | 3W         | 1/6 fly     | Defender -- Beg end step: gain life eq to power of tgt creat u control                                                                                                          |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Battle tricks 4*             |            |             |                                                                                                                                                                                 |
+|    | *Battle tricks 3*             |            |             |                                                                                                                                                                                 |
 |  1 | Mizzium Skin                  | U          | inst        | Overload 1U -- Tgt creat u control gets +0/+1 and hexproof until eot                                                                                                            |
-|  1 | Dive Down                     | U          | inst        | Tgt creats gets +0/+3 and hexproof until eot                                                                                                                                    |
 |  1 | Tower Defense                 | 1G         | inst        | Creats u control get +0/+5 and reach until eot                                                                                                                                  |
 |  1 | Bar the Door                  | 2W         | inst        | Creats u control get +0/+4 until eot                                                                                                                                            |
 |    |                               |            |             |                                                                                                                                                                                 |
@@ -63,28 +65,27 @@ Last tested: v0.5
 |  1 | Angelic Shield                | WU         | ench        | Creats u control gets +0/+1 -- Sacr ~: return tgt creat to its owner's hand                                                                                                     |
 |  1 | Sight of the Scalelords       | 4G         | ench        | Beg of combat on ur turn: creats u control w/ toughness 4 or greater gains +2/+2 and vigilance until eot                                                                        |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Synergy 4*                   |            |             |                                                                                                                                                                                 |
+|    | *Synergy 3*                   |            |             |                                                                                                                                                                                 |
 |  1 | Tetsuko Umezawa, Fugitive     | 1U         | 1/3 leg     | Creats w/ power 1 or less can't be blocked                                                                                                                                      |
 |  1 | Reveillark                    | 4W         | 4/3 fly     | Evoke 5W -- When leave: return up to two tgt creat w/ pow 2 or less from ur graveyard to play                                                                                   |
-|  1 | Oathsworn Giant               | 4WW        | 3/4         | Vigilance -- Other creats u control gets +0/+2 and vigilance                                                                                                                    |
 |  1 | Mentor of the Meek            | 2/2        | 2W          | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                 |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Protection 4*                |            |             |                                                                                                                                                                                 |
+|    | *Protection 5*                |            |             |                                                                                                                                                                                 |
 |  1 | Meekstone                     | 1          | art         | Creats with power 3+ don't untap during their controller untap step                                                                                                             |
+|  1 | Heroic Intervention           | 1G         | inst        | Permanents u control gain Hexproof and Indestructible                                                                                                                           |
+|  1 | Ghostly Flicker               | 2U         | inst        | Exile two target creat, art or lands, return them to play                                                                                                                       |
 |  1 | Eerie Interlude               | 2W         | inst        | Exile any # of tgt creatures u control, return those creats under their owner's control at the beg of next end step                                                             |
 |  1 | Faith's Reward                | 3W         | inst        | Return to the battlefield all perm put there from the battlefield this turn.                                                                                                    |
-|  + | Ghostly Flicker               | 2U         | inst        | Exile two target creat, art or lands, return them to play                                                                                                                       |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Single Target Removal 3*     |            |             |                                                                                                                                                                                 |
+|    | *Single Target Removal 2*     |            |             |                                                                                                                                                                                 |
 |  1 | Swords to Plowshares          | W          | inst        | Exile tgt creat, its controller gain life eqp to its power                                                                                                                      |
 |  1 | Generous Gift                 | 2W         | inst        | Destroy tgt non land permanent, it's controller put a 3/3 elephant.                                                                                                             |
-|  1 | Crib Swag                     | 2W         | inst        | Changeling -- Exile tgt creature, its controller put a 1/1 colorless changeling into play                                                                                       |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Counter spells 5*            |            |             |                                                                                                                                                                                 |
-|  + | Flusterstorm                  | U          | inst        | Storm -- Counter tgt inst or sorc unless its controller pays 1.                                                                                                                 |
-|  + | Swan Song                     | U          | inst        | Counter tgt non creature spell.  Its controller gets a 2/2 bird token w/ flying.                                                                                                |
+|  1 | Flusterstorm                  | U          | inst        | Storm -- Counter tgt inst or sorc unless its controller pays 1.                                                                                                                 |
+|  1 | Swan Song                     | U          | inst        | Counter tgt non creature spell.  Its controller gets a 2/2 bird token w/ flying.                                                                                                |
+|  1 | Negate                        | 1U         | inst        | Counter tgt non creature spell.                                                                                                                                                 |
 |  1 | Counterspell                  | UU         | inst        | Counter target spell                                                                                                                                                            |
-|  1 | Render Silent                 | WUU        | inst        | Counter tgt spell -- its controller can't cast spell this turn                                                                                                                  |
 |  1 | Dovin's Veto                  | WU         | inst        | Can't be counter -- Counter tgt non creat spell                                                                                                                                 |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Artifact removal 2*          |            |             |                                                                                                                                                                                 |
@@ -95,23 +96,38 @@ Last tested: v0.5
 |  1 | Slaughter the Strong          | 1WW        | sorc        | Each player choose any number of creatures he or she control w/ total power 4 or less, then sacr the rest.                                                                      |
 |  1 | Fell the Mighty               | 4W         | sorc        | Destroy all creat w/ power greater than tgt creat's power                                                                                                                       |
 |  1 | Dusk // Dawn                  | 2WW // 3WW | sorc / sorc | Aftermath -- Destroy all creat w/ pow 3 or greater // Return all creat w/ power 2 or less from ur graveyard to your hand                                                        |
-|  1 | Fumigate                      | 3WW        | sorc        | Destroy all creatures, u gain 1 life for each creature destroyed this way                                                                                                       |
+|  1 | Austere Command               | 4WW        | sorc        | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                              |
 |    |                               |            |             |                                                                                                                                                                                 |
-|    | *Lands 36*                    |            |             |                                                                                                                                                                                 |
+|    | *Lands 35*                    |            |             |                                                                                                                                                                                 |
+|  1 | Command Tower                 |            | land        | t: add one mana of any color in your commander's color identity                                                                                                                 |
 |  1 | Temple Garden                 |            | land        | Enter tapped unless u pay 2 life -- t: add G or W                                                                                                                               |
 |  1 | Seachrome Coast               |            | land        | Enters tapped unless u control 2 or fewer other lands -- t: add W or U                                                                                                          |
 |  1 | Razorverge Thicket            |            | land        | Enters tapped unless u control 2 or fewer other lands -- t: add G or W                                                                                                          |
 |  1 | Sunpetal Grove                |            | land        | Enters tapped unless u control a plains or a forest -- t: add G or W                                                                                                            |
 |  1 | Hinterland Harbor             |            | land        | Enters tapped unless u control a forest or an island -- t: add G or U                                                                                                           |
-|  1 | Terramorphic Expanse          |            | land        | t, sacr it: search for a basic land and put it into play tapped                                                                                                                 |
-|  1 | Evolving Wilds                |            | land        | t, sacr it: search for a basic land and put it into play tapped                                                                                                                 |
-|  1 | Alchemist's Refuge            |            | land        | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                   |
 |  1 | Woodland Stream               |            | land        | Enters tapped -- t: add G or U                                                                                                                                                  |
-|  1 | Hallowed Fountain             |            | land        | Enters tapped unless u pay 2 life -- t: add U or W                                                                                                                              |
+|  1 | Temple of Enlightenment       |            | land        | Enters tapped -- When enters: scry 1 -- t: add W or U                                                                                                                           |
+|  1 | Temple of Plenty              |            | land        | Enters tapped -- When enters: scry 1 -- t: add G or W                                                                                                                           |
 | 10 | Plains                        |            | bas land    |                                                                                                                                                                                 |
 | 10 | Forest                        |            | bas land    |                                                                                                                                                                                 |
 |  6 | Island                        |            | bas land    |                                                                                                                                                                                 |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.7*           |            |             |                                                                                                                                                                                 |
+|    | Dive Down                     | U          | inst        | Tgt creats gets +0/+3 and hexproof until eot                                                                                                                                    |
+|    | Oathsworn Giant               | 4WW        | 3/4         | Vigilance -- Other creats u control gets +0/+2 and vigilance                                                                                                                    |
+|    | Fumigate                      | 3WW        | sorc        | Destroy all creatures, u gain 1 life for each creature destroyed this way                                                                                                       |
+|    | Evolving Wilds                |            | land        | t, sacr it: search for a basic land and put it into play tapped                                                                                                                 |
+|    | Terramorphic Expanse          |            | land        | t, sacr it: search for a basic land and put it into play tapped                                                                                                                 |
+|    | Render Silent                 | WUU        | inst        | Counter tgt spell -- its controller can't cast spell this turn                                                                                                                  |
+|    |                               |            |             |                                                                                                                                                                                 |
+|    | *Removed from v0.6*           |            |             |                                                                                                                                                                                 |
+|    | Crib Swap                     | 2W         | inst        | Changeling -- Exile tgt creature, its controller put a 1/1 colorless changeling into play                                                                                       |
+|    | Ludevic's Test Subject        | 1U         | 0/3         | Defender -- 1U: Put a hatchling counter on ~; if they are 5+ counters, remove them and transform it // 13/13 w/ trample                                                         |
+|    | Nature's Lore                 | 1G         | sorc        | Search lib for a forest, put it on the battlefield.                                                                                                                             |
+|    | Kodama's Reach                | 2G         | sorc        | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                   |
+|    | Hallowed Fountain             |            | land        | Enters tapped unless u pay 2 life -- t: add U or W                                                                                                                              |
+|    | Alchemist's Refuge            |            | land        | t: add 1 -- UG, t: u may cast non land spell as instant speed                                                                                                                   |
+|    |                               |            |             |                                                                                                                                                                                 |
 |    | *Removed from v0.5*           |            |             |                                                                                                                                                                                 |
 |    | Slagwurm Armor                | 1          | eqp 3       | Eqp creat gets +0/+6                                                                                                                                                            |
 |    | Wall of Frost                 | 1UU        | 0/7         | Defender -- When ~ block a creature, that creature doesn't untap during it's controller next untap step                                                                         |
@@ -138,8 +154,6 @@ Last tested: v0.5
 |    | Island                        |            | bas land    |                                                                                                                                                                                 |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    |                               |            |             |                                                                                                                                                                                 |
-|  * | Sylvan Caryatid               | 1G         | 0/3         | Defender, hexproof -- t: add 1 mana any color to ur mana pool                                                                                                                   |
-|  * | Sunscape Familiar             | 1W         | 0/3         | Defender -- Green and Blue spells cost 1 less to cast                                                                                                                           |
 |  * | Wave of Reckoning             | 4W         | sorc        | Each creat deals damage to itself equal to its power                                                                                                                            |
 |----+-------------------------------+------------+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | Simic Signet                  | 2          | art         | 1, t: add GU                                                                                                                                                                    |
@@ -153,6 +167,7 @@ Last tested: v0.5
 |    | Portcullis Vine               | G          | 0/3         | Defender -- 2, t, sacr a wall: draw a card                                                                                                                                      |
 |    | Pride Guardian                | W          | 0/3         | Defender -- When ~ blocks: gain 3 life                                                                                                                                          |
 |    | Grappling Sundew              | 1G         | 0/4         | Defender, reach -- 4G: ~ gains indestr until eot                                                                                                                                |
+|    | Riptide Turtle                | 1U         | 0/5         | Defender, flash                                                                                                                                                                 |
 |    | Wall of Mist                  | 1U         | 0/5         | Defender                                                                                                                                                                        |
 |    | Kaijin of the Vanishing Touch | 1U         | 0/3         | Defender -- When ~ blocks: return the blocked creat to its owner's hand at end of combat                                                                                        |
 |    | Gomozoa                       | 2U         | 0/3 fly     | Defender -- t: put ~ and each creat it's blocking on top of their owner's lib then shuffle                                                                                      |
@@ -193,36 +208,44 @@ Last tested: v0.5
 |    | Reclamation Sage              | 2G         | 2/1         | When enters: destroy tgt art or enchantment                                                                                                                                     |
 |    | Wild Pair                     | 4GG        | ench        | When a creat enters, if u cast if from ur hand, you may search your lib for a creat w/ same total pow+toughness, and put it on the battlefield                                  |
 |    | Wall of Kelp                  | UU         | 0/3         | Defender -- UU, t: put a 0/1 blue wall into play                                                                                                                                |
-|    | Crashing Drawbridge           | 2          | 0/4         | Defender -- 2, t: creatures u control have haste                                                                                                                                |
-|    | Swan Song                     | U          | inst        | Counter tgt ench, inst or sorc spell, its controller put a 2/2 flying Bird token into play                                                                                      |
-
-To consider:
-- Hornet Nest
-+ Sylvan Caryatid
+|    | Marble Titan                  | 3W         | 3/3         | Creatures w/ pow 3 or greater don't untap during their controller's untap step                                                                                                  |
 
 To add:
 + Retribution of the Meek
 - Fell the Mighty???
++ Wild Pair
++ Marble Titan
 
 
-
-
-+ Ulvenwald Captive
-+ Wall of Junk
-+ Doorkeeper
-
-+ Flusterstorm (U storm counter)
-+ Swan Song
+v0.7 -> v0.8:
+-------------
++ Sylvan Caryatid
+- Dive Down
++ Sunscape Familiar
+- Oathsworn Giant
++ Austere Command
+- Fumigate
++ Command Tower
+- Evolving Wild
++ Heroic Intervention
+- Terramorphic Expanse
++ Negate
+- Render Silence
 
 v0.6 -> v0.7:
 -------------
-+ Sylvan Caryatid
-+ Sunscape Familiar
-+ Stalwart Shield-Bearers
 + Crashing Drawbridge
-
-+ Wild Pair
-
+- Ludevic's Test Subject
++ Selesnya Signet
++ Simic Signet
+- Kodama's Reach
+- Nature's Lore
++ Temple of Enlightenment
++ Temple of Plenty
+- Hallowed Fountain
+- Alchemist's Refuge
++ Sol Ring
+- Crib Swap
 
 v0.5 -> v0.6:
 -------------
