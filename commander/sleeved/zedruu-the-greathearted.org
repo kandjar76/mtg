@@ -112,14 +112,17 @@ Last tested: v0.3
 | 1 | Cascade Bluffs              |            | land         | t: add 1 -- {ur}, t: add UU or UR or RR                                                                                                                                                                                                 |
 | 1 | Rugged Prairie              |            | land         | t: add 1 -- {rw}, t: add RR or RW or WW                                                                                                                                                                                                 |
 | 1 | Strip Mine                  |            | land         | t: add 1 -- t, sacr ~: destroy tgt land                                                                                                                                                                                                 |
-| 1 | Hall of Heliod's Generosity |            | land         | t: add 1 -- 1W, t: put tgt enchantment from u graveyard on top of ur lib                                                                                                                                                                |
 | 1 | Homeward Path               |            | land         | t: add 1 -- t: each player gains control of all creats they own                                                                                                                                                                         |
 | 1 | Kher Keep                   |            | land         | t: add 1 -- 1R, t: put a 0/1 red Kobold into play                                                                                                                                                                                       |
+| 1 | Maze of Ith                 |            | land         | t: untap target attacking creature. Prevent combat damage that would be dealt to and by that creature this turn                                                                                                                         |
 | 7 | Mountain                    |            |              |                                                                                                                                                                                                                                         |
 | 5 | Island                      |            |              |                                                                                                                                                                                                                                         |
 | 4 | Plains                      |            |              |                                                                                                                                                                                                                                         |
 | 1 | Reliquary Tower             |            | land         | t: add 1 mana -- you have no maximum hand size                                                                                                                                                                                          |
 |---+-----------------------------+------------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.4*         |            |              |                                                                                                                                                                                                                                         |
+|   | Hall of Heliod's Generosity |            | land         | t: add 1 -- 1W, t: put tgt enchantment from u graveyard on top of ur lib                                                                                                                                                                |
+|   |                             |            |              |                                                                                                                                                                                                                                         |
 |   | *Removed from v0.3*         |            |              |                                                                                                                                                                                                                                         |
 |   | Insurrection                | 5RRR       | sorc         | Untap all creats and gain control of them until eot.  They gain haste until eot.                                                                                                                                                        |
 |   | Grid Monitor                | 4          | 4/6          | You can't cast creature spells                                                                                                                                                                                                          |
@@ -248,6 +251,19 @@ Last tested: v0.3
 ----
 + Shark Typhoon
 
+
+Version v0.5:
+-------------
+Not sure the deck has enough lands... I'll need to test it out.
+I'd like to add either more rocks or more lands.  Playtest is needed.
+Especially since Maze of Ith is not a land in practice.
+
+
+
+v0.4 -> v0.5:
+-------------
+- Hall of Heliod's Generosity
++ Maze of Ith
 
 v0.3 -> v0.4:
 -------------
