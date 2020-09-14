@@ -216,3 +216,6 @@ Nekusar, the Mindrazer (Zombie Hugger)
 | * | Raiders' Wake                | 3B      | ench    | When an opp discards a card: ~ looses 2 life -- Raid: at the beg of ur end step, if u attacked this turn: tgt opp discards a card                                                                                                           |
 |   |                              |         |         |                                                                                                                                                                                                                                             |
 
++ Thran Dynamo
++ Memory Jar
++ (?) Dream Halls

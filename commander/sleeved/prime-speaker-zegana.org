@@ -4,7 +4,7 @@ Prime Speaker Zegana v0.5
 Last Update: 05/09/2020
 
 
-|   | *Commander 1*                   |           |           |                                                                                                                                                                                                                                   |
+|   | *Commander 1*                 |           |           |                                                                                                                                                                                                                                   |
 | 1 | Prime Speaker Zegana          | 2GGUU     | 1/1       | Enters w/ X +1c where X is greater power amongst other creatures u control - When enters: draw X cards                                                                                                                            |
 |   |                               |           |           |                                                                                                                                                                                                                                   |
 |   | *Planeswalker 3*              |           |           |                                                                                                                                                                                                                                   |

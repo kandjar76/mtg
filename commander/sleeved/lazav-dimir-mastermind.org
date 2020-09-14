@@ -8,7 +8,7 @@ Missing:
 - Cabal Coffer
 
 
-|   | *Commander 1*                |         |             |                                                                                                                                                                                         |
+|   | *Commander 1*              |         |             |                                                                                                                                                                                         |
 | 1 | Lazav, Dimir Mastermind    | UUBB    | 3/3 hex     | Whenever a creat is put to an opp graveyard from anywhere, ~ may becomes a copy of it, if so: he keeps: this ab, his name, hexproof, and the leg clause                                 |
 |   |                            |         |             |                                                                                                                                                                                         |
 |   | *Planeswalkers 3*          |         |             |                                                                                                                                                                                         |
