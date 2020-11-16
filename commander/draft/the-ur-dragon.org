@@ -4,6 +4,9 @@ The Ur-Dragon v0.1
 Last Update: N/A
 Last Tested: N/A
 
+Archidekt: https://archidekt.com/decks/568071#UR_Time_to_Die
+Archidekt version: v0.1
+
 
 |   | *Commander 1*                |         |           |                                                                                                                                                                                                                                |
 | 1 | The Ur-Dragon                | 4WUBRG  | 10/10 fly | Eminence: other Dragon spell cost 1 less -- Whenever one or more dragon u control attacks, draw that many cards, then you may put a perm from ur hand to the battlefield                                                       |
@@ -124,6 +127,9 @@ Last Tested: N/A
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *To consider*                |         |           |                                                                                                                                                                                                                                |
 |   | Heroic Intervention          |         |           |                                                                                                                                                                                                                                |
+|   | Terror of Mount Velus        | 5RR     | 5/5 fly   | Double strike -- When enters: creatures u control gain double strike until eot                                                                                                                                                 |
+|   | Lurking Predators            | 4GG     | ench      | When an opp cast a spell, reveal top of lib, if it's a creature, put it into play otherwise you may put it at bottom of lib                                                                                                    |
+|   | Terror of the Peaks          | 3RR     | 5/4 fly   | Spells ur opps cast that tgt ~ cost an addition cost of 3 life to cast -- When another creat enters: ~ deals damage equal to its power to any tgt                                                                              |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 | * | Breeding Pool                |         | land      | Forest, Island   -- Enters tapped unless u pay 2 life                                                                                                                                                                          |
 | * | Godless Shrine               |         | land      | Plains, Swamp    -- Enters tapped unless u pay 2 life                                                                                                                                                                          |
@@ -152,6 +158,7 @@ Last Tested: N/A
 |   | Nurturing Peatland           |         | land      | t, pay 1 life: Add B or G -- 1, sacr it: Draw a card                                                                                                                                                                           |
 |   | Waterlogged Grove            |         | land      | t, pay 1 life: Add G or U -- 1, sacr it: Draw a card                                                                                                                                                                           |
 |   |                              |         |           |                                                                                                                                                                                                                                |
+|   |                              |         |           |                                                                                                                                                                                                                                |
 
 Tokens:
 | 1/1 | R/G | Dragon w/ flying and devour 2 |
@@ -160,3 +167,8 @@ Tokens:
 | 6/6 | R   | Dragon w/ flying              |
 
 
+Version 0.1:
+------------
+Scary deck from my opponents, I def feel the pressure when playing this deck.
+Due to that, not having haste is problematic.
+I should increase the number of way to give my Dragons haste.
