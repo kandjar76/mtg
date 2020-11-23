@@ -1,8 +1,8 @@
 Vadrok, Apex of Thunder v0.6
 [sleeved v0.6]
 
-Last Update: 06/06/2020
-Last Tested: v0.4
+Last Update: 11/14/2020
+Last Tested: v0.6
 
 Archidekt: https://archidekt.com/decks/582955#Vadrok,_Apex_of_Thunder
 Archidekt version: v0.6
@@ -177,9 +177,27 @@ Archidekt version: v0.6
 |   | Hedron Crab                             | U       | 0/2     | Landfall: tgt player mills 3                                                                                                                                                                                                                                   |
 |   | Quasiduplicate                          | 1UU     | sorc    | Jumpstart: Create a token that's a copy of tgt creature u control                                                                                                                                                                                              |
 |   | Twinflame                               | 1R      | sorc    | Strive 2R -- Choose any number of tgt creatures u control, create a token that's a copy into play, they gain haste, exile them at eot.                                                                                                                         |
-
+|   | Whirlwind of Thought                    | 1URW    | ench    | When you cast a non-creature spell,  draw a card                                                                                                                                                                                                               |
+|   |                                         |         |         |                                                                                                                                                                                                                                                                |
 
 + Curfew
++ Whirlwind of Thought
+
+
+Version v0.6:
+-------------
+The deck seems to be currently a bit inconsistent.
+But it's super fun when it's working!
+Bouncing the commander, casting it again and again from hand feels really good.
+However, they deck may need more interaction with my opponents.
+
+Having more synergy with casting spell would def benefits the deck: cards like Whirlwind of Thought is a must!
+
+Couple of issue I faced:
+- Which spells to cast? A spell to draw card? or a spell to interact.... 
+  Although interacting spell are often the best options, it doesn't help advancing the game plan.
+- Graveyard hate really need to be taking care ASAP.  This is one reason the deck needs more answers.
+
 
 v0.5 -> v0.6:
 -------------
