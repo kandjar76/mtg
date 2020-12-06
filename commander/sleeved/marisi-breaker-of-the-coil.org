@@ -1,5 +1,5 @@
-Marisi, Breaker of the Coil v0.2
-[sleeved v0.2]
+Marisi, Breaker of the Coil v0.3
+[sleeved v0.3]
 
 Last Update: 06/06/2020
 Last Tested: v0.1

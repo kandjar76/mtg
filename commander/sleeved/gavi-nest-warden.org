@@ -5,7 +5,9 @@ Last Update: 11/16/2020
 Last Tested: 11/15/2020 (v0.1)
 
 Archidekt: https://archidekt.com/decks/860448#A_Nesting_Strategy
-Archidekt version: v0.1
+Archidekt version: v0.2
+
+Discord/PlayEDH: Rated Low
 
 
 |   | *Commander 1*                              |       |         |                                                                                                                                                                                                               |

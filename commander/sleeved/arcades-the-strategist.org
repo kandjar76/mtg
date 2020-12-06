@@ -4,6 +4,11 @@ Arcades, the Strategist v0.8
 Last update: 05/30/2020
 Last tested: v0.5
 
+Archidekt: https://archidekt.com/decks/946092#Arcades,_the_Strategist
+Archidekt version: v0.8
+
+Discord/PlayEDH: Rated Low
+
 
 |    | *Commander 1*                 |            |             |                                                                                                                                                                                 |
 |  1 | Arcades, the Strategist       | 1GWU       | 3/5 fly     | Vigilance -- Whenever a creat w/ defender enters: draw a card -- Each creat u control w/ defender may attack, and deals combat damage eq to its toughness rather than its power |
@@ -68,7 +73,7 @@ Last tested: v0.5
 |    | *Synergy 3*                   |            |             |                                                                                                                                                                                 |
 |  1 | Tetsuko Umezawa, Fugitive     | 1U         | 1/3 leg     | Creats w/ power 1 or less can't be blocked                                                                                                                                      |
 |  1 | Reveillark                    | 4W         | 4/3 fly     | Evoke 5W -- When leave: return up to two tgt creat w/ pow 2 or less from ur graveyard to play                                                                                   |
-|  1 | Mentor of the Meek            | 2/2        | 2W          | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                 |
+|  1 | Mentor of the Meek            | 2W         | 2/2         | Whenever another creat w/ pow 2 or less enters, u may pay 1, if so: draw a card                                                                                                 |
 |    |                               |            |             |                                                                                                                                                                                 |
 |    | *Protection 5*                |            |             |                                                                                                                                                                                 |
 |  1 | Meekstone                     | 1          | art         | Creats with power 3+ don't untap during their controller untap step                                                                                                             |
