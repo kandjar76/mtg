@@ -1,17 +1,19 @@
-The Ur-Dragon v0.1
-[sleeved v0.1]
+The Ur-Dragon v0.2
+[sleeved v0.2]
 
-Last Update: N/A
-Last Tested: N/A
+Last Update: 12/06/2020
+Last Tested: v0.1
 
 Archidekt: https://archidekt.com/decks/568071#UR_Time_to_Die
-Archidekt version: v0.1
+Archidekt version: v0.2
+
+Discord/PlayEDH: Rated Low
 
 
 |   | *Commander 1*                |         |           |                                                                                                                                                                                                                                |
 | 1 | The Ur-Dragon                | 4WUBRG  | 10/10 fly | Eminence: other Dragon spell cost 1 less -- Whenever one or more dragon u control attacks, draw that many cards, then you may put a perm from ur hand to the battlefield                                                       |
 |   |                              |         |           |                                                                                                                                                                                                                                |
-|   | *Ramp 10*                    |         |           |                                                                                                                                                                                                                                |
+|   | *Ramp 9*                     |         |           |                                                                                                                                                                                                                                |
 | 1 | Sol Ring                     | 1       | art       | t: add 2                                                                                                                                                                                                                       |
 | 1 | Farseek                      | 1G      | sorc      | Search lib for a plains, island, mountain or swamp and put it into play tapped                                                                                                                                                 |
 | 1 | Nature's Lore                | 1G      | sorc      | Search lib for a forest, put it on the battlefield.                                                                                                                                                                            |
@@ -21,7 +23,6 @@ Archidekt version: v0.1
 | 1 | Golgari Signet               | 2       | art       | 1, t: add BG                                                                                                                                                                                                                   |
 | 1 | Fist of Suns                 | 3       | art       | You may pay WUBRG rather than paying the mana cost of spells you cast                                                                                                                                                          |
 | 1 | Frontier Siege               | 3G      | ench      | When enters choose Khans or Dragons -- [Khans] Beg of each main phase, add GG // [Dragons] When a creat w/ flying enters under ur control, u may have it fight another tgt creatrure you don't control                         |
-| 1 | Urban Evolution              | 3GU     | sorc      | Draw 3, then you may play an additional land this turn                                                                                                                                                                         |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *Special Ramp 4*             |         |           |                                                                                                                                                                                                                                |
 | 1 | Dragonspeaker Shaman         | 1RR     | 2/2       | Dragon spell cost 2 less to cast                                                                                                                                                                                               |
@@ -37,16 +38,18 @@ Archidekt version: v0.1
 | 1 | Lightning Greaves            | 2       | eqp 0     | Eqp creat has shroud and haste                                                                                                                                                                                                 |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *Draw 6*                     |         |           |                                                                                                                                                                                                                                |
+| 1 | Garruk's Uprising            | 2G      | ench      | When enters, if u control a creat w/ pow 4+, draw a card.  Creatures u control have trample.  When a creature with pow 4+ enters under u control, draw a card                                                                  |
 | 1 | Return of the Wildspeaker    | 4G      | inst      | Choose one: Draw cards eq to the greatest power amongst non-Human creats u control OR Non-Humans creats get +3/+3 until eot                                                                                                    |
 | 1 | Greater Good                 | 2GG     | ench      | Sacr a creat: Draw cards eq to its power then discard 3                                                                                                                                                                        |
-| 1 | Momentous Fall               | 2GG     | inst      | Add cost: sacr a creat --  Draw a card eq to that creat power, gain life equal to its toughness                                                                                                                                |
 | 1 | Elemental Bond               | 2G      | ench      | When a creat w/ pow 3 or greater enters under ur control, draw a card                                                                                                                                                          |
 | 1 | Kiora, Behemoth Beckoner     | 2{gu}   | plnkr 7   | Whenever a creat w/ pow 4 or greater enters ur control, draw a card -- -1: Untap tgt perm                                                                                                                                      |
 | 1 | Temur Ascendancy             | GUR     | ench      | Creats u control have haste -- When a creat w/ pow 4 or great enters under ur control, draw a card                                                                                                                             |
 |   |                              |         |           |                                                                                                                                                                                                                                |
-|   | *Helper 5*                   |         |           |                                                                                                                                                                                                                                |
+|   | *Helper 7*                   |         |           |                                                                                                                                                                                                                                |
 | 1 | Rakdos Charm                 | BR      | inst      | Choose one: Exile all card from tgt player's graveyard OR Destroy tgt art OR Each creature deals 1 damage to its controller                                                                                                    |
+| 1 | Heroic Intervention          | 1G      | inst      | Permanents u control gain Hexproof and Indestructible                                                                                                                                                                          |
 | 1 | Boros Charm                  | RW      | inst      | Choose one: Deals 4 damage to tgt player OR Perm u control are indestructible this turn OR tgt creat gain double strike until eot                                                                                              |
+| 1 | Defense of the Heart         | 3G      | ench      | During ur upkeep, if one of your opp controls 3+ creatures, sacr ~ search ur lib for up to 2 creatures and put them into play.                                                                                                 |
 | 1 | Living Death                 | 3BB     | sorc      | Each player exiles all cards from his graveyard, then sacr all creatures he controls, then put the exiled creatures this way into play                                                                                         |
 | 1 | Eerie Ultimatum              | WWBBBGG | sorc      | Return any number of perm w/ diff names from ur graveyard to play                                                                                                                                                              |
 | 1 | Rhythm of the Wild           | 1RG     | ench      | Creats u control can't be countered -- Nontoken creatures u control have riots                                                                                                                                                 |
@@ -55,36 +58,35 @@ Archidekt version: v0.1
 | 1 | Sarkhan the Masterless       | 3RR     | plnwkr 5  | Whenever a creat attacks u or a planeswalker u control, each dragon u control deals 1 damage to that creat. -- +1: Until eot, each plnwkr becomes a 4/4 red dragon and gain flying -- -3: Put a 4/4 red dragon token w/ flying |
 | 1 | Sylvia Brightspear           | 2W      | 2/2       | Double Strike -- Partner w/ Khorvath Brightflame. -- Dragons u team controls have double strike                                                                                                                                |
 | 1 | Dragon Tempest               | 1R      | ench      | Whenever a creat w/ flying enters: it gains haste until eot -- Whenever a dragon enters under ur control, it deals X damage to tgt creat or player where X is # of dragons u control                                           |
-| 1 | Crucible of Fire             | 3R      | ench      | Dragon creats u control gets +3/+3                                                                                                                                                                                             |
+| 1 | Maelstrom Nexus              | UWBRG   | ench      | The first spell you cast each turn has cascade                                                                                                                                                                                 |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *Target Removals 4*          |         |           |                                                                                                                                                                                                                                |
-| 1 | Barrier Breach               | 2G      | inst      | Cycling 2 -- Exile up to 3 tgt enchantments                                                                                                                                                                                    |
+| 1 | Swords to Plowshares         | W       | inst      | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                                                     |
 | 1 | Despark                      | WB      | inst      | Exile tgt perm w/ CMC 4 or greater                                                                                                                                                                                             |
 | 1 | Mythos of Nethroi            | 2B      | inst      | Destroy tgt non land if it's a creature or if GW was spent to cast this spell                                                                                                                                                  |
-| 1 | Decimate                     | 2RG     | sorc      | Destroy tgt art, tgt ench, tgt creat and tgt land                                                                                                                                                                              |
+| 1 | Casualties of War            | 2BBGG   | sorc      | Choose one or more -- Destroy tgt art OR Destroy tgt creat OR Destroy tgt ench OR Destroy tgt land OR Destroy tgt planeswalker                                                                                                 |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *Board wipes 2*              |         |           |                                                                                                                                                                                                                                |
 | 1 | Magmaquake                   | xRR     | inst      | Deals X damage to each creat w/o flying and each planeswalker                                                                                                                                                                  |
 | 1 | Crux of Fate                 | 3BB     | sorc      | Choose one: Destroy all Dragon creatures OR Destroy all non-Dragon creatures                                                                                                                                                   |
 |   |                              |         |           |                                                                                                                                                                                                                                |
-|   | *Dragons 25*                 |         |           |                                                                                                                                                                                                                                |
+|   | *Dragons 24*                 |         |           |                                                                                                                                                                                                                                |
+| 1 | Leyline Tyrant               | 2RR     | 4/4 fly   | You don't loose unspent red mana at end of phases/steps -- When dies, you may pay any amount of R; when u do, it deals that much damage to any target                                                                          |
+| 1 | Terror of the Peaks          | 3RR     | 5/4 fly   | Spells ur opps cast that tgt ~ cost an addition cost of 3 life to cast -- When another creat enters: ~ deals damage equal to its power to any tgt                                                                              |
 | 1 | Nesting Dragon               | 3RR     | 5/4 fly   | Landfall: put a 0/2 dragon egg w/ "Whenever it dies: create a 2/2 dragon w/ flying and R: gets +1/0 until eot"                                                                                                                 |
 | 1 | Dragonlord Silumgar          | 4UB     | 3/5 fly   | Deathtouch -- When enters: gain control or tgt creature or planeswalker for as long as you control ~                                                                                                                           |
 | 1 | Lathliss, Dragon Queen       | 4RR     | 6/6 fly   | When another non-token Dragon enters under u control, create a 5/5 red Dragon token w/ flying -- 1R: Dragons u control gains +1/0 until eot                                                                                    |
 | 1 | Scourge of the Throne        | 4RR     | 5/5 fly   | Dethrone -- When attacks for the firt time each turn, if it's attacking the player with the most life; untap all attacking creatures, after this phase, there is an additional combat phase                                    |
 | 1 | Tyrant's Familiar            | 5RR     | 5/5 fly   | Haste -- Lieutenant: gets +2/+2, and "when attacks, it deals 7 damage tgt creature def player controls"                                                                                                                        |
 | 1 | Teneb, the Harvester         | 3BGW    | 6/6 fly   | When ~ deals damage to a player, you may pay 2B.  If you do, put tgt creat card in a graveyard into play                                                                                                                       |
-| 1 | Stormbreath Dragon           | 3RR     | 4/4 fly   | Haste, pro white -- 5RR: Monstrosity 3 -- When becomes monstrous, it deals damage to each opp equal to the number of cards in that player's hand                                                                               |
+| 1 | Amareth, the Lustrous        | 3GWU    | 6/6 fly   | Whenever another perm enters the battlefield under ur control, you may look at the top of lib.  If it shares a card type with that permanent, you may reveal it, and put it in your hand                                       |
 | 1 | Steel Hellkite               | 6       | 5/5 fly   | 2: gets +1/0 until eot -- X: Destroy each non land perm w/ CMC = X whose controller was dealt combat damage by ~ this turn.  Activate only once each turn.                                                                     |
 | 1 | Utvara Hellkite              | 6RR     | 6/6 fly   | When a dragon u control attack, put a 6/6 red Dragon creature token w/ flying into play                                                                                                                                        |
-| 1 | Thundermaw Hellkite          | 3RR     | 5/5 fly   | Haste -- When enters: deals 1 damage to each creat w/ flying your opps control.  Tap those creature.                                                                                                                           |
-| 1 | Thunder Dragon               | 5RR     | 5/5 fly   | When enters: deals 3 damage to each creatures w/o flying                                                                                                                                                                       |
 | 1 | Scourge of Valkas            | 2RRR    | 4/4 fly   | When ~ or another dragon enters under u control, ~ deals X damage to any tgt where X is ~ of dragons u control -- R: ~ gets +1/0 until eot                                                                                     |
 | 1 | Ojutai, Soul of Winter       | 5WU     | 5/6 fly   | Vigilance -- When a dragon u control attacks, tap tgt nonland perm an opp controls.  That perm doesn't untap during its controller's next untap step                                                                           |
 | 1 | Silumgar, the Drifting Death | 4UB     | 3/7 fly   | Hexproof -- When a dragon u control attacks, creatures def player controls get -1/-1 until eot                                                                                                                                 |
 | 1 | Dragon Broodmother           | 2RRRG   | 4/4 fly   | At beg of each upkeep, put a 1/1 red and green dragon tok w/ fly and devour 2 into play.                                                                                                                                       |
 | 1 | Scion of the Ur-Dragon       | WUBRG   | 4/4 fly   | 2: Search your lib for a dragon perm and put it in your graveyard. If u do, ~ becomes a copy of that card until eot.                                                                                                           |
-| 1 | O-Kagachi, Vengeful Kami     | 1WUBRG  | 6/6 fly   | Trample -- When deals combat damage to a player, if that players attacked u during his last turn, exile tgt non-land perm that players controls.                                                                               |
 | 1 | Balefire Dragon              | 5RR     | 6/6 fly   | When ~ deals combat to a player, ~ deals that much damage to each creature that player controls                                                                                                                                |
 | 1 | Atarka, World Render         | 5RG     | 6/4 fly   | Trample -- When a dragon u control attack, it gains double strike until eot                                                                                                                                                    |
 | 1 | Vaevictis Asmadi, the Dire   | 3BRG    | 6/6 fly   | Flying -- When attacks, for each player, choose tgt perm that player controls.  Those player sacr those perms.  Each player who sacr a perm this way reveals top of lib and put into play if it's a perm                       |
@@ -121,6 +123,18 @@ Archidekt version: v0.1
 | 2 | Swamp                        |         | bas land  |                                                                                                                                                                                                                                |
 | 4 | Mountain                     |         | bas land  |                                                                                                                                                                                                                                |
 |---+------------------------------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.1*          |         |           |                                                                                                                                                                                                                                |
+| 1 | Urban Evolution              | 3GU     | sorc      | Draw 3, then you may play an additional land this turn                                                                                                                                                                         |
+| 1 | Momentous Fall               | 2GG     | inst      | Add cost: sacr a creat --  Draw a card eq to that creat power, gain life equal to its toughness                                                                                                                                |
+| 1 | Crucible of Fire             | 3R      | ench      | Dragon creats u control gets +3/+3                                                                                                                                                                                             |
+| 1 | Decimate                     | 2RG     | sorc      | Destroy tgt art, tgt ench, tgt creat and tgt land                                                                                                                                                                              |
+| 1 | Barrier Breach               | 2G      | inst      | Cycling 2 -- Exile up to 3 tgt enchantments                                                                                                                                                                                    |
+| 1 | Thundermaw Hellkite          | 3RR     | 5/5 fly   | Haste -- When enters: deals 1 damage to each creat w/ flying your opps control.  Tap those creature.                                                                                                                           |
+| 1 | Stormbreath Dragon           | 3RR     | 4/4 fly   | Haste, pro white -- 5RR: Monstrosity 3 -- When becomes monstrous, it deals damage to each opp equal to the number of cards in that player's hand                                                                               |
+| 1 | O-Kagachi, Vengeful Kami     | 1WUBRG  | 6/6 fly   | Trample -- When deals combat damage to a player, if that players attacked u during his last turn, exile tgt non-land perm that players controls.                                                                               |
+| 1 | Thunder Dragon               | 5RR     | 5/5 fly   | When enters: deals 3 damage to each creatures w/o flying                                                                                                                                                                       |
+|   |                              |         |           |                                                                                                                                                                                                                                |
+|---+------------------------------+---------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | *To add immediately*         |         |           |                                                                                                                                                                                                                                |
 |   | Chromatic Lantern            |         |           |                                                                                                                                                                                                                                |
 | * | Swan Song                    | U       | inst      | Counter tgt non creature spell.  Its controller gets a 2/2 bird token w/ flying.                                                                                                                                               |
@@ -129,7 +143,6 @@ Archidekt version: v0.1
 |   | Heroic Intervention          |         |           |                                                                                                                                                                                                                                |
 |   | Terror of Mount Velus        | 5RR     | 5/5 fly   | Double strike -- When enters: creatures u control gain double strike until eot                                                                                                                                                 |
 |   | Lurking Predators            | 4GG     | ench      | When an opp cast a spell, reveal top of lib, if it's a creature, put it into play otherwise you may put it at bottom of lib                                                                                                    |
-|   | Terror of the Peaks          | 3RR     | 5/4 fly   | Spells ur opps cast that tgt ~ cost an addition cost of 3 life to cast -- When another creat enters: ~ deals damage equal to its power to any tgt                                                                              |
 |   |                              |         |           |                                                                                                                                                                                                                                |
 | * | Breeding Pool                |         | land      | Forest, Island   -- Enters tapped unless u pay 2 life                                                                                                                                                                          |
 | * | Godless Shrine               |         | land      | Plains, Swamp    -- Enters tapped unless u pay 2 life                                                                                                                                                                          |
@@ -139,7 +152,6 @@ Archidekt version: v0.1
 |   |                              |         |           |                                                                                                                                                                                                                                |
 |   | *Early Removals*             |         |           |                                                                                                                                                                                                                                |
 |   | Migration Path               | 3G      | sorc      | Cycling 2 -- Search your lib for up to two basic lands, put them into play tapped                                                                                                                                              |
-|   | Casualties of War            | 2BBGG   | sorc      | Choose one or more -- Destroy tgt art OR Destroy tgt creat OR Destroy tgt ench OR Destroy tgt land OR Destroy tgt planeswalker                                                                                                 |
 | ? | Karrthus, Tyrant of Jund     | 4BRG    | 7/7 fly   | Haste -- When enters, gain control of all dragons untap all dragons -- Other dragons u control have haste                                                                                                                      |
 |   | Kilnmouth Dragon             | 5RR     | 5/5 fly   | Amplify 3 -- t: ~ deals damage equal to # of +1c on it to tgt any creature                                                                                                                                                     |
 |   | Eternal Dragon               | 5WW     | 5/5 fly   | Plainescycling 2 -- 3WW: Return ~ from u graveyard to hand, activate only during upkeep                                                                                                                                        |
@@ -158,7 +170,7 @@ Archidekt version: v0.1
 |   | Nurturing Peatland           |         | land      | t, pay 1 life: Add B or G -- 1, sacr it: Draw a card                                                                                                                                                                           |
 |   | Waterlogged Grove            |         | land      | t, pay 1 life: Add G or U -- 1, sacr it: Draw a card                                                                                                                                                                           |
 |   |                              |         |           |                                                                                                                                                                                                                                |
-|   |                              |         |           |                                                                                                                                                                                                                                |
+|   | Ramos, Dragon Engine         | 6       | 4/4 fly   | When u cast a spell, put a +1c on ramos for each of that spell color -- remove 5 +1c add WWUUBBRRGG to your mana pool                                                                                                          |
 
 Tokens:
 | 1/1 | R/G | Dragon w/ flying and devour 2 |
@@ -166,6 +178,38 @@ Tokens:
 | 5/5 | R   | Dragon w/ flying              |
 | 6/6 | R   | Dragon w/ flying              |
 
+
++ Karrthus, Tyrant of Jund
++ Ramos, Dragon Engine
+
++ Fires of Yavimaya
+- Lightning Greaves
+
+
+Version 0.2:
+------------
+Pre-testing: I ended up not adding more 'haste' effect; rather more 'draw-ish' spells as well as a few more refined removal/protection spells.
+
+v0.1 -> v0.2:
+-------------
+- Decimate
++ Casualties of War
+- Barrier Breach
++ Heroic Intervention
+- Momentous Fall
++ Defense of the Heart
+- Urban Evolution
++ Garruk's Uprising
+- Thunder Dragon
++ Amareth, the Lustrous
+- Thundermaw Hellkite
++ Leyline Tyrant
+- O-Kagachi, Vengeful Kami
++ Terror of the Peaks
+- Stormbreath Dragon
++ Swords to Plowshares
+- Crucible of Fire
++ Maelstrom Nexus
 
 Version 0.1:
 ------------
