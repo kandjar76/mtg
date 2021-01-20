@@ -1,19 +1,19 @@
-Xantcha, Sleeper Agent v0.4
-[sleeved v0.5]
+Xantcha, Sleeper Agent v0.6
+[sleeved v0.6]
 
-Last update: 10/24/2020
-Last tested: v0.4
+Last update: 01/20/2021
+Last tested: v0.5
 
 Archidekt: https://archidekt.com/decks/874997#Xantcha,_Sleeper_Agent
 Archidekt version: v0.5
 
-Discord/PlayEDH: Rated Mid
+Discord/PlayEDH: Rated Mid (v0.5)
 
 
 |    | *Commander 1*                           |           |           |                                                                                                                                                                                                                              |
 |  1 | Xantcha, Sleeper Agent                  | 1BR       | 5/5       | When enter: an opp gains control of ~ -- ~ can't attack its owner or one of his planeswalker -- 3: ~'s controller looses 2 life, and you draw a card -- any player may activate this ability                                 |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Ramp 12*                               |           |           |                                                                                                                                                                                                                              |
+|    | *Ramp 13*                               |           |           |                                                                                                                                                                                                                              |
 |  1 | Sol Ring                                | 1         | art       | t: add 2 to mana pool                                                                                                                                                                                                        |
 |  1 | Wayfarer's Bauble                       | 1         | art       | 2, t, sacr ~: search your lib for a basic land and put it into play tapped.                                                                                                                                                  |
 |  1 | Curse of Opulence                       | R         | curse     | Whenever ench player is attacked, create a colorless artifact name Gold which has: "Sacr it: add 1 mana any color", opp attacking does the same                                                                              |
@@ -21,14 +21,16 @@ Discord/PlayEDH: Rated Mid
 |  1 | Rakdos Signet                           | 2         | art       | 1, t: add BR to mana pool                                                                                                                                                                                                    |
 |  1 | Talisman of Indulgence                  | 2         | art       | t: add 1 -- t: add B or R, ~ deals 1 damage to you                                                                                                                                                                           |
 |  1 | Victory Chimes                          | 3         | art       | Untap ~ during each other player's untap step -- t: a player of ur choice add 1                                                                                                                                              |
+|  1 | Basalt Monolith                         | 3         | art       | Doesn't umtap during ur untap step -- t: add 3 -- 3: untap ~                                                                                                                                                                 |
 |  1 | Solemn Simulacrum                       | 4         | 2/2 art   | When enter: search basic land, into play tapped -- When leave: draw                                                                                                                                                          |
 |  1 | Thran Dynamo                            | 4         | art       | t: add 3                                                                                                                                                                                                                     |
 |  1 | Mana Geyser                             | 3RR       | sorc      | Add R for each tapped land your opps control.                                                                                                                                                                                |
 |  1 | Neheb, the Eternal                      | 3RR       | 4/6       | Afflict 3 (def player looses 3 life when blocked) -- At beg of post combat main, add R to mana pool for each life your opp have lost this turn.                                                                              |
 |  1 | Gilded Lotus                            | 5         | art       | t: add 3 mana of any one color to ur mana pool                                                                                                                                                                               |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Commander Synergy 4*                   |           |           |                                                                                                                                                                                                                              |
+|    | *Commander Synergy 5*                   |           |           |                                                                                                                                                                                                                              |
 |  1 | Thran Turbine                           | 1         | art       | During ur upkeep: add 2 to ur mana pool, cannot be used to cast spells.                                                                                                                                                      |
+|  1 | Rings of Brighthearth                   | 2         | art       | Whenever u activate an ability that isn't a mana ability, you may pay 2, if so, copy that ability, you may choose new target for this ability                                                                                |
 |  1 | Heartstone                              | 3         | art       | Activated ability of creat cost 1 less to activate (can't reduce to less than 1)                                                                                                                                             |
 |  1 | Braid of Fire                           | 1R        | ench      | Cumul Upkeep: add R to mana pool                                                                                                                                                                                             |
 |  1 | Exquisite Blood                         | 4B        | ench      | Whenever an opp loose life, u gain that much life.                                                                                                                                                                           |
@@ -50,13 +52,12 @@ Discord/PlayEDH: Rated Mid
 |    | *Control Enchantment 1*                 |           |           |                                                                                                                                                                                                                              |
 |  1 | Bloodchief Ascension                    | B         | ench      | If a opp lost 2+ life this turn put a counter on him. -- When 3+ opp loose 2 life and u gain two life for every card going to the graveyard                                                                                  |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Threat and Defense 6*                  |           |           |                                                                                                                                                                                                                              |
+|    | *Threat and Defense 5*                  |           |           |                                                                                                                                                                                                                              |
 |  1 | Bitterblossom                           | 1B        | ench      | Beg upk: loose 1 life and put a 1/1 faery rogue w/ flying into play                                                                                                                                                          |
 |  1 | Phyrexian Obliterator                   | BBBB      | 5/5       | Trample, when a source deals damage to ~, that source controller sacr that many permanent.                                                                                                                                   |
 |  1 | Leyline Tyrant                          | 2RR       | 4/4 fly   | You don't loose unspent red mana at end of phases/steps -- When dies, you may pay any amount of R; when u do, it deals that much damage to any target                                                                        |
 |  1 | Brash Taunter                           | 4R        | 1/1       | Indestructible, when deals damage, it deals that much damage to tgt opponent.  2R, t: ~ fight another tgt creature                                                                                                           |
 |  1 | Kazuul, Tyrant of the Cliffs            | 3RR       | 5/4       | Whenever a creat an opp attacks u: create a 3/3 red Ogre unless he pays 3                                                                                                                                                    |
-|  ? | Stormbreath Dragon                      | 3RR       | 4/4 fly   | Haste, pro white -- 5RR: Monstosity 3 -- When becomes monstrous: it deals damage to each opp equal to # cards in hand                                                                                                        |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Finishers 2*                           |           |           |                                                                                                                                                                                                                              |
 |  1 | Torment of Hailfire                     | xBB       | sorc      | Repeat X times: each opp looses 3 life unless that player sacr a non land perm or discard a card                                                                                                                             |
@@ -92,9 +93,8 @@ Discord/PlayEDH: Rated Mid
 |  1 | Night Incarnate                         | 4B        | 3/4       | Evoke: 3B -- Deathtouch -- When leave: all creats gets -3/-3 until eot                                                                                                                                                       |
 |  1 | Blasphemous Act                         | 8R        | sorc      | Cost 1 less for each creat in play -- Deals 13 damage to each creat                                                                                                                                                          |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Control creature 2*                    |           |           |                                                                                                                                                                                                                              |
+|    | *Control creature 1*                    |           |           |                                                                                                                                                                                                                              |
 |  1 | Harsh Mentor                            | 1R        | 2/2       | When an opp activates an ability of an art, creat or land that isn't mana ability, ~ deals 2 damage to that player                                                                                                           |
-|  1 | Gonti, Lord of Luxury                   | 2RR       | 2/3       | Deathtouch -- When enters: look at top 4 cards of tgt opp's lib, exile one, rest at bottom in random order.  U may cast the exiled card using mana any color.                                                                |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Control spell 3*                       |           |           |                                                                                                                                                                                                                              |
 |  1 | Rakdos Charm                            | BR        | inst      | Choose one: Exile all cards from tgt player graveyard OR Destroy tgt art OR Each creat deals 1 damage to its controller.                                                                                                     |
@@ -126,6 +126,10 @@ Discord/PlayEDH: Rated Mid
 | 11 | Mountain                                |           | bas land  |                                                                                                                                                                                                                              |
 | 11 | Swamp                                   |           | bas land  |                                                                                                                                                                                                                              |
 |----+-----------------------------------------+-----------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.5*                     |           |           |                                                                                                                                                                                                                              |
+|    | Gonti, Lord of Luxury                   | 2RR       | 2/3       | Deathtouch -- When enters: look at top 4 cards of tgt opp's lib, exile one, rest at bottom in random order.  U may cast the exiled card using mana any color.                                                                |
+|    | Stormbreath Dragon                      | 3RR       | 4/4 fly   | Haste, pro white -- 5RR: Monstosity 3 -- When becomes monstrous: it deals damage to each opp equal to # cards in hand                                                                                                        |
+|    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Removed from v0.4*                     |           |           |                                                                                                                                                                                                                              |
 |    | Deadly Rollick                          | 3B        | inst      | If you control ur commander, u may cast it w/o paying its CMC -- Exile tgt creature                                                                                                                                          |
 |    | Mizzium Mortars                         | 1R        | sorc      | Overload 3RRR -- Deals 4 damage to tgt creat u don't control                                                                                                                                                                 |
@@ -193,13 +197,29 @@ Discord/PlayEDH: Rated Mid
 |----+-----------------------------------------+-----------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Underworld Breach                       | 1R        | ench      | Each non-land card in ur graveyard gain escape; the escape cost is their mana cost + 3 cards from ur graveyard. -- Beg end step, sacr ~                                                                                      |
 |  1 | Ion Storm                               | 2R        | ench      | 1B: Remove +1c or charge counter from a perm u control, ~ deals 2 damage to any tgt                                                                                                                                          |
-
-
+|  + | Exsanguinate                            | xBB       | sorc      | Each opp loses X life, you gain life equal to the life lost this way                                                                                                                                                         |
+|  + | Burnished Hart                          | 3         | 2/2       | 3, sacr ~: search your lib for up to two basic land; put them into play tapped                                                                                                                                               |
+|    |                                         |           |           |                                                                                                                                                                                                                              |
 
 + Rakdos Carnarium
++ Arcane Signet
++ Exsanguinate
++ Dual Castermage
 
+
+v0.5 -> v0.6:
+-------------
 - Stormbreath Dragon
-+ ???
+- Gonti, Lord of Luxury
++ Basil Monolith
++ Rings of Brighthearth
+
+
+Version v0.5:
+-------------
+I finally got a change to play Gonti...
+On one side: he was able to get me a great spell: necropotence, yet, even 3 mana were too much to cast it.
+I don't think Gonti is worth having in this deck, the mana is too tight.
 
 v0.4 -> v0.5:
 -------------
