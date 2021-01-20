@@ -1,7 +1,16 @@
 Kadena, Slinking Sorcerer v1.3
 [sleeved: v1.3]
 
-|   | *Commander*                   |           |          |                                                                                                                                                                                                                                                        |
+Last update: 
+Last tested: v1.3
+
+Archidekt: https://archidekt.com/decks/1062327#Kadena,_Slinking_Sorcerer
+Archidekt version: v1.3
+
+Discord/PlayEDH: Rated Low (v1.3)
+
+
+|   | *Commander 1*                 |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Kadena, Slinking Sorcerer     | 1GBU      | 3/3      | First face-down creature u cast each turn cost 3 less -- When a face-down creat enters under u control: draw a card                                                                                                                                    |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 |   | *Planeswalker 2*              |           |          |                                                                                                                                                                                                                                                        |
@@ -182,12 +191,14 @@ Kadena, Slinking Sorcerer v1.3
 | 1 | Tribute Mage                  | 2U        | 2/2      | When ~ enters: you may search you lib for an art w/ CMC 2, put it into hand                                                                                                                                                                            |
 
 
+
 v1.3 -> v1.4: (in progress)
 -------------
 + Zendikar Resurgent
 - Guardian Project
 + Land upgrade?
 + More search?
++ Mischievous Quanar
 - ???
 
 v1.2 -> v1.3:
