@@ -1,5 +1,5 @@
-Xantcha, Sleeper Agent v0.6
-[sleeved v0.6]
+Xantcha, Sleeper Agent v0.7
+[sleeved v0.7]
 
 Last update: 01/20/2021
 Last tested: v0.5
@@ -13,7 +13,7 @@ Discord/PlayEDH: Rated Mid (v0.5)
 |    | *Commander 1*                           |           |           |                                                                                                                                                                                                                              |
 |  1 | Xantcha, Sleeper Agent                  | 1BR       | 5/5       | When enter: an opp gains control of ~ -- ~ can't attack its owner or one of his planeswalker -- 3: ~'s controller looses 2 life, and you draw a card -- any player may activate this ability                                 |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Ramp 13*                               |           |           |                                                                                                                                                                                                                              |
+|    | *Ramp 14*                               |           |           |                                                                                                                                                                                                                              |
 |  1 | Sol Ring                                | 1         | art       | t: add 2 to mana pool                                                                                                                                                                                                        |
 |  1 | Wayfarer's Bauble                       | 1         | art       | 2, t, sacr ~: search your lib for a basic land and put it into play tapped.                                                                                                                                                  |
 |  1 | Curse of Opulence                       | R         | curse     | Whenever ench player is attacked, create a colorless artifact name Gold which has: "Sacr it: add 1 mana any color", opp attacking does the same                                                                              |
@@ -22,6 +22,7 @@ Discord/PlayEDH: Rated Mid (v0.5)
 |  1 | Talisman of Indulgence                  | 2         | art       | t: add 1 -- t: add B or R, ~ deals 1 damage to you                                                                                                                                                                           |
 |  1 | Victory Chimes                          | 3         | art       | Untap ~ during each other player's untap step -- t: a player of ur choice add 1                                                                                                                                              |
 |  1 | Basalt Monolith                         | 3         | art       | Doesn't umtap during ur untap step -- t: add 3 -- 3: untap ~                                                                                                                                                                 |
+|  1 | Burnished Hart                          | 3         | 2/2       | 3, sacr ~: search your lib for up to two basic land; put them into play tapped                                                                                                                                               |
 |  1 | Solemn Simulacrum                       | 4         | 2/2 art   | When enter: search basic land, into play tapped -- When leave: draw                                                                                                                                                          |
 |  1 | Thran Dynamo                            | 4         | art       | t: add 3                                                                                                                                                                                                                     |
 |  1 | Mana Geyser                             | 3RR       | sorc      | Add R for each tapped land your opps control.                                                                                                                                                                                |
@@ -39,10 +40,8 @@ Discord/PlayEDH: Rated Mid (v0.5)
 |  1 | Phyrexian Arena                         | 1BB       | ench      | Beg upk: draw a card and loose 1 life                                                                                                                                                                                        |
 |  1 | Valakut Awakening // Valakut Stoneforge | 2R        | inst      | [MDFC] Put any number of cards from ur hand at bottom of lib, then draw that many + 1 // t: add R                                                                                                                            |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Hands Size Control 4*                  |           |           |                                                                                                                                                                                                                              |
+|    | *Hands Size Control 2*                  |           |           |                                                                                                                                                                                                                              |
 |  1 | Pain Magnification                      | 1BR       | ench      | Whenever an opp is dealt 3 or more damage by a single source, that player discards a card                                                                                                                                    |
-|  1 | Oppression                              | 1BB       | ench      | Whenever a player cast a spell, that player discards a card                                                                                                                                                                  |
-|  1 | Angrath, the Flame-Chained              | 3BR       | plwkr 4   | +1: Each opp discards a card and loses 2 life -- -3: Gain control of tgt creat until eot. it gains haste; sacr it at beg of next end step if its CMC is 3 or less -- Each opp loses life equal to # cards in their graveyard |
 |  1 | Painful Quandary                        | 3BB       | ench      | Whenever an opp cast a spell, that player looses 5 life unless he discards a card                                                                                                                                            |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Opp's life control 2*                  |           |           |                                                                                                                                                                                                                              |
@@ -59,9 +58,10 @@ Discord/PlayEDH: Rated Mid (v0.5)
 |  1 | Brash Taunter                           | 4R        | 1/1       | Indestructible, when deals damage, it deals that much damage to tgt opponent.  2R, t: ~ fight another tgt creature                                                                                                           |
 |  1 | Kazuul, Tyrant of the Cliffs            | 3RR       | 5/4       | Whenever a creat an opp attacks u: create a 3/3 red Ogre unless he pays 3                                                                                                                                                    |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
-|    | *Finishers 2*                           |           |           |                                                                                                                                                                                                                              |
+|    | *Finishers 3*                           |           |           |                                                                                                                                                                                                                              |
 |  1 | Torment of Hailfire                     | xBB       | sorc      | Repeat X times: each opp looses 3 life unless that player sacr a non land perm or discard a card                                                                                                                             |
 |  1 | Comet Storm                             | xRR       | inst      | Multikicker 1 -- Choose tgt creat or player for each time it was kicked + 1. Comet Storm deals X damage to each target                                                                                                       |
+|  1 | Exsanguinate                            | xBB       | sorc      | Each opp loses X life, you gain life equal to the life lost this way                                                                                                                                                         |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Xantcha's Protection 4*                |           |           |                                                                                                                                                                                                                              |
 |  1 | Voyager Staff                           | 1         | art       | 2, sacr ~: exile tgt creature, return it to play at eot.                                                                                                                                                                     |
@@ -126,6 +126,10 @@ Discord/PlayEDH: Rated Mid (v0.5)
 | 11 | Mountain                                |           | bas land  |                                                                                                                                                                                                                              |
 | 11 | Swamp                                   |           | bas land  |                                                                                                                                                                                                                              |
 |----+-----------------------------------------+-----------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.6*                     |           |           |                                                                                                                                                                                                                              |
+|    | Angrath, the Flame-Chained              | 3BR       | plwkr 4   | +1: Each opp discards a card and loses 2 life -- -3: Gain control of tgt creat until eot. it gains haste; sacr it at beg of next end step if its CMC is 3 or less -- Each opp loses life equal to # cards in their graveyard |
+|    | Oppression                              | 1BB       | ench      | Whenever a player cast a spell, that player discards a card                                                                                                                                                                  |
+|    |                                         |           |           |                                                                                                                                                                                                                              |
 |    | *Removed from v0.5*                     |           |           |                                                                                                                                                                                                                              |
 |    | Gonti, Lord of Luxury                   | 2RR       | 2/3       | Deathtouch -- When enters: look at top 4 cards of tgt opp's lib, exile one, rest at bottom in random order.  U may cast the exiled card using mana any color.                                                                |
 |    | Stormbreath Dragon                      | 3RR       | 4/4 fly   | Haste, pro white -- 5RR: Monstosity 3 -- When becomes monstrous: it deals damage to each opp equal to # cards in hand                                                                                                        |
@@ -197,14 +201,19 @@ Discord/PlayEDH: Rated Mid (v0.5)
 |----+-----------------------------------------+-----------+-----------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  1 | Underworld Breach                       | 1R        | ench      | Each non-land card in ur graveyard gain escape; the escape cost is their mana cost + 3 cards from ur graveyard. -- Beg end step, sacr ~                                                                                      |
 |  1 | Ion Storm                               | 2R        | ench      | 1B: Remove +1c or charge counter from a perm u control, ~ deals 2 damage to any tgt                                                                                                                                          |
-|  + | Exsanguinate                            | xBB       | sorc      | Each opp loses X life, you gain life equal to the life lost this way                                                                                                                                                         |
-|  + | Burnished Hart                          | 3         | 2/2       | 3, sacr ~: search your lib for up to two basic land; put them into play tapped                                                                                                                                               |
 |    |                                         |           |           |                                                                                                                                                                                                                              |
 
 + Rakdos Carnarium
 + Arcane Signet
-+ Exsanguinate
 + Dual Castermage
+
+
+v0.6 -> v0.7:
+-------------
+- Oppression
+- Angrath, the Flame-Chained
++ Exsanguinate
++ Burnished Hart
 
 
 v0.5 -> v0.6:
