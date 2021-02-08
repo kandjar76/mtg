@@ -1,8 +1,8 @@
-Saheeli The Gifted v0.4:
-[sleeved v0.4]
+Saheeli The Gifted v0.5:
+[sleeved v0.5]
 
-Last update: 01/25/21
-Last tested: v0.3
+Last update: 02/08/21
+Last tested: v0.4
 
 Archidekt: https://archidekt.com/decks/1096410#Saheeli,_The_Annilator
 Archidekt version: v0.4
@@ -16,16 +16,16 @@ Discord/PlayEDH: Rated Mid (v0.4)
 |  1 | Saheeli, Sublime Artificer              | 1{ur}x2         | plwkr 5   | Whenever u cast a non creat spell, put a 1/1 servo art -- -2: tgt art u control becomes a copy of tgt creat or art u control untli eot, it's an artifact                                                                   |
 |  1 | Saheeli Rai                             | 1UR             | plwkr 3   | +1: Scry 1, ~ deals 1 damage to each opp. -- -2: Create a copy w/ haste of tgt creat or art, it gains art type, exile it a eot -- -7: Search lib for up to 3 art w/ diff name, put them into play                          |
 |  1 | Tezzeret the Seeker                     | 3UU             | plwkr 4   | +1: Untap 2 tgt artifact -- -X: Search lib for an art w/ CMC X or less and put into play -- -5: Artifacts u control become 5/5 creatures until eot                                                                         |
-|  1 | Ugin, the Spirit Dragon                 | 8               | plnwkr    | +2: ~ deals 3 damage to any tgt. -- -X: Exile each colored perm w/ CMC X or less -- -10: You gain 7 life, draw 7, then put 7 perm from ur hand to play                                                                     |
+|  1 | Ugin, the Spirit Dragon                 | 8               | plwkr 7   | +2: ~ deals 3 damage to any tgt. -- -X: Exile each colored perm w/ CMC X or less -- -10: You gain 7 life, draw 7, then put 7 perm from ur hand to play                                                                     |
 |    |                                         |                 |           |                                                                                                                                                                                                                            |
 |    | *Ramping 11*                            |                 |           |                                                                                                                                                                                                                            |
 |  1 | Mox Opal                                | 0               | art       | metalcraft: t: add 1 mana any color to mana pool                                                                                                                                                                           |
 |  1 | Wayfarer's Bauble                       | 1               | art       | 2, t, sacr it: search lib for a basic land, put it into pay tapped                                                                                                                                                         |
 |  1 | Everflowing Chalice                     | 0               | art       | Multikick 2 -- t: add X mana where X is # kicks                                                                                                                                                                            |
 |  1 | Sol Ring                                | 1               | art       | t: add 2 to mana pool                                                                                                                                                                                                      |
-|  1 | Prismatic Lens                          | 2               | art       | t: add 1 -- 1, t: add one mana any color                                                                                                                                                                                   |
 |  1 | Talisman of Creativity                  | 2               | art       | t: add 1 -- t: add U or R, ~ deals 1 damage to u                                                                                                                                                                           |
 |  1 | Izzet Signet                            | 2               | art       | 1, t: add UR to mana pool                                                                                                                                                                                                  |
+|  1 | Thought Vessel                          | 2               | art       | t: add 1 mana -- you have no maximum hand size                                                                                                                                                                             |
 |  1 | Inspiring Statuary                      | 3               | art       | Non art spells you cast have improvise (u can tap art to pay to 1).                                                                                                                                                        |
 |  1 | Skyclave Relic                          | 3               | art       | Kicker 3 - Indestructible -- t: add 1 mana any color -- When enters, if kicked: create 2 tapped copy of ~                                                                                                                  |
 |  1 | Thran Dynamo                            | 4               | art       | t: add 3 to mana pool                                                                                                                                                                                                      |
@@ -83,7 +83,7 @@ Discord/PlayEDH: Rated Mid (v0.4)
 |  1 | Cyclonic Rift                           | 1U              | inst      | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                                                              |
 |  1 | Mizzium Mortars                         | 1R              | sorc      | Overload 3RRR -- Deals 4 damage to tgt creat u don't control                                                                                                                                                               |
 |  1 | Chain Reaction                          | 2RR             | sorc      | Deals X damage to each creat where X is # of creats in play                                                                                                                                                                |
-|  1 | Magmaquake                              | xRR             | inst      | Deals X damage to each creat w/o flying and each planeswalkers                                                                                                                                                             |
+|  1 | Chandra's Ignition                      | 3RR             | sorc      | Tgt creature you control deals damage equal to its power to each other creature and each players                                                                                                                           |
 |  1 | All Is Dust                             | 7               | sorc      | Each player sacr all colored perms he or she controls                                                                                                                                                                      |
 |  1 | Blasphemous Act                         | 8R              | sorc      | Cost 1 less for each creat in play. Deals 13 damage to each creat                                                                                                                                                          |
 |    |                                         |                 |           |                                                                                                                                                                                                                            |
@@ -110,7 +110,7 @@ Discord/PlayEDH: Rated Mid (v0.4)
 |  1 | Great Furnace                           |                 | art land  | t: add R to mana pool                                                                                                                                                                                                      |
 |  1 | Seat of the Synod                       |                 | art land  | t: add U to mana pool                                                                                                                                                                                                      |
 |  1 | Phyrexia's Core                         |                 | land      | t: add 1 -- 1, sacr an art: gain 1 life                                                                                                                                                                                    |
-|  1 | Forge of Heroes                         |                 | land      | t: add 1 -- t: choose tgt commander than enters the battlefield this turn; put +1c if it's a creat or +1L if it's a planeswalker                                                                                           |
+|  1 | Reliquary Tower                         |                 | land      | t: add 1 mana -- you have no maximum hand size                                                                                                                                                                             |
 |  1 | Foundry of the Consuls                  |                 | land      | t: add 1 -- 5, t, sacr ~: creat two 1/1 thopter artifact tokens w/ flying                                                                                                                                                  |
 |  1 | Temple of the False God                 |                 | land      | t: add 2 (activate only if u control 5+ lands)                                                                                                                                                                             |
 | 11 | Mountain                                |                 | bas land  |                                                                                                                                                                                                                            |
@@ -125,6 +125,11 @@ Discord/PlayEDH: Rated Mid (v0.4)
 |    | Ugin, the Ineffable                     | 6               | plwkr 4   | Colorless spell cost 2 less to cast -- +1: Exile top of lib face down, look at it. Create a 2/2 colorless spirit. When that token leaves, return the exiled card to hand.  -- -3: Destroy tgt perm that one or more colors |
 |    |                                         |                 |           |                                                                                                                                                                                                                            |
 |----+-----------------------------------------+-----------------+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.4*                     |                 |           |                                                                                                                                                                                                                            |
+|    | Prismatic Lens                          | 2               | art       | t: add 1 -- 1, t: add one mana any color                                                                                                                                                                                   |
+|    | Magmaquake                              | xRR             | inst      | Deals X damage to each creat w/o flying and each planeswalkers                                                                                                                                                             |
+|    | Forge of Heroes                         |                 | land      | t: add 1 -- t: choose tgt commander than enters the battlefield this turn; put +1c if it's a creat or +1L if it's a planeswalker                                                                                           |
+|    |                                         |                 |           |                                                                                                                                                                                                                            |
 |    | *Removed from v0.3*                     |                 |           |                                                                                                                                                                                                                            |
 |    | Traveler's Amulet                       | 1               | art       | 1, sacr it: search for a bas land, put it into hand                                                                                                                                                                        |
 |    | Magnifying Glass                        | 3               | art       | t: add 1 -- 4, t: Investigate (Create a colorless art clue w/ "2, sacr it: draw a card")                                                                                                                                   |
@@ -159,6 +164,36 @@ Discord/PlayEDH: Rated Mid (v0.4)
 + ??? (draw? Thopter Spy Network?)
 + More draw engine
 + Tezzeret, Artifice Master
+
+
+v0.4 ->  v0.5:
+--------------
+- Magmaquake
++ Chandra's Ignition
+- Forge of Heroes
++ Reliquary Tower
+- Prismatic Lens
++ Thought Vessel
+
+
+Version v0.4:
+-------------
+The deck need more finishing move.
+It can drag in some cases....
+Dual caster mage can go infinite with cards already in the deck:
+ - Dualcaster Mage + Rites of Replication
+ - Dualcaster Mage + Saheeli's Artistry
+Brudiclad may be worth considering? For its haste component...
+
+Another consideration: Chandra's Ignition, a way to clear the board or close the game.
+ - Chandra's Ignition + Blightsteel Colossus
+
+
+
+Also, as expected: Niv-Mizzet is too hard to cast....
+Last two games, I had it in my hand and didn't cast (or wasn't able to) due to his color demanding mana cost.
+Maybe another Niv-Mizzet would be better?
+
 
 
 v0.3 -> v0.4:
