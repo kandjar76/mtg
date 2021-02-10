@@ -2,12 +2,12 @@ Arcades, the Strategist v0.8
 [sleeved v0.8]
 
 Last update: 05/30/2020
-Last tested: v0.5
+Last tested: v0.8
 
 Archidekt: https://archidekt.com/decks/946092#Arcades,_the_Strategist
 Archidekt version: v0.8
 
-Discord/PlayEDH: Rated Low
+Discord/PlayEDH: Rated Low (v0.8)
 
 
 |    | *Commander 1*                 |            |             |                                                                                                                                                                                 |
@@ -220,6 +220,13 @@ To add:
 - Fell the Mighty???
 + Wild Pair
 + Marble Titan
+
+Version 0.8:
+------------
+The game I played started really bad.. after having my hand wheeled and drew just lands....
+Later on, I was able to bounce back.  
+I felt that the deck would benefits from a bit more target removal, on the other hand, the protection spell were really good.
+You really want to stay low in the mana curve, so that you can deploy and defend at the same time.
 
 
 v0.7 -> v0.8:
