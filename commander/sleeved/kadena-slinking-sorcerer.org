@@ -1,7 +1,7 @@
-Kadena, Slinking Sorcerer v1.3
-[sleeved: v1.3]
+Kadena, Slinking Sorcerer v1.4
+[sleeved: v1.4]
 
-Last update: 
+Last update: 02/12/21
 Last tested: v1.3
 
 Archidekt: https://archidekt.com/decks/1062327#Kadena,_Slinking_Sorcerer
@@ -44,11 +44,10 @@ Discord/PlayEDH: Rated Low (v1.3)
 | 1 | Voidmage Apprentice           | 1U        | 1/1      | Morph 2UU -- When turned face up: counter tgt spell                                                                                                                                                                                                    |
 | 1 | Chromeshell Crab              | 4U        | 3/3      | Morph 4U -- When turned face up: you may exchange control of tgt creat u control, and tgt creat an opp control                                                                                                                                         |
 | 1 | Deathmist Raptor              | 1GG       | 3/3      | Megamorph 4G -- Deathtouch -- When a perm u control is turned face up: u may return ~ from u graveyard to play face up or face down                                                                                                                    |
-| 1 | Hooded Hydra                  | xGG       | 0/0      | Morph 3GG -- When turned face up: put five +1c on it -- Enters w/ X +1c on it -- When dies: create a 1/1 snake for each +1c on it.                                                                                                                     |
-| 1 | Thelonite Hermit              | 3G        | 1/1      | Morph 3GG -- All sapro gets +1/+1 -- When turned face up: create four 1/1 green saproling token                                                                                                                                                        |
 | 1 | Skinthinner                   | 1B        | 2/1      | Morph 3BB -- When turned face up: destroy tgt non black creat, it can't be regen                                                                                                                                                                       |
 | 1 | Sagu Mauler                   | 4GU       | 6/6      | Morph 3GU -- Trample, Hexproof                                                                                                                                                                                                                         |
 | 1 | Kheru Spellsnatcher           | 3U        | 3/3      | Morph 4UU -- When turned face up: counter tgt spell, if countered: exile it, u may cast it w/o paying its mana cost.                                                                                                                                   |
+| 1 | Mischievous Quanar            | 4U        | 3/3      | Morph 1UU -- When turned face up: copy tgt inst or sorc.  You may choose new targets for the copy.  -- 3UU: turn ~ face down.                                                                                                                          |
 | 1 | Thousand Winds                | 4UU       | 5/6 fly  | Morph 5UU -- When turned face up: return all other tapped creats to their owner's hands                                                                                                                                                                |
 | 1 | Brine Elemental               | 4UU       | 5/4      | Morph 5UU -- When turned face up: opps skip their next untap steps                                                                                                                                                                                     |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
@@ -83,6 +82,7 @@ Discord/PlayEDH: Rated Low (v1.3)
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 |   | *Additional Helpers 4*        |           |          |                                                                                                                                                                                                                                                        |
 | 1 | Strionic Resonator            | 2         | art      | 2, t: copy tgt triggered ability u control, u may choose a new tgt for the copy                                                                                                                                                                        |
+| 1 | Jolrael, Mwonvuli Recluse     | 1G        | 1/2      | Whenever u draw ur second card each turn, create a 2/2 green Cat token -- 4GG: Until eot, creatures u control have base power/toughness X/X where X is # cards in your hand.                                                                           |
 | 1 | Sudden Substitution           | 2UU       | inst     | Split second -- Exchange control of tgt non creature spell and tgt creat, then the spell's controller may choose new tgts for it                                                                                                                       |
 | 1 | Road of Return                | GG        | sorc     | Entwine 2 -- Choose one: return tgt perm from ur graveyard to hand OR put your commander into your hand from ur command zone.                                                                                                                          |
 | 1 | Crystal Shard                 | 3         | art      | 3, t or U, t: Return tgt creat to its owner's hand unless its controller pay 1                                                                                                                                                                         |
@@ -125,6 +125,10 @@ Discord/PlayEDH: Rated Low (v1.3)
 | 6 | Forest                        |           | bas land |                                                                                                                                                                                                                                                        |
 |   |                               |           |          |                                                                                                                                                                                                                                                        |
 |---+-------------------------------+-----------+----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v1.3*           |           |          |                                                                                                                                                                                                                                                        |
+|   | Hooded Hydra                  | xGG       | 0/0      | Morph 3GG -- When turned face up: put five +1c on it -- Enters w/ X +1c on it -- When dies: create a 1/1 snake for each +1c on it.                                                                                                                     |
+|   | Thelonite Hermit              | 3G        | 1/1      | Morph 3GG -- All sapro gets +1/+1 -- When turned face up: create four 1/1 green saproling token                                                                                                                                                        |
+|   |                               |           |          |                                                                                                                                                                                                                                                        |
 |   | *Removed from v1.2*           |           |          |                                                                                                                                                                                                                                                        |
 |   | Terramorphic Expanse          |           | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                                                                                        |
 |   | Reliquary Tower               |           | land     | t: add 1 -- You have no max hand size                                                                                                                                                                                                                  |
@@ -192,14 +196,19 @@ Discord/PlayEDH: Rated Low (v1.3)
 
 
 
-v1.3 -> v1.4: (in progress)
--------------
 + Zendikar Resurgent
 - Guardian Project
 + Land upgrade?
 + More search?
+
+
+v1.3 -> v1.4:
+-------------
 + Mischievous Quanar
-- ???
++ Jolrael, Mwonvuli Recluse
+- Thelonite Hermit
+- Hooded Hydra
+
 
 v1.2 -> v1.3:
 -------------
