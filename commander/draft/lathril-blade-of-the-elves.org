@@ -1,0 +1,111 @@
+Lathril, Blade of the Elves v0.1
+[sleeved v0.1]
+
+Last update: 03/06/2021
+Last tested: v0.1
+
+Archidekt: 
+Archidekt version: v
+
+Discord/PlayEDH: Rated N.A (v)
+
+
+|    | *Commander 1*               |       |          |                                                                                                                                                                      |
+|  1 | Lathril, Blade of the Elves | 2BG   | 2/3      | Menace -- When ~ deals combat to a player, create that many 1/1 green Elf warrior token -- t, tap 10 other elves u control: each opp loses 10 life, you gain 10 life |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Ramp 9*                    |       |          |                                                                                                                                                                      |
+|  1 | Sol Ring                    | 1     | art      | t: Add 2                                                                                                                                                             |
+|  1 | Elvish Mystic               | G     | 1/1      | t: Add G                                                                                                                                                             |
+|  1 | Arcane Signet               | 2     | art      | t: Add one mana of any color in ur commander's color identity                                                                                                        |
+|  1 | Springbloom                 | 2G    | 1/1      | When enters, u may sacr a land, if u do: search lib for 2 basic land; put them into play tapped                                                                      |
+|  1 | Wood Elves                  | 2G    | 1/1      | When enters: search a Forest and put that card into play.                                                                                                            |
+|  1 | Farhaven Elf                | 2G    | 1/1      | When enters; search basic land and put it into play tapped.                                                                                                          |
+|  1 | Marwyn, the Nurturer        | 2G    | 1/1      | Whenever another Elf enters, put a +1c on ~ -- t: add an amount of G equal to ~'s power                                                                              |
+|  1 | Llanowar Tribe              | GGG   | 3/3      | t: add GGG                                                                                                                                                           |
+|  1 | Wirewood Channeler          | 3G    | 2/2      | t: Add X mana of any color where X is # elves on the battlefield                                                                                                     |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Elf Lord 4*                |       |          |                                                                                                                                                                      |
+|  1 | Imperious Perfect           | 2G    | 2/2      | Other Elves u conrtol gets +1/+1 -- G, t: create a 1/1 green Elf warrior token                                                                                       |
+|  1 | Elvish Archdruid            | 1GG   | 2/2      | Other Elves u control gets +1/+1 -- t: add G for each Elf u control                                                                                                  |
+|  1 | Canopy Tactician            | 3G    | 3/3      | Other Elves u control gets +1/+1 -- t: add GGG                                                                                                                       |
+|  1 | Dwynen, Gilt-Leaf Daen      | 2GG   | 3/4      | Reach - Other Elves u control gets +1/+1 -- When attacks, gain 1 life for each attacking Elf u control                                                               |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Elves 18*                  |       |          |                                                                                                                                                                      |
+|  1 | Miara, Thorn of the Glade   | 1B    | 1/2      | When ~ or another Elf u control dies, you may pay 1 and 1 life; if u do: draw a card                                                                                 |
+|  1 | Rhys the Exiled             | 2G    | 3/2      | When attacks: u gain 1 life to each Elf u control -- B, sacr an elf: Regen ~                                                                                         |
+|  1 | Elderfang Ritualist         | 2B    | 3/1      | When dies: return another tgt Elf card from ur graveyard to hand                                                                                                     |
+|  1 | Lys Alana Scarblade         | 2B    | 1/1      | t, discard an Elf: target creature gets -X/-X where X is # of Elves u control                                                                                        |
+|  1 | Abomination of Llanowar     | 1BG   | */*      | Vig, Menace -- Power/Toughness equals to # elves u control + # elves in ur graveyard                                                                                 |
+|  1 | Harald, King of Skemfar     | 1BG   | 3/2      | Menace -- When enters: look top 5 cards of ur lib, u may reveal an Elf, Warrior, or Tyvar and put it into hand.  Rest at the bottom in random order                  |
+|  1 | Shaman of the Pack          | 1BG   | 3/2      | When enters: tgt opp loses life equal to # of Elves u control                                                                                                        |
+|  1 | Jagged-Scar Archers         | 1GG   | */*      | Pow/Tough equal to the # of elves u control -- t: ~ deals damage equal its power to tgt creat w/ flying                                                              |
+|  1 | Reclamation Sage            | 3G    | 2/1      | When enters: destroy tgt art or ench                                                                                                                                 |
+|  1 | Nullmage Shepherd           | 3G    | 2/4      | Tap 4 untapped creats u control: destroy tgt art or ench                                                                                                             |
+|  1 | Skemfar Shadowsage          | 3B    | 2/5      | When enters, choose one: Each opp loses X life OR gain X life, where X is greatest # of creats u control that share a type                                           |
+|  1 | Poison-Tip Archer           | 2BG   | 2/3      | Reach, Deathtouch --  When another creature dies, each opp loses a life                                                                                              |
+|  1 | Beast Whisperer             | 2GG   | 2/3      | When u cast a creature spell, draw a card                                                                                                                            |
+|  1 | Lys Alana Huntmaster        | 2GG   | 3/3      | When u cast an Elf spell; u may create a 1/1 green Elf Warrior token                                                                                                 |
+|  1 | Golgari Findbroker          | BBGG  | 3/4      | When enters: return tgt perm from your graveyard to your hand                                                                                                        |
+|  1 | Ruthless Winnower           | 3BB   | 4/4      | Beg of each player's upk, that player sacr a non-Elf creature                                                                                                        |
+|  1 | Voice of the Woods          | 3GG   | 2/2      | Tap five untapped Elves u control: Create a 7/7 green Elemental creature token w/ trample                                                                            |
+|  1 | Wolverine Riders            | 4GG   | 4/4      | Beg each upk: create a 1/1 green Elf warrior token -- When another Elf enters; gain life equal to its toughness                                                      |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Elves Synergy 9*           |       |          |                                                                                                                                                                      |
+|  1 | Roots of Wisdom             | 1G    | sorc     | Mill 3, then return a land or an Elf card from ur graveyard to hand; if u can't: draw a card                                                                         |
+|  1 | Prowess of the Fair         | 1B    | ench     | Tribal: Elf -- When another non token elf dies, u may create a 1/1 green elf warrior token                                                                           |
+|  1 | Bounty of Skemfar           | 2G    | sorc     | Reveal the top 6 cards of your lib; you may put a land from among them into play tapped and a Elf into hand; rest in bottom in random order                          |
+|  1 | Pact of the Serpent         | 1BB   | sorc     | Choose a creat type.  Target player draws X cards and loses X life where X is # of creature they control of the chosen type                                          |
+|  1 | Elvish Promenade            | 3G    | sorc     | Tribal: Elf -- Create a 1/1 green Elf warrior for each Elf u control                                                                                                 |
+|  1 | Elven Ambush                | 3G    | inst     | Create a 1/1 green Elf warrior for each Elf u control                                                                                                                |
+|  1 | Pride of the Perfect        | 3B    | ench     | Elves u control gets +2/0                                                                                                                                            |
+|  1 | Elderfang Venom             | 2BG   | ench     | Attacking elves u control have deathtouch -- Whenever an Elf u control dies, each opp loses 1 lifeand u gain 1 life                                                  |
+|  1 | Return Upon the Tide        | 4G    | sorc     | Foretell 3B -- Return tgt creat card from graveyard to play; if it's an elf create two 1/1 green Elf warrior token                                                   |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Draw Spells 1*             |       |          |                                                                                                                                                                      |
+|  1 | Moldervine Reclamation      | 3BG   | ench     | When another creature u control dies; gain 1 life and draw a card                                                                                                    |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Target removal 4*          |       |          |                                                                                                                                                                      |
+|  1 | Poison the Cup              | 1BB   | inst     | Foretell 1B -- Destroy tgt creature; if foretold: scry 2                                                                                                             |
+|  1 | Putrefy                     | 1BG   | inst     | Destroy tgt art or creature -- It can't be regenerated                                                                                                               |
+|  1 | Binding the Old Gods        | 2BG   | saga     | I: Destroy tgt non perm an opp controls -- II: Search lib for a Forest, put it into play tapped -- III: Creature u control gain deathtouch until eot                 |
+|  1 | Casualties of War           | 2BBGG | sorc     | Choose one or more: Destroy tgt art OR creature OR enchantment OR land OR planeswalker                                                                               |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Finisher 1*                |       |          |                                                                                                                                                                      |
+|  1 | End-Raze Forerunners        | 5GGG  | 7/7      | Vigilance, trample, haste -- When enters: other creats get +2/+2 and gain vig and trample until eot                                                                  |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Early Removed 16*          |       |          |                                                                                                                                                                      |
+|  ? | Serpent's Soul Jar          | 2B    | art      | When an Elf u control dies, exile it -- t, pay 2 life: until eot, u may cast an creature exiled by ~                                                                 |
+|  ? | Crown of Skemfar            | 2GG   | aura     | Enchanted creature gets +1/+1 for each Elf u control and has Reach -- 2G: return ~ from grave to hand                                                                |
+|  ? | Sylvan Messenger            | 3G    | 2/2      | Trample -- When enters: reveal top 4 card; put all Elf in hand; rest in the bottom in any order                                                                      |
+|  ? | Eyeblight Massacre          | 2BB   | sorc     | Non-Elf gets -2/-2 until eot                                                                                                                                         |
+|  ? | Ambition's Cost             | 3B    | sorc     | Draw 3 and u loses 3 life                                                                                                                                            |
+|  ? | Numa, Joraga Chieftain      | 2G    | 2/2      | Partner -- Beg of combat: you may pay XX, when u do: distribute X +1c among any number of tgt Elves                                                                  |
+|  ? | Elvish Rejuvenator          | 2G    | 1/1      | When enters, look at top 5 card of lib; you may put a land from among them into play tapped, rest on the bottom in a random order                                    |
+|  ? | Eyeblight Cullers           | 4B    | 3/3      | When dies, create three 1/1 green Elf Warrior token then mill 3                                                                                                      |
+|  ? | Cultivator of Blades        | 3GG   | 1/1      | Fabricate 2 -- When attack u may have other attacking creatures gets +X/+X until eot where X is ~'s power                                                            |
+|  ? | Jaspera Sentinel            | G     | 1/2      | Reach -- t, tap an untapped creat u control: add 1 mana any color                                                                                                    |
+|  ? | Masked Admirers             | 2GG   | 3/2      | When enters: draw a card -- When u cast a creat spell, u may pay GG to return ~ from graveyard to hand                                                               |
+|  ? | Tergrid's Shadow            | 3BB   | inst     | Foretell 2BB -- Each player sacr 2 creatures                                                                                                                         |
+|  ? | Harvest Season              | 2G    | sorc     | Search for X basic lands, where X is # of tapped creats u control                                                                                                    |
+|  ? | Timberwatch Elf             | 2G    | 1/2      | t: Tgt creat gets +X/+X until eot where X is # of Elves on the battlefield                                                                                           |
+|  ? | Voice of Many               | 2GG   | 3/3      | When enters: draw a card for each opp who controls fewer creatures than u                                                                                            |
+|  ? | Twinblade Assassins         | 3BG   | 5/4      | Beg of ur endstep, if a creat died this turn; draw a card                                                                                                            |
+|    |                             |       |          |                                                                                                                                                                      |
+|    | *Lands 37*                  |       |          |                                                                                                                                                                      |
+|  1 | Command Tower               |       | land     | t: add one mana of any color in your commander's color identity                                                                                                      |
+|  1 | Path of Ancestry            |       | land     | Enters tapped -- t: add 1 mana of any color of your commander's identity; when spent to cast a creat that shares a creature type with ur commander, scry 1           |
+|  1 | Myriad Landscape            |       | land     | Enters tapped -- t: add 1 -- 2, t, sacr ~: search for two basic lands that share the same type; put them to play tapped                                              |
+|  1 | Skemfar Elderhall           |       | land     | Enters tapped -- t: add G -- 2BBG, t, sacr ~: up to 1 tgt creat u don't control gets -2/-2 until eot; create two 1/1 green Elf warrior token; only as sorcery        |
+| 16 | Forest                      |       | bas land |                                                                                                                                                                      |
+| 13 | Swamp                       |       | bas land |                                                                                                                                                                      |
+|  1 | Golgari Rot Farm            |       | land     | Enters tapped -- When enters: return a land u control to hand -- t: add BG                                                                                           |
+|  ? | Jungle Hollow               |       | land     | Enters tapped -- When enters gain 1 life -- t: add B or G                                                                                                            |
+|  ? | Foul Orchard                |       | land     | Enters tapped -- t: add B or G                                                                                                                                       |
+|  ? | Golgari Guildgate           |       | land     | Enters tapped -- t: add B or G                                                                                                                                       |
+
+
+Version 0.1:
+------------
+This is the "Elven Empire" Kaldheim precon deck.
+I played against other pre-condecks, the elf deck was strong but may be lacking interactions; it felt unsatisfying to play with.
+I'm going to try to update the deck a bit to see if it's more fun to play with.
