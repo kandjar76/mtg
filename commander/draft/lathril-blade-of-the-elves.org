@@ -159,8 +159,8 @@ Discord/PlayEDH: Rated N.A (v)
 
 v0.1 -> v0.2:
 -------------
-+ Arcane Signet
-- Seedborn Muse
++ Seedborn Muse
+- Arcane Signet
 + Toski, Bearer of Secrets
 - Roots of Wisdom
 + Ezuri, Renegade Leader
