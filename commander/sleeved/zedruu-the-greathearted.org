@@ -1,8 +1,8 @@
-Zedruu, the Greathearted v0.7
-[sleeved v0.7]
+Zedruu, the Greathearted v0.8
+[sleeved v0.8]
 
-Last update: 11/01/2020
-Last tested: v0.6
+Last update: 01/20/2021
+Last tested: v0.7
 
 Archidekt: https://archidekt.com/decks/671352#Zedruu_the_Greathearted
 Archidekt version: v0.7
@@ -52,7 +52,7 @@ Discord/PlayEDH: Rated Mid (v0.7)
 | 1 | Debt of Loyalty                            | 1WW        | inst         | Regenerate tgt creature - if it gets regenerated: gain control of it                                                                                                                                                                    |
 | 1 | Role Reversal                              | UUR        | sorc         | Exchange control of two tgt perms that share a perm type                                                                                                                                                                                |
 | 1 | Zealous Conscripts                         | 4R         | 3/3          | Haste -- When enters: gain control of tgt perm until eot.  Untap that perm, it gains haste until eot                                                                                                                                    |
-| 1 | Coercive Recruiter                         | 4R         | 4/3          | When ~ or another pirate enters, gain control of tgt creature until eot.  Untap that creat, it gains haste and becomes a Pirate in add of its other type                                                                                |
+| * | Coercive Recruiter                         | 4R         | 4/3          | When ~ or another pirate enters, gain control of tgt creature until eot.  Untap that creat, it gains haste and becomes a Pirate in add of its other type                                                                                |
 | 1 | Chromeshell Crab                           | 4U         | 3/3          | Morph 4U -- When turned face up: you may exchange control of tgt creat u control, and tgt creat an opp control                                                                                                                          |
 |   |                                            |            |              |                                                                                                                                                                                                                                         |
 |   | *Tokens makers 2*                          |            |              |                                                                                                                                                                                                                                         |
@@ -103,7 +103,8 @@ Discord/PlayEDH: Rated Mid (v0.7)
 |   |                                            |            |              |                                                                                                                                                                                                                                         |
 |   | *Lands 35*                                 |            |              |                                                                                                                                                                                                                                         |
 | 1 | Command Tower                              |            | land         | t: add one mana of any color in your commander's color identity                                                                                                                                                                         |
-| 1 | Mystic Monastery                           |            | land         | Enters tapped -- t: add U, W, or W                                                                                                                                                                                                      |
+| 1 | Mystic Monastery                           |            | land         | Enters tapped -- t: add U, R, or W                                                                                                                                                                                                      |
+| 1 | Raugrin Triome                             |            | land         | Island/Mountain/Plains -- Enters tapped -- t: add U, R or W                                                                                                                                                                             |
 | 1 | Marsh Flats                                |            | land         | t, pay 1 life, sacr it: Search lib for a Plains or a Swamp, put it on the battlefield                                                                                                                                                   |
 | 1 | Arid Mesa                                  |            | land         | t, pay 1 life, sacr it: Search lib for a Mountain or a Plains, put it on the battlefield                                                                                                                                                |
 | 1 | Sacred Foundry                             |            | land         | Mountain/Plains -- Enters tapped unless u pay 2 life -- t: add R or W                                                                                                                                                                   |
@@ -112,7 +113,6 @@ Discord/PlayEDH: Rated Mid (v0.7)
 | 1 | Temple of Enlightenment                    |            | land         | Enters tapped -- t: add U or W -- When enters: scry 1                                                                                                                                                                                   |
 | 1 | Temple of Epiphany                         |            | land         | Enters tapped -- t: add U or R -- When enters: scry 1                                                                                                                                                                                   |
 | 1 | Azorius Chancery                           |            | land         | Enters tapped -- When enters: return a land u control to owner's hand -- t: add WU                                                                                                                                                      |
-| 1 | Boros Garrison                             |            | land         | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                                                                                                 |
 | 1 | Mystic Gate                                |            | land         | t: add 1 -- {wu}, t: add WW or WU or UU                                                                                                                                                                                                 |
 | 1 | Cascade Bluffs                             |            | land         | t: add 1 -- {ur}, t: add UU or UR or RR                                                                                                                                                                                                 |
 | 1 | Rugged Prairie                             |            | land         | t: add 1 -- {rw}, t: add RR or RW or WW                                                                                                                                                                                                 |
@@ -131,6 +131,9 @@ Discord/PlayEDH: Rated Mid (v0.7)
 |   | Shifting Borders                           | 3U         | inst         | Exchange control of two tgt lands -- Splice on Arcane 3U                                                                                                                                                                                |
 |   | Cultural Exchange                          | 4UU        | sorc         | Choose any number of creatures tgt player control; choose the same number of creatures from another tgt players.  Those players exchange control of those creatures                                                                     |
 |---+--------------------------------------------+------------+--------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.7*                        |            |              |                                                                                                                                                                                                                                         |
+|   | Boros Garrison                             |            | land         | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                                                                                                 |
+|   |                                            |            |              |                                                                                                                                                                                                                                         |
 |   | *Removed from v0.6*                        |            |              |                                                                                                                                                                                                                                         |
 |   | Venser, the Sojourner                      | 3WU        | plwkr 3      | +2: exile perm u control, ret eot; -1 creats are unblockable; -8: each spell exiles perm                                                                                                                                                |
 |   | Snapcaster Mage                            | 1U         | 2/1          | Flash -- When enter, tgt card in your graveyard gain flashback for its normal cost.                                                                                                                                                     |
@@ -290,6 +293,7 @@ Discord/PlayEDH: Rated Mid (v0.7)
 |   | Darksteel Mutation                         | 1W         | aura         | Ench creat -- Enchanted creature is a 0/1 insect artifact creature; and it loses all other abilities, card type and creature types                                                                                                      |
 |   |                                            |            |              |                                                                                                                                                                                                                                         |
 |   | Hanna, Ship's Navigator                    | 1WU        | 1/2          | 1WU, t: Return tgt art or enchantment from your graveyard to hand                                                                                                                                                                       |
+|   | Walking Atlas                              | 2          | 1/1          | t: you may put a land from hand to play                                                                                                                                                                                                 |
 
 + Dockside Extorsionist
 + Middle the Mixture
@@ -297,6 +301,11 @@ Discord/PlayEDH: Rated Mid (v0.7)
 + Riverglide Pathway // Lavaglide Pathway
 + Needleverge Pathway // Pillarverge Pathway
 
+
+v0.7 -> v0.8:
+-------------
+- Boros Garrison
++ Raugrin Triome
 
 Version v0.7:
 -------------
@@ -312,8 +321,10 @@ I am concern of the high mana demanding of the deck.  To be tested!
 Still considering:
 - Sphere of Safety
 + Propaganda
-- a land
+- Kher Keep
 + Rainbow Vale
+- ???
++ Walking Atlas
 
 It got rated Mid level power with the comment: 
 "Could use more tutor and other way to win" -- Not sure about other way to win, aside from self-milling, but more tutor is something to consider.
