@@ -72,6 +72,7 @@
   "Count the number of cards in the current block, update the first line and return the count"
   (interactive)
   (let ((count 0)
+	(count-questions 0)
 	current-count-string
 	block-count-pos
 	block-count-val
@@ -116,6 +117,8 @@
 				   (and (string-equal current-count-string "+") 1)
 				   (and (string-equal current-count-string "?") 1)
 				   (string-to-number current-count-string))))
+	  (when (string-equal current-count-string "?")
+	    (setq count-questions (+ count-questions 1)))
 	  (forward-line))
 
 	(when (not (= block-count-val count))
@@ -139,7 +142,7 @@
 
     ;; Updating the title if needed:
     (when (called-interactively-p)
-      (progn (message "prev count = %s -- new count = %i" block-count-val count)
+      (progn (message "prev count = %s -- new count = %i -- questions count = %i" block-count-val count count-questions)
 	     (goto-char saved-init-pos)
 	     (if (> (line-number-at-pos) saved-init-line)
 		 (forward-line -1))
@@ -148,13 +151,14 @@
 	     (goto-char (point-at-bol))
 	     (forward-char saved-init-col))
 	)
-    count
+    (cons count count-questions)
     )
   )
 
 (defun mtg-update-all-blocks-count()
   (interactive)
   (let ((count 0)
+	(count-questions 0)
 	(saved-init-pos  (point))
 	(saved-init-line (line-number-at-pos))
 	(saved-init-col  (- (point) (point-at-bol))))
@@ -165,7 +169,9 @@
 	(forward-line))
       
       (while (looking-at mtg-regexp--title)
-	(setq count (+ count (mtg-update-block-count)))
+	(let ((counts (mtg-update-block-count)))
+	  (setq count (+ count (car counts)))
+	  (setq count-questions (+ count-questions (cdr counts))))
 	(while (and (not (eobp))
 		    (or (looking-at mtg-regexp--card)
 			(looking-at mtg-regexp--empty)))
@@ -178,6 +184,6 @@
 	(forward-line))
     (goto-char (point-at-bol))
     (forward-char saved-init-col)
-    (message "Deck card count: %i" count)
+    (message "Deck card count: %i (questions:%i)" count count-questions)
     )
   )
