@@ -1,13 +1,13 @@
-Lathril, Blade of the Elves v0.4
-[sleeved v0.4]
+Lathril, Blade of the Elves v0.5
+[sleeved v0.5]
 
-Last update: 05/04/2021
-Last tested: v0.3
+Last update: 05/12/2021
+Last tested: v0.5
 
 Archidekt:
 Archidekt version: v
 
-Discord/PlayEDH: Rated N.A (v)
+Discord/PlayEDH: Rated N.A (low)
 
 
 |    | *Commander 1*                           |       |          |                                                                                                                                                                                                                       |
@@ -56,7 +56,8 @@ Discord/PlayEDH: Rated N.A (v)
 |  1 | Door of Destinies                       | 4     | art      | When enters: choose a creature type -- When u cast a creat of the choosen type: put a charge counter on ~ -- Creatures of the choosen type get +1/+1 for each charge counter                                          |
 |  1 | Eldrazi Monument                        | 5     | art      | Creats u control gets +1/+1, fly and are indestructible -- beg upk: sacr a creat or this                                                                                                                              |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
-|    | *Untap Synergy 2*                       |       |          |                                                                                                                                                                                                                       |
+|    | *Untap Synergy 3*                       |       |          |                                                                                                                                                                                                                       |
+|  1 | Vitalize                                | G     | inst     | Untap each creature u control                                                                                                                                                                                         |
 |  1 | Quest for Renewal                       | 1G    | ench     | Whenever a creat u ctrl gets tapped: put a quest counter on ~ -- If 4+ quest counters: untap all creat during each other players untap step                                                                           |
 |  1 | Seedborn Muse                           | 3GG   | 2/4      | Untap each perm u control during each other player s untap step                                                                                                                                                       |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
@@ -80,9 +81,8 @@ Discord/PlayEDH: Rated N.A (v)
 |  1 | Heroic Intervention                     | 1G    | inst     | Permanents u control gains hexproof and indestructible until eot                                                                                                                                                      |
 |  1 | Golgari Charm                           | BG    | inst     | Choose one: Each creature gets -1/-1 OR Regen each creature u control OR Destroy tgt enchantment                                                                                                                      |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
-|    | *Aristocrat effect 4*                   |       |          |                                                                                                                                                                                                                       |
+|    | *Aristocrat effect 3*                   |       |          |                                                                                                                                                                                                                       |
 |  1 | Nadier's Nightblade                     | 2B    | 1/3      | When a token u control leaves, each opp looses 1 life and u gain 1 life                                                                                                                                               |
-|  1 | Nadler's Nightblade                     | 2B    | 1/3      | Whenever a token u control leaves the battlefield, each opp loses 1 life and u gain 1 life                                                                                                                            |
 |  1 | Poison-Tip Archer                       | 2BG   | 2/3      | Reach, Deathtouch -- When another creature dies, each opp loses a life                                                                                                                                                |
 |  1 | Elderfang Venom                         | 2BG   | ench     | Attacking elves u control have deathtouch -- Whenever an Elf u control dies, each opp loses 1 life and u gain 1 life                                                                                                  |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
@@ -113,10 +113,15 @@ Discord/PlayEDH: Rated N.A (v)
 |  1 | Gilt-Leaf Palace                        |       | land     | Enters tapped unless u reveal an Elf card from ur hand -- t: add B or G                                                                                                                                               |
 |  1 | Tainted Wood                            |       | land     | t: add 1 -- t: add B or G, activate only if u control a Swamp                                                                                                                                                         |
 |  1 | Bojuka Bog                              |       | land     | Enters tapped -- t: add B -- when enters: exile tgt player's graveyard                                                                                                                                                |
+|  1 | Oran-Rief, the Vastwood                 |       | land     | Enters tapped -- t: add G -- t: put a +1c on each green creat that enters the battlefield this turn                                                                                                                   |
 |  1 | Darkbore Pathway // Slitherbore Pathway |       | land     | [MDFC] t: add B // t: add G                                                                                                                                                                                           |
-| 15 | Forest                                  |       | bas land |                                                                                                                                                                                                                       |
+| 14 | Forest                                  |       | bas land |                                                                                                                                                                                                                       |
 | 10 | Swamp                                   |       | bas land |                                                                                                                                                                                                                       |
 |----+-----------------------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.4*                     |       |          |                                                                                                                                                                                                                       |
+|    | Nadler's Nightblade                     | 2B    | 1/3      | Whenever a token u control leaves the battlefield, each opp loses 1 life and u gain 1 life                                                                                                                            |
+|    | Forest                                  |       | bas land |                                                                                                                                                                                                                       |
+|    |                                         |       |          |                                                                                                                                                                                                                       |
 |    | *Removed from v0.3*                     |       |          |                                                                                                                                                                                                                       |
 |    | Jagged-Scar Archers                     | 1GG   | */*      | Pow/Tough equal to the # of elves u control -- t: ~ deals damage equal its power to tgt creat w/ flying                                                                                                               |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
@@ -168,13 +173,11 @@ Discord/PlayEDH: Rated N.A (v)
 |    | Skemfar Shadowsage                      | 3B    | 2/5      | When enters, choose one: Each opp loses X life OR gain X life, where X is greatest # of creats u control that share a type                                                                                            |
 |----+-----------------------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    | *To find and add*                       |       |          |                                                                                                                                                                                                                       |
-|  * | Oran-Rief, the Vastwood                 |       | land     | Enters tapped -- t: add G -- t: put a +1c on each green creat that enters the battlefield this turn                                                                                                                   |
 |  * | Abrupt Decay                            | BG    | inst     | Can't be countered -- Destroy tgt nonland permanent with CMC 3 or less                                                                                                                                                |
 |  * | Skemfar Avenger                         | 1B    | 3/1      | Whenever another nontoken Elf or Berseker dies, you draw a card and lose 1 life                                                                                                                                       |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
 |    | Haunting Voyage                         | 4BB   | sorc     | Foretell 5BB -- Choose a creature type, return up to 2 creature of the choosen type from graveyard to play, if foretold, return all creatures of the choosen type to play                                             |
-|    | Vitalize                                | G     | inst     | Untap each creature u control                                                                                                                                                                                         |
 |    |                                         |       |          |                                                                                                                                                                                                                       |
 |    | *Cards to consider*                     |       |          |                                                                                                                                                                                                                       |
 |    | Harmonize                               | 2GG   | sorc     | Draw 3 cards                                                                                                                                                                                                          |
@@ -188,11 +191,24 @@ Discord/PlayEDH: Rated N.A (v)
 |  * | Quirion Ranger                          | G     | 1/1      | Return a Forest u control to hand: untap target creature -- Only once a turn.                                                                                                                                         |
 
 
-+ Vitalize
 + Skemfar Avenger
 + Overgrown Tomb
 + Elvish Warmaster
 + Throne of the God-Pharaoh
++ Oran-Rief, the Vastwood
+
+
+Version v0.5:
+-------------
+I was play-testing this deck in mid first; but decided to go down in low.
+Despite having a win-con card (exsanguinate), I don't run any search spell
+
+
+v0.4 -> v0.5:
+-------------
+- Nadier's Nightblade (dup - oops)
++ Vitalize
+- Forest
 + Oran-Rief, the Vastwood
 
 
