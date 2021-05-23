@@ -2,7 +2,7 @@ Breena, the Demagogue v0.3
 [sleeved v0.3]
 
 Last update: 05/21/2021
-Last tested: v0.2
+Last tested: v0.3
 
 Archidekt: N/A
 Archidekt version: v0.0
@@ -182,6 +182,15 @@ Discord/PlayEDH: Not Rated
 + Hushbringer
 + Shinewend (Morningtide)
 + Nikara, Lair Scavenger
+
+
+Version 0.3:
+------------
+Played a couple of games; the deck is really fun, lots of draw, interaction. 
+Seems pretty good as it; hard to see what I would need to replace for now.
+Mangara and Keeper of the Accord turned out to be really really good!!!
+Keeper of the Accord gave me free creatures to attack an opp in order to draw a card from Breena's ability.
+
 
 
 v0.2 -> v0.3:
