@@ -1,0 +1,77 @@
+
+
+
+
++ Progenitor Mimic (6cmc clone which dup at beg of upkeep)
++ Faerie Artisan (somewhere in a folder)
++ Skyclave Relic (do I still have another copy?)
++ Bloodforged Battle-Axe !!! 
++ Supplent Form
++ Tempt with Reflections
++ Esika's Chariot
++ Bestial Menace
++ Body of Research
++ Oko, Thief of Crown
+
+Version v0.2:
+-------------
+More interaction is required:
+- Counter spell...
+- Maybe more kill spells?
+
+
+
+v0.1 -> v0.2:
+-------------
++ Fathom Mage
++ Parallel Lives
++ Mimic Vat
++ Cobra Trap
++ Cackling Counterpart
++ Resculpt
++ Junk Winder
++ Cultivate
++ Sakura-Tribe-Elder
++ Talisman of Curiosity
++ Spell Swindle
++ Sublime Epiphany
++ Amphin Mutineer
++ Heroic Intervention
++ Pest Infestation
++ Kiora Bests the Sea God
++ Koma, Cosmo Serpent
++ Scute Swarm
++ Tendershoot Dryad
++ Fable of Wolf and Owl
++ Mystic Reflection
++ Elder Gargaroth
++ Awakening Zone
++ Avenger of Zendikar
+
+- Trigon Predator
+- Zimone, Quandrix Prodigy
+- Incubation Druid
+- Terastodon
+- Spitting Image
+- Biomathematician
+- Nissa's Expedition
+- Sequence Engine
+- Primal Empathy
+- Forgotten Ancient
+- Spawning Kraken
+- Geometric Nexus
+- Desolation Twin
+- Ruxa, Patient Professor
+- Fractal Harness
+- Hornet Nest
+- Quandrix Cultivator
+- Biomass Mutation
+- Arashi, the Sky Asunder
+- Plaxcaster Frogling
+- Kaseto, Orochi Archmage
+- Myriad Landscape
+- Study Hall
+- Quandrix Campus
+
++ Littjara MirrorLake
+- Opal Palace
