@@ -1,7 +1,7 @@
-Lathril, Blade of the Elves v0.5
-[sleeved v0.5]
+Lathril, Blade of the Elves v0.6
+[sleeved v0.6]
 
-Last update: 05/12/2021
+Last update: 08/04/2021
 Last tested: v0.5
 
 Archidekt:
@@ -24,9 +24,9 @@ Discord/PlayEDH: Rated N.A (low)
 |  1 | Llanowar Elves                          | G     | 1/1      | t: Add G                                                                                                                                                                                                              |
 |  1 | Heritage Druid                          | G     | 1/1      | Tap three untapped Elves u control, add GGG                                                                                                                                                                           |
 |  1 | Priest of Titania                       | 1G    | 1/1      | t: Add G for each Elves on the battlefield.                                                                                                                                                                           |
+|  + | Devoted Druid                           | 1G    | 0/2      | t: Add G -- Put a -1/-1 counter on ~: Untap ~.                                                                                                                                                                        |
 |  1 | Arcane Signet                           | 2     | art      | t: Add one mana of any color in ur commander's color identity                                                                                                                                                         |
-|  1 | Springbloom                             | 2G    | 1/1      | When enters, u may sacr a land, if u do: search lib for 2 basic land; put them into play tapped                                                                                                                       |
-|  1 | Wood Elves                              | 2G    | 1/1      | When enters: search a Forest and put that card into play.                                                                                                                                                             |
+|  1 | Springbloom Duid                        | 2G    | 1/1      | When enters, u may sacr a land, if u do: search lib for 2 basic land; put them into play tapped                                                                                                                       |
 |  1 | Elvish Harbinger                        | 2G    | 1/2      | When enters: u may search for an Elf and put it on top of lib -- t: add 1 mana any color                                                                                                                              |
 |  1 | Marwyn, the Nurturer                    | 2G    | 1/1      | Whenever another Elf enters, put a +1c on ~ -- t: add an amount of G equal to ~'s power                                                                                                                               |
 |  1 | Growing Rites of Itlimoc                | 2G    | leg ench | Look top 4, u may reveal a creat and put it into hand, rest at the bottom -- End step: if u have 4 or more creats, transform it // leg land: t: add G or t: add G for each creats u control                           |
@@ -118,6 +118,9 @@ Discord/PlayEDH: Rated N.A (low)
 | 14 | Forest                                  |       | bas land |                                                                                                                                                                                                                       |
 | 10 | Swamp                                   |       | bas land |                                                                                                                                                                                                                       |
 |----+-----------------------------------------+-------+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.5*                     |       |          |                                                                                                                                                                                                                       |
+|    | Wood Elves                              | 2G    | 1/1      | When enters: search a Forest and put that card into play.                                                                                                                                                             |
+|    |                                         |       |          |                                                                                                                                                                                                                       |
 |    | *Removed from v0.4*                     |       |          |                                                                                                                                                                                                                       |
 |    | Nadler's Nightblade                     | 2B    | 1/3      | Whenever a token u control leaves the battlefield, each opp loses 1 life and u gain 1 life                                                                                                                            |
 |    | Forest                                  |       | bas land |                                                                                                                                                                                                                       |
@@ -196,6 +199,12 @@ Discord/PlayEDH: Rated N.A (low)
 + Elvish Warmaster
 + Throne of the God-Pharaoh
 + Oran-Rief, the Vastwood
+
+
+v0.5 -> v0.6:
+-------------
+- Wood Elves
++ Devoted Druid
 
 
 Version v0.5:
