@@ -2,7 +2,7 @@ Marisi, Breaker of the Coil v0.3
 [sleeved v0.3]
 
 Last Update: 06/06/2020
-Last Tested: v0.1
+Last Tested: v0.4 (retired)
 
 
 |   | *Commander 1*               |           |          |                                                                                                                                                                                                                                  |
@@ -26,11 +26,11 @@ Last Tested: v0.1
 |   |                             |           |          |                                                                                                                                                                                                                                  |
 |   | *Draw power 8*              |           |          |                                                                                                                                                                                                                                  |
 | 1 | Hunter's Insight            | 2G        | inst     | Choose tgt creat u control; when it deals combat damage to a player or planeswalker this turn; draw that many cards                                                                                                              |
+| 1 | Toski, Bearer of Secrets    | 3G        | 1/1      | Can't be countered -- Indestructible -- Attack each turn if able -- When a creature u control deals damage to a player, draw a card                                                                                              |
 | 1 | Momentous Fall              | 2GG       | inst     | Add cost: sacr a creature -- Draw cards equal to the sac creat's power, gain life equal to its toughness                                                                                                                         |
 | 1 | Voice of Many               | 2GG       | 3/3      | When enters, draw a card for each opp who controls fewer creats than u                                                                                                                                                           |
 | 1 | Harmonize                   | 2GG       | sorc     | Draw 3 cards                                                                                                                                                                                                                     |
 | 1 | Nissa, Vital Force          | 3GG       | plwkr 5  | +1: Untap tgt land u control, it's a 5/5 elemental w/ haste until eot, it's still a land -- -3: Return tgt perm card from graveyard to hand -- -6: Emblem: "Landfall: u may draw a card"                                         |
-| 1 | Ohran Frostfang             | 3GG       | 2/6      | Attacking creats u control have deathtouch -- When a creat u control deals damage to a player, draw a card                                                                                                                       |
 | 1 | Garruk, Primal Hunter       | 2GGG      | plwkr 3  | +1: put a 3/3 beast -- -3: draw cards equal to biggest power amongs creat u control -- -6: put a 6/6 wurm for each land u control                                                                                                |
 | 1 | Ajani Unyielding            | 4GW       | plwkr 4  | +2: Reveal top 3 cards, put all non land to hand, rest in bottom -- -2: Exile tgt creat, its controller gain life eq to its power -- -9: Put five +1c on creats and 5 loy on each planeswalker u control                         |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
@@ -75,7 +75,7 @@ Last Tested: v0.1
 | 1 | Rest In Peace               | 1W        | ench     | When ~ enters: exile all graveyard -- When a card or token is put into a graveyard from anywhere, exile it instead                                                                                                               |
 | 1 | Mimic Vat                   | 3         | art      | Imprint: when a creat dies, u may imprint it -- 3, t: put a token of imprint creat                                                                                                                                               |
 | 1 | Unbreakable Formation       | 2W        | inst     | Creats u control gain indestructible until eot -- If cast during ur main phase: put a +1c on each of those creat, they gain vigilance until eot                                                                                  |
-| 1 | Purphoros, God of the Forge | 3R        | 6/5      | Devotion 5R -- Indestructible -- When a creat enters u control, ~ deals 2 damage to each opp. -- 2R: Creats u control gets +1/0 until eot                                                                                        |
+| 1 | Moraug, Fury of Akoum       | 4RR       | 6/6      | Each creat u control gets +1/0 for each time is has attacked this turn -- Landfall: if its your mainphase, there's an additional combat phase after it; at beg of combat: untap all creatures u control                          |
 | 1 | Aurelia, the Warleader      | 2RRWW     | 3/4 fly  | Vigilance, haste -- When ~ attacks for the first time each turn, untap all creats u control, after this phase, there's an additional combat phase                                                                                |
 |   |                             |           |          |                                                                                                                                                                                                                                  |
 |   | *Target removal 7*          |           |          |                                                                                                                                                                                                                                  |
@@ -117,6 +117,10 @@ Last Tested: v0.1
 | 5 | Mountain                    |           | bas land |                                                                                                                                                                                                                                  |
 | 5 | Plains                      |           | bas land |                                                                                                                                                                                                                                  |
 |---+-----------------------------+-----------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   | *Removed from v0.2*         |           |          |                                                                                                                                                                                                                                  |
+|   | Purphoros, God of the Forge | 3R        | 6/5      | Devotion 5R -- Indestructible -- When a creat enters u control, ~ deals 2 damage to each opp. -- 2R: Creats u control gets +1/0 until eot                                                                                        |
+|   | Ohran Frostfang             | 3GG       | 2/6      | Attacking creats u control have deathtouch -- When a creat u control deals damage to a player, draw a card                                                                                                                       |
+|   |                             |           |          |                                                                                                                                                                                                                                  |
 |   | *Removed from v0.1*         |           |          |                                                                                                                                                                                                                                  |
 |   | Aven Mindcensor             | 2W        | 2/1 fly  | Flash -- If an opp would search a lib -- That player searches the top 4 cards only                                                                                                                                               |
 |   | Hellrider                   | 2RR       | 3/3      | Haste -- Whenever a creat u control attack, ~ deals 1 damage to def player                                                                                                                                                       |
@@ -133,6 +137,20 @@ Last Tested: v0.1
 + Destiny Spinner
 Luminarch Ascension?
 
+
+11/07/21:
+--------
+After playing several different games with this deck, I came to realized I don't enjoy it.
+Today's game was awful as I was completely mana screwed (3 lands for almost the entirety of the game)
+I was bored the entire game; retiring this deck. 
+
+
+v0.3 -> v0.4:
+-------------
+- Purphoros, God of the Forge (already removed)
++ Moraug, Fury of Akoum
+- Ohran Frostfang
++ Toski, Bearer of Secrets
 
 v0.2 -> v0.3:
 -------------
