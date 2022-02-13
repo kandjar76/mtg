@@ -1,8 +1,8 @@
-Verazol, the Split Current v0.2
-[sleeved v0.2]
+Verazol, the Split Current v0.3
+[sleeved v0.3]
 
-Last Update: 
-Last Tested: v0.2
+Last Update: 02/13/22
+Last Tested: v0.25
 
 Archidekt: 
 Archidekt version: v0.0
@@ -33,10 +33,11 @@ Discord/PlayEDH: Rated N/A (v0.0)
 |    | *Planeswalker 1*                        |       |          |                                                                                                                                                                                                                            |
 |  1 | Oko, Thief of Crowns                    | 1GU   | plnwkr 4 | +2: Create a food token -- +1: tgt art or creat loses all ability and becomes a green Elk w/ base pow/toughness 3 -- -5: Exchange control of tgt art or creat u control and tgt creat an opp control w/ pow 3 or less      |
 |    |                                         |       |          |                                                                                                                                                                                                                            |
-|    | *Draw Spells 10*                        |       |          |                                                                                                                                                                                                                            |
+|    | *Draw Spells 11*                        |       |          |                                                                                                                                                                                                                            |
 |  1 | Skullclamp                              | 1     | eqp 1    | Equip creat gets +1/-1 -- When equip creat dies, draw 2                                                                                                                                                                    |
 |  1 | Field Research                          | 2U    | sorc     | Kicker 2U -- Draw 2 cards. If kicked: draw 3 instead                                                                                                                                                                       |
 |  1 | Jace, Mirror Mage                       | 1UU   | plnwkr 4 | Kicker 2 -- When kicked: create a non leg copy except its loyalty is 1 -- +1: Scry 2 -- 0: Draw and reveal it, remove X counters where X is the card's CMC                                                                 |
+|  + | Commander's Insight                     | xUUU  | inst     | Tgt player draws X cards + an add card for each time u cast a commander from the cmd zone                                                                                                                                  |
 |  1 | Citanul Woodreaders                     | 2G    | 1/4      | Kicker 2G -- When enters, if kicked: draw 2 cards                                                                                                                                                                          |
 |  1 | Toothy, Imaginary Friend                | 3U    | 1/1      | Partner with Pir, Imaginative Rascal -- When u draw: put a +1c on ~ -- When dies: draw a card for each +1c on ~                                                                                                            |
 |  1 | Inscription of Insight                  | 3U    | sorc     | Kicker 2UU -- Choose one, if kicked, choose any: Return up to two tgt creatures to hand OR scry 2 then draw 2 OR Tgt player creates an X/X where X is # cards in his hand                                                  |
@@ -79,10 +80,9 @@ Discord/PlayEDH: Rated N/A (v0.0)
 |    | *Recursion 1*                           |       |          |                                                                                                                                                                                                                            |
 |  1 | Bala Ged Recovery // Bala Ged Sanctuary | 2G    | sorc     | Return tgt card from your graveyard to hand // Enters tapped -- t: add G                                                                                                                                                   |
 |    |                                         |       |          |                                                                                                                                                                                                                            |
-|    | *+1c Synergy 3*                         |       |          |                                                                                                                                                                                                                            |
-|  1 | Hardened Scales                         | G     | ench     | Whenever N +1c is placed on creat u control, put N+1 counter on it instead                                                                                                                                                 |
+|    | *Deck Synergy 2*                        |       |          |                                                                                                                                                                                                                            |
 |  1 | Pir, Imaginative Rascal                 | 2G    | 1/1      | Partner with Toothy, Imaginary Friend -- If one or more counter would be put on a perm u control, put that many + 1 of each of those kind of counters                                                                      |
-|  1 | Forgotten Ancient                       | 3G    | 0/3      | Whenever a player plays a spell: put a +1c on him. -- Beg ur upk: you may move any # of counter onto other creatures                                                                                                       |
+|  + | Doubling Season                         | 4G    | ench     | If an effect would create one or more token under your control, it creates twice than many tokens instead.  If an effect would place one or more counters on a perm u control; it places twice than many instead           |
 |    |                                         |       |          |                                                                                                                                                                                                                            |
 |    | *Mass Target 3*                         |       |          |                                                                                                                                                                                                                            |
 |  1 | Cyclonic Rift                           | 1U    | inst     | Overload 6U -- Return tgt non land an opp control to its hand                                                                                                                                                              |
@@ -120,6 +120,10 @@ Discord/PlayEDH: Rated N/A (v0.0)
 | 10 | Island                                  |       | bas land |                                                                                                                                                                                                                            |
 | 10 | Forest                                  |       | bas land |                                                                                                                                                                                                                            |
 |----+-----------------------------------------+-------+----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.2*                     |       |          |                                                                                                                                                                                                                            |
+|    | Hardened Scales                         | G     | ench     | Whenever N +1c is placed on creat u control, put N+1 counter on it instead                                                                                                                                                 |
+|    | Forgotten Ancient                       | 3G    | 0/3      | Whenever a player plays a spell: put a +1c on him. -- Beg ur upk: you may move any # of counter onto other creatures                                                                                                       |
+|    |                                         |       |          |                                                                                                                                                                                                                            |
 |    | *Removed from v0.1*                     |       |          |                                                                                                                                                                                                                            |
 |    | Temur Sabertooth                        | 2GG   | 4/3      | 1G: u may return another creat u control to its owner's hand, if u do, ~ gain indestructible this turn                                                                                                                     |
 |    | Herald of Secret Streams                | 3U    | 2/3      | Creatures w/ +1c on it can't be blocked                                                                                                                                                                                    |
@@ -162,6 +166,14 @@ Tokens:
 2/2 Green Wolf
 2/2 Blue Drake
 0/0 Copy token
+
+
+v0.2 -> v0.3:
+-------------
+- Hardened Scales
++ Doubling Season
+- Forgotten Ancient
++ Commander's Insight
 
 
 v0.1 -> v0.2:
