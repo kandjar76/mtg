@@ -2,43 +2,43 @@ Feather the Redeemed v0.7
 [sleeved v0.7]
 
 |    | *Commander 1*              |         |          |                                                                                                                                                                                           |
-|    | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
+|  1 | Feather, the Redeemed      | RWW     | 3/4 fly  | Whenever u cast an inst or sorc that tgt a creat u control, exile that card instead of putting it into the graveyard as it resolve.  If you do, return it to hand at beg of next end step |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Mana Ramp 11*             |         |          |                                                                                                                                                                                           |
 |  1 | Sol Ring                   | 1       | art      | t: add 2 to mana pool                                                                                                                                                                     |
 |  1 | Expedition Map             | 1       | art      | 2, t, sacr it: search ur lib for a land card and put it in ur hand                                                                                                                        |
 |  1 | Wayfarer's Bauble          | 1       | art      | 2, t, sacr ~: search your lib for a basic land and put it into play tapped.                                                                                                               |
-|  1 | Curse of Opulence          | R       | aura     | Ench player -- Whenever ench player is attacked, create a colorless artifact name Gold which has: "Sacr it: add 1 mana any color", opp attacking does the same                            |
+|  - | Curse of Opulence          | R       | aura     | Ench player -- Whenever ench player is attacked, create a colorless artifact name Gold which has: "Sacr it: add 1 mana any color", opp attacking does the same                            |
 |  1 | Runaway Steam-Kin          | 1R      | 1/1      | Whenever u cast a red spell, there's less than 3 +1c on ~: put a +1c on ~. -- Remove 3 +1c from ~: add RRR                                                                                |
 |  1 | Boros Signet               | 2       | art      | 1, t: add RW to mana pool                                                                                                                                                                 |
 |  1 | Talisman of Conviction     | 2       | art      | t: add 1 -- t: add R or W, ~ deals 1 damage to u                                                                                                                                          |
-|  1 | Boros Keyrune              | 3       | art      | t: add R or W -- RW: ~ becomes a 1/1 red/white soldier w/ double strike                                                                                                                   |
-|  1 | Boros Locket               | 3       | art      | t: add R or W -- {rw}x4, t, sacr ~: draw 2 cards                                                                                                                                          |
+|  - | Boros Keyrune              | 3       | art      | t: add R or W -- RW: ~ becomes a 1/1 red/white soldier w/ double strike                                                                                                                   |
+|  - | Boros Locket               | 3       | art      | t: add R or W -- {rw}x4, t, sacr ~: draw 2 cards                                                                                                                                          |
 |  1 | Burnished Hart             | 3       | 2/2 art  | 3, sacr ~: search lib for 2 basic land, and put them into play tapped                                                                                                                     |
 |  1 | Smothering Tithe           | 3W      | ench     | Whenever a player draw a card, unless he pays 2, create a colorless treasure artifact with: "t, sacr it: add 1 mana of any color"                                                         |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Equipment 3*              |         |          |                                                                                                                                                                                           |
 |  1 | Sunforger                  | 3       | eqp 3    | Eqp creat gets +4/0 -- RW: Unattach ~ and search lib for inst or sorc w/ CMC 4 or less, and play it w/o paying its mana cost.                                                             |
-|  1 | Sword of Vengeance         | 3       | eqp 3    | Eqp creat gets +2/0 and has first strike, vigilance, trample and haste                                                                                                                    |
 |  1 | Livewire Lash              | 2       | eqp 2    | Equip creat gets "+2/+0 and 'whenever that creat becomes tgt of spell or ability, ~ deals 2 damage to tgt creat or player'"                                                               |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *General Helper 5*         |         |          |                                                                                                                                                                                           |
-|  1 | Gamble                     | R       | sorc     | Search lib for a card, put it in hand, then discard a card at random                                                                                                                      |
-|  1 | Mother of Runes            | W       | 1/1      | t: tgt creat gain protection against choosed color until eot                                                                                                                              |
+|  - | Gamble                     | R       | sorc     | Search lib for a card, put it in hand, then discard a card at random                                                                                                                      |
+|  - | Mother of Runes            | W       | 1/1      | t: tgt creat gain protection against choosed color until eot                                                                                                                              |
 |  1 | Stoneforge Mystic          | 1W      | 1/2      | When enters: search your lib for an equipment -- 1W, t: put an eqp from hand to play                                                                                                      |
+|  + | Veilstone Amulet           | 3       | art      | Whenever u play a spell, creatures you control gain hexproof until eot                                                                                                                    |
 |  1 | Balefire Liege             | 2{rw}x3 | 2/4      | Other red creats get +1/+1, other white creats get +1/+1c -- Whenever u cast a red spell: ~ deals 3 damage to tgt player -- Whenever u cast a white spell: gain 3 life                    |
-|  1 | Sun Titan                  | 4WW     | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                                      |
+|  - | Sun Titan                  | 4WW     | 6/6 vig  | When enters or when attacks: return tgt perm w/ CMC 3 or less from graveyard to play                                                                                                      |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell targets 12*         |         |          |                                                                                                                                                                                           |
-|  1 | Akroan Crusader            | R       | 1/1      | Heroic: When u cast a spell that tgt ~, put a 1/1 red soldier w/ haste into play                                                                                                          |
+|  - | Akroan Crusader            | R       | 1/1      | Heroic: When u cast a spell that tgt ~, put a 1/1 red soldier w/ haste into play                                                                                                          |
 |  1 | Young Pyromancer           | 1R      | 2/1      | Whenever u cast a inst or sorc spell, put a 1/1 red Elemental token into play                                                                                                             |
-|  1 | Phalanx Leader             | WW      | 1/1      | Heroic: when u cast a spell that tgt ~, put a +1c on each creat u control                                                                                                                 |
-|  1 | Tenth District Legionnaire | RW      | 2/2      | Haste -- Whenever u cast a spell that tgt ~: put a +1c on ~ and scry 1                                                                                                                    |
-|  1 | Vanguard of Brimaz         | WW      | 2/2      | Heroic: Whenever u cast a spell that tgt ~, put a 1/1 white cat soldier token into play                                                                                                   |
+|  - | Phalanx Leader             | WW      | 1/1      | Heroic: when u cast a spell that tgt ~, put a +1c on each creat u control                                                                                                                 |
+|  - | Tenth District Legionnaire | RW      | 2/2      | Haste -- Whenever u cast a spell that tgt ~: put a +1c on ~ and scry 1                                                                                                                    |
+|  - | Vanguard of Brimaz         | WW      | 2/2      | Heroic: Whenever u cast a spell that tgt ~, put a 1/1 white cat soldier token into play                                                                                                   |
 |  1 | Guttersnipe                | 2R      | 2/2      | Whenever u cast a inst or sorc spell, ~ deals 2 damage to each opp                                                                                                                        |
 |  1 | Spellgorger Weird          | 2R      | 2/2      | Whenever u cast a non creat spell, put a +1c on ~                                                                                                                                         |
 |  1 | Monastery Mentor           | 2W      | 2/2      | Prowess (when casting a non creat spell, this creat gets +1/+1 until eot) -- When u cast a non creat spell: put a 1/1 white Monk token w/ prowess into play                               |
-|  1 | Fabled Hero                | 1WW     | 2/2      | Double Strike -- Heroic: Whenever u cast a spell that tgt ~, put a +1c on ~                                                                                                               |
+|  - | Fabled Hero                | 1WW     | 2/2      | Double Strike -- Heroic: Whenever u cast a spell that tgt ~, put a +1c on ~                                                                                                               |
 |  1 | Zada, Hedron Grinder       | 3R      | 3/3      | Whenever u cast an inst or sorc that tgt ~, copy that spell for each creat u control that could be tgt by it; each copy tgt a diff one of these creats                                    |
 |  1 | Labyrinth Champion         | 3R      | 2/2      | Heroic: Whenever u cast a spell that tgt ~, ~ deals 2 damage to tgt any target                                                                                                            |
 |  1 | Mirrorwing Dragon          | 3RR     | 4/5 fly  | When a player cast a spell that tgt only ~, that player copy that spell for each other creat he control that can be tgt by it; each copy tgt a diff one of those creatures                |
@@ -65,7 +65,7 @@ Feather the Redeemed v0.7
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Spell: Aggro 6*           |         |          |                                                                                                                                                                                           |
 |  1 | Samut's Sprint             | R       | inst     | Tgt creat gets +2/+1 and haste until eot, scry 1                                                                                                                                          |
-|  1 | Launch the Fleet           | W       | sorc     | Strive (cost one more to cast for each tgt beyond the first one) -- Until eot, any # of tgt creat gain: "Whenever this creat attacks, put a 1/1 White Soldier token tapped and attacking" |
+|  - | Launch the Fleet           | W       | sorc     | Strive (cost one more to cast for each tgt beyond the first one) -- Until eot, any # of tgt creat gain: "Whenever this creat attacks, put a 1/1 White Soldier token tapped and attacking" |
 |  1 | Soul's Fire                | 2R      | inst     | Tgt creat u control deals damage equal to its power to tgt creat or player                                                                                                                |
 |  1 | Impact Resonance           | 1R      | inst     | ~ deals X damage divided as u choose amongst any # of tgt creats, where X is the greatest damage dealt by a source to a perm or player this turn                                          |
 |  1 | Rally the Righteous        | 1RW     | inst     | Radiance: untap tgt creat and each creat that share a color w/ it; those creats gets +2/+0 until eot                                                                                      |
@@ -84,7 +84,7 @@ Feather the Redeemed v0.7
 |  1 | Swords to Plowshares       | W       | inst     | Exile tgt creat, its controller gain life eqp to its power                                                                                                                                |
 |  1 | Path to Exile              | W       | inst     | Exile tgt creat, its controller may search for a bas land and put it into play tapped                                                                                                     |
 |  1 | Fell the Mighty            | 4W      | sorc     | Destroy all creats w/ pow greater than tgt creature's power                                                                                                                               |
-|  1 | Aurelia's Fury             | xRW     | inst     | ~ deals X divided as you choose amonst any # of tgt creats/player. Tap each creat dealt damage by ~. Player dealt damage by ~ can't cast non creat spell this turn                        |
+|  - | Aurelia's Fury             | xRW     | inst     | ~ deals X divided as you choose amonst any # of tgt creats/player. Tap each creat dealt damage by ~. Player dealt damage by ~ can't cast non creat spell this turn                        |
 |  1 | Hour of Revelation         | 3WWW    | sorc     | Cost 3 less if there's 10 or more perm on the battlefield -- Destroy all non land perm                                                                                                    |
 |  1 | Austere Command            | 4WW     | sorc     | Choose 2: destroy all art OR destroy all ench OR destrol all creat w/ CMC 3 or less OR destr all creat with CMC 4+                                                                        |
 |  1 | Blasphemous Act            | 8R      | sorc     | Cost 1 less for each creat in play -- Deals 13 damage to each creat                                                                                                                       |
@@ -93,9 +93,9 @@ Feather the Redeemed v0.7
 |  1 | Rest In Peace              | 1W      | ench     | Exile all graveyards -- If a card or token would be put in a graveyard from anywhere, exile it instead                                                                                    |
 |    |                            |         |          |                                                                                                                                                                                           |
 |    | *Lands 35*                 |         |          |                                                                                                                                                                                           |
-|  1 | Evolving Wilds             |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
-|  1 | Terramorphic Expanse       |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
-|  1 | Boros Guildgate            |         | land     | Enters tapped -- t: add R or W                                                                                                                                                            |
+|  - | Evolving Wilds             |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
+|  - | Terramorphic Expanse       |         | land     | t, sacr it: search for a basic land and put it into play tapped                                                                                                                           |
+|  - | Boros Guildgate            |         | land     | Enters tapped -- t: add R or W                                                                                                                                                            |
 |  1 | Boros Garrison             |         | land     | Enters tapped -- When enters return land u control to hand -- t: add RW                                                                                                                   |
 |  1 | Sacred Foundry             |         | land     | Enters tapped unless u pay 2 life -- t: add R or W                                                                                                                                        |
 |  1 | Clifftop Retreat           |         | land     | Enters tapped unless u control a plains or mountain -- t: add R or W                                                                                                                      |
@@ -106,6 +106,9 @@ Feather the Redeemed v0.7
 | 13 | Plains                     |         | bas land |                                                                                                                                                                                           |
 | 12 | Mountain                   |         | bas land |                                                                                                                                                                                           |
 |----+----------------------------+---------+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.7*        |         |          |                                                                                                                                                                                           |
+|    | Sword of Vengeance         | 3       | eqp 3    | Eqp creat gets +2/0 and has first strike, vigilance, trample and haste                                                                                                                    |
+|    |                            |         |          |                                                                                                                                                                                           |
 |    | *Removed from v0.6*        |         |          |                                                                                                                                                                                           |
 |    | Madblind Mountain          |         | land     | Mountain -- Enters tapped -- R, t: shuffle ur lib, play only if u control 2 red perm                                                                                                      |
 |    | Everflowing Chalice        | 0       | art      | Multikick 2 -- t`: add X mana where X is # kicks                                                                                                                                          |
@@ -192,6 +195,74 @@ Card to still add:
 + Favored Hoplite
 + Expedite ?
 - ??? Expedition Map
++ Fight as One
++ Grapeshot
++ Aetherflux Reservoir
++ Firebrand Archer
+
+Version v0.8:
+-------------
+The deck is very defensing and has a tendency to make you become the arch-enemy; the main issue is: it cannot close the game fast.
+So the whole game becomes a grind fest... :( Not very fun for anyone.
+
+
+v0.7 -> v0.8:
+-------------
++ Veilstone Amulet
+- Sword of Vengeance
+
++ Loyal Warhound
+- Vanguard of Brimaz
++ Thought Vessel
+- Boros Keyrune
++ Marble Diamond
+- Boros Locket
++ Gilded Lotus
+- Burnished Hart
++ Keeper of the Accord
+- Sun Titan
+
++ Showdown of the Skalds
+- Gamble
+
++ Electrostatic Field (*)
+- Spellgorget Weird 
++ Expedite (*)
+- Labyrinth Champion
++ Thermo-Alchemist
+- Curse of Opulence
+
++ Sundown Pass
+- Dwarven Mine
++ Needleverge Pathway // Pillarverge Pathway
+- Boros Guildgate
++ Command Tower
+- Evolving Wilds
++ Valakut Awakening
+- Terramorphic Expanse // Valakut Stoneforge
++ Sejiri Shelter // Sejiri Glacier
+- Plains
+
++ Birgi, God of Storytelling // Harnfel, Horn of Bounty
+- Akroan Crusader
++ Mavinda, Students' Advocate
+- Phalanx Leader
++ Smoldering Egg // Ashmouth Dragon
+- Tenth District Legionnaire
++ Semester's End
+- Launch the Fleet
+
++ Storm-Kiln Artist
+- Fabled Hero
++ Aurelia's Fury
+- Wear // Tear
++ Sudden Breakthrough
+- Mother of Runes
++ Blacksmith's Skill
+- Expedition Map
++ Mirrorwing Dragon
+- Generous Gift
+
 
 v0.6 -> v0.7:
 -------------
