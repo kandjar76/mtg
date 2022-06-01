@@ -1,19 +1,19 @@
-Esix, Fractal Bloom v0.2
-[sleeved v0.2]
+Esix, Fractal Bloom v0.5
+[sleeved v0.5]
 
-Last update: 08/04/2021
-Last tested: v0.1
+Last update: 05/29/2022
+Last tested: v0.4
 
 Archidekt:
 Archidekt version: v
 
-Discord/PlayEDH: Rated N.A (low)
+Discord/PlayEDH: Rated N.A (mid)
 
 
 |    | *Commander 1*                              |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Esix, Fractal Bloom                        | 4GU    | 4/4 fly   | The first time you would create one or more tokens during each of your turn; you may instead choose a creature other than ~ and create that many tokens that are copies of that creature                                                                                          |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
-|    | *Ramp 12*                                  |        |           |                                                                                                                                                                                                                                                                                   |
+|    | *Ramp 14*                                  |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Sol Ring                                   | 1      | art       | t: add 2                                                                                                                                                                                                                                                                          |
 |  1 | Arcane Signet                              | 2      | art       | t: Add one mana of any color in ur commander's color identity                                                                                                                                                                                                                     |
 |  1 | Thought Vessel                             | 2      | art       | t: add 1 mana -- you have no maximum hand size                                                                                                                                                                                                                                    |
@@ -21,20 +21,23 @@ Discord/PlayEDH: Rated N.A (low)
 |  1 | Rampant Growth                             | 1G     | sorc      | Search lib for a basic land, put it into play tapped.                                                                                                                                                                                                                             |
 |  1 | Wood Elves                                 | 2G     | 1/1       | When enters: search your lib for a Forest, put it into play                                                                                                                                                                                                                       |
 |  1 | Farhaven Elf                               | 2G     | 1/1       | When enters; search basic land and put it into play tapped.                                                                                                                                                                                                                       |
+|  + | Tireless Provisioner                       | 2G     | 3/2       | Landfall: create a Food or Treasure token                                                                                                                                                                                                                                         |
 |  1 | Cultivate                                  | 2G     | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                                                                                                     |
 |  1 | Kodama's Reach                             | 2G     | sorc      | Search lib for 2 bas land, put one into play tapped, the other one in ur hand                                                                                                                                                                                                     |
 |  1 | Migration Path                             | 3G     | sorc      | Cycling 2 -- Search your lib for up to two basic lands, put them into play tapped                                                                                                                                                                                                 |
 |  1 | Solemn Simulacrum                          | 4      | 2/2       | When enters: search basic land put into play tapped -- When leave: draw                                                                                                                                                                                                           |
 |  1 | Thran Dynamo                               | 4      | art       | t: add 3                                                                                                                                                                                                                                                                          |
+|  + | Garruk Wildspeaker                         | 2GG    | plwk 3    | +1: untap 2 land; -1: put a 3/3 tok; -4: creats u control gets +3/+3 and trample                                                                                                                                                                                                  |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
-|    | *Draw spells 8*                            |        |           |                                                                                                                                                                                                                                                                                   |
-|  1 | Idol of Oblivion                           | 2      | art       | t: Draw a card. Active only if you created a token this turn -- 8, t, sacr ~: Create a 10/10 colorless Eldrazi token                                                                                                                                                              |
-|  1 | Golden Ratio                               | 1GU    | sorc      | Draw a card for each diff power amongst creatures u control                                                                                                                                                                                                                       |
-|  1 | Fathom Mage                                | 2GU    | 1/1       | Evolve -- When a +1c is put on her, draw a card                                                                                                                                                                                                                                   |
+|    | *Draw spells 9*                            |        |           |                                                                                                                                                                                                                                                                                   |
+|  + | Windfall                                   | 2U     | sorc      | Each player discards his or her hand and draw cards equals to the greatest number of cards a player discarded this way                                                                                                                                                            |
+|  + | Commander's Insight                        | xUUU   | inst      | Tgt player draws X cards + an additional one for each time they've cast a commander from the command zone this game.                                                                                                                                                              |
+|  + | Voice of Many                              | 2GG    | 3/3       | When enters: draw a card for each opp who controls fewer creatures than u                                                                                                                                                                                                         |
 |  1 | Harmonize                                  | 2GG    | sorc      | Draw 3 cards                                                                                                                                                                                                                                                                      |
 |  1 | Eureka Moment                              | 2GU    | inst      | Draw 2 cards; you may put a land from hand to play.                                                                                                                                                                                                                               |
 |  1 | Fact or Fiction                            | 3U     | inst      | Reveal top 5 cards. An opp separates those in two piles. Put one pile in hand, the other in the graveyard                                                                                                                                                                         |
 |  1 | Mulldrifter                                | 4U     | 2/2 fly   | Evoke 2U -- When enters: draw 2 cards                                                                                                                                                                                                                                             |
+|  + | Mystic Confluence                          | 3UU    | inst      | Choose 3: counter tgt spell unless its controller pays 3 OR return tgt creat to owner's hand OR draw a card                                                                                                                                                                       |
 |  1 | Return of the Wildspeaker                  | 4G     | inst      | Choose one: Draw cards eq to the greatest power amongst non-Human creats u control OR Non-Humans creats get +3/+3 until eot                                                                                                                                                       |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
 |    | *Protection 4*                             |        |           |                                                                                                                                                                                                                                                                                   |
@@ -57,33 +60,30 @@ Discord/PlayEDH: Rated N.A (low)
 |  1 | Master of Waves                            | 3U     | 2/1       | Pro red -- Elemental you control get +1/+1 -- When enters: create X 1/0 blue Elemental token where X is your devotion in blue.                                                                                                                                                    |
 |  1 | Alrund's Epiphany                          | 5UU    | sorc      | Foretell 4UU -- Create two 1/1 blue Bird tokens w/ flying.  Take an extra turn after this one.  Exile ~                                                                                                                                                                           |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
-|    | *Copy Target 6*                            |        |           |                                                                                                                                                                                                                                                                                   |
+|    | *Copy Target 7*                            |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Timestream Navigator                       | 1U     | 1/1       | Ascend -- 2UU, t, put ~ at bottom of lib: gain an extra turn.  Activate only if you have City of Blessing.                                                                                                                                                                        |
+|  1 | Reclamation Sage                           | 2G     | 2/1       | When enters: you may destroy tgt art or enchantment                                                                                                                                                                                                                               |
 |  1 | Risen Reef                                 | 1GU    | 1/1       | When ~ or another elemental enters: look at top of your lib. If it's a land card, put it into play tapped, if not put it into your hand                                                                                                                                           |
 |  1 | Biovisionary                               | 1GU    | 2/3       | Beg of end step: if you control 4 or more creatures named Biovisionary, you win the game                                                                                                                                                                                          |
 |  1 | Eternal Witness                            | 1GG    | 2/1       | When enters: return tgt card from ur graveyard to hand                                                                                                                                                                                                                            |
 |  1 | Timeless Witness                           | 2GG    | 2/1       | Eternalize 5GG -- When enters: return target card from u graveyard to hand                                                                                                                                                                                                        |
-|  1 | Reclamation Sage                           | 2G     | 2/1       | When enters: you may destroy tgt art or enchantment                                                                                                                                                                                                                               |
+|  1 | Reservoir Kraken                           | 2UU    | 6/6       | Trample, ward 2 -- Beg of each combat, if ~ is untapped, any opp may tap an untapped creature they control; if they do: tap ~, and create a 1/1 blue Fish w/ "This creature can't be blocked"                                                                                     |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
 |    | *Sparse Token Makers 2*                    |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Retrofitter Foundry                        | 1      | art       | 3: Untap it -- 2, t: Create a 1/1 colorless Servo artifact token -- 1, sacr a Servo: Create a 1/1 colorless Thopter artifact token w/ fly -- t, sacrifice a Thopter: Create a 4/4 colorless Construct artifact token                                                              |
+|  + | Verdant Command                            | 1G     | inst      | Choose two: Tgt player creates two tapped 1/1 green Squirrel creature tokens OR Counter tgt loyalty ability of a planeswalker OR Exile tgt card from a graveyard OR Tgt player gains 3 life                                                                                       |
 |  1 | Wavesifter                                 | 3GU    | 3/2 fly   | Evoke GU -- When enters, investigate twice                                                                                                                                                                                                                                        |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
-|    | *Token Synergy 7*                          |        |           |                                                                                                                                                                                                                                                                                   |
-|  1 | Combine Chrysalis                          | UG     | art       | Creature Tokens you control have flying -- 2GU, t, sacr a token: Create a 4/4 green Beast.  Active only as sorcery.                                                                                                                                                               |
-|  1 | Glasspool Mimic // Glasspool Shore         | 2U     | 0/0       | [MDFC] You may have ~ enters as a copy of a creature you control, except its a Shapeshifter Rogue in addition of its other type // Enters tapped -- t: add U                                                                                                                      |
+|    | *Token Synergy 5*                          |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Mystic Reflection                          | 1U     | isnt      | Foretell U -- Choose a non legendary creature, the next time one or more creatures or planeswalkers would enters; they enters as copies of the choosen creature                                                                                                                   |
 |  1 | Adrix and Nev, Twincasters                 | 2GU    | 2/2       | Ward 2 -- If one or more token would be created under your control, twice that many of those tokens are created instead                                                                                                                                                           |
 |  1 | Parallel Lives                             | 3G     | ench      | If an effect would put one or more token on u side, put twice that many tokens instead                                                                                                                                                                                            |
 |  1 | Junk Winder                                | 5UU    | 5/6       | Affinity for tokens -- When a token enters: tap target nonland perm an opp control it doesn't untap during its controller next untap step                                                                                                                                         |
-|  ? | Theoritical Duplication                    | 2U     | inst      | Whenever a nontoken creature enters the battlefield under an opp's control this turn, create a token that's a copy of that creature.                                                                                                                                              |
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
-|    | *Target Removal / Counter 10*              |        |           |                                                                                                                                                                                                                                                                                   |
+|    | *Target Removal / Counter 8*               |        |           |                                                                                                                                                                                                                                                                                   |
 |  1 | Pongify                                    | U      | inst      | Destroy tgt creat. Its controller creates a 3/3 green Ape token.                                                                                                                                                                                                                  |
 |  1 | Rapid Hybridization                        | U      | inst      | Destroy tgt creat, its controller put a 3/3 green frog                                                                                                                                                                                                                            |
 |  1 | Pest Infestation                           | xxG    | sorc      | Destroy up to X target artifact and/or enchantment. Create twice X 1/1 black and green Pest w/ "When dies: u gain 1 life"                                                                                                                                                         |
-|  1 | Resculpt                                   | 1U     | inst      | Exile tgt art or creat.  Its controller create a 4/4 blue and red Elemental token.                                                                                                                                                                                                |
-|  1 | Krosan Grip                                | 2G     | inst      | Split second -- Destroy tgt art or ench                                                                                                                                                                                                                                           |
 |  1 | Saw it Coming                              | 1UU    | inst      | Foretell 1U -- Counter tgt spell                                                                                                                                                                                                                                                  |
 |  1 | Beast Within                               | 2G     | inst      | Destroy tgt perm. Its controller creates a 3/3 Beast creature token                                                                                                                                                                                                               |
 |  1 | Amphin Mutineer                            | 3U     | 3/3       | Encore: 4UU -- When enters, exile up to 1 tgt non-Salamander creature; that creat controller creates a 4/3 blue Salamander Warrior token                                                                                                                                          |
@@ -115,6 +115,20 @@ Discord/PlayEDH: Rated N.A (low)
 | 12 | Forest                                     |        | bas land  |                                                                                                                                                                                                                                                                                   |
 |  9 | Island                                     |        | bas land  |                                                                                                                                                                                                                                                                                   |
 |----+--------------------------------------------+--------+-----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | *Removed from v0.4*                        |        |           |                                                                                                                                                                                                                                                                                   |
+|    | Glasspool Mimic // Glasspool Shore         | 2U     | 0/0       | [MDFC] You may have ~ enters as a copy of a creature you control, except its a Shapeshifter Rogue in addition of its other type // Enters tapped -- t: add U                                                                                                                      |
+|    | Fathom Mage                                | 2GU    | 1/1       | Evolve -- When a +1c is put on her, draw a card                                                                                                                                                                                                                                   |
+|    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
+|    | *Removed from v0.3*                        |        |           |                                                                                                                                                                                                                                                                                   |
+|    | Idol of Oblivion                           | 2      | art       | t: Draw a card. Active only if you created a token this turn -- 8, t, sacr ~: Create a 10/10 colorless Eldrazi token                                                                                                                                                              |
+|    | Golden Ratio                               | 1GU    | sorc      | Draw a card for each diff power amongst creatures u control                                                                                                                                                                                                                       |
+|    | Resculpt                                   | 1U     | inst      | Exile tgt art or creat.  Its controller create a 4/4 blue and red Elemental token.                                                                                                                                                                                                |
+|    | Theoretical Duplication                    | 2U     | inst      | Whenever a nontoken creature enters the battlefield under an opp's control this turn, create a token that's a copy of that creature.                                                                                                                                              |
+|    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
+|    | *Removed from v0.2*                        |        |           |                                                                                                                                                                                                                                                                                   |
+|    | Combine Chrysalis                          | UG     | art       | Creature Tokens you control have flying -- 2GU, t, sacr a token: Create a 4/4 green Beast.  Active only as sorcery.                                                                                                                                                               |
+|    | Krosan Grip                                | 2G     | inst      | Split second -- Destroy tgt art or ench                                                                                                                                                                                                                                           |
+|    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
 |    | *Removed from v0.1*                        |        |           |                                                                                                                                                                                                                                                                                   |
 |    | Simic Signet                               | 2      | art       | 1, t: add GU to mana pool                                                                                                                                                                                                                                                         |
 |    | Talisman of Curiosity                      | 2      | art       | t: add 1 -- t: add G or U, ~ deals 1 damage to you                                                                                                                                                                                                                                |
@@ -138,13 +152,71 @@ Discord/PlayEDH: Rated N.A (low)
 |    |                                            |        |           |                                                                                                                                                                                                                                                                                   |
 
 + Crashing Drawbridge
-+ Kozilek's Predato
++ Kozilek's Predator
+
+
+v0.4 -> v0.5:
+-------------
+- Fathom Mage
++ Commander's Insight
+- Glasspool Mimic // Glasspool Shore
++ Verdant Command
+
+Version v0.4:
+-------------
+I was glad to draw: Mystic Confluence, and Voice of Many, allowing me to draw a bunch of cards.
+I also had Winfall, but didn't cast it as everyone was down to 2 or less cards in hand.
+-
+One card felt very underwhelming though... Fathom Mage.
+The deck doesn't really run a lot of high power creatures to make Fathom Mage consistent.
+
+
+v0.3 -> v0.4:
+-------------
+- Idol of Oblivion
++ Voice of Many
+- Resculpt
++ Garruk Wildspeaker
+- Theoretical Duplication
++ Mystic Confluence
+- Golden Ratio
++ Windfall
+
+Toward v0.4:
+------------
+I'm removing Idol of Oblivion as the deck cannot guaranteed the making of token every turn; rendering this card a lot less efficient.
+Regarding Resculpt, the deck runs a lot of removal already; this seems unnecesary.
+Theoritical Duplication is a fun card; this is not the right deck for it.
+And Golden Ratio is always more or less underwhelming; the deck wants to make copy of existing cards... This is against the philosophy behind Golden Ratio.
+
+
+Version v0.3:
+-------------
+I just sleeved Reservoir Kraken and had it in my opening hand the first game I played with this updated version.
+The card is "slow"-ish, but really fun; that said; I can totally it see this card winning the game.
+I like the card :-)
+-- 
+I would like to add more card draws still.
+
+
+v0.2 -> v0.3:
+-------------
++ Tireless Provisioner
+- Combine Chrysalis
++ Reservoir Kraken
+- Krosan Grip
 
 
 Version v0.2:
 -------------
 The deck has been a lot more fun to play with the update...
-An ealy Risen Rief which you start to copy, and the deck became insanely good.
+An early Risen Rief which you start to copy, and the deck became insanely good.
+
+Alrund's Epiphany won me the last two games I played:
+-> Played and copying Biovisionary with Alrund's two tokens; the following turn, made another token... End step: victory!
+-> Played it after playing Timestream Navigator, making two copy of the Navigator; with options to copy the Navigator on the
+following turn{s}; the game was over.
+
 
 v0.1 -> v0.2:
 -------------
