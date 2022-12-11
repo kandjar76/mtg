@@ -150,6 +150,15 @@ Discord/PlayEDH: Rated N.A (mid)
 + Stitch Together
 + Burglar Rat
 
+
+Post playtesting:
+-----------------
+I playtest Braids as well as an updated Yawgmoth.
+And I have to day: I enjoy Yawgmoth more -- I feel that the deck has more answers, more options...
+Granted: Attaching "Glithening Oil" to "Syr Konrad, the Grim" and almost kill everyone w/ infect was quite fun :-)
+I'm still going to retired this deck as it does conflict too much with Yawgmoth.
+
+
 Version v0.4:
 -------------
 I just realized that Bloodchief Ascension doesn't work very well with Braids.
